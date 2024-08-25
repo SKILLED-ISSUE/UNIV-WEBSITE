@@ -22,10 +22,10 @@
     </div>
 
     <div class="content-container">
-      <section class="prog-form pointers">
+      <section class="pointers">
         <h id="header">CONTENTS</h>
-        <a id="p1">Program Objectives</a>
-        <a id="p2">Areas Under Survey</a>
+        <a href="#c1">Program Objectives</a>
+        <a href="#c2">Areas Under Survey</a>
       </section>
 
       <div class="main-contents">
@@ -53,7 +53,7 @@
       </div>
     </div>
 
-    <section class="objectives-bg">
+    <section class="objectives-bg anchor-offset" id="c1">
       <section class="objectives-container">
         <section class="objectives-header">
           <h id="header">PROGRAM OBJECTIVES</h>
@@ -73,7 +73,7 @@
 
     <a href="#"></a>
 
-    <section class="aus-container">
+    <section class="aus-container anchor-offset" id="c2">
       <div class="aus-header">AREAS UNDER SURVEY</div>
       <div class="areas-img up">
         <a href="#"><img src="../assets/programs/areas/AREA1.png" alt="vision, mission, goals and objectives"></a>
