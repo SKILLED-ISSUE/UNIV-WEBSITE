@@ -10,7 +10,6 @@
 </head>
 
 <body>
-
   <div class="spacer"></div>
   <header class="init-header"><?php include("assets/static-html/header.html"); ?></header>
   <img id="slides" src="assets/homepage-slides/5.jpg" />
@@ -31,19 +30,17 @@
     </section>
 
     <section class="cform dir-container">
-      <div class="dir-bg">
-        <img src="assets/DIRECTOR_NOBG.png" alt="" id="dir-img">
-        <div id="dir-quote">
-          <h id="dir-header1">Director's</h>
-          <h id="dir-header2">Message</h>
-          <h id="dir-message">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ullam eveniet enim laboriosam,
+      <div class="bg">
+        <img id="dir-img" src="assets/DIRECTOR_NOBG.png"  alt="director's photo transparent" >
+        <div id="quote">
+          <h id="header1">Director's</h>
+          <h id="header2">Message</h>
+          <h id="message">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ullam eveniet enim laboriosam,
             dolorem voluptates iusto, illum ratione quibusdam repellendus non, assumenda dolore possimus vel ea. Vel
-            vero
-            sit iure ipsam! <br><br>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ullam eveniet enim
-            laboriosam,
-            dolorem voluptates iusto, illum ratione quibusdam repellendus non, assumenda dolore possimus vel ea. Vel
-            vero
-            sit iure ipsam!</h>
+            vero sit iure ipsam! <br><br>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ullam eveniet enim
+            laboriosam, dolorem voluptates iusto, illum ratione quibusdam repellendus non, assumenda dolore possimus vel ea. Vel
+            vero sit iure ipsam!
+          </h>
         </div>
       </div>
     </section>
