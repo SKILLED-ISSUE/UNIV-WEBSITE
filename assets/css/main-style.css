@@ -182,6 +182,7 @@ header {
 }
 
 #preloader {
+  margin-left: -3em;
   justify-content: center;
   align-items: center;
   background: #ffffff no-repeat center center;
