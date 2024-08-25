@@ -186,7 +186,7 @@ header {
   align-items: center;
   background: #ffffff no-repeat center center;
   background-size: 8%;
-  height: 100vh;
+  height: 100%;
   width: 100%;
   position: fixed;
   z-index: 100;
@@ -196,6 +196,9 @@ header {
 }
 #preloader.fade-out {
   opacity: 0;
+}
+#preloader img {
+  height: 5em;
 }
 
 .after-scroll {
@@ -319,15 +322,15 @@ footer .right {
 .program .content-container {
   gap: 2em;
 }
+.program .content-container #header {
+  font-family: "Product Sans Bold";
+  font-size: 2rem;
+}
 .program .content-container .pointers {
   gap: 0.3em;
   flex-direction: column;
   align-items: end;
-  color: rgba(15, 15, 15, 0.6509803922);
-}
-.program .content-container .pointers #header {
-  font-family: "Product Sans Bold";
-  font-size: 2rem;
+  color: black;
 }
 .program .content-container .overview {
   color: rgba(127, 20, 20, 0.937254902);
