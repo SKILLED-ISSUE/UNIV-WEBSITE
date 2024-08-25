@@ -39,4 +39,4 @@ To set up a local development environment, follow these steps:
 
 1. Clone the repository:
    ```bash
- //  git clone https://github.com/your-username/university-official-website.git
+   git clone https://github.com/SKILLED-ISSUE/UNIV-WEBSITE.git
