@@ -1,10 +1,18 @@
 @font-face {
   font-family: "Karla";
   src: url("fonts/Karla/Karla-VariableFont_wght.ttf") format("truetype");
+}
+@font-face {
   font-family: "Trajan-Pro";
   src: url("fonts/trajan-pro/TrajanPro-Regular.ttf") format("truetype");
-  font-family: "Product Sans";
-  src: url("fonts/Product-sans/PTSans-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Product Sans Regular";
+  src: url("fonts/Product-sans/Product Sans Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Product Sans Bold";
+  src: url("fonts/Product-sans/Product Sans Bold.ttf") format("truetype");
 }
 html {
   scroll-snap-type: y proximity;
@@ -274,7 +282,7 @@ footer .right {
 }
 
 .program {
-  font-family: "Product Sans";
+  font-family: "Product Sans Regular";
   justify-content: center;
   align-items: center;
   flex-direction: column;
@@ -288,8 +296,10 @@ footer .right {
   position: relative;
   z-index: -1;
   width: 100%;
+  margin-bottom: 3em;
 }
 .program .header .header-text {
+  font-family: "Product Sans Bold";
   color: rgba(255, 255, 255, 0.795);
   position: absolute;
   z-index: -1;
@@ -299,9 +309,9 @@ footer .right {
   align-items: center;
 }
 .program .header .header-text #header1 {
-  margin-top: 0.5em;
+  margin-top: 1.4em;
   font-size: 2rem;
-  margin-bottom: -0.8em;
+  margin-bottom: -0.5em;
 }
 .program .header .header-text #header2 {
   font-size: 5rem;
@@ -310,15 +320,30 @@ footer .right {
   gap: 2em;
 }
 .program .content-container .pointers {
-  gap: 1em;
+  gap: 0.3em;
   flex-direction: column;
   align-items: end;
+  color: rgba(15, 15, 15, 0.6509803922);
+}
+.program .content-container .pointers #header {
+  font-family: "Product Sans Bold";
+  font-size: 2rem;
 }
 .program .content-container .overview {
   color: #7f1414;
   display: flex;
   flex-direction: column;
   gap: 1em;
+}
+.program .content-container .overview #header {
+  font-family: "Product Sans Bold";
+  font-size: 2rem;
+}
+.program .content-container .overview .thin-line {
+  height: 1px;
+  background-color: #000;
+  width: 20%;
+  margin: 1px 0;
 }
 .program .content-container .overview #description {
   word-wrap: break-word;
