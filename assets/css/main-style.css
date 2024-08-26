@@ -78,6 +78,7 @@ header {
   background-color: white;
   transition: 0.2s ease-in-out;
   gap: 1em;
+  z-index: 1;
 }
 .header-container #logo {
   max-height: 4em;
@@ -421,8 +422,6 @@ footer .right {
 .program .aus-container .areas-img img:hover {
   transition: 0.3s ease-in-out;
   filter: opacity(53%) drop-shadow(0px 0px 0px #570e0e);
-  -webkit-filter: opacity(53%) drop-shadow(0px 0px 0px #570e0e);
-  -moz-filter: opacity(53%) drop-shadow(0px 0px 0px #570e0e);
 }
 
 /*# sourceMappingURL=main-style.css.map */
