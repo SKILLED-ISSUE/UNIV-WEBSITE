@@ -19,9 +19,9 @@
       <section class="ovtexts">
         <img src="assets/PUPSJ-MOTTO.png" alt="pupsj-motto">
         <h1 id="motto-desc">Since 2008, PUP San Juan Campus is a catalyst for progress,
-          empowering students to become transformative leaders. Through quality
-          education, innovation, and social engagement, we equip
-          individuals with the skills and values needed to create a sustainable future for the nation.
+          empowering students to become transformative leaders. Through quality education, 
+          innovation, and social engagement, we equip individuals with the skills and values 
+          needed to create a sustainable future for the nation.
         </h1>
       </section>
       <section class="bnnr">

@@ -419,12 +419,11 @@ footer {
       justify-content: space-between;
       gap: 20px;
     }
+  }
 
-    // .image-placeholder {
-    //   width: 15em;
-    //   height: 190px;
-    //   background-color: #2c2828;
-    // }
+  #banner {
+    height: 18em;
+    border-radius: 1em;
   }
 
   .objectives-bg {
@@ -489,9 +488,4 @@ footer {
       }
     }
   }
-
-  // .anchor-offset {
-  //   padding-top: 6em;
-  //   margin-top: -6em;
-  // }
 }

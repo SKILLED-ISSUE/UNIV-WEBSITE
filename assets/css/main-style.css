@@ -366,6 +366,10 @@ footer .right {
   justify-content: space-between;
   gap: 20px;
 }
+.program #banner {
+  height: 18em;
+  border-radius: 1em;
+}
 .program .objectives-bg {
   background-color: #7f1414;
   width: 100%;

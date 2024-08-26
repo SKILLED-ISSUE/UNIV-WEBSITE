@@ -5,13 +5,12 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Bachelor of Science in Information Technology (BSIT)</title>
-  <!-- Use root-relative paths -->
   <link rel="stylesheet" href="/assets/css/main-style.css" />
   <link rel="icon" href="/assets/PUPSJ-LOGO.png" type="image/icon type" />
 </head>
 
 <body>
-  <header class="header-container"><?php include($_SERVER['DOCUMENT_ROOT'].'/assets/static-html/header.html'); ?></header>
+  <header class="header-container"><?php include($_SERVER['DOCUMENT_ROOT'] . '/assets/static-html/header.html'); ?></header>
 
   <section class="program">
     <div class="header">
@@ -38,15 +37,16 @@
             on the study of computer utilization and computer software to plan, install, customize, operate, manage,
             administer and maintain information technology infrastructure. It likewise deals with the design and
             development of computer-based information systems for real-world business solutions.
-            <p>
-              The program prepares students to become IT professionals with primary competencies in the areas of systems
-              analysis and design, applications development, database administration, network administration, and systems
-              implementation and maintenance.
-            </p>
+            <br><br>
+            The program prepares students to become IT professionals with primary competencies in the areas of systems
+            analysis and design, applications development, database administration, network administration, and systems
+            implementation and maintenance.
           </h>
         </section>
       </div>
     </div>
+
+    <img id="banner" src="\assets\programs\BSIT\IT-BANNER.png" alt="program-banner">
 
     <section class="objectives-bg anchor-offset" id="c1">
       <section class="objectives-container">
@@ -65,30 +65,27 @@
       </section>
     </section>
 
-
-    <a href="#"></a>
-
     <section class="aus-container anchor-offset" id="c2">
       <div class="aus-header">AREAS UNDER SURVEY</div>
       <div class="areas-img up">
-        <a href="#"><img src="/assets/programs/areas/AREA1.png" alt="vision, mission, goals and objectives"></a>
-        <a href="#"><img src="/assets/programs/areas/AREA2.png" alt="faculty"></a>
-        <a href="#"><img src="/assets/programs/areas/AREA3.png" alt="curriculum and instruction"></a>
-        <a href="#"><img src="/assets/programs/areas/AREA4.png" alt="support to students"></a>
-        <a href="#"><img src="/assets/programs/areas/AREA5.png" alt="research"></a>
+        <a href="/programs/areas-bsit/area1.php"><img src="/assets/programs/areas/AREA1.png" alt="vision, mission, goals and objectives"></a>
+        <a href="/programs/areas-bsit/area2.php"><img src="/assets/programs/areas/AREA2.png" alt="faculty"></a>
+        <a href="/programs/areas-bsit/area3.php"><img src="/assets/programs/areas/AREA3.png" alt="curriculum and instruction"></a>
+        <a href="/programs/areas-bsit/area4.php"><img src="/assets/programs/areas/AREA4.png" alt="support to students"></a>
+        <a href="/programs/areas-bsit/area5.php"><img src="/assets/programs/areas/AREA5.png" alt="research"></a>
       </div>
       <div class="areas-img down">
-        <a href="#"><img src="/assets/programs/areas/AREA6.png" alt="extension and community involvement"></a>
-        <a href="#"><img src="/assets/programs/areas/AREA7.png" alt="library"></a>
-        <a href="#"><img src="/assets/programs/areas/AREA8.png" alt="physical plant and facilities"></a>
-        <a href="#"><img src="/assets/programs/areas/AREA9.png" alt="laboratory"></a>
-        <a href="#"><img src="/assets/programs/areas/AREA10.png" alt="administration"></a>
+        <a href="/programs/areas-bsit/area6.php"><img src="/assets/programs/areas/AREA6.png" alt="extension and community involvement"></a>
+        <a href="/programs/areas-bsit/area7.php"><img src="/assets/programs/areas/AREA7.png" alt="library"></a>
+        <a href="/programs/areas-bsit/area8.php"><img src="/assets/programs/areas/AREA8.png" alt="physical plant and facilities"></a>
+        <a href="/programs/areas-bsit/area9.php"><img src="/assets/programs/areas/AREA9.png" alt="laboratory"></a>
+        <a href="/programs/areas-bsit/area10.php"><img src="/assets/programs/areas/AREA10.png" alt="administration"></a>
       </div>
 
     </section>
 
   </section>
-  <?php include($_SERVER['DOCUMENT_ROOT'].'/assets/static-html/footer.html'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'] . '/assets/static-html/footer.html'); ?>
 
   <script src="/main-script.js"></script>
 </body>
