@@ -70,18 +70,18 @@
     <section class="aus-container anchor-offset" id="c2">
       <div class="aus-header">AREAS UNDER SURVEY</div>
       <div class="areas-img up">
-        <a href="../programs/areas-bsit/area1.php"><img src="/assets/programs/areas/AREA1.png" alt="vision, mission, goals and objectives"></a>
-        <a href="../programs/areas-bsit/area2.php"><img src="/assets/programs/areas/AREA2.png" alt="faculty"></a>
-        <a href="../programs/areas-bsit/area3.php"><img src="/assets/programs/areas/AREA3.png" alt="curriculum and instruction"></a>
-        <a href="../programs/areas-bsit/area4.php"><img src="/assets/programs/areas/AREA4.png" alt="support to students"></a>
-        <a href="../programs/areas-bsit/area5.php"><img src="/assets/programs/areas/AREA5.png" alt="research"></a>
+        <a href="/programs/areas-bsit/area1.php"><img src="/assets/programs/areas/AREA1.png" alt="vision, mission, goals and objectives"></a>
+        <a href="/programs/areas-bsit/area2.php"><img src="/assets/programs/areas/AREA2.png" alt="faculty"></a>
+        <a href="/programs/areas-bsit/area3.php"><img src="/assets/programs/areas/AREA3.png" alt="curriculum and instruction"></a>
+        <a href="/programs/areas-bsit/area4.php"><img src="/assets/programs/areas/AREA4.png" alt="support to students"></a>
+        <a href="/programs/areas-bsit/area5.php"><img src="/assets/programs/areas/AREA5.png" alt="research"></a>
       </div>
       <div class="areas-img down">
-        <a href="../programs/areas-bsit/area6.php"><img src="/assets/programs/areas/AREA6.png" alt="extension and community involvement"></a>
-        <a href="../programs/areas-bsit/area7.php"><img src="/assets/programs/areas/AREA7.png" alt="library"></a>
-        <a href="../programs/areas-bsit/area8.php"><img src="/assets/programs/areas/AREA8.png" alt="physical plant and facilities"></a>
-        <a href="../programs/areas-bsit/area9.php"><img src="/assets/programs/areas/AREA9.png" alt="laboratory"></a>
-        <a href="../programs/areas-bsit/area10.php"><img src="/assets/programs/areas/AREA10.png" alt="administration"></a>
+        <a href="/programs/areas-bsit/area6.php"><img src="/assets/programs/areas/AREA6.png" alt="extension and community involvement"></a>
+        <a href="/programs/areas-bsit/area7.php"><img src="/assets/programs/areas/AREA7.png" alt="library"></a>
+        <a href="/programs/areas-bsit/area8.php"><img src="/assets/programs/areas/AREA8.png" alt="physical plant and facilities"></a>
+        <a href="/programs/areas-bsit/area9.php"><img src="/assets/programs/areas/AREA9.png" alt="laboratory"></a>
+        <a href="/programs/areas-bsit/area10.php"><img src="/assets/programs/areas/AREA10.png" alt="administration"></a>
       </div>
 
     </section>
