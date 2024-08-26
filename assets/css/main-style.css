@@ -1,3 +1,4 @@
+@charset "UTF-8";
 @font-face {
   font-family: "Karla";
   src: url("fonts/Karla/Karla-VariableFont_wght.ttf") format("truetype");
@@ -274,16 +275,18 @@ footer {
   justify-content: space-between;
   align-items: center;
   background: #7f1414;
-  padding: 2em 20em 2.5em 20em;
   margin-top: 3em;
+  padding: 2% 0%;
 }
 footer .left {
   color: white;
+  padding-left: 10%;
 }
 footer .right {
   font-family: "Trajan-Pro";
   font-size: x-large;
   color: white;
+  padding-right: 10%;
 }
 
 .program {
@@ -432,15 +435,15 @@ footer .right {
 }
 .area .line-container {
   width: 100%;
-  padding-left: 36%;
+  justify-content: center;
 }
 .area .line-container #thin-line {
   height: 0.2em;
   background-color: #7f1414;
-  width: 20%;
+  width: 40%;
 }
 .area .line-container .two {
-  width: 10% !important;
+  width: 30% !important;
 }
 .area .img-thmb {
   justify-content: space-evenly;
@@ -479,6 +482,50 @@ footer .right {
   opacity: 0;
   transition: opacity 0.5s ease;
   border-radius: 0.5em;
+}
+.area .collapsible-container {
+  flex-direction: column;
+  gap: 1em;
+  align-items: center;
+}
+.area .collapsible-container .collapsible {
+  display: flex;
+  justify-content: space-between;
+  gap: 1em;
+  border-radius: 0.5em;
+  background-color: #7f1414;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 72%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+.area .collapsible-container .collapsible #title {
+  font-weight: 600;
+  font-size: 1rem;
+}
+.area .collapsible-container .active, .area .collapsible-container .collapsible:hover {
+  background-color: rgba(127, 20, 20, 0.7725490196);
+}
+.area .collapsible-container .collapsible:after {
+  content: "+";
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+.area .collapsible-container .active:after {
+  content: "−";
+}
+.area .collapsible-container .content {
+  margin-top: -1em;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  width: 70%;
 }
 
 /*# sourceMappingURL=main-style.css.map */

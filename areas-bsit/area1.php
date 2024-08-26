@@ -37,7 +37,7 @@
         </div>
 
         <div class="img-thmb">
-            <a href="https://drive.google.com/file/d/1R2bHJ23zdV33Zx5wKnN-Viz8kXZqhek_/view?usp=sharing" target="_blank"> 
+            <a href="https://drive.google.com/file/d/1R2bHJ23zdV33Zx5wKnN-Viz8kXZqhek_/view?usp=sharing" target="_blank">
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
                     <div class="text">Click here</div>
@@ -53,10 +53,29 @@
         </div>
 
         <div class="line-container">
-            <div class="two" id="thin-line" ></div>
+            <div class="two" id="thin-line"></div>
         </div>
 
+        <section class="collapsible-container">
+            <button class="collapsible">
+                <div id="title">Parameter A</div>
+                <div id="desc">Statement of Vision, Mission, Goals, and Objectives</div>
+            </button>
+            <div class="content">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div>
+            <button class="collapsible">
+                <div id="title">Parameter B</div>
+                <div id="desc">Dissemination and Acceptability</div>
+            </button>
+            <div class="content">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div>
+        </section>
+
     </section>
+
+
 
     <?php include('../assets/static-html/footer.html'); ?>
 
