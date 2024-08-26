@@ -248,6 +248,7 @@ header {
   flex-direction: column;
 }
 .dir-container .bg #quote #header1 {
+  font-family: "Product Sans Bold";
   margin: 0;
   font-size: 5rem;
   font-weight: 1000;
@@ -255,7 +256,8 @@ header {
   width: 5em;
 }
 .dir-container .bg #quote #header2 {
-  margin-top: -0.4em;
+  font-family: "Product Sans Regular";
+  margin-top: -0.5em;
   margin-left: 0.02em;
   font-size: 4rem;
   font-weight: 500;
