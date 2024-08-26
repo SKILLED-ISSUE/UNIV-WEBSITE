@@ -32,17 +32,19 @@
             which these are attained, not in comparison with others.
         </div>
 
-        <div id="thin-line"></div>
+        <div class="line-container">
+            <div id="thin-line" class="one"></div>
+        </div>
 
         <div class="img-thmb">
-            <a href="#">
+            <a href="https://drive.google.com/file/d/1R2bHJ23zdV33Zx5wKnN-Viz8kXZqhek_/view?usp=sharing" target="_blank"> 
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
                     <div class="text">Click here</div>
                 </div>
             </a>
 
-            <a href="#">
+            <a href="#" target="_blank">
                 <img src="SSA1.png" alt="self survey">
                 <div class="overlay">
                     <div class="text">Click here</div>
@@ -50,7 +52,9 @@
             </a>
         </div>
 
-        <div id="thin-line"></div>
+        <div class="line-container">
+            <div class="two" id="thin-line" ></div>
+        </div>
 
     </section>
 

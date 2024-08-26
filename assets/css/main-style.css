@@ -423,15 +423,24 @@ footer .right {
   filter: opacity(53%) drop-shadow(0px 0px 0px #570e0e);
 }
 
-.area #description {
-  font-size: 1.5rem;
-  text-align: justify;
-  width: 65%;
+.area {
+  gap: 3em;
 }
-.area #thin-line {
+.area #description {
+  font-size: 1.1rem;
+  width: 64%;
+}
+.area .line-container {
+  width: 100%;
+  padding-left: 36%;
+}
+.area .line-container #thin-line {
   height: 0.2em;
   background-color: #7f1414;
-  width: 65%;
+  width: 20%;
+}
+.area .line-container .two {
+  width: 10% !important;
 }
 .area .img-thmb {
   justify-content: space-evenly;

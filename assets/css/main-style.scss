@@ -489,17 +489,34 @@ footer {
 }
 
 .area {
+  gap: 3em;
+
   #description {
-    font-size: 1.5rem;
-    text-align: justify;
-    width: 65%;
+    font-size: 1.1rem;
+    // text-align: justify;
+    width: 64%;
   }
 
-  #thin-line {
-    height: 0.2em;
-    background-color: #7f1414;
-    width: 65%;
+  .line-container {
+    width: 100%;
+    padding-left: 36%;
+
+
+
+    #thin-line {
+      height: 0.2em;
+      background-color: #7f1414;
+      width: 20%;
+    }
+
+    .two {
+      width: 10% !important;
+    }
   }
+
+
+
+
 
   .img-thmb {
     justify-content: space-evenly;
@@ -515,7 +532,7 @@ footer {
         border-radius: 0.5em;
         width: 100%;
         transition: filter 0.5s ease;
-      }  
+      }
 
       .text {
         color: white;
