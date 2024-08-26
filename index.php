@@ -12,7 +12,7 @@
 <body>
   <div class="spacer"></div>
   <header class="init-header">
-    <?php include('assets\static-html\header.html'); ?>
+    <?php include('assets/static-php/header.php'); ?>
   </header>
   <img id="slides" src="assets/homepage-slides/5.jpg" />
 
@@ -48,7 +48,7 @@
     </section>
   </section>
 
-  <?php include('assets\static-html\footer.html'); ?>
+  <?php include('assets/static-php/footer.php'); ?>
 
   <script src="init-script.js"></script>
   <script src="main-script.js"></script>

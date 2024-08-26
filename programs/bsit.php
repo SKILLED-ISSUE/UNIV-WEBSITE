@@ -11,7 +11,7 @@
 
 <body>
   <header class="header-container">
-    <?php include('..\assets\static-html\header.html'); ?>
+    <?php include('../assets/static-php/header.php'); ?>
   </header>
 
   <section class="program">
@@ -48,7 +48,7 @@
       </div>
     </div>
 
-    <img id="banner" src="\assets\programs\BSIT\IT-BANNER.png" alt="program-banner">
+    <img id="banner" src="/assets/programs/BSIT/IT-BANNER.png" alt="program-banner">
 
     <section class="objectives-bg anchor-offset" id="c1">
       <section class="objectives-container">
@@ -87,7 +87,7 @@
     </section>
 
   </section>
-  <?php include('..\assets\static-html\footer.html'); ?>
+  <?php include('../assets/static-php/footer.php'); ?>
 
   <script src="/main-script.js"></script>
 </body>
