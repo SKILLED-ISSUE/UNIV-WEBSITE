@@ -11,7 +11,7 @@
 
 <body>
     <header class="header-container">
-        <?php include($_SERVER['DOCUMENT_ROOT'] . '/assets/static-html/header.html'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/assets/static-html/areas-header.html'); ?>
     </header>
 
     <section class="area">
