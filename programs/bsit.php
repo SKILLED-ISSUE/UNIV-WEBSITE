@@ -10,8 +10,8 @@
 </head>
 
 <body>
-  <header class="header-container">
-    <?php include('../assets/static-php/header.php'); ?>
+<header class="header-container">
+    <?php include($_SERVER['DOCUMENT_ROOT'].'/assets/static-php/header.php'); ?>
   </header>
 
   <section class="program">
@@ -87,7 +87,9 @@
     </section>
 
   </section>
-  <?php include('../assets/static-php/footer.php'); ?>
+  
+    <?php include($_SERVER['DOCUMENT_ROOT'].'/assets/static-php/footer.php'); ?>
+ 
 
   <script src="/main-script.js"></script>
 </body>
