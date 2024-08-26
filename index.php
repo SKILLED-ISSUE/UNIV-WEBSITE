@@ -5,11 +5,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>PUP San Juan</title>
-    <meta property="og:title" content="Your Site Title" />
-    <meta property="og:description" content="A brief description of your site." />
-    <meta property="og:image" content="https://www.yoursite.com/path/to/your-image.jpg" />
-    <meta property="og:url" content="https://www.yoursite.com/" />
-    <meta property="og:type" content="website" />
+    
   <link rel="stylesheet" href="assets/css/main-style.css" />
   <link rel="icon" href="assets/PUPSJ-LOGO.png" type="image/icon type" />
 </head>
