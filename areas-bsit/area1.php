@@ -11,13 +11,49 @@
 
 <body>
     <header class="header-container">
-    <?php include('../assets/static-html/header.html'); ?>
+        <?php include('../assets/static-html/header.html'); ?>
     </header>
 
-    <section class="area">
+    <section class="area program">
+        <div class="header">
+            <img id="header-img" src="../assets/programs/BSIT/1.png" />
+            <div class="header-text">
+                <h id="header1">AREA 1</h>
+                <h id="header2">Vision, Mission, Goals and Objectives</h>
+            </div>
+        </div>
+
+        <div id="description">
+            The area of Vision, Mission, Goals, and Objectives is the most fundamental of
+            all the (10) areas to be surveyed. Everything in the Institution is justified
+            only to the extent that it realizes its vision and mission. It is essential
+            therefore, for the Institution to formulate the vision and mission which should
+            be the bases of all its operations. The Institution is judged by the degree to
+            which these are attained, not in comparison with others.
+        </div>
+
+        <div id="thin-line"></div>
+
+        <div class="img-thmb">
+            <a href="#">
+                <img src="PPPA1.png" alt="program performance profile">
+                <div class="overlay">
+                    <div class="text">Click here</div>
+                </div>
+            </a>
+
+            <a href="#">
+                <img src="SSA1.png" alt="self survey">
+                <div class="overlay">
+                    <div class="text">Click here</div>
+                </div>
+            </a>
+        </div>
+
+        <div id="thin-line"></div>
 
     </section>
-    
+
     <?php include('../assets/static-html/footer.html'); ?>
 
     <script src="../main-script.js"></script>

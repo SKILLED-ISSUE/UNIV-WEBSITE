@@ -424,4 +424,53 @@ footer .right {
   filter: opacity(53%) drop-shadow(0px 0px 0px #570e0e);
 }
 
+.area #description {
+  font-size: 1.5rem;
+  text-align: justify;
+  width: 65%;
+}
+.area #thin-line {
+  height: 0.2em;
+  background-color: #7f1414;
+  width: 65%;
+}
+.area .img-thmb {
+  justify-content: space-evenly;
+  width: 70%;
+  flex-wrap: wrap;
+  gap: 1em;
+}
+.area .img-thmb a {
+  position: relative;
+  height: 10%;
+}
+.area .img-thmb a img {
+  border-radius: 0.5em;
+  width: 100%;
+  transition: filter 0.5s ease;
+}
+.area .img-thmb a .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(127, 20, 20, 0.7725490196);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+  border-radius: 0.5em;
+}
+.area .img-thmb a .text {
+  color: white;
+  font-size: 24px;
+  /* Adjust font size as needed */
+  text-align: center;
+}
+.area .img-thmb a:hover .overlay {
+  opacity: 1;
+}
+
 /*# sourceMappingURL=main-style.css.map */
