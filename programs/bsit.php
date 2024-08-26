@@ -11,7 +11,7 @@
 
 <body>
   <header class="header-container">
-    <?php include($_SERVER['DOCUMENT_ROOT'] . '\assets\static-html\header.html'); ?>
+    <?php include('../assets/static-html/header.html'); ?>
   </header>
 
   <section class="program">
@@ -88,9 +88,9 @@
 
   </section>
 
-  <?php include($_SERVER['DOCUMENT_ROOT'] . '\assets\static-html\footer.html'); ?>
+  <?php include('../assets/static-html/footer.html'); ?>
 
-  <script src="/main-script.js"></script>
+  <script src="../main-script.js"></script>
 </body>
 
 </html>
