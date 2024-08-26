@@ -11,7 +11,7 @@
 
 <body>
   <header class="header-container">
-  <?php include(__DIR__ . 'assets/static-php/header.html'); ?>
+    <?php include(__DIR__ . '/assets/static-php/header.html'); ?>
   </header>
 
   <section class="program">
@@ -88,7 +88,7 @@
 
   </section>
 
-  <?php include(__DIR__ . 'assets/static-php/footer.html'); ?>
+  <?php include(__DIR__ . '/assets/static-php/footer.html'); ?>
 
   <script src="/main-script.js"></script>
 </body>
