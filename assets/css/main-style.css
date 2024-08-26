@@ -449,7 +449,16 @@ footer .right {
   width: 100%;
   transition: filter 0.5s ease;
 }
-.area .img-thmb a .overlay {
+.area .img-thmb a .text {
+  color: white;
+  font-size: 24px;
+  /* Adjust font size as needed */
+  text-align: center;
+}
+.area .img-thmb a:hover .overlay {
+  opacity: 1;
+}
+.area .img-thmb .overlay {
   position: absolute;
   top: 0;
   left: 0;
@@ -462,15 +471,6 @@ footer .right {
   opacity: 0;
   transition: opacity 0.5s ease;
   border-radius: 0.5em;
-}
-.area .img-thmb a .text {
-  color: white;
-  font-size: 24px;
-  /* Adjust font size as needed */
-  text-align: center;
-}
-.area .img-thmb a:hover .overlay {
-  opacity: 1;
 }
 
 /*# sourceMappingURL=main-style.css.map */
