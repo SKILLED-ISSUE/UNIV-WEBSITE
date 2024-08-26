@@ -25,8 +25,8 @@
     <div class="content-container">
       <section class="pointers">
         <h id="header">CONTENTS</h>
-        <a href="#c1">Program Objectives</a>
-        <a href="#c2">Areas Under Survey</a>
+        <a href="#c1" class='scroll-link'>Program Objectives</a>
+        <a href="#c2" class='scroll-link'>Areas Under Survey</a>
       </section>
 
       <div class="main-contents">
