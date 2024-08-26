@@ -507,7 +507,8 @@ footer .right {
   font-weight: 600;
   font-size: 1rem;
 }
-.area .collapsible-container .active, .area .collapsible-container .collapsible:hover {
+.area .collapsible-container .active,
+.area .collapsible-container .collapsible:hover {
   background-color: rgba(127, 20, 20, 0.7725490196);
 }
 .area .collapsible-container .collapsible:after {
@@ -526,6 +527,20 @@ footer .right {
   overflow: hidden;
   transition: max-height 0.2s ease-out;
   width: 70%;
+}
+.area .collapsible-container .content ul {
+  display: flex;
+  flex-direction: column;
+}
+.area .collapsible-container .content .list-header {
+  list-style-type: none;
+}
+.area .collapsible-container .content li {
+  margin-top: 0.4em;
+  margin-left: -1em;
+}
+.area .collapsible-container .content a {
+  color: #7f1414;
 }
 
 /*# sourceMappingURL=main-style.css.map */
