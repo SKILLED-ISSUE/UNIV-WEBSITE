@@ -10,11 +10,14 @@
 </head>
 
 <body>
-    <header class="header-container"><?php include($_SERVER['DOCUMENT_ROOT'] . '/assets/static-html/header.html'); ?></header>
+    <header class="header-container">
+        <?php include($_SERVER['DOCUMENT_ROOT'] . '/assets/static-html/header.html'); ?>
+    </header>
 
     <section class="area">
-        
+
     </section>
+    
     <?php include($_SERVER['DOCUMENT_ROOT'] . '/assets/static-html/footer.html'); ?>
 
     <script src="/main-script.js"></script>
