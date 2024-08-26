@@ -46,7 +46,7 @@
     </section>
   </section>
 
-  <?php include($_SERVER['DOCUMENT_ROOT'].'/assets/static-html/header.html'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/assets/static-html/footer.html'); ?>
 
   <script src="init-script.js"></script>
   <script src="main-script.js"></script>
