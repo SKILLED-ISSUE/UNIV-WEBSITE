@@ -11,7 +11,7 @@
 
 <body>
   <div class="spacer"></div>
-  <header class="init-header"><?php include("assets/static-html/header.html"); ?></header>
+  <header class="init-header"><?php include($_SERVER['DOCUMENT_ROOT'].'/assets/static-html/header.html'); ?></header>
   <img id="slides" src="assets/homepage-slides/5.jpg" />
 
   <section class="after-scroll">
@@ -46,7 +46,7 @@
     </section>
   </section>
 
-  <?php include("assets/static-html/footer.html"); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/assets/static-html/header.html'); ?>
 
   <script src="init-script.js"></script>
   <script src="main-script.js"></script>

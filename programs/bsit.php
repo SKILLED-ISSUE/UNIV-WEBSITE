@@ -5,16 +5,17 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Bachelor of Science in Information Technology (BSIT)</title>
-  <link rel="stylesheet" href="../assets/css/main-style.css" />
-  <link rel="icon" href="../assets/PUPSJ-LOGO.png" type="image/icon type" />
+  <!-- Use root-relative paths -->
+  <link rel="stylesheet" href="/assets/css/main-style.css" />
+  <link rel="icon" href="/assets/PUPSJ-LOGO.png" type="image/icon type" />
 </head>
 
 <body>
-  <header class="header-container"><?php include("../assets/static-html/header.html"); ?></header>
+  <header class="header-container"><?php include($_SERVER['DOCUMENT_ROOT'].'/assets/static-html/header.html'); ?></header>
 
   <section class="program">
     <div class="header">
-      <img id="header-img" src="../assets/programs/BSIT/1.png" />
+      <img id="header-img" src="/assets/programs/BSIT/1.png" />
       <div class="header-text">
         <h id="header1">BACHELOR OF SCIENCE IN</h>
         <h id="header2">INFORMATION TECHNOLOGY</h>
@@ -44,12 +45,6 @@
             </p>
           </h>
         </section>
-
-        <!-- <section class="program-imgs">
-          <div class="image-placeholder"></div>
-          <div class="image-placeholder"></div>
-          <div class="image-placeholder"></div>
-        </section> -->
       </div>
     </div>
 
@@ -76,26 +71,26 @@
     <section class="aus-container anchor-offset" id="c2">
       <div class="aus-header">AREAS UNDER SURVEY</div>
       <div class="areas-img up">
-        <a href="#"><img src="../assets/programs/areas/AREA1.png" alt="vision, mission, goals and objectives"></a>
-        <a href="#"><img src="../assets/programs/areas/AREA2.png" alt="faculty"></a>
-        <a href="#"><img src="../assets/programs/areas/AREA3.png" alt="curriculum and instruction"></a>
-        <a href="#"><img src="../assets/programs/areas/AREA4.png" alt="support to students"></a>
-        <a href="#"><img src="../assets/programs/areas/AREA5.png" alt="research"></a>
+        <a href="#"><img src="/assets/programs/areas/AREA1.png" alt="vision, mission, goals and objectives"></a>
+        <a href="#"><img src="/assets/programs/areas/AREA2.png" alt="faculty"></a>
+        <a href="#"><img src="/assets/programs/areas/AREA3.png" alt="curriculum and instruction"></a>
+        <a href="#"><img src="/assets/programs/areas/AREA4.png" alt="support to students"></a>
+        <a href="#"><img src="/assets/programs/areas/AREA5.png" alt="research"></a>
       </div>
       <div class="areas-img down">
-        <a href="#"><img src="../assets/programs/areas/AREA6.png" alt="extension and community involvement"></a>
-        <a href="#"><img src="../assets/programs/areas/AREA7.png" alt="library"></a>
-        <a href="#"><img src="../assets/programs/areas/AREA8.png" alt="physical plant and facilities"></a>
-        <a href="#"><img src="../assets/programs/areas/AREA9.png" alt="laboratory"></a>
-        <a href="#"><img src="../assets/programs/areas/AREA10.png" alt="administration"></a>
+        <a href="#"><img src="/assets/programs/areas/AREA6.png" alt="extension and community involvement"></a>
+        <a href="#"><img src="/assets/programs/areas/AREA7.png" alt="library"></a>
+        <a href="#"><img src="/assets/programs/areas/AREA8.png" alt="physical plant and facilities"></a>
+        <a href="#"><img src="/assets/programs/areas/AREA9.png" alt="laboratory"></a>
+        <a href="#"><img src="/assets/programs/areas/AREA10.png" alt="administration"></a>
       </div>
 
     </section>
 
   </section>
-  <?php include("../assets/static-html/footer.html"); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/assets/static-html/footer.html'); ?>
 
-  <script src="../main-script.js"></script>
+  <script src="/main-script.js"></script>
 </body>
 
 </html>
