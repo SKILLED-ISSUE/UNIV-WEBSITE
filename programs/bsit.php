@@ -11,7 +11,7 @@
 
 <body>
 <header class="header-container">
-    <?php include($_SERVER['DOCUMENT_ROOT'].'/assets/static-php/header.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'].'/assets/static-php/header.html'); ?>
   </header>
 
   <section class="program">
@@ -88,7 +88,7 @@
 
   </section>
   
-    <?php include($_SERVER['DOCUMENT_ROOT'].'/assets/static-php/footer.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'].'/assets/static-php/footer.html'); ?>
  
 
   <script src="/main-script.js"></script>
