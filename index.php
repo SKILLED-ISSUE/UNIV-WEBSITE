@@ -17,7 +17,7 @@
   <img id="slides" class="fade-in" src="assets/homepage-slides/5.jpg" />
 
   <section class="after-scroll">
-    <section class="cform overview" class="fade-in">
+    <section class="cform motto-overview" class="fade-in">
       <section class="ovtexts" class="fade-in">
         <img src="assets/PUPSJ-MOTTO.png" alt="pupsj-motto" class="fade-in">
         <h1 id="motto-desc" class="fade-in">Since 2008, PUP San Juan Campus is a catalyst for progress,
