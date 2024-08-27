@@ -335,10 +335,12 @@ footer {
   background: #7f1414;
   margin-top: 3em;
   padding: 2% 0%;
+  gap: 2em;
 
   .left {
     color: white;
     padding-left: 10%;
+    min-width: fit-content;
   }
 
   .right {
@@ -346,6 +348,7 @@ footer {
     font-size: x-large;
     color: white;
     padding-right: 10%;
+    min-width: fit-content;
   }
 }
 
@@ -451,6 +454,7 @@ footer {
   #banner {
     height: 18em;
     border-radius: 1em;
+    width: 70%;
   }
 
   .objectives-bg {
@@ -588,6 +592,7 @@ footer {
     flex-direction: column;
     gap: 1em;
     align-items: center;
+    width: 80%;
 
     .collapsible {
       display: flex;
@@ -598,7 +603,7 @@ footer {
       color: white;
       cursor: pointer;
       padding: 18px;
-      width: 72%;
+      width: 80%;
       border: none;
       text-align: left;
       outline: none;
@@ -634,6 +639,7 @@ footer {
       overflow: hidden;
       transition: max-height 0.2s ease-out;
       width: 70%;
+      margin-left: -3em;
 
       ul {
         display: flex;
