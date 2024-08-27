@@ -333,11 +333,12 @@ footer .right {
 .program .header .header-text #header1 {
   margin-top: 1.4em;
   font-size: 2rem;
-  margin-bottom: -0.5em;
+  margin-bottom: -0.2em;
 }
 .program .header .header-text #header2 {
   text-align: center;
   font-size: 5rem;
+  line-height: 1;
 }
 .program .content-container {
   gap: 2em;
@@ -517,6 +518,7 @@ footer .right {
   text-align: left;
   outline: none;
   font-size: 15px;
+  transition: background-color 0.5s ease;
 }
 .area .collapsible-container .collapsible #title {
   font-weight: 600;
