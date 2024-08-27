@@ -62,3 +62,8 @@ document.addEventListener("DOMContentLoaded", function () {
     appearOnScroll.observe(fader);
   });
 });
+
+if (window.innerWidth < 768) {
+  document.getElementById('warning-overlay').style.display = 'flex';
+  document.body.classList.add('no-scroll'); // Prevent background scrolling
+}
