@@ -10,6 +10,10 @@
 </head>
 <!-- scroll fade-ib effect add lang, class="fade-in" -->
 <body>
+  <div id="warning-overlay">
+        <div id="warning-header">UNDER DEVELOPMENT</div>
+        <p>This site is best viewed on a desktop. Please switch to a desktop or larger screen for a better experience.</p>
+    </div>
   <div class="spacer"></div>
   <header class="init-header">
     <?php include('assets/static-html/main-header.html'); ?>
