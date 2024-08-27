@@ -39,3 +39,26 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 
+document.addEventListener("DOMContentLoaded", function () {
+  const faders = document.querySelectorAll('.fade-in');
+
+  const appearOptions = {
+    threshold: 0.1, // How much of the element should be visible before triggering the animation
+    rootMargin: "0px 0px -50px 0px" // Adjust if you want to trigger sooner or later
+  };
+
+  const appearOnScroll = new IntersectionObserver(function(entries, appearOnScroll) {
+    entries.forEach(entry => {
+      if (!entry.isIntersecting) {
+        return;
+      } else {
+        entry.target.classList.add('visible');
+        appearOnScroll.unobserve(entry.target); // Stop observing once the element is visible
+      }
+    });
+  }, appearOptions);
+
+  faders.forEach(fader => {
+    appearOnScroll.observe(fader);
+  });
+});

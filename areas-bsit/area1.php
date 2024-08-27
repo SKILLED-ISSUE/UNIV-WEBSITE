@@ -17,13 +17,13 @@
     <section class="area program">
         <div class="header">
             <img id="header-img" src="../assets/programs/BSIT/1.png" />
-            <div class="header-text">
-                <h id="header1">AREA 1</h>
-                <h id="header2">Vision, Mission, Goals and Objectives</h>
+            <div class="header-text" class="fade-in">
+                <h id="header1" class="fade-in">AREA 1</h>
+                <h id="header2" class="fade-in">Vision, Mission, Goals and Objectives</h>
             </div>
         </div>
 
-        <div id="description">
+        <div id="description" class="fade-in">
             The area of Vision, Mission, Goals, and Objectives is the most fundamental of
             all the (10) areas to be surveyed. Everything in the Institution is justified
             only to the extent that it realizes its vision and mission. It is essential
@@ -36,7 +36,7 @@
             <div id="thin-line" class="one"></div>
         </div>
 
-        <div class="img-thmb">
+        <div class="img-thmb" class="fade-in">
             <a href="https://drive.google.com/file/d/1R2bHJ23zdV33Zx5wKnN-Viz8kXZqhek_/view?usp=sharing" target="_blank">
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
@@ -44,7 +44,7 @@
                 </div>
             </a>
 
-            <a href="#" target="_blank">
+            <a href="#" target="_blank" class="fade-in">
                 <img src="SSA1.png" alt="self survey">
                 <div class="overlay">
                     <div class="text">Click here</div>

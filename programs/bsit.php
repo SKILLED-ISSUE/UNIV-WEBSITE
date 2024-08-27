@@ -23,18 +23,18 @@
       </div>
     </div>
 
-    <div class="content-container">
+    <div class="content-container" >
       <section class="pointers">
-        <h id="header">CONTENTS</h>
-        <a href="#c1" class='scroll-link'>Program Objectives</a>
-        <a href="#c2" class='scroll-link'>Areas Under Survey</a>
+        <h id="header" class="fade-in">CONTENTS</h>
+        <a href="#c1" class='scroll-link' class="fade-in">Program Objectives</a>
+        <a href="#c2" class='scroll-link' class="fade-in">Areas Under Survey</a>
       </section>
 
       <div class="main-contents">
         <section class="overview">
-          <h id="header">PROGRAM OVERVIEW</h>
+          <h id="header" class="fade-in">PROGRAM OVERVIEW</h>
           <div class="thin-line"></div>
-          <h id="description">
+          <h id="description" class="fade-in">
             The Bachelor of Science in Information Technology (BSIT) program is a four-year degree program which focuses
             on the study of computer utilization and computer software to plan, install, customize, operate, manage,
             administer and maintain information technology infrastructure. It likewise deals with the design and
@@ -53,11 +53,11 @@
     <section class="objectives-bg anchor-offset" id="c1">
       <section class="objectives-container">
         <section class="objectives-header">
-          <h id="header">PROGRAM OBJECTIVES</h>
-          <div class="thin-line"></div>
+          <h id="header" class="fade-in">PROGRAM OBJECTIVES</h>
+          <div class="thin-line fade-in" ></div>
         </section>
 
-        <ul>
+        <ul class="fade-in">
           <li>To introduce students to current technologies and tools while learning new methodologies that will lead to the development of better information systems.</li>
           <li>To enable students to understand the different components of the information technology field, including hardware, software, communication, networking, research, peopleware, and management skills.</li>
           <li>To demonstrate awareness of how to methodically and practically approach a variety of technological and managerial issues to ultimately improve business strategies and attain competitive advantage.</li>

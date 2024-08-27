@@ -8,36 +8,36 @@
   <link rel="stylesheet" href="assets/css/main-style.css" />
   <link rel="icon" href="assets/PUPSJ-LOGO.png" type="image/icon type" />
 </head>
-
+<!-- scroll fade-ib effect add lang, class="fade-in" -->
 <body>
   <div class="spacer"></div>
   <header class="init-header">
     <?php include('assets/static-html/main-header.html'); ?>
   </header>
-  <img id="slides" src="assets/homepage-slides/5.jpg" />
+  <img id="slides" class="fade-in" src="assets/homepage-slides/5.jpg" />
 
   <section class="after-scroll">
-    <section class="cform overview">
-      <section class="ovtexts">
-        <img src="assets/PUPSJ-MOTTO.png" alt="pupsj-motto">
-        <h1 id="motto-desc">Since 2008, PUP San Juan Campus is a catalyst for progress,
+    <section class="cform overview" class="fade-in">
+      <section class="ovtexts" class="fade-in">
+        <img src="assets/PUPSJ-MOTTO.png" alt="pupsj-motto" class="fade-in">
+        <h1 id="motto-desc" class="fade-in">Since 2008, PUP San Juan Campus is a catalyst for progress,
           empowering students to become transformative leaders. Through quality education, 
           innovation, and social engagement, we equip individuals with the skills and values 
           needed to create a sustainable future for the nation.
         </h1>
       </section>
       <section class="bnnr">
-        <img id="banner" src="assets/WC-BANNER.jpg" alt="pupsj-banner">
+        <img id="banner" src="assets/WC-BANNER.jpg" alt="pupsj-banner" class="fade-in">
       </section>
     </section>
 
-    <section class="cform dir-container">
-      <div class="bg">
-        <img id="dir-img" src="assets/DIRECTOR_NOBG.png"  alt="director's photo transparent" >
+    <section class="cform dir-container" >
+      <div class="bg" class="fade-in">
+        <img id="dir-img" src="assets/DIRECTOR_NOBG.png"  alt="director's photo transparent" class="fade-in" >
         <div id="quote">
-          <h id="header1">Director's</h>
-          <h id="header2">Message</h>
-          <h id="message">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ullam eveniet enim laboriosam,
+          <h id="header1" class="fade-in">Director's</h>
+          <h id="header2" class="fade-in">Message</h>
+          <h id="message" class="fade-in">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ullam eveniet enim laboriosam,
             dolorem voluptates iusto, illum ratione quibusdam repellendus non, assumenda dolore possimus vel ea. Vel
             vero sit iure ipsam! <br><br>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ullam eveniet enim
             laboriosam, dolorem voluptates iusto, illum ratione quibusdam repellendus non, assumenda dolore possimus vel ea. Vel
