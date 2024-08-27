@@ -35,7 +35,7 @@
           <h id="header" class="fade-in">PROGRAM OVERVIEW</h>
           <div class="thin-line"></div>
           <h id="description" class="fade-in">
-            The Bachelor of Science in Information Technology (BSIT) program is a four-year degree program which focuses
+            The <strong> Bachelor of Science in Information Technology (BSIT) </strong>program is a four-year degree program which focuses
             on the study of computer utilization and computer software to plan, install, customize, operate, manage,
             administer and maintain information technology infrastructure. It likewise deals with the design and
             development of computer-based information systems for real-world business solutions.
