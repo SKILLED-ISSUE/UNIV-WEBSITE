@@ -11,7 +11,7 @@
 
 <body>
     <header class="header-container">
-        <?php include __DIR__ . '/../assets/static-html/header.html'; ?>
+    <?php include('../assets/static-html/header.html'); ?>
     </header>
 
     <section class="area program">
@@ -449,25 +449,25 @@
                                 <a href="#"><strong>S.1.</strong> The VMGO is available on bulletin boards, in catalogs/manuals, and in other forms of communication media
                                 </a>
                             </li>
+                            <li><a href="#"><strong>S.2.</strong> There is a system of monitoring the implementation of the SDP.</a></li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
                                 <a href="#">
-                                    <strong>I.1.</strong> The administrators/faculty attend in-service seminars and training on awareness and acceptability of the:
+                                    <strong>I.1.</strong> The institution's Planning Unit plans, monitors and evaluates planned activities/targets.
                                 </a>
-                                <ul>
-                                    <li>I.2.1. Vision and Mission of the Institution;</li>
-                                </ul>
                             </li>
+                            <li><a href="#"><strong>I.2.</strong> The planning process is a cooperative and participative endeavor of the administration, the faculty, staff and the students.</a></li>
+                            <li><a href="#"><strong>I.3.</strong> The SDP is implemented, monitored, evaluated, reviewed and updated regularly.</a></li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
                                 <a href="#">
-                                    <strong>O.1.</strong> There is full awareness and acceptance of the VMGO by the administrators, faculty, staff, students, and other stakeholders.
+                                    <strong>O.1.</strong> The SDP is congruent with the VMGO as well as with the local, regional and national development goals and agenda.
                                 </a>
                             </li>
                         </ul>
@@ -475,16 +475,24 @@
                 </ul>
             </div>
             <button class="collapsible">
-                <div class="title">Parameter B</div>
-                <div class="desc">Dissemination and Acceptability</div>
+                <div class="title">Parameter H</div>
+                <div class="desc">Performance of Administrative Personnel</div>
             </button>
             <div class="content">
                 <ul>
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#"><strong>S.1.</strong> The VMGO is available on bulletin boards, in catalogs/manuals, and in other forms of communication media
+                                <a href="#"><strong>S.1.</strong> The institution has an approved performance evaluation system for administrative personnel which includes the following items:
                                 </a>
+                                <ul>
+                                <li><strong>S.1.1</strong> competence;</li>
+                                <li><strong>S.1.1</strong> quality of work;</li>
+                                <li><strong>S.1.1</strong> work ethic (punctuality, wise use of time, etc.);</li>
+                                <li><strong>S.1.1</strong> creative ability and innovativeness;</li>
+                                <li><strong>S.1.1</strong> ability to handle internal and external pressures;</li>
+                                <li><strong>S.1.1</strong> interpersonal relations.</li>
+                                </ul>
                             </li>
                         </ul>
                     </li>
@@ -492,19 +500,21 @@
                         <ul>
                             <li class="imp">
                                 <a href="#">
-                                    <strong>I.1.</strong> The administrators/faculty attend in-service seminars and training on awareness and acceptability of the:
+                                    <strong>I.1.</strong> The institution regularly monitors and evaluates the performance of the administrative personnel.
                                 </a>
-                                <ul>
-                                    <li>I.2.1. Vision and Mission of the Institution;</li>
-                                </ul>
                             </li>
+                            <li><a href="#"><strong>I.2.</strong> The results of performance evaluation of the administrative personnel are utilized:</a></li>
+                            <ul>
+                            <li><strong>I.2.1</strong> to improve performance and delivery of service;</li>
+                            <li><strong>I.2.2</strong> for promotion..</li>
+                            </ul>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
                                 <a href="#">
-                                    <strong>O.1.</strong> There is full awareness and acceptance of the VMGO by the administrators, faculty, staff, students, and other stakeholders.
+                                    <strong>O.1.</strong> The administrative personnel/staff have commendable performance.
                                 </a>
                             </li>
                         </ul>
@@ -522,7 +532,7 @@
 
 
 
-    <?php include __DIR__ . '/../assets/static-html/footer.html'; ?>
+    <?php include('../assets/static-html/footer.html'); ?>
 
     <script src="../main-script.js"></script>
 </body>
