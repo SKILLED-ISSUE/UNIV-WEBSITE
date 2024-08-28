@@ -18,18 +18,22 @@
         <div class="header">
             <img id="header-img" src="../assets/programs/BSIT/1.png" />
             <div class="header-text" class="fade-in">
-                <h id="header1" class="fade-in">AREA 1</h>
-                <h id="header2" class="fade-in">Vision, Mission, Goals and Objectives</h>
+                <h id="header1" class="fade-in">AREA 5</h>
+                <h id="header2" class="fade-in">RESEARCH</h>
             </div>
         </div>
 
         <div id="description" class="fade-in">
-            The area of Vision, Mission, Goals, and Objectives is the most fundamental of
-            all the (10) areas to be surveyed. Everything in the Institution is justified
-            only to the extent that it realizes its vision and mission. It is essential
-            therefore, for the Institution to formulate the vision and mission which should
-            be the bases of all its operations. The Institution is judged by the degree to
-            which these are attained, not in comparison with others.
+          Research is an avenue through which new knowledge is discovered, applied or verified
+          and through which appropriate technologies are generated. Thus, it is a basic requirement
+          for an educational institution to have a firmly established research and development program.
+          Its thrusts and priorities should be congruent with those identified in the development plans 
+          of regional and national R and D-oriented agencies such as NEDA, DOST, CHED, etc.
+          <br></br>
+          The institutional leadership in research should be proactive and developmental in orientation. 
+          It must provide adequate and sustained budget allocation annually for the academic Unit. 
+          Adequate physical facilities, laboratory equipment and supplies for research should be provided. 
+          The Academic unit has to maintain strong research linkages with various R and D agencies locally and internationally.
         </div>
 
         <div class="line-container">
@@ -59,7 +63,7 @@
         <section class="collapsible-container">
             <button class="collapsible">
                 <div class="title">Parameter A</div>
-                <div class="desc">Statement of Vision, Mission, Goals, and Objectives</div>
+                <div class="desc">Priorities and Relevance</div>
             </button>
             <div class="content">
                 <ul>
