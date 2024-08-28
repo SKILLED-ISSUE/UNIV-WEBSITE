@@ -105,15 +105,23 @@
             </div>
             <button class="collapsible">
                 <div class="title">Parameter B</div>
-                <div class="desc">Dissemination and Acceptability</div>
+                <div class="desc">Academic Administration</div>
             </button>
             <div class="content">
                 <ul>
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#"><strong>S.1.</strong> The VMGO is available on bulletin boards, in catalogs/manuals, and in other forms of communication media
+                                <a href="#"><strong>S.1.</strong> The Dean/Academic Unit Head possesses the required education qualification, experience and other prescribed requirements needed to administer the College/Academic Unit, as follows:
                                 </a>
+                                <ul>
+                                    <li><strong>S.1.1.</strong>  registered Professional Accountant in the Philippines with current PRC Identification Card;</li>
+                                    <li><strong>S.1.2.</strong>  teaching experience of at least five (5) years in the tertiary level, and preferably, two (2) years of administrative experience; and</li>
+                                    <li><strong>S.1.3.</strong> master's degree in business, accountancy, business education, educational management, or other related area of studies.</li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="#"><strong>S.2.</strong> The Dean/Department Chair is a full-time administrator.</a>
                             </li>
                         </ul>
                     </li>
@@ -121,11 +129,35 @@
                         <ul>
                             <li class="imp">
                                 <a href="#">
-                                    <strong>I.1.</strong> The administrators/faculty attend in-service seminars and training on awareness and acceptability of the:
+                                    <strong>I.1.</strong> The Dean is assisted by Department Chair/s or their equivalent with appropriate/relevant educational qualification and experience.
                                 </a>
+                            </li>
+                            <li>
+                                <a href="#"><strong>I.2.</strong> The Dean implements a supervisory program.</a>
+                            </li>
+                            <li>
+                                <a href="#"><strong>I.3.</strong> The Dean participates in the recruitment and promotion of faculty and staff.</a>
+                            </li>
+                            <li>
+                                <a href="#"><strong>I.4.</strong> The Dean, the faculty and the administration work together for the improvement of the College/Academic Unit particularly in:</a>
                                 <ul>
-                                    <li>I.2.1. Vision and Mission of the Institution;</li>
+                                    <li><strong>I.4.1.</strong> setting standards and targets;</li>
+                                    <li><strong>I.4.2.</strong> planning of programs and other related activities;</li>
+                                    <li><strong>I.4.3.</strong> implementing, monitoring and evaluation of plans, programs and other related activities;</li>
+                                    <li><strong>I.4.4.</strong> establishing linkages, partnerships and networking activities;</li>
+                                    <li><strong>I.4.5.</strong> providing opportunities for professional growth and development for the faculty and staff;</li>
+                                    <li><strong>I.4.6.</strong> preparing policies and guidelines on the internal administration and operation of the College/Academic Unit/s;</li>
+                                    <li><strong>I.4.7.</strong> preparing guidelines on the proper use and maintenance of facilities, equipment, supplies and materials, etc.</li>
                                 </ul>
+                            </li>
+                            <li>
+                                <a href="#"><strong>I.4.</strong> Definite criteria and procedures in the selection and promotion of the most qualified faculty and staff are observed.</a>
+                            </li>
+                            <li>
+                                <a href="#"><strong>I.5.</strong> The Dean, faculty, staff and students pursue collaborative activities in generating resources and income and in implementing cost-effective measures.</a>
+                            </li>
+                            <li>
+                                <a href="#"><strong>I.6.</strong> The Dean implements policies and procedures on internal administration and operations of the College/Academic Unit.</a>
                             </li>
                         </ul>
                     </li>
@@ -133,7 +165,7 @@
                         <ul>
                             <li class="out">
                                 <a href="#">
-                                    <strong>O.1.</strong> There is full awareness and acceptance of the VMGO by the administrators, faculty, staff, students, and other stakeholders.
+                                    <strong>O.1.</strong> The College/Academic Unit is efficiently and effectively managed.
                                 </a>
                             </li>
                         </ul>
