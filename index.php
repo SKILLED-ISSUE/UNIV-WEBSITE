@@ -16,7 +16,7 @@
     </div>
   <div class="spacer"></div>
   <header class="init-header">
-    <?php include('assets/static-html/header.html'); ?>
+    <?php include('assets/static-html/main-header.html'); ?>
   </header>
   <img id="slides" class="fade-in" src="assets/homepage-slides/5.jpg" />
 
@@ -54,8 +54,9 @@
 
   <?php include('assets/static-html/footer.html'); ?>
 
-  <script src="/init-script.js"></script>
-  <script src="/main-script.js"></script>
+  <script src="init-script.js"></script>
+  <script src="main-script.js"></script>
+  <script></script>
 </body>
 
 </html>
