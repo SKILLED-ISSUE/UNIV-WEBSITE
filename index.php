@@ -9,11 +9,12 @@
   <link rel="icon" href="assets/PUPSJ-LOGO.png" type="image/icon type" />
 </head>
 <!-- scroll fade-ib effect add lang, class="fade-in" -->
+
 <body>
   <div id="warning-overlay">
-        <div id="warning-header">UNDER DEVELOPMENT</div>
-        <p>This site is best viewed on a desktop. Please switch to a desktop or larger screen for a better experience.</p>
-    </div>
+    <div id="warning-header">UNDER DEVELOPMENT</div>
+    <p>This site is best viewed on a desktop. Please switch to a desktop or larger screen for a better experience.</p>
+  </div>
   <div class="spacer"></div>
   <header class="init-header">
     <?php include('assets/static-html/main-header.html'); ?>
@@ -25,8 +26,8 @@
       <section class="ovtexts" class="fade-in">
         <img src="assets/PUPSJ-MOTTO.png" alt="pupsj-motto" class="fade-in">
         <h1 id="motto-desc" class="fade-in">Since 2008, PUP San Juan Campus is a catalyst for progress,
-          empowering students to become transformative leaders. Through quality education, 
-          innovation, and social engagement, we equip individuals with the skills and values 
+          empowering students to become transformative leaders. Through quality education,
+          innovation, and social engagement, we equip individuals with the skills and values
           needed to create a sustainable future for the nation.
         </h1>
       </section>
@@ -35,16 +36,18 @@
       </section>
     </section>
 
-    <section class="cform dir-container" >
+    <section class="cform dir-container">
       <div class="bg" class="fade-in">
-        <img id="dir-img" src="assets/DIRECTOR_NOBG.png"  alt="director's photo transparent" class="fade-in" >
+        <img id="dir-img" src="assets/DIRECTOR_NOBG.png" alt="director's photo transparent" class="fade-in">
         <div id="quote">
           <h id="header1" class="fade-in">Director's</h>
           <h id="header2" class="fade-in">Message</h>
-          <h id="message" class="fade-in">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ullam eveniet enim laboriosam,
+          <h id="message" class="fade-in">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ullam eveniet enim
+            laboriosam,
             dolorem voluptates iusto, illum ratione quibusdam repellendus non, assumenda dolore possimus vel ea. Vel
             vero sit iure ipsam! <br><br>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ullam eveniet enim
-            laboriosam, dolorem voluptates iusto, illum ratione quibusdam repellendus non, assumenda dolore possimus vel ea. Vel
+            laboriosam, dolorem voluptates iusto, illum ratione quibusdam repellendus non, assumenda dolore possimus vel
+            ea. Vel
             vero sit iure ipsam!
           </h>
         </div>

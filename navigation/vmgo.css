@@ -1,0 +1,27 @@
+iframe {
+  max-width: 80%;
+  border-radius: 1em;
+  transition: border 0.5s ease;
+  border: 2px solid transparent; /* Initial border to allow transition effect */
+}
+
+iframe:hover {
+  border: 0.5em solid rgba(127, 20, 20, 0.7725490196); /* Border color on hover */
+}
+
+#description {
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+}
+
+#quote-title {
+  text-align: left;
+  font-family: "Product Sans Bold";
+  font-size: 1.2em;
+}
+
+#note {
+    font-size: 0.8em;
+    color: rgb(153, 12, 12);
+}
