@@ -321,82 +321,125 @@
 
             </div>
             <button class="collapsible">
-                <div class="title">Parameter B</div>
-                <div class="desc">Dissemination and Acceptability</div>
+                <div class="title">Parameter E</div>
+                <div class="desc">Supply Management</div>
             </button>
             <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="#"><strong>S.1.</strong> The VMGO is available on bulletin boards, in catalogs/manuals, and in other forms of communication media
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="#">
-                                    <strong>I.1.</strong> The administrators/faculty attend in-service seminars and training on awareness and acceptability of the:
-                                </a>
-                                <ul>
-                                    <li>I.2.1. Vision and Mission of the Institution;</li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="#">
-                                    <strong>O.1.</strong> There is full awareness and acceptance of the VMGO by the administrators, faculty, staff, students, and other stakeholders.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
+            <ul>
+    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
+        <ul>
+            <li class="sip">
+                <a href="#"><strong>S.1.</strong> The institution has an approved procurement management system in consonance with the Revised IRR of RA 9184 (Government Procurement Reform Act).</a>
+            </li>
+            <li class="sip">
+                <a href="#"><strong>S.2.</strong> The institution has a system of proper disposal on non-serviceable and condemned equipment, supplies and materials.</a>
+            </li>
+            <li class="sip">
+                <a href="#"><strong>S.3.</strong> The office has a storeroom for securing equipment, supplies and materials purchased.</a>
+            </li>
+        </ul>
+    </li>
+    <li class="list-header"><strong>Implementation</strong>
+        <ul>
+            <li class="imp">
+                <a href="#"><strong>I.1.</strong> The institution maintains a Supply Management Office (SMO) managed by qualified staff with specific functions and responsibilities.</a>
+            </li>
+            <li class="imp">
+                <a href="#"><strong>I.2.</strong> The Bids and Awards Committee (BAC) is responsible for the procurement and deliveries of needed equipment, supplies and materials in accordance with the approved Annual Procurement Plan (APP) and Project Procurement Management Plan (PPMP).</a>
+            </li>
+            <li class="imp">
+                <a href="#"><strong>I.3.</strong> The BAC performs its tasks and responsibilities in accordance with recent procurement policies and official issuances.</a>
+            </li>
+            <li class="imp">
+                <a href="#"><strong>I.4.</strong> The SMO prepares, evaluates and submits the annual inventory of serviceable and non-serviceable facilities and equipment.</a>
+            </li>
+            <li class="imp">
+                <a href="#"><strong>I.5.</strong> All approved requests for procurement are published in the Philippine Government Electronic Procurement System (Phil-GEPS).</a>
+            </li>
+        </ul>
+    </li>
+    <li class="list-header"><strong>Outcome/s</strong>
+        <ul>
+            <li class="out">
+                <a href="#"><strong>O.1.</strong> The institution has an efficient and effective Supply Management System.</a>
+            </li>
+            <li class="out">
+                <a href="#"><strong>O.2.</strong> All procurement transactions are transparent.</a>
+            </li>
+        </ul>
+    </li>
+</ul>
+
             </div>
             <button class="collapsible">
-                <div class="title">Parameter B</div>
-                <div class="desc">Dissemination and Acceptability</div>
+                <div class="title">Parameter F</div>
+                <div class="desc">Records Management</div>
             </button>
             <div class="content">
+            <ul>
+    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
+        <ul>
+            <li class="sip">
+                <a href="#"><strong>S.1.</strong> The institution has a system of records keeping.</a>
+            </li>
+            <li class="sip">
+                <a href="#"><strong>S.2.</strong> The institution has policies and procedures to ensure the security and confidentiality of records.</a>
+            </li>
+            <li class="sip">
+                <a href="#"><strong>S.3.</strong> Policies and procedures on prompt release of records are in place.</a>
+            </li>
+        </ul>
+    </li>
+    <li class="list-header"><strong>Implementation</strong>
+        <ul>
+            <li class="imp">
+                <a href="#"><strong>I.1.</strong> The institution maintains a Records Management Office (RMO) managed by a qualified Records Officer.</a>
+            </li>
+            <li class="imp">
+                <a href="#"><strong>I.2.</strong> A records system is installed in offices where it allows access to information needed by concerned parties.</a>
+            </li>
+            <li class="imp">
+                <a href="#"><strong>I.3.</strong> The Human Resource Management Office (HRMO) maintains accurate, up-to-date and systematic records of faculty and staff.</a>
+            </li>
+            <li class="imp">
+                <strong>I.4.</strong> The following updated records are made available to concerned parties:
                 <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="#"><strong>S.1.</strong> The VMGO is available on bulletin boards, in catalogs/manuals, and in other forms of communication media
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="#">
-                                    <strong>I.1.</strong> The administrators/faculty attend in-service seminars and training on awareness and acceptability of the:
-                                </a>
-                                <ul>
-                                    <li>I.2.1. Vision and Mission of the Institution;</li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="#">
-                                    <strong>O.1.</strong> There is full awareness and acceptance of the VMGO by the administrators, faculty, staff, students, and other stakeholders.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
+                    <li><a href="#"><strong>I.4.1.</strong> minutes of the Board of Regents/Trustees meetings;</a></li>
+                    <li><a href="#"><strong>I.4.2.</strong> minutes of the faculty meetings, e.g. minutes of the Academic Council meetings;</a></li>
+                    <li><a href="#"><strong>I.4.3.</strong> faculty/non-teaching personnel individual files;</a></li>
+                    <li><a href="#"><strong>I.4.4.</strong> faculty/non-teaching personnel performance evaluation results;</a></li>
+                    <li><a href="#"><strong>I.4.5.</strong> other records such as:</a></li>
+                    <ul>
+                    <li><strong>I.4.5.1.</strong> student directory;</li>
+                    <li><strong>I.4.5.2.</strong> alumni directory;</li>
+                    <li><strong>I.4.5.3.</strong> permanent records of students;</li>
+                    <li><strong>I.4.5.4.</strong> reports of Director/Dean;</li>
+                    <li><strong>I.4.5.5.</strong> annual reports;</li>
+                    <li><strong>I.4.5.6.</strong> accomplishment/progress reports;</li>
+                    <li><strong>I.4.5.7.</strong> scholarship records;</li>
+                    <li><strong>I.4.5.8.</strong> statistical data;</li>
+                    <li><strong>I.4.5.9.</strong> financial records of students;</li>
+                    <li><strong>I.4.5.10.</strong> inventory of property;</li>
+                    <li><strong>I.4.5.11.</strong> proceedings of administrative investigation (if any);</li>
+                    <li><strong>I.4.5.12.</strong> others</li>
+                    </ul>
                 </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="list-header"><strong>Outcome/s</strong>
+        <ul>
+            <li class="out">
+                <a href="#"><strong>O.1.</strong> The institution has a commendable Records Management System.</a>
+            </li>
+        </ul>
+    </li>
+</ul>
+
             </div>
             <button class="collapsible">
-                <div class="title">Parameter B</div>
-                <div class="desc">Dissemination and Acceptability</div>
+                <div class="title">Parameter G</div>
+                <div class="desc">institutional Planning and Development</div>
             </button>
             <div class="content">
                 <ul>
