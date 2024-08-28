@@ -18,7 +18,7 @@
         <div class="header">
             <img id="header-img" src="../assets/programs/BSIT/1.png" />
             <div class="header-text" class="fade-in">
-                <h id="header1" class="fade-in">AREA 1</h>
+                <h id="header1" class="fade-in">AREA 6</h>
                 <h id="header2" class="fade-in">EXTENSION AND COMMUNITY INVOLVEMENT</h>
             </div>
         </div>
