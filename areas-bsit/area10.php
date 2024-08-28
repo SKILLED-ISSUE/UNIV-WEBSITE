@@ -173,16 +173,52 @@
                 </ul>
             </div>
             <button class="collapsible">
-                <div class="title">Parameter B</div>
-                <div class="desc">Dissemination and Acceptability</div>
+                <div class="title">Parameter C</div>
+                <div class="desc">Student Administration</div>
             </button>
             <div class="content">
                 <ul>
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#"><strong>S.1.</strong> The VMGO is available on bulletin boards, in catalogs/manuals, and in other forms of communication media
-                                </a>
+                                <strong>S.1.</strong> The institution has an approved and printed Student Handbook/Manual containing policies and guidelines on the following aspects of student life:
+                                <ul>
+                                <li>
+                                <a href="#"><strong>S.1.1</strong> admission and retention policies;</a>
+                                 </li>
+                                 <li>
+                                <a href="#"><strong>S.1.2</strong> registration requirements;</a>
+                                </li>
+                                <li>
+                                <a href="#"><strong>S.1.3</strong> school fees;</a>
+                                </li>
+                                <li>
+                                <a href="#"><strong>S.1.4</strong> academic load;</a>
+                                </li>
+                                <li>
+                                <a href="#"><strong>S.1.5</strong> transfers;</a>
+                                </li>
+                                <li>
+                                <a href="#"><strong>S.1.6</strong> residence, course work, scholastic and graduation requirements;</a>
+                                </li>
+                                <li>
+                                <a href="#"><strong>S.1.7</strong> examination and grading system;</a>
+                                </li>
+                                <li>
+                                <a href="#"><strong>S.1.8</strong> scholarships/grants/assistantships;</a>
+                                </li>
+                                <li>
+                                <a href="#"><strong>S.1.9</strong> shifting and adding/dropping of course/s/subject/s;</a>
+                                </li>
+                                <li>
+                                <a href="#"><strong>S.1.10</strong> code of conduct and discipline;</a>
+                                </li>
+                                <li>
+                                <a href="#"><strong>S.1.11</strong> others.</a>
+                                </li>
+                                
+                                
+                                </ul>
                             </li>
                         </ul>
                     </li>
@@ -192,19 +228,27 @@
                                 <a href="#">
                                     <strong>I.1.</strong> The administrators/faculty attend in-service seminars and training on awareness and acceptability of the:
                                 </a>
-                                <ul>
-                                    <li>I.2.1. Vision and Mission of the Institution;</li>
-                                </ul>
                             </li>
+                            <li>
+                                <a href="#"><strong>I.2.</strong> Concerned officials, faculty and staff act promptly on requests and problems of the students.</a>
+                             </li>
+                             <li>
+                                <a href="#"><strong>I.3.</strong> The administration, faculty, staff and students work harmoniously and maintain good relationship.</a>
+                             </li>
+
+                                
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
                                 <a href="#">
-                                    <strong>O.1.</strong> There is full awareness and acceptance of the VMGO by the administrators, faculty, staff, students, and other stakeholders.
+                                    <strong>O.1.</strong> The institution has an effective and functional student administration.
                                 </a>
                             </li>
+                            <li>
+                                <a href="#"><strong>O.2.</strong> Policy implementation is efficient.</a>
+                             </li>
                         </ul>
                     </li>
                 </ul>
