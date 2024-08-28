@@ -254,41 +254,71 @@
                 </ul>
             </div>
             <button class="collapsible">
-                <div class="title">Parameter B</div>
-                <div class="desc">Dissemination and Acceptability</div>
+                <div class="title">Parameter D</div>
+                <div class="desc">Financial Management</div>
             </button>
             <div class="content">
+            <ul>
+    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
+        <ul>
+            <li class="sip">
+                <a href="#"><strong>S.1.</strong> The institution has an approved Financial Development Plan (FDP).</a>
+            </li>
+            <li class="sip">
+                <a href="#"><strong>S.2.</strong> The approved budget is in consonance with the FDP.</a>
+            </li>
+            <li class="sip">
+                <strong>S.3.</strong> The institution has specific budgetary allotment for the following:
                 <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="#"><strong>S.1.</strong> The VMGO is available on bulletin boards, in catalogs/manuals, and in other forms of communication media
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="#">
-                                    <strong>I.1.</strong> The administrators/faculty attend in-service seminars and training on awareness and acceptability of the:
-                                </a>
-                                <ul>
-                                    <li>I.2.1. Vision and Mission of the Institution;</li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="#">
-                                    <strong>O.1.</strong> There is full awareness and acceptance of the VMGO by the administrators, faculty, staff, students, and other stakeholders.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
+                    <li><a href="#"><strong>S.3.1.</strong> personnel services;</a></li>
+                    <li><a href="#"><strong>S.3.2.</strong> Maintenance and Other Operating Expenses (MOOE);</a></li>
+                    <li><a href="#"><strong>S.3.3.</strong> capital outlay; and</a></li>
+                    <li><a href="#"><strong>S.3.4.</strong> special projects.</a></li>
                 </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="list-header"><strong>Implementation</strong>
+        <ul>
+            <li class="imp">
+                <a href="#"><strong>I.1.</strong> The institution maintains a Financial Management Office managed by qualified and competent staff.</a>
+            </li>
+            <li class="imp">
+                <a href="#"><strong>I.2.</strong> The financial management staff are responsible for the efficient management of financial resources/funds of the institution.</a>
+            </li>
+            <li class="imp">
+                <a href="#"><strong>I.3.</strong> The administrative officials, faculty, staff and student representatives participate in the budget preparation and in the procurement program of the institution.</a>
+            </li>
+            <li class="imp">
+                <a href="#"><strong>I.4.</strong> The budget of the institution is fairly and objectively allocated.</a>
+            </li>
+            <li class="imp">
+                <a href="#"><strong>I.5.</strong> The institution allocates funds for the following services and activities:</a>
+                <ul>
+                    <li><strong>I.5.1.</strong> cultural development;</li>
+                    <li><strong>I.5.2.</strong> athletic and sports development;</li>
+                    <li><strong>I.5.3.</strong> medical and dental services;</li>
+                    <li><strong>I.5.4.</strong> library;</li>
+                    <li><strong>I.5.5.</strong> student body organization;</li>
+                    <li><strong>I.5.6.</strong> guidance and counseling;</li>
+                    <li><strong>I.5.7.</strong> improvement of laboratories/shops;</li>
+                    <li><strong>I.5.8.</strong> repair and maintenance of facilities and equipment;</li>
+                    <li><strong>I.5.9.</strong> purchase of new equipment, supplies and materials</li>
+                    <li><strong>I.5.10.</strong> replacement of old and unserviceable equipment;</li>
+                    <li><strong>I.5.11.</strong> construction of new facilities;</li>
+                    <li><strong>I.5.12.</strong> improvement/expansion of physical plant;</li>
+                    <li><strong>I.5.13.</strong> extension and community services;</li>
+                    <li><strong>I.5.14.</strong> disaster and risk reduction; and</li>
+                    <li><strong>I.5.15.</strong> auxiliary services.</></li>
+                </ul>
+            </li>
+            <li class="imp">
+                <a href="#"><strong>I.6.</strong> The budget for specific expenditures indicated in item I.5. is allotted in consonance with existing policies and guidelines.</a>
+            </li>
+        </ul>
+    </li>
+</ul>
+
             </div>
             <button class="collapsible">
                 <div class="title">Parameter B</div>
