@@ -77,10 +77,6 @@
                                 <a href="#"><strong>S.2.</strong> The institution has an approved Research Manual.
                                 </a>
                             </li>
-                            <li class="sip">
-                                <a href="#"><strong>S.2.</strong> The institution has an approved Research Manual.
-                                </a>
-                            </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
