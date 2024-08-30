@@ -72,8 +72,6 @@
         <a href="#c1" class='scroll-link' class="fade-in">Program Objectives</a>
         <a href="#c2" class='scroll-link' class="fade-in">Areas Under Survey</a>
       </section>
-
-            implementation and maintenance.
       <div class="main-contents">
         <section class="overview">
           <h id="header1">BACHELOR OF SECONDARY</h>
@@ -96,7 +94,30 @@
 
       <div class="main-contents">
         <section class="overview">
-          <h id="header" class="fade-in">PROGRAM OVERVIEW</h>
+          <h id="header1">BACHELOR OF SCIENCE IN</h>
+          <h id="header" class="fade-in">HOSPITALITY MANAGEMENT</h>
+          <div class="thin-line"></div>
+          <h id="description" class="fade-in">
+						The <strong>Bachelor of Science in Hospitality Management (BSHM)</strong> is a ladderized program
+						that prepares students to have employable skills/competencies at every academic 
+						year level for them to be competitive in the hospitality industry locally and globally.  
+						This also prepares the students to be entrepreneurs. This curriculum includes laboratory 
+						experiences as well as local or international internship requirement in the industry.
+          </h>
+        </section>
+      </div>
+    </div>
+    <div class="content-container" >
+      <section class="pointers">
+        <h id="header" class="fade-in">CONTENTS</h>
+        <a href="#c1" class='scroll-link' class="fade-in">Program Objectives</a>
+        <a href="#c2" class='scroll-link' class="fade-in">Areas Under Survey</a>
+      </section>
+
+      <div class="main-contents">
+        <section class="overview">
+          <h id="header1">BACHELOR OF SCIENCE IN</h>
+          <h id="header" class="fade-in">INFORMATION TECHNOLOGY</h>
           <div class="thin-line"></div>
           <h id="description" class="fade-in">
             The <strong> Bachelor of Science in Information Technology (BSIT) </strong>program is a four-year degree program which focuses
@@ -113,48 +134,25 @@
     </div>
     <div class="content-container" >
       <section class="pointers">
-        <h id="header" class="fade-in">CONTENTS</h>
-        <a href="#c1" class='scroll-link' class="fade-in">Program Objectives</a>
-        <a href="#c2" class='scroll-link' class="fade-in">Areas Under Survey</a>
+  			<img id="slides" class="fade-in" src="../assets/homepage-slides/1.jpg" />
       </section>
 
       <div class="main-contents">
         <section class="overview">
-          <h id="header" class="fade-in">PROGRAM OVERVIEW</h>
+          <h id="header1">BACHELOR OF SCIENCE IN</h>
+          <h id="header" class="fade-in">BUSINESS ADMINISTRATION MAJOR IN FINANCIAL MANAGEMENT</h>
           <div class="thin-line"></div>
           <h id="description" class="fade-in">
-            The <strong> Bachelor of Science in Information Technology (BSIT) </strong>program is a four-year degree program which focuses
-            on the study of computer utilization and computer software to plan, install, customize, operate, manage,
-            administer and maintain information technology infrastructure. It likewise deals with the design and
-            development of computer-based information systems for real-world business solutions.
-            <br><br>
-            The program prepares students to become IT professionals with primary competencies in the areas of systems
-            analysis and design, applications development, database administration, network administration, and systems
-            implementation and maintenance.
-          </h>
-        </section>
-      </div>
-    </div>
-    <div class="content-container" >
-      <section class="pointers">
-        <h id="header" class="fade-in">CONTENTS</h>
-        <a href="#c1" class='scroll-link' class="fade-in">Program Objectives</a>
-        <a href="#c2" class='scroll-link' class="fade-in">Areas Under Survey</a>
-      </section>
-
-      <div class="main-contents">
-        <section class="overview">
-          <h id="header" class="fade-in">PROGRAM OVERVIEW</h>
-          <div class="thin-line"></div>
-          <h id="description" class="fade-in">
-            The <strong> Bachelor of Science in Information Technology (BSIT) </strong>program is a four-year degree program which focuses
-            on the study of computer utilization and computer software to plan, install, customize, operate, manage,
-            administer and maintain information technology infrastructure. It likewise deals with the design and
-            development of computer-based information systems for real-world business solutions.
-            <br><br>
-            The program prepares students to become IT professionals with primary competencies in the areas of systems
-            analysis and design, applications development, database administration, network administration, and systems
-            implementation and maintenance.
+						The Bachelor of Science in Business Administration Major in Financial Management (BSBA-FM) is a four-year 
+						degree program that equips students with the essential knowledge and skills to manage financial resources 
+						effectively within organizations. This program focuses on the principles and practices of financial management, 
+						including the analysis, planning, and control of financial activities in businesses and other institutions.
+						<br></br>
+						The BSBA-FM program covers key areas such as financial analysis, investment management, risk management, 
+						corporate finance, financial markets, and international finance. Students learn to assess financial performance,
+						develop strategies for maximizing financial resources, and make informed financial decisions. The curriculum 
+						typically includes subjects like financial accounting, financial management, business finance, investment 
+						analysis, and financial markets and institutions.
           </h>
         </section>
       </div>
