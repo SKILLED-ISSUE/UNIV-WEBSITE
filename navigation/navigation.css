@@ -136,3 +136,8 @@ font-family: "Product Sans Bold";
   height: auto; 
 }
 
+.admin {
+
+flex-direction: column !important;
+ 
+}
