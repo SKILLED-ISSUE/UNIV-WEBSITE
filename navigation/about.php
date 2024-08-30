@@ -30,7 +30,7 @@
                 <a href="#">History</a>
                 <a href="#">Administration</a>
                 <a href="#">Facilities</a>
-                <a href="#">Faculties and Staff</a>
+                <a href="faculty.php">Faculty and Staff</a>
                 <a href="#">Local Task Force</a>
             </div>
 
