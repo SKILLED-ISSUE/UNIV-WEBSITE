@@ -111,10 +111,22 @@ margin-bottom: 3em;
 
 ul {
   list-style-type: disc;
-  margin-left: 20px;
+ 
 }
 
 .p3 {
 
 font-family: "Product Sans Bold";
+}
+
+.card-body-history {
+  display: flex;
+  margin-left: 3em;
+  margin-right: 5em;
+ margin-bottom: 3em;
+   text-align: justify;
+}
+
+.history-banner {
+  height: 30em;
 }
