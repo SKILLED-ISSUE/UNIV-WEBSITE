@@ -571,7 +571,6 @@ footer .right {
 }
 
 /*MOBILE BLOCKING*/
-
 #warning-overlay {
   flex-direction: column;
   font-family: "Product Sans Bold";
@@ -587,13 +586,14 @@ footer .right {
   justify-content: center;
   align-items: center;
   text-align: center;
-
   padding: 20px;
   box-sizing: border-box;
 }
+
 #warning-header {
   font-size: 1.5em;
 }
+
 #warning-overlay p {
   color: rgba(255, 255, 255, 0.688);
   font-size: 0.8em;
@@ -613,4 +613,5 @@ body.no-scroll {
     overflow-x: hidden;
   }
 }
+
 /*# sourceMappingURL=main-style.css.map */
