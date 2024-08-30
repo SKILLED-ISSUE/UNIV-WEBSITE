@@ -2,10 +2,10 @@
     gap: 3em;
     justify-content: center;
 
-    .refs{
+    .refs {
         flex-direction: column;
         gap: 1em;
-    
+
         a {
             text-decoration: none;
             background-color: #7f1414;
@@ -23,7 +23,7 @@
         }
     }
 
-    .desc-container{
+    .desc-container {
         flex-direction: column;
         width: 50%;
 
@@ -32,9 +32,23 @@
             text-align: justify;
         }
     }
-
-    
 }
 
+.overview {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
 
+    p {
+        margin: 0;
+        width: 70%;
+    }
 
+    p:nth-child(1) {
+        font-weight: bold;
+        color: #7f1414;
+        font-size: 1.5rem;
+    }
+
+}
