@@ -4,9 +4,9 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vision and Mission</title>
-    <link rel="stylesheet" href="../navigation/navigation.css" />
+    <title>About</title>
     <link rel="stylesheet" href="../assets/css/main-style.css" />
+    <link rel="stylesheet" href="../navigation/about-style.css" />
     <link rel="icon" href="../assets/PUPSJ-LOGO.png" type="image/icon type" />
 </head>
 
@@ -20,47 +20,39 @@
             <img id="header-img" src="../assets/abouts/1.jpg" />
             <div class="header-text" class="fade-in">
 
-                <h id="header2" class="fade-in">Vision and Mission</h>
+                <h id="header2" class="fade-in">About PUP San Juan</h>
             </div>
         </div>
 
-        <div id="description" class="fade-in">
-            <p id="quote-title">From an Epistemic Community Towards a National Polytechnic University of the Philippines
-            </p>
-            The stellar accomplishments of the PUP San Juan Branch is ably founded on the University's vision: first as
-            an epistemic community towards a National Polytechnic University of the Philippines. In an effort to get
-            there, the Program is also strongly supporting the mission and development agenda of the University
-            Leadership. What started as an Eight-Point Development Plan under former University President Dr. Emanuel De
-            Guzman was expanded and fortified by the 10 Pillar Reform Agenda of current President, Dr. Manuel Muhi.
-
-            <p id="note"><i>The video below developed by the PUP Communication Management Office (CMO) briefly describes
-                    President Muhi's vision for the University.</i></p>
-        </div>
-
-        <iframe width="1351" height="518" src="https://www.youtube.com/embed/i7qQVvI8fOI"
-            title="PUP Vision, Mission, and 10 Pillars Reform Agenda" frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-        <!-- <div class="line-container">
-            <div id="thin-line" class="one"></div>
-        </div>
-
-        <div class="line-container">
-            <div class="two" id="thin-line"></div>
-        </div> -->
-
-        <div class="card">
-            <div class="card-header">
-                Our Mission
+        <section class="ref-n-contents">
+            <div class="refs">
+                <a href="#">Vision, Mission, and Goals</a>
+                <a href="#">History</a>
+                <a href="#">Administration</a>
+                <a href="#">Facilities</a>
+                <a href="#">Faculties and Staff</a>
+                <a href="#">Local Task Force</a>
             </div>
-            <div class="card-body">
-                <p>PUP: The National Polytechnic University</p>
-                <p>PUP: Pambansang Politeknikong Unibersidad</p>
+
+            <div class="desc-container">
+                <div id="desc" class="fade-in">
+                    Despite its proximity to the Manila Main Campus, the Polytechnic University of the Philippines –
+                    San Juan City Campus which started as a locally funded campus by the City Government of San Juan established in
+                    2008 by Mayor Joseph Victor "JV" G. Ejercito, is now a viable institution by virtue of Republic Act 11348. This is
+                    one of its many firsts as it officially becomes an integral part of the University system in terms of funding source
+                    and is continuously growing and developing as a higher learning institution.<br><br>To wit, PUP San Juan City Branch
+                    offers various academic programs such as Bachelor of Science in Accountancy, Bachelor of Science in Business
+                    Administration major in Financial Management, Bachelor of Science in Entrepreneurship, Bachelor of Secondary
+                    Education major in English, Bachelor of Science in Hospitality Management, Bachelor of Science in Information
+                    Technology and Bachelor of Science in Psychology. <br><br>To this day, it thrives to become the Tanglaw ng Bayan sa Dambana ng Kagitingan!
+                </div>
+
+                <div></div>
+
             </div>
-        </div>
 
 
+        </section>
 
     </section>
 

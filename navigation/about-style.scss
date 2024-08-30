@@ -1,0 +1,40 @@
+.ref-n-contents {
+    gap: 3em;
+    justify-content: center;
+
+    .refs{
+        flex-direction: column;
+        gap: 1em;
+    
+        a {
+            text-decoration: none;
+            background-color: #7f1414;
+            color: white;
+            line-height: 3em;
+            padding: 0.5em 1em;
+            border-radius: 0.5em;
+            height: 3em;
+            transition: 1 ease-in-out;
+            text-align: center;
+        }
+
+        a:hover {
+            background-color: #7f1414c6;
+        }
+    }
+
+    .desc-container{
+        flex-direction: column;
+        width: 50%;
+
+        #desc {
+            width: 100%;
+            text-align: justify;
+        }
+    }
+
+    
+}
+
+
+
