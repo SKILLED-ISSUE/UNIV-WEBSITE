@@ -18,15 +18,13 @@
     <div class="header">
       <img id="header-img" src="../assets/programs/BSIT/1.png" />
       <div class="header-text">
-        <h id="header2">PROGRAMS</h>
+        <h id="header2">Programs</h>
       </div>
     </div>
 
     <div class="content-container" >
       <section class="pointers">
-        <h id="header" class="fade-in">CONTENTS</h>
-        <a href="#c1" class='scroll-link' class="fade-in">Program Objectives</a>
-        <a href="#c2" class='scroll-link' class="fade-in">Areas Under Survey</a>
+  			<img id="overview" class="fade-in" src="../assets/programs/overview/accountancy.jpg" />
       </section>
 
       <div class="main-contents">
@@ -45,10 +43,8 @@
       </div>
     </div>
     <div class="content-container" >
+  			<img id="overview" class="fade-in" src="../assets/programs/overview/entrep.jpg" />
       <section class="pointers">
-        <h id="header" class="fade-in">CONTENTS</h>
-        <a href="#c1" class='scroll-link' class="fade-in">Program Objectives</a>
-        <a href="#c2" class='scroll-link' class="fade-in">Areas Under Survey</a>
       </section>
 
       <div class="main-contents">
@@ -68,9 +64,7 @@
     </div>
     <div class="content-container" >
       <section class="pointers">
-        <h id="header" class="fade-in">CONTENTS</h>
-        <a href="#c1" class='scroll-link' class="fade-in">Program Objectives</a>
-        <a href="#c2" class='scroll-link' class="fade-in">Areas Under Survey</a>
+  			<img id="overview" class="fade-in" src="../assets/programs/overview/educ.jpg" />
       </section>
       <div class="main-contents">
         <section class="overview">
@@ -87,9 +81,7 @@
     </div>
     <div class="content-container" >
       <section class="pointers">
-        <h id="header" class="fade-in">CONTENTS</h>
-        <a href="#c1" class='scroll-link' class="fade-in">Program Objectives</a>
-        <a href="#c2" class='scroll-link' class="fade-in">Areas Under Survey</a>
+  			<img id="overview" class="fade-in" src="../assets/programs/overview/hm.png" />
       </section>
 
       <div class="main-contents">
@@ -109,9 +101,7 @@
     </div>
     <div class="content-container" >
       <section class="pointers">
-        <h id="header" class="fade-in">CONTENTS</h>
-        <a href="#c1" class='scroll-link' class="fade-in">Program Objectives</a>
-        <a href="#c2" class='scroll-link' class="fade-in">Areas Under Survey</a>
+  			<img id="overview" class="fade-in" src="../assets/programs/overview/it.jpg" />
       </section>
 
       <div class="main-contents">
@@ -134,7 +124,7 @@
     </div>
     <div class="content-container" >
       <section class="pointers">
-  			<img id="slides" class="fade-in" src="../assets/homepage-slides/1.jpg" />
+  			<img id="overview" class="fade-in" src="../assets/programs/overview/fm.png" />
       </section>
 
       <div class="main-contents">
