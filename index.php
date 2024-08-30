@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>PUP San Juan</title>
   <link rel="stylesheet" href="assets/css/main-style.css" />
+  <link rel="stylesheet" href="../navigation/navigation.css" />
   <link rel="icon" href="assets/PUPSJ-LOGO.png" type="image/icon type" />
 </head>
 <!-- scroll fade-ib effect add lang, class="fade-in" -->
@@ -52,8 +53,21 @@
           </h>
         </div>
       </div>
+
+     
     </section>
+
+   
   </section>
+
+  <section class="pupsj-svp">
+
+  <iframe width="1339" height="480" src="https://www.youtube.com/embed/9ypv1kOj7CU" title="PUPSJ AVP 2024"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </section>
+
 
   <?php include('assets/static-html/footer.html'); ?>
 
