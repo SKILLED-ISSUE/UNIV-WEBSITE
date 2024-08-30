@@ -148,6 +148,80 @@
             </div>
 
         </div>
+
+        <div class="card">
+            <div class="card-header">
+                PUPSJ GOALS (Mga Adhikain)
+            </div>
+            <div class="card-body-mission">
+                <div>
+
+                    <ul>
+
+                        <p><strong>Goal 1: Academic Excellence</strong><br>
+                            To promote and strengthen academic excellence to be able to produce globally competitive,
+                            socioeconomically responsible, and culturally and gender-inclusive graduates.</p>
+
+                        <p><strong>Goal 2: Empowered Faculty Members and Employees</strong><br>
+                            To uplift the knowledge, skills, values and wellness of faculty members and employees
+                            through relevant capacity building by intensifying partnership with government agencies,
+                            private institutions, and individuals.</p>
+
+                        <p><strong>Goal 3: Commitment in Research Engagement</strong><br>
+                            To produce interdisciplinary and multidisciplinary researches through collaboration and
+                            linkages for generating new knowledge and addressing societal needs.</p>
+
+                        <p><strong>Goal 4: Evidence-based Outreach and Extension Programs</strong><br>
+                            To contribute to the improvement of communities through implementing evidence-based outreach
+                            and extension programs.</p>
+
+                        <p><strong>Goal 5: State-of-the-art Knowledge Management</strong><br>
+                            To upgrade facilities, equipment, and other educational resources conducive for dynamic and
+                            holistic learning.</p>
+
+                        <p><strong>Goal 6: Enduring Academic Community</strong><br>
+                            To build a strong, safe, and resilient academic community anchored on Filipino values to
+                            support growth and opportunities through fellowship and active engagement.</p>
+                    </ul>
+
+                </div>
+                <div>
+                    <ul>
+
+                        <p><strong>Adhikain 1: Kahusayang Pang-Akademiko</strong><br>
+                            Upang itaguyod at palakasin ang kahusayang pang-akademiko upang magluwal ng mga propesyunal
+                            na mayroong pandaigdigang kakayahan, may kapanagutang sosyo-ekonomikal, pangkultural at
+                            pangkasariang pagbuo.</p>
+
+                        <p><strong>Adhikain 2: Pinahusay na Dalubguro at Kawani</strong><br>
+                            Upang magpapaunlad ng karunungan, kasanayan, kahalagahan at kalusugan ng mga dalubguro at
+                            mga kawani sa pamamagitan ng mga makabuluhang gawaing magpapatibay ng ugnayan sa mga sangay
+                            ng pamahalaan, pribadong institusyon at mga indibidwal.</p>
+
+                        <p><strong>Adhikain 3: Masikhay na Pakikibahagi sa Pananaliksik</strong><br>
+                            Upang makalikha ng mga pananaliksik na interdisiplinaryo at multidisiplinaryo sa pamamagitan
+                            ng pakikipagtulungan at ugnayan para sa pagbuo ng bagong kaalaman at pagtugon sa mga
+                            pangangailangan sa lipunan.</p>
+
+                        <p><strong>Adhikain 4: Mga Programang Pantulong at Pakikipag-ugnayang Panlabas na batay sa mga
+                                Katibayan</strong><br>
+                            Upang makapag-ambag sa pagpapabuti ng pamayanan sa pamamagitan ng pagpapatupad ng mga
+                            programang pantulong at pang-ugnayang panlabas na batay sa mga katibayan.</p>
+
+                        <p><strong>Adhikain 5: Makabagong Pamamaraan ng Pangangasiwa ng Karunungan</strong><br>
+                            Upang magpapaunlad ng mga pasilidad at iba pang mapagkukuhaan ng mga kagamitang pampagtuturo
+                            upang maging kaaya-aya ang dinamiko at holistikong pagkakatuto.</p>
+
+                        <p><strong>Adhikain 6: Matatag na Akademikong Pamayanan</strong><br>
+                            Upang bumuo ng isang matatag, ligtas at matibay na akademikong komunidad na nakasandig sa
+                            mga pagpapahalagang Pilipino upang masuportahan ang mga pag-unlad at oportunidad sa
+                            pamamagitan ng pakikipagkapwa at aktibong pakikipag-ugnayan.</p>
+                    </ul>
+
+                </div>
+            </div>
+
+        </div>
     </section>
 
     <?php include('../assets/static-html/footer.html'); ?>
