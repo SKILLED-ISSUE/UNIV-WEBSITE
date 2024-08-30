@@ -19,7 +19,7 @@
   <header class="init-header">
     <?php include('assets/static-html/main-header.html'); ?>
   </header>
-  <img id="slides" class="fade-in" src="assets/homepage-slides/5.jpg" />
+  <img id="slides" class="fade-in" src="assets/homepage-slides/1.jpg" />
 
   <section class="after-scroll">
     <section class="cform motto-overview" class="fade-in">
