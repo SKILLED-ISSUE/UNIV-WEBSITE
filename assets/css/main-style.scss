@@ -27,7 +27,7 @@ html {
 
 body {
   margin: 0em;
- 
+
 }
 
 .fade-in {
@@ -379,7 +379,7 @@ footer {
       flex-direction: column;
       justify-content: center;
       align-items: center;
-     
+
 
       #header1 {
         margin-top: 1.4em;
@@ -509,13 +509,13 @@ footer {
 
       img {
         height: 8.5em;
-      
+
       }
 
       img:hover {
-        transform: scale(1.05); 
-        filter: opacity(75%) drop-shadow(2px 2px 5px #db0808); 
-      
+        transform: scale(1.05);
+        filter: opacity(75%) drop-shadow(2px 2px 5px #db0808);
+
       }
     }
   }
@@ -545,19 +545,22 @@ footer {
   }
 
   .img-thmb {
-    justify-content: space-evenly;
-    width: 70%;
+    margin: -2em 0em;
+    justify-content: center;
+    width: 80%;
     flex-wrap: wrap;
     gap: 1em;
 
     a {
-      position: relative;
-      height: 10%;
+      display: grid;
+      place-items: center;
+      position: relative; 
+      width: max-content;
 
       img {
         border-radius: 0.5em;
-        width: 100%;
         transition: filter 0.5s ease;
+        height: 85%;        
       }
 
       .text {
@@ -573,11 +576,11 @@ footer {
     }
 
     .overlay {
+      display: grid;
+      place-items: center;
       position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
+      width: 85%;
+      height: 85%;
       background: #7f1414c5;
       display: flex;
       align-items: center;
@@ -648,7 +651,7 @@ footer {
 
       .list-header {
         list-style-type: none;
-      }    
+      }
 
       li {
         margin-top: 0.4em;
@@ -682,9 +685,11 @@ footer {
   padding: 20px;
   box-sizing: border-box;
 }
+
 #warning-header {
   font-size: 1.5em;
 }
+
 #warning-overlay p {
   color: rgba(255, 255, 255, 0.688);
   font-size: 0.8em;

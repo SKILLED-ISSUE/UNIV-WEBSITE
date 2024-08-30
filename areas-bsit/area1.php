@@ -63,44 +63,11 @@
             </button>
             <div class="content">
                 <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li>
-                                <a href="#"><strong>S.1.</strong> The institution has a system of determining the Vision and Mission.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>S.2.</strong> The Vision clearly reflects what the institution hopes to become in the future.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>S.3.</strong> The Mission clearly reflects the Institution’s legal and other statutory mandates.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>S.4.</strong> The Goals of the College/Academic Unit are consistent with the Mission of the Institution.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>S.5.</strong> The Objectives of the program have the expected outcomes in terms of competencies (skills and knowledge), values, and other attributes of the graduates.</a>
-                            </li>
-                        </ul>
+                    <li class="list-header"><a href="#"><strong>Systems - Inputs and Processes</strong></a>
                     </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li>
-                                <a href=""><strong>I.1.</strong> The Institution/College conducts a review of the statement of the Vision and Mission as well as its goals and program objectives for the approval of authorities concerned.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.2.</strong> The College/Academic Unit follows a system of formulating its goals and the objectives of the program.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.3.</strong> The College/Academic Unit’s faculty, personnel, students, and other stakeholders (cooperating agencies, linkages, alumni, industry sector, and other concerned groups) participate in the formulation, review, and/or revision of the VMGO.</a>
-                            </li>
-                        </ul>
+                    <li class="list-header"><a href="#"><strong>Implementation</strong></a>
                     </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li>
-                                <a href="#"><strong>O.1.</strong> The VMGO are crafted and duly approved by BOR/BOT.</a>
-                            </li>
-                        </ul>
+                    <li class="list-header"><a href="#"><strong>Outcome/s</strong></a>
                     </li>
                 </ul>
             </div>
@@ -111,45 +78,17 @@
             </button>
             <div class="content">
                 <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li><a href="#"><strong>S.1.</strong> The VMGO is available on bulletin boards, in catalogs/manuals and in other forms of communication media</a></li>
-                        </ul>
+                    <li class="list-header"><a href="#"><strong>Systems - Inputs and Processes</strong></a>
                     </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li><a href="#"><strong>I.1.</strong> A system of dissemination and acceptability of the VMGO is enforced.</a></li>
-                            <li><a href="#"><strong>I.2.</strong> The administrators/faculty attend in-service seminars and training on awareness and acceptability of the:</a>
-                                <ul>
-                                    <li><strong>I.2.1.</strong> Vision and Mission of the Institution;</li>
-                                    <li><strong>I.2.2.</strong> Goals of the College/Academic Unit.</li>
-                                </ul>
-                            </li>
-                            <li><a href="#"><strong>I.3.</strong> The formulation/review/revision of the VMGO is participated in by the following:</a>
-                                <ul>
-                                    <li><strong>I.3.1.</strong> Administrators</li>
-                                    <li><strong>I.3.2.</strong> Faculty</li>
-                                    <li><strong>I.3.3.</strong> Staff</li>
-                                    <li><strong>I.3.4.</strong> Students</li>
-                                    <li><strong>I.3.5.</strong> Other stakeholders</li>
-                                </ul>
-                            </li>
-                            <li><a href="#"><strong>I.4.</strong> The faculty and staff perform their jobs/functions in consonance with the VMGO.</a></li>
-                            <li><a href="#"><strong>I.5.</strong> The VMGO is widely disseminated to the different agencies, institutions, industry sector and the community.</a></li>
-                        </ul>
+                    <li class="list-header"><a href="#"><strong>Implementation</strong></a>
                     </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li><a href="#"><strong>O.1.</strong> There is full awareness and acceptance of the VMGO by the administrators, faculty, staff, students and other stakeholders.</a></li>
-                            <li><a href="#"><strong>O.2.</strong> There is congruency between actual educational practices and activities.</a></li>
-                            <li><a href="#"><strong>O.3.</strong> The goals and objectives are being achieved</a></li>
-                        </ul>
+                    <li class="list-header"><a href="#"><strong>Outcome/s</strong></a>
                     </li>
                 </ul>
             </div>
         </section>
     </section>
-    
+
     <?php include('../assets/static-html/footer.html'); ?>
 
     <script src="../main-script.js"></script>
