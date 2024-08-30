@@ -51,15 +51,19 @@
         </div> -->
 
         <div class="card">
-            <div class="card-header">
-                Our Mission
-            </div>
-            <div class="card-body">
-                <p>PUP: The National Polytechnic University</p>
-                <p>PUP: Pambansang Politeknikong Unibersidad</p>
-            </div>
-        </div>
+  <div class="card-header">
+    Our Vision (Bisyon)
+  </div>
+  <div class="card-body">
+    <p id="p1">PUP: The National Polytechnic University</p>
+    <p id="p2">PUP: Pambansang Politeknikong Unibersidad</p>
+  </div>
 
+</div>
+
+<div class="card">
+    Our Vision (Bisyon)
+  </div>
 
 
     </section>
