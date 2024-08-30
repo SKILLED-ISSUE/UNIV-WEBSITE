@@ -17,7 +17,7 @@
 
   <section class="program">
     <div class="header">
-      <img id="header-img" src="../assets/programs/BSIT/1.png" />
+      <img id="header-img" src="../assets/abouts/1.png" />
       <div class="header-text">
         <h id="header2">Programs</h>
       </div>
