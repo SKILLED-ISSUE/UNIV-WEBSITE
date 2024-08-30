@@ -17,7 +17,7 @@
 
     <section class="area program">
         <div class="header">
-            <img id="header-img" src="../assets/programs/BSIT/1.png" />
+            <img id="header-img" src="../assets/abouts/1.jpg" />
             <div class="header-text" class="fade-in">
 
                 <h id="header2" class="fade-in">Vision and Mission</h>
