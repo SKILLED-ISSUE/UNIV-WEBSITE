@@ -1,0 +1,31 @@
+#overview-image {
+  max-width: 20em;
+  object-fit: cover;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  border: 1px solid #ddd;
+}
+.overview-programs {
+  flex-direction: column;
+    #header1 {
+      font-family: "Product Sans Bold";
+      font-size: 1rem;
+      color: #7f1414;
+    }
+    #header {
+      font-family: "Product Sans Bold";
+      font-size: 2rem;
+      color: #7f1414;
+      margin-bottom: 0.5em;
+    }
+    .thin-line {
+      height: 1px;
+      background-color: #7f1414;
+      width: 20%;
+      margin: 1px 0;
+    }
+    #description {
+      margin-top: 1em;
+      word-wrap: break-word;
+    }
+}
