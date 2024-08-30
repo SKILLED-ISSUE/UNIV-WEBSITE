@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Bachelor of Science in Information Technology (BSIT)</title>
   <link rel="stylesheet" href="../assets/css/main-style.css" />
+  <link rel="stylesheet" href="overview.css" />
   <link rel="icon" href="../assets/PUPSJ-LOGO.png" type="image/icon type" />
 </head>
 
@@ -24,14 +25,13 @@
 
     <div class="content-container" >
       <section class="pointers">
-  			<img id="overview" class="fade-in" src="../assets/programs/overview/accountancy.jpg" />
+  			<img id="overview-image" class="fade-in" src="../assets/programs/overview/accountancy.jpg" />
       </section>
 
       <div class="main-contents">
-        <section class="overview">
+        <section class="overview-programs">
           <h id="header1">BACHELOR OF SCIENCE IN</h>
-          <h id="header" class="fade-in">ACCOUNTANCY</h>
-          <div class="thin-line"></div>
+          <a href ="#" id="header" class="fade-in">ACCOUNTANCY</a>
           <h id="description" class="fade-in">
 						The <strong> Bachelor of Science in Accountancy (BSA) </strong> is a 4-year degree 
 						that prepares students for entry-level professional positions in public, private, 
@@ -43,15 +43,14 @@
       </div>
     </div>
     <div class="content-container" >
-  			<img id="overview" class="fade-in" src="../assets/programs/overview/entrep.jpg" />
       <section class="pointers">
+  			<img id="overview-image" class="fade-in" src="../assets/programs/overview/entrep.jpg" />
       </section>
 
       <div class="main-contents">
-        <section class="overview">
+        <section class="overview-programs">
           <h id="header1">BACHELOR OF SCIENCE IN</h>
-          <h id="header" class="fade-in">ENTREPRENEURSHIP</h>
-          <div class="thin-line"></div>
+          <a href ="#" id="header" class="fade-in">ENTREPRENEURSHIP</a>
           <h id="description" class="fade-in">
 						The <strong> Bachelor of Science in Entrepreneurship (BSEnt) </strong> is a four-year 
 						course designed to provide undergraduate students an in-depth understanding and appreciation 
@@ -64,13 +63,12 @@
     </div>
     <div class="content-container" >
       <section class="pointers">
-  			<img id="overview" class="fade-in" src="../assets/programs/overview/educ.jpg" />
+  			<img id="overview-image" class="fade-in" src="../assets/programs/overview/educ.jpg" />
       </section>
       <div class="main-contents">
-        <section class="overview">
+        <section class="overview-programs">
           <h id="header1">BACHELOR OF SECONDARY</h>
-          <h id="header" class="fade-in">EDUCATION IN ENGLISH</h>
-          <div class="thin-line"></div>
+          <a href ="#" id="header" class="fade-in">EDUCATION IN ENGLISH</a>
           <h id="description" class="fade-in">
 							The <strong>Bachelor of Secondary Education in English (BSEDEn)</strong> is a four-year course leading to the degree of Bachelor in Secondary Education,
 							major in English. It is an excellent preparation for the teaching career and for advancement in 
@@ -81,14 +79,13 @@
     </div>
     <div class="content-container" >
       <section class="pointers">
-  			<img id="overview" class="fade-in" src="../assets/programs/overview/hm.png" />
+  			<img id="overview-image" class="fade-in" src="../assets/programs/overview/hm.jpg" />
       </section>
 
       <div class="main-contents">
-        <section class="overview">
+        <section class="overview-programs">
           <h id="header1">BACHELOR OF SCIENCE IN</h>
-          <h id="header" class="fade-in">HOSPITALITY MANAGEMENT</h>
-          <div class="thin-line"></div>
+          <a href ="bshm.php" id="header" class="fade-in">HOSPITALITY MANAGEMENT</a>
           <h id="description" class="fade-in">
 						The <strong>Bachelor of Science in Hospitality Management (BSHM)</strong> is a ladderized program
 						that prepares students to have employable skills/competencies at every academic 
@@ -101,14 +98,13 @@
     </div>
     <div class="content-container" >
       <section class="pointers">
-  			<img id="overview" class="fade-in" src="../assets/programs/overview/it.jpg" />
+  			<img id="overview-image" class="fade-in" src="../assets/programs/overview/it.jpg" />
       </section>
 
       <div class="main-contents">
-        <section class="overview">
+        <section class="overview-programs">
           <h id="header1">BACHELOR OF SCIENCE IN</h>
-          <h id="header" class="fade-in">INFORMATION TECHNOLOGY</h>
-          <div class="thin-line"></div>
+          <a href ="bsit.php" id="header" class="fade-in">INFORMATION TECHNOLOGY</a>
           <h id="description" class="fade-in">
             The <strong> Bachelor of Science in Information Technology (BSIT) </strong>program is a four-year degree program which focuses
             on the study of computer utilization and computer software to plan, install, customize, operate, manage,
@@ -124,14 +120,13 @@
     </div>
     <div class="content-container" >
       <section class="pointers">
-  			<img id="overview" class="fade-in" src="../assets/programs/overview/fm.png" />
+  			<img id="overview-image" class="fade-in" src="../assets/programs/overview/fm.jpg" />
       </section>
 
       <div class="main-contents">
-        <section class="overview">
+        <section class="overview-programs">
           <h id="header1">BACHELOR OF SCIENCE IN</h>
-          <h id="header" class="fade-in">BUSINESS ADMINISTRATION MAJOR IN FINANCIAL MANAGEMENT</h>
-          <div class="thin-line"></div>
+          <a href ="#" id="header" class="fade-in">BUSINESS ADMINISTRATION MAJOR IN FINANCIAL MANAGEMENT</a>
           <h id="description" class="fade-in">
 						The Bachelor of Science in Business Administration Major in Financial Management (BSBA-FM) is a four-year 
 						degree program that equips students with the essential knowledge and skills to manage financial resources 
