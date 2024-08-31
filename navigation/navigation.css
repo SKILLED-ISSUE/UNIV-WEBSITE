@@ -41,7 +41,7 @@ iframe:hover {
   margin: 0 auto;
   position: relative;
   transition: background-color 0.7s ease-in;
-  background-color: rgba(255, 255, 255, 0.9); 
+  background-color: rgba(255, 255, 255, 0.9);
 }
 
 .card::before {
@@ -99,9 +99,9 @@ iframe:hover {
 
 .card-body-mission {
   display: flex;
- margin-left: 3em;
- margin-right: 3em;
-margin-bottom: 3em;
+  margin-left: 3em;
+  margin-right: 3em;
+  margin-bottom: 3em;
   text-align: justify;
 }
 
@@ -111,21 +111,21 @@ margin-bottom: 3em;
 
 ul {
   list-style-type: disc;
- 
+
 }
 
 .p3 {
 
-font-family: "Product Sans Bold";
+  font-family: "Product Sans Bold";
 }
 
 .card-body-history {
   display: flex;
   margin-left: 3em;
   margin-right: 5em;
- margin-bottom: 3em;
-   text-align: justify;
-   
+  margin-bottom: 3em;
+  text-align: justify;
+
 }
 
 .pupsj-svp {
@@ -134,13 +134,13 @@ font-family: "Product Sans Bold";
   justify-content: center;
   align-items: center;
   width: 100%;
-  height: auto; 
+  height: auto;
 }
 
 .refs {
-display: flex;
-flex-direction: column;
- 
+  display: block;
+
+
 }
 
 .history-banner {
@@ -153,7 +153,8 @@ flex-direction: column;
 .carousel {
   position: relative;
   width: 100%;
-  max-width: 1351px%; /* Adjust as needed */
+  max-width: 1351px%;
+  /* Adjust as needed */
   margin: auto;
   overflow: hidden;
   height: 35em;
