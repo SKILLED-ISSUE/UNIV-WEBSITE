@@ -33,7 +33,7 @@
         </h1>
       </section>
       <section class="bnnr">
-        <img id="banner" src="assets/WC-BANNER.jpg" alt="pupsj-banner" class="fade-in">
+        <img id="banner" src="assets/WC-BANNER.png" alt="pupsj-banner" class="fade-in">
       </section>
     </section>
 
