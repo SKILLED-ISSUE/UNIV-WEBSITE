@@ -151,7 +151,7 @@
 
         <div class="card">
             <div class="card-header">
-                PUPSJ GOALS (Mga Adhikain)
+                PUPSJ Goals (Mga Adhikain)
             </div>
             <div class="card-body-mission">
                 <div>
