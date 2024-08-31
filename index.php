@@ -54,21 +54,33 @@
         </div>
       </div>
 
-     
+
     </section>
 
-   
+
   </section>
 
   <section class="pupsj-svp">
 
-  <iframe width="1339" height="480" src="https://www.youtube.com/embed/9ypv1kOj7CU" title="PUPSJ AVP 2024"
+    <iframe width="1339" height="480" src="https://www.youtube.com/embed/9ypv1kOj7CU" title="PUPSJ AVP 2024"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </section>
 
 
+
+  
+
+<!-- TEST LANG SA FACEBOOK TIMELINE -->
+
+
+  <!-- <iframe
+    src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fweb.facebook.com%2Fprofile.php%3Fid%3D100064299686924&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId"
+    width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true"
+    allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> -->
+
+    
   <?php include('assets/static-html/footer.html'); ?>
 
   <script src="init-script.js"></script>
