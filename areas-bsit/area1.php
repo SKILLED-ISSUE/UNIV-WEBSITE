@@ -63,11 +63,26 @@
             </button>
             <div class="content">
                 <ul>
-                    <li class="list-header"><a href="#"><strong>Systems - Inputs and Processes</strong></a>
+                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
+                        <ul>
+                            <li class="sip">
+                                <a href="#">To access the evidences for S. to S., click here.</a>
+                            </li>
+                        </ul>
                     </li>
-                    <li class="list-header"><a href="#"><strong>Implementation</strong></a>
+                    <li class="list-header"><strong>Implementation</strong>
+                        <ul>
+                            <li class="imp">
+                                <a href="#">To access the evidences for I. to I., click here.</a>
+                            </li>
+                        </ul>
                     </li>
-                    <li class="list-header"><a href="#"><strong>Outcome/s</strong></a>
+                    <li class="list-header"><strong>Outcome/s</strong>
+                        <ul>
+                            <li class="out">
+                                <a href="#">To access the evidences for O. to O., click here.</a>
+                            </li>
+                        </ul>
                     </li>
                 </ul>
             </div>
@@ -78,14 +93,30 @@
             </button>
             <div class="content">
                 <ul>
-                    <li class="list-header"><a href="#"><strong>Systems - Inputs and Processes</strong></a>
+                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
+                        <ul>
+                            <li class="sip">
+                                <a href="#">To access the evidences for S. to S., click here.</a>
+                            </li>
+                        </ul>
                     </li>
-                    <li class="list-header"><a href="#"><strong>Implementation</strong></a>
+                    <li class="list-header"><strong>Implementation</strong>
+                        <ul>
+                            <li class="imp">
+                                <a href="#">To access the evidences for I. to I., click here.</a>
+                            </li>
+                        </ul>
                     </li>
-                    <li class="list-header"><a href="#"><strong>Outcome/s</strong></a>
+                    <li class="list-header"><strong>Outcome/s</strong>
+                        <ul>
+                            <li class="out">
+                                <a href="#">To access the evidences for O. to O., click here.</a>
+                            </li>
+                        </ul>
                     </li>
                 </ul>
             </div>
+
         </section>
     </section>
 
