@@ -43,13 +43,18 @@
     align-items: center;
     flex-direction: column; }
     .profile-container .pointers #overview-image {
-      max-width: 30%; }
+      max-width: 40%; }
   .profile-container .overview-programs {
     flex-direction: column;
     align-items: center; }
     .profile-container .overview-programs #their-name {
       font-family: "Product Sans Bold", sans-serif;
-      font-size: 1rem;
+      font-size: 1.25rem;
       color: #7f1414; }
+    .profile-container .overview-programs #their-area {
+      font-size: 1rem; }
+
+.areas {
+  margin: 1em, 1em, 1em, 1em; }
 
 /*# sourceMappingURL=about-style.css.map */
