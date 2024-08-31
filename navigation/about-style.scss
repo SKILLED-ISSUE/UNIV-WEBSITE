@@ -60,7 +60,7 @@
     align-items:center;
     flex-direction: column;
     #overview-image {
-      max-width: 30%;
+      max-width: 40%;
     }
   }
   .overview-programs {
@@ -68,11 +68,15 @@
     align-items: center;
     #their-name{
       font-family: "Product Sans Bold", sans-serif;
-      font-size: 1rem;
+      font-size: 1.25rem;
       color: #7f1414;
     }
     #their-area{
-      
+      font-size: 1rem;
     }
   }
+}
+
+.areas {
+  margin: 1em, 1em, 1em, 1em;
 }
