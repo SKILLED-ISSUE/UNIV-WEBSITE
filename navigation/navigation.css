@@ -153,7 +153,7 @@ ul {
 .carousel {
   position: relative;
   width: 100%;
-  max-width: 1351px%;
+  max-width: 1351px;
   margin: auto;
   overflow: hidden;
   height: 35em;
