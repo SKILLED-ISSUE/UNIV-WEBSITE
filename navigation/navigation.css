@@ -125,6 +125,7 @@ font-family: "Product Sans Bold";
   margin-right: 5em;
  margin-bottom: 3em;
    text-align: justify;
+   
 }
 
 .pupsj-svp {
@@ -140,4 +141,55 @@ font-family: "Product Sans Bold";
 
 flex-direction: column !important;
  
+}
+
+.history-banner {
+  height: 35em;
+}
+
+
+/* CAROUSEL TEST */
+
+.carousel {
+  position: relative;
+  width: 100%;
+  max-width: 1351px%; /* Adjust as needed */
+  margin: auto;
+  overflow: hidden;
+  height: 35em;
+}
+
+.carousel-inner {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.carousel-item {
+  min-width: 100%;
+  box-sizing: border-box;
+}
+
+.carousel-item img {
+  width: 100%;
+  display: block;
+}
+
+.carousel-control {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  z-index: 5000;
+}
+
+.prev {
+  left: 10px;
+}
+
+.next {
+  right: 10px;
 }

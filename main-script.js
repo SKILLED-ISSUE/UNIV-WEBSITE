@@ -67,3 +67,36 @@ if (window.innerWidth < 768) {
   document.getElementById('warning-overlay').style.display = 'flex';
   document.body.classList.add('no-scroll'); // Prevent background scrolling
 }
+
+
+// CAROUSEL TEST
+
+
+
+let slideIndex = 0;
+
+function showSlide(index) {
+    const slides = document.querySelectorAll('.carousel-item');
+    const totalSlides = slides.length;
+
+    if (index >= totalSlides) {
+        slideIndex = 0;
+    } else if (index < 0) {
+        slideIndex = totalSlides - 1;
+    } else {
+        slideIndex = index;
+    }
+
+    const offset = -slideIndex * 100;
+    document.querySelector('.carousel-inner').style.transform = `translateX(${offset}%)`;
+}
+
+function moveSlide(step) {
+    showSlide(slideIndex + step);
+}
+
+
+showSlide(slideIndex);
+
+
+setInterval(() => moveSlide(1), 3000); 

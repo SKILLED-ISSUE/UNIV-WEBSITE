@@ -95,7 +95,24 @@
             </div>
 
         </div>
-        <img class="card history-banner" src="../assets/homepage-slides/3.jpg" alt="pupsj-wideshot">
+        <!-- <img class="card history-banner" src="../assets/homepage-slides/3.jpg" alt="pupsj-wideshot"> -->
+
+        <div class="carousel card">
+        <button class="carousel-control prev" onclick="moveSlide(-1)">&#10094;</button>
+        <div class="carousel-inner">
+            <div class="carousel-item">
+                <img src="../assets/homepage-slides/3.jpg" alt="Slide 1">
+            </div>
+            <div class="carousel-item">
+                <img src="../assets/homepage-slides/1.jpg" alt="Slide 2">
+            </div>
+            <div class="carousel-item">
+                <img src="https://via.placeholder.com/800x400?text=Slide+3" alt="Slide 3">
+            </div>
+        </div>
+       
+        <button class="carousel-control next" onclick="moveSlide(1)">&#10095;</button>
+    </div>
 
     </section>
 
