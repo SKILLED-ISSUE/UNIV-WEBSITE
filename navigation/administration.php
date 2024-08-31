@@ -71,9 +71,8 @@
                 <a href="#">Branch Officials</a>
                 <a href="#">University Officials</a>
                 <a href="#">Board of Regents</a>
-
             </div>
-
+				</section>
 
     </section>
 
