@@ -42,7 +42,7 @@
             </div>
             <div class="card-body-history">
                 <ul>
-                <img class="card history-banner" src="https://via.placeholder.com/800x400?text=Slide+1" alt="pupsj-certificate">
+                <img class="card history-banner" src="https://via.placeholder.com/800x400?text=Placeholder" alt="pupsj-certificate">
                 </ul>
             </div>
 

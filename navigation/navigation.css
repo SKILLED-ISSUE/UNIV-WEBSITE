@@ -197,3 +197,30 @@ ul {
 .next {
   right: 10px;
 }
+
+/* BRANCH OFFICIALS */
+
+#their-name {
+  font-family: "Product Sans Bold", sans-serif; 
+  font-size: 2rem;
+  color: #7f1414;
+ 
+}
+
+#their-position {
+  font-family: "Product Sans Regular", sans-serif; 
+  font-size: 1.5rem; 
+  color: #141414; 
+}
+
+.thin-line-break {
+  height: 2px;
+  background-color: #7f1414;
+  width: 60%;
+  margin: 10px 0;
+}
+
+.content-container {
+  gap: 2em;
+  width: 40% !important;
+}

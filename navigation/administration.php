@@ -68,9 +68,9 @@
         </div>
         <section class="ref-n-contents admin">
             <div class="refs">
-                <a href="#">Branch Officials</a>
-                <a href="#">University Officials</a>
-                <a href="#">Board of Regents</a>
+                <a href="../navigation/branch-officials.php">Branch Officials</a>
+                <a href="../navigation/university-officials.php">University Officials</a>
+                <a href="../navigation/board-regent.php">Board of Regents</a>
             </div>
 				</section>
 
