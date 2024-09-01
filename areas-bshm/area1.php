@@ -66,21 +66,21 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1CdSN7JaszPDds2VdGpB1kcGORmILLF-r?usp=drive_link">To access the evidences for S.1 to S.5, click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1CdSN7JaszPDds2VdGpB1kcGORmILLF-r?usp=drive_link" target="_blank">To access the evidences for S.1 to S.5, click here.</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1-Kciu13w7KmTuGJAj4_ITH-Weq2xU0qh?usp=drive_link">To access the evidences for I.1 to I.3, click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1-Kciu13w7KmTuGJAj4_ITH-Weq2xU0qh?usp=drive_link" target="_blank">To access the evidences for I.1 to I.3, click here.</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1lM3045qYyPsiW4E1ujtWKPEcPQNFOWVD?usp=drive_link">To access the evidences for O.1, click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1lM3045qYyPsiW4E1ujtWKPEcPQNFOWVD?usp=drive_link" target="_blank">To access the evidences for O.1, click here.</a>
                             </li>
                         </ul>
                     </li>
@@ -96,21 +96,21 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1sjAzmnbmUcBjFLWP-iM4mfZtsP33KUfF?usp=drive_link">To access the evidences, click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1sjAzmnbmUcBjFLWP-iM4mfZtsP33KUfF?usp=drive_link" target="_blank">To access the evidences, click here.</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1X6ex9yP24me1SrUsjmUsJIaBH13MYlF8?usp=drive_link">To access the evidences for I.1 to I.5, click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1X6ex9yP24me1SrUsjmUsJIaBH13MYlF8?usp=drive_link" target="_blank">To access the evidences for I.1 to I.5, click here.</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1dD7JdQBW_7oU9cOUC7uoQxaI6EX-W89z?usp=drive_link">To access the evidences for O.1 to O.3, click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1dD7JdQBW_7oU9cOUC7uoQxaI6EX-W89z?usp=drive_link" target="_blank">To access the evidences for O.1 to O.3, click here.</a>
                             </li>
                         </ul>
                     </li>
