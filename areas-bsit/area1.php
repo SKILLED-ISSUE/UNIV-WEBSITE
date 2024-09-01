@@ -37,14 +37,14 @@
         </div>
 
         <div class="img-thmb" class="fade-in">
-            <a href="https://drive.google.com/file/d/1R2bHJ23zdV33Zx5wKnN-Viz8kXZqhek_/view?usp=sharing" target="_blank">
+            <a href="https://drive.google.com/file/d/15DHods9-Sjm7yKJGbMaeVKGIZMNDuy4e/view?usp=sharing" target="_blank">
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
                     <div class="text">Click here</div>
                 </div>
             </a>
 
-            <a href="https://drive.google.com/file/d/1siKbLsfb5DB1oNU8Uij2BdgROckBFlK8/view" target="_blank" class="fade-in">
+            <a href="https://drive.google.com/file/d/1a0OweGNSqTw1Sr8VKJ7beUT1jAq2p_Z9/view?usp=sharing" target="_blank" class="fade-in">
                 <img src="SSA1.png" alt="self survey">
                 <div class="overlay">
                     <div class="text">Click here</div>
@@ -66,21 +66,21 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#">To access the evidences for S. to S., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1Ecxhg6tXoyRmT5DiBSXhcchVT-Xx4ZD_?usp=sharing">To access the evidences for S.1 to S.5, click here.</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="#">To access the evidences for I. to I., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1sfyQuSlrmNrxIKi86j1MuDpVmYNdCwvo?usp=sharing">To access the evidences for I.1 to I.3, click here.</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#">To access the evidences for O. to O., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1YhE9kxIYKxmaT0VJbSdcdTDd90vJ5JJ8?usp=sharing">To access the evidences for O.1, click here.</a>
                             </li>
                         </ul>
                     </li>
@@ -96,21 +96,21 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#">To access the evidences for S. to S., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1bWuSXX6Y57OMxJaWCGd4QjjDqhsKPbd9?usp=drive_link">To access the evidences, click here.</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="#">To access the evidences for I. to I., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1lppV0xUzMkF5CTWQtLwx2Bo0XJskjYj4?usp=drive_link">To access the evidences for I.1 to I.5, click here.</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#">To access the evidences for O. to O., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1wabhNtAbhtokPmQrnKUhAnn-YRQiF1tD?usp=drive_link">To access the evidences for O.1 to O.3, click here.</a>
                             </li>
                         </ul>
                     </li>
