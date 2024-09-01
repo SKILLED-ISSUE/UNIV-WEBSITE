@@ -26,12 +26,12 @@
 
         <section class="ref-n-contents">
             <div class="refs">
-                <a href="#">Vision, Mission, and Goals</a>
-                <a href="#">History</a>
-                <a href="#">Administration</a>
-                <a href="#">Facilities</a>
+                <a href="vmgo.php">Vision, Mission, and Goals</a>
+                <a href="history.php">History</a>
+                <a href="administration.php">Administration</a>
+                <a href="facilities.php">Facilities</a>
                 <a href="faculty.php">Faculty and Staff</a>
-                <a href="#">Local Task Force</a>
+                <a href="local-task-force.php">Local Task Force</a>
             </div>
 
             <div class="desc-container">
