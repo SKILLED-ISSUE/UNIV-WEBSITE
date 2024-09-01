@@ -56,16 +56,21 @@
 .profile-container {
   flex-direction: column;
   align-items: center;
+  margin: 1em;
   .pointers{
     align-items:center;
     flex-direction: column;
     #overview-image {
       max-width: 40%;
     }
+    #area-image {
+      max-width: 75%;
+    }
   }
   .overview-programs {
     flex-direction: column;
     align-items: center;
+    text-align: center;
     #their-name{
       font-family: "Product Sans Bold", sans-serif;
       font-size: 1.25rem;
@@ -78,5 +83,6 @@
 }
 
 .areas {
-  margin: 1em, 1em, 1em, 1em;
+  margin: 1em;
+  max-height: 15em;
 }
