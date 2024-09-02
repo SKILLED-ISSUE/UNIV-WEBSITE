@@ -2,22 +2,6 @@ var loader = document.getElementById("preloader");
 var coll = document.getElementsByClassName("collapsible");
 var i;
 
-// JavaScript to toggle the search overlay
-document.querySelector('.search-button').addEventListener('click', function() {
-  document.getElementById('search-overlay').style.display = 'flex';
-});
-
-document.querySelector('.close-btn').addEventListener('click', function() {
-  document.getElementById('search-overlay').style.display = 'none';
-});
-
-// Optional: Close the overlay when clicking outside the search box
-document.getElementById('search-overlay').addEventListener('click', function(e) {
-  if (e.target == this) {
-      this.style.display = 'none';
-  }
-});
-
 window.addEventListener("load", function(){
   loader.classList.add("fade-out");  // Add fade-out class
 
