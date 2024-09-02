@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>BSIT - Area 4</title>
+    <title>BSHM - Area 4</title>
     <link rel="stylesheet" href="../assets/css/main-style.css" />
     <link rel="icon" href="../assets/PUPSJ-LOGO.png" type="image/icon type" />
 </head>
