@@ -40,18 +40,18 @@
         </div>
 
         <div class="img-thmb" class="fade-in">
-            <a href="https://drive.google.com/file/d/1R2bHJ23zdV33Zx5wKnN-Viz8kXZqhek_/view?usp=sharing"
+            <a href="#"
                 target="_blank">
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
-                    <div class="text">Click here</div>
+                    <div class="text">NO UPLOAD YET</div>
                 </div>
             </a>
 
             <a href="#" target="_blank" class="fade-in">
                 <img src="SSA1.png" alt="self survey">
                 <div class="overlay">
-                    <div class="text">Click here</div>
+                    <div class="text">NO UPLOAD YET</div>
                 </div>
             </a>
         </div>
