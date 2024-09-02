@@ -47,7 +47,7 @@
             	  </section>
             	<div class="main-contents">
             	  <section class="overview-programs">
-            	    <div class="fade-in" id="their-name">Ma. Carina P. Corpuz</div>
+            	    <div class="fade-in" id="their-name">Elias A. Austria</div>
             	    <div id="their-area">Area I - VMGO</div>
             	  </section>
           	</div>
@@ -69,7 +69,7 @@
           	  </section>
           	<div class="main-contents">
           	  <section class="overview-programs">
-          	    <div class="fade-in" id="their-name">Ma. Carina P. Corpuz</div>
+          	    <div class="fade-in" id="their-name">Alfred M. Pagalilawan</div>
           	    <div id="their-area">Area III - Curriculum and Instruction</div>
             	  </section>
           	</div>
@@ -80,7 +80,7 @@
           	  </section>
           	<div class="main-contents">
           	  <section class="overview-programs">
-          	    <div class="fade-in" id="their-name">Ma. Carina P. Corpuz</div>
+          	    <div class="fade-in" id="their-name">Peter Glenn J. Biason</div>
           	    <div id="their-area">Area IV - Support to Students</div>
             	  </section>
           	</div>
@@ -91,7 +91,7 @@
           	  </section>
           	<div class="main-contents">
           	  <section class="overview-programs">
-          	    <div class="fade-in" id="their-name">Ma. Carina P. Corpuz</div>
+          	    <div class="fade-in" id="their-name">Ian Joseph Saguindan</div>
           	    <div id="their-area">Area V - Research</div>
             	  </section>
           	</div>
@@ -104,7 +104,7 @@
    	      </section>
    	      <div class="main-contents">
      	        <section class="overview-programs">
-       	          <div class="fade-in" id="their-name">Ma. Carina P. Corpuz</div>
+       	          <div class="fade-in" id="their-name">Ronette M. Espiritu, MITM, CMIE, CHP</div>
        	          <div id="their-area">Area VI - Extension and Community Involvement</div>
      	        </section>
    	      </div>
@@ -115,7 +115,7 @@
               </section>
               <div class="main-contents">
             	<section class="overview-programs">
-              	  <div class="fade-in" id="their-name">Ma. Carina P. Corpuz</div>
+              	  <div class="fade-in" id="their-name">Orlando M. Oliverio Jr.</div>
               	  <div id="their-area">Area VII - Library</div>
             	</section>
               </div>
@@ -126,7 +126,7 @@
               </section>
               <div class="main-contents">
                 <section class="overview-programs">
-                  <div class="fade-in" id="their-name">Ma. Carina P. Corpuz</div>
+                  <div class="fade-in" id="their-name">Lemuel N. Damole</div>
                   <div id="their-area">Area VIII - Physical Plant and Facilites</div>
                 </section>
               </div>
@@ -137,7 +137,7 @@
               </section>
               <div class="main-contents">
                 <section class="overview-programs">
-                  <div class="fade-in" id="their-name">Ma. Carina P. Corpuz</div>
+                  <div class="fade-in" id="their-name">Martino Miguel M. Salcedo</div>
                   <div id="their-area">Area IX - Laboratory</div>
                 </section>
               </div>
@@ -148,7 +148,7 @@
               </section>
               <div class="main-contents">
                 <section class="overview-programs">
-                  <div class="fade-in" id="their-name">Ma. Carina P. Corpuz</div>
+                  <div class="fade-in" id="their-name">Raymond Ruiz</div>
                   <div id="their-area">Area X - Administration</div>
                 </section>
               </div>
