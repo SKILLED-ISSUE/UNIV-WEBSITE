@@ -59,7 +59,7 @@
             <a href="#" target="_blank" class="fade-in">
                 <img src="SSA1.png" alt="self survey">
                 <div class="overlay">
-                    <div class="text">Click here</div>
+                    <div class="text">NO UPLOAD YET</div>
                 </div>
             </a>
         </div>
