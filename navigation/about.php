@@ -7,6 +7,7 @@
     <title>About</title>
     <link rel="stylesheet" href="../assets/css/main-style.css" />
     <link rel="stylesheet" href="../navigation/about-style.css" />
+    <link rel="stylesheet" href="../navigation/navigation.css" />
     <link rel="icon" href="../assets/PUPSJ-LOGO.png" type="image/icon type" />
 </head>
 
@@ -25,7 +26,7 @@
         </div>
 
         <section class="ref-n-contents">
-            <div class="refs">
+            <div>
                 <a href="vmgo.php">Vision, Mission, and Goals</a>
                 <a href="history.php">History</a>
                 <a href="administration.php">Administration</a>
@@ -35,7 +36,7 @@
             </div>
 
             <div class="desc-container">
-                <div id="desc" class="fade-in">
+                <div id="desc" class="fade-in card">
                     Despite its proximity to the Manila Main Campus, the Polytechnic University of the Philippines –
                     San Juan City Campus which started as a locally funded campus by the City Government of San Juan established in
                     2008 by Mayor Joseph Victor "JV" G. Ejercito, is now a viable institution by virtue of Republic Act 11348. This is

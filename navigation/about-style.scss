@@ -2,7 +2,7 @@
     gap: 3em;
     justify-content: center;
 
-    .refs {
+    div:nth-child(1) {
         flex-direction: column;
         gap: 1em;
 
@@ -25,11 +25,12 @@
 
     .desc-container {
         flex-direction: column;
-        width: 50%;
+        width: 50%;        
 
         #desc {
             width: 100%;
             text-align: justify;
+            padding: 1.5em;
         }
     }
 }
