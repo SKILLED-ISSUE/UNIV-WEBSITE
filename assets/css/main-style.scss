@@ -112,6 +112,10 @@ header {
     max-height: 4em;
   }
 
+  .city-logo {
+    display: none;
+  }
+
   .cmps-header {
     display: flex;
     flex-direction: row;

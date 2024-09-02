@@ -96,6 +96,9 @@ header {
 .header-container #logo {
   max-height: 4em;
 }
+.header-container .city-logo {
+  display: none;
+}
 .header-container .cmps-header {
   display: flex;
   flex-direction: row;
