@@ -40,8 +40,8 @@
         </div>
 
         <div class="img-thmb" class="fade-in">
-            <a href="https://drive.google.com/file/d/1R2bHJ23zdV33Zx5wKnN-Viz8kXZqhek_/view?usp=sharing"
-                target="_blank">
+            <div>no ppp and ss</div>
+            <!-- <a href="#" target="_blank">
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
                     <div class="text">Click here</div>
@@ -53,7 +53,7 @@
                 <div class="overlay">
                     <div class="text">Click here</div>
                 </div>
-            </a>
+            </a> -->
         </div>
 
         <div class="line-container">
@@ -63,70 +63,79 @@
         <section class="collapsible-container">
 
             <!-- PARAMETER A -->
-
             <button class="collapsible">
                 <div class="title">Parameter A</div>
-                <div class="desc">Academic qualifications and professional experience</div>
+                <div class="desc">Academic Qualifications and Professional Experience</div>
             </button>
             <div class="content">
                 <ul>
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#">To access the evidences for S. to S., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1sMwoDiZVDDWhtY8pCkvCS4INOdquYqPp?usp=drive_link" target="_blank">
+                                    To access the evidences for S.1 to S.4, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="#">To access the evidences for I. to I., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1JZNI3xbvPrO5uku6X7qNY0ewkUDyBTyY?usp=sharing" target="_blank">
+                                    To access the evidences for I.1.1 to I.2, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#">To access the evidences for O. to O., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1jPr3Cw_zdODPlSycdIR4tpxyACNGwmKa?usp=sharing" target="_blank">
+                                    To access the evidences for O.1, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                 </ul>
             </div>
-
 
             <!-- PARAMETER B -->
 
             <button class="collapsible">
                 <div class="title">Parameter B</div>
-                <div class="desc">Recruitment, Selection and Orientation</div>
+                <div class="desc">Recruitment Selection and Orientation</div>
             </button>
             <div class="content">
                 <ul>
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#">To access the evidences for S. to S., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1QOtBVGMCOEKQwqrzl27UMQLE1pLavpr_?usp=drive_link" target="_blank">
+                                    To access the evidences for S.1, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="#">To access the evidences for I. to I., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1FvCDMH5bI_QESQsVayMfU2gL8kF_1VDX?usp=sharing" target="_blank">
+                                    To access the evidences for I.1 to I.6, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#">To access the evidences for O. to O., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1m4NewQiIKnrjAXvqr_m4bAno9N0lCSx7?usp=sharing" target="_blank">
+                                    To access the evidences for O.1, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                 </ul>
             </div>
-
 
             <!-- PARAMETER C -->
 
@@ -139,27 +148,32 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#">To access the evidences for S. to S., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1SLcrsQ4vX_E8baJFp2I1zR65xxmqpUwk?usp=sharing" target="_blank">
+                                    To access the evidences for S.1.1 to S.6, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="#">To access the evidences for I. to I., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1CFljcE9fInvfiQ7F41XxF6NftWjzP8CP?usp=sharing" target="_blank">
+                                    To access the evidences for I.1 to I.10, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#">To access the evidences for O. to O., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1-oUcV0VTz4kC2b-0it7lILYWefsbSBiz?usp=sharing" target="_blank">
+                                    To access the evidences for O.1, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                 </ul>
             </div>
-
 
             <!-- PARAMETER D -->
 
@@ -172,27 +186,32 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#">To access the evidences for S. to S., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/19ZYzfkaBYqXhnDME4CSiONvLo1lyIcHy?usp=drive_link" target="_blank">
+                                    To access the evidences for S.1 to S.3, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="#">To access the evidences for I. to I., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1NpG_zBI8rFKO68x-zVOi58OBsa6YI4eT?usp=sharing" target="_blank">
+                                    To access the evidences for I.1 to I.6, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#">To access the evidences for O. to O., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1ilkwKytC5MgKqBm-_44u6367KVzNLfGR?usp=sharing" target="_blank">
+                                    To access the evidences for O.1, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                 </ul>
             </div>
-
 
             <!-- PARAMETER E -->
 
@@ -205,60 +224,70 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#">To access the evidences for S. to S., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1B2z0rGAWkahtPM5D3vgx5dXblbKRSWjk?usp=drive_link" target="_blank">
+                                    To access the evidences for S.1 to S.5, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="#">To access the evidences for I. to I., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1DGOYDNlslmeveAcCtoDlEUwQKCwa2BkP?usp=sharing" target="_blank">
+                                    To access the evidences for I.1.1 to I.10, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#">To access the evidences for O. to O., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1ZIOdtCX8XPR1a1lFTZmrMJYJT9VBPAja?usp=sharing" target="_blank">
+                                    To access the evidences for O.1 to O.2, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                 </ul>
             </div>
 
-
             <!-- PARAMETER F -->
 
             <button class="collapsible">
                 <div class="title">Parameter F</div>
-                <div class="desc">Professional Performance and Scholarly Works</div>
+                <div class="desc">Professional Performance and Scholarly works</div>
             </button>
             <div class="content">
                 <ul>
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#">To access the evidences for S. to S., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1OpUUcA59PrwMnXPUtDGBPHPwS46hi4e8?usp=sharing" target="_blank">
+                                    To access the evidences for S.1, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="#">To access the evidences for I. to I., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1H7kiirbtBMt8pjrY3_Oh8erEyY0ZNlLJ?usp=sharing" target="_blank">
+                                    To access the evidences for I.1.1 to I.11, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#">To access the evidences for O. to O., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1fVWBDoFuTTiuL-TxBP2WUxK0fS_d25BV?usp=sharing" target="_blank">
+                                    To access the evidences for O.1 to O.2, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                 </ul>
             </div>
-
 
             <!-- PARAMETER G -->
 
@@ -271,27 +300,32 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#">To access the evidences for S. to S., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1q4jzJ6M1Sw0dfpVdWPRfCq7aOkYtEPdc?usp=drive_link" target="_blank">
+                                    To access the evidences for S.1, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="#">To access the evidences for I. to I., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/18Kb4BuSH9AxCGlliz50u8TieWe2vEXEj?usp=sharing" target="_blank">
+                                    To access the evidences for I.1 to I.6, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#">To access the evidences for O. to O., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1EnaBvcgKG5e04977EChInaHw7N3GUBLy?usp=sharing" target="_blank">
+                                    To access the evidences for O.1, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                 </ul>
             </div>
-
 
             <!-- PARAMETER H -->
 
@@ -304,37 +338,35 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#">To access the evidences for S. to S., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1mmDsSVY3Rhf40hPwa0B2u6InU5bz7hhd?usp=sharing" target="_blank">
+                                    To access the evidences for S.1, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="#">To access the evidences for I. to I., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1W7OYWoyydzB3RuDhpqQt9JFM0mYZ0swf?usp=sharing" target="_blank">
+                                    To access the evidences for I.1.1 to I.7, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#">To access the evidences for O. to O., click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1YeCEK8slnBqF4rY2YnhmJGquEkETWIYB?usp=sharing" target="_blank">
+                                    To access the evidences for O.1, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
                 </ul>
             </div>
 
-
-
         </section>
-
-
-
-
     </section>
-
-
 
     <?php include('../assets/static-html/footer.html'); ?>
 
