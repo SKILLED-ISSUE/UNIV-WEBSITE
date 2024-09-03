@@ -41,7 +41,7 @@
 
         <div class="img-thmb" class="fade-in">
            
-            <a href="#" target="_blank">
+            <a href="https://drive.google.com/drive/folders/15IWKi8MPR3tCBfHmSBZN1-McBJ1HPlPH?usp=drive_link" target="_blank">
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
                     <div class="text">NO UPLOAD YET</div>
