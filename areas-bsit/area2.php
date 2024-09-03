@@ -41,17 +41,17 @@
 
         <div class="img-thmb" class="fade-in">
            
-            <a href="#" target="_blank">
+            <a href="https://drive.google.com/drive/folders/15IWKi8MPR3tCBfHmSBZN1-McBJ1HPlPH?usp=drive_link" target="_blank">
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
                     <div class="text">NO UPLOAD YET</div>
                 </div>
             </a>
 
-            <a href="#" target="_blank" class="fade-in">
+            <a href="https://drive.google.com/drive/folders/1VWsxZTugyg5v2WsI1sZOEMPbal8h_Lf7?usp=drive_link" target="_blank" class="fade-in">
                 <img src="SSA1.png" alt="self survey">
                 <div class="overlay">
-                    <div class="text">NO UPLOAD YET</div>
+                    <div class="text">Click here</div>
                 </div>
             </a>
         </div>
