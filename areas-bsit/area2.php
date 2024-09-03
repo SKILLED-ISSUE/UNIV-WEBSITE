@@ -48,10 +48,10 @@
                 </div>
             </a>
 
-            <a href="#" target="_blank" class="fade-in">
+            <a href="https://drive.google.com/drive/folders/1VWsxZTugyg5v2WsI1sZOEMPbal8h_Lf7?usp=drive_link" target="_blank" class="fade-in">
                 <img src="SSA1.png" alt="self survey">
                 <div class="overlay">
-                    <div class="text">NO UPLOAD YET</div>
+                    <div class="text">Click here</div>
                 </div>
             </a>
         </div>
