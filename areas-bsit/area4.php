@@ -24,13 +24,13 @@
         </div>
 
         <div id="description" class="fade-in">
-          Students are the raison d' etre for the establishment of learning institutions. 
-          Thus, the school has the responsibility to support the family and other social 
-          institutions in the development of the total personality of the student. 
-          Towards this end a program of student services is designed as an integral part of 
-          institutional effectiveness. All activities should be well planned and implemented 
-          to assist the student to attain his/her maximum potential and become a worthy contributor 
-          in his/her social environment. Student support and services complement the Academic Program.
+            Students are the raison d' etre for the establishment of learning institutions.
+            Thus, the school has the responsibility to support the family and other social
+            institutions in the development of the total personality of the student.
+            Towards this end a program of student services is designed as an integral part of
+            institutional effectiveness. All activities should be well planned and implemented
+            to assist the student to attain his/her maximum potential and become a worthy contributor
+            in his/her social environment. Student support and services complement the Academic Program.
         </div>
 
         <div class="line-container">
@@ -38,17 +38,17 @@
         </div>
 
         <div class="img-thmb" class="fade-in">
-            <a href="https://drive.google.com/file/d/1R2bHJ23zdV33Zx5wKnN-Viz8kXZqhek_/view?usp=sharing" target="_blank">
+            <a href="https://drive.google.com/drive/folders/1RWjo1FgtdgJbpwS2s9ZgOJHDYTipZPMG?usp=drive_link" target="_blank">
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
-                    <div class="text">Click here</div>
+                    <div class="text">NO UPLOAD YET</div>
                 </div>
             </a>
 
-            <a href="#" target="_blank" class="fade-in">
+            <a href="https://drive.google.com/drive/folders/1x3wE--WGTRBqtndZ1_KQGv0WNLv8h3L3?usp=drive_link" target="_blank" class="fade-in">
                 <img src="SSA1.png" alt="self survey">
                 <div class="overlay">
-                    <div class="text">Click here</div>
+                    <div class="text">NO UPLOAD YET</div>
                 </div>
             </a>
         </div>
@@ -67,19 +67,8 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#"><strong>S.1-S.5.</strong> Click here to access the evidences for S.1 to S.5.
-                                </a>
-                            </li>
-                            <li class="sip">
-                                <a href="#"><strong>S.6-S.6.2.6.</strong> Click here to access the evidences for S.6 to S.6.2.6.
-                                </a>
-                            </li>
-                            <li class="sip">
-                                <a href="#"><strong>S.6.3.1-S.6.3.12.</strong> Click here to access the evidences for S.6.3.1 to S.6.3.12.
-                                </a>
-                            </li>
-                            <li class="sip">
-                                <a href="#"><strong>S.7-S.12.</strong> Click here to access the evidences for S.7 to S.12.
+                                <a href="https://drive.google.com/drive/folders/17PyXVtx1G2BChDSCgdU_5ebVqnUsd11w?usp=drive_link" target="_blank">
+                                    Click here to access the evidences for Systems - Inputs and Processes.
                                 </a>
                             </li>
                         </ul>
@@ -87,8 +76,8 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="#">
-                                    <strong>I.1-I.7.</strong> Click here to access the evidences for I.1 to I.7.
+                                <a href="https://drive.google.com/drive/folders/1YCepxW9Gu73jF8cPKs289gke9N3c--Xr?usp=drive_link" target="_blank">
+                                    Click here to access the evidences for Implementation.
                                 </a>
                             </li>
                         </ul>
@@ -96,8 +85,8 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#">
-                                    <strong>O.1.</strong> The students are satisfied with the Student Services Program.
+                                <a href="https://drive.google.com/drive/folders/11IP5dHjXjcNkuGTUmMakdJYDeKlcubzm?usp=drive_link" target="_blank">
+                                    Click here to access the evidences for Outcome/s.
                                 </a>
                             </li>
                         </ul>
@@ -113,11 +102,8 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#"><strong>S.1-S.9.</strong> Click here to access the evidences for S.1 to S.9.
-                                </a>
-                            </li>
-                            <li class="sip">
-                                <a href="#"><strong>S.10-S.15.</strong> Click here to access the evidences for S.10 to S.15.
+                                <a href="https://drive.google.com/drive/folders/1j8V7NjzYeDwIZmGAib7WCBcbPUhZwfS8?usp=drive_link" target="_blank">
+                                    Click here to access the evidences for Systems - Inputs and Processes.
                                 </a>
                             </li>
                         </ul>
@@ -125,13 +111,8 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="#">
-                                    <strong>I.1-I.8.</strong> Click here to access the evidences for I.1 to I.8.
-                                </a>
-                            </li>
-                            <li class="imp">
-                                <a href="#">
-                                    <strong>I.9-I.19.</strong> Click here to access the evidences for I.9 to I.19.
+                                <a href="https://drive.google.com/drive/folders/1zYKTl7VtIIXLD5joRijthZHsPMze0NsU?usp=drive_link" target="_blank">
+                                    Click here to access the evidences for Implementation.
                                 </a>
                             </li>
                         </ul>
@@ -139,8 +120,8 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#">
-                                    <strong>O.1.</strong> Quality student welfare services are available
+                                <a href="https://drive.google.com/drive/folders/1HTnu0Y8sR8EWAUJtfB8NAgwEIZi6QbNH?usp=drive_link" target="_blank">
+                                    Click here to access the evidences for Outcome/s.
                                 </a>
                             </li>
                         </ul>
@@ -156,7 +137,8 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#"><strong>S.1-S.5.</strong> Click here to access the evidences for S.1 to S.5.
+                                <a href="https://drive.google.com/drive/folders/13Hb1bU0XF1Ba77u7IJ1ZzDFkkRWTy7Hc?usp=drive_link" target="_blank">
+                                    Click here to access the evidences for Systems - Inputs and Processes.
                                 </a>
                             </li>
                         </ul>
@@ -164,8 +146,8 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="#">
-                                    <strong>I.1-I.10.</strong> Click here to access the evidences for I.1 to I.10.
+                                <a href="https://drive.google.com/drive/folders/13rhNXK4H9D927-r_4qtJ5kCFxDQJ4SFG?usp=drive_link" target="_blank">
+                                    Click here to access the evidences for Implementation.
                                 </a>
                             </li>
                         </ul>
@@ -173,8 +155,8 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#">
-                                    <strong>O.1.</strong> Quality student development services are assured.
+                                <a href="https://drive.google.com/drive/folders/1js0j9kYvhWArUIFxLAiaJKtJo1-Tb1ux?usp=drive_link" target="_blank">
+                                    Click here to access the evidences for Outcome/s.
                                 </a>
                             </li>
                         </ul>
@@ -190,7 +172,8 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#"><strong>S.1-S.18.</strong> Click here to access the evidences for S.1 to S.18.
+                                <a href="https://drive.google.com/drive/folders/1Yuvh6VbhOfoGvP7Uc0cPJ18AJrT3FqaO?usp=drive_link" target="_blank">
+                                    Click here to access the evidences for Systems - Inputs and Processes.
                                 </a>
                             </li>
                         </ul>
@@ -198,8 +181,8 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="#">
-                                    <strong>I.1-I.28.</strong> Click here to access the evidences for I.1 to I.28.
+                                <a href="https://drive.google.com/drive/folders/1DQ3VuQ4KsxsL1HWBycEkyqn7o39z_abR?usp=drive_link" target="_blank">
+                                    Click here to access the evidences for Implementation.
                                 </a>
                             </li>
                         </ul>
@@ -207,8 +190,8 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#">
-                                    <strong>O.1.</strong> The Institutional programs and services develop student potentials to the fullest.
+                                <a href="https://drive.google.com/drive/folders/1u69uqdiPgD3alJ1cxsR_hWvPjl4DYNt-?usp=drive_link" target="_blank">
+                                    Click here to access the evidences for Outcome/s.
                                 </a>
                             </li>
                         </ul>
@@ -224,7 +207,8 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#"><strong>S.1-S.4.</strong> Click here to access the evidences for S.1 to S.4.
+                                <a href="https://drive.google.com/drive/folders/1sgCY6wGRUaiBaJhknSlhDvnjNEL_Xt8m?usp=drive_link" target="_blank">
+                                    Click here to access the evidences for Systems - Inputs and Processes.
                                 </a>
                             </li>
                         </ul>
@@ -232,8 +216,8 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="#">
-                                    <strong>I.1-I.5.</strong> Click here to access the evidences for I.1 to I.5.
+                                <a href="https://drive.google.com/drive/folders/1PCWUB5FG2wyrIx0HN9MCXhu8eouorIoy?usp=drive_link" target="_blank">
+                                    Click here to access the evidences for Implementation.
                                 </a>
                             </li>
                         </ul>
@@ -241,24 +225,16 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#">
-                                    <strong>O.1.</strong> Research outputs are presented and published.
+                                <a href="https://drive.google.com/drive/folders/1njifmGQECJbi7q9LXNz1u3ucIQZroMa4?usp=drive_link" target="_blank">
+                                    Click here to access the evidences for Outcome/s.
                                 </a>
                             </li>
                         </ul>
                     </li>
                 </ul>
             </div>
-
-            
         </section>
-
-
-
-
     </section>
-
-
 
     <?php include('../assets/static-html/footer.html'); ?>
 
