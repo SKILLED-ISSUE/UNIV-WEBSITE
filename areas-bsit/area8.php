@@ -43,7 +43,7 @@
                 </div>
             </a>
 
-            <a href="#" target="_blank" class="fade-in">
+            <a href="https://drive.google.com/drive/folders/1QBCzAw_RZn_ZV-WIWcaw3FLKfCmCkIts?usp=drive_link" target="_blank" class="fade-in">
                 <img src="SSA1.png" alt="self survey">
                 <div class="overlay">
                     <div class="text">Click here</div>
