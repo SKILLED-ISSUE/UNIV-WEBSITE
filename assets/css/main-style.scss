@@ -18,7 +18,7 @@
   src: url("fonts/Product-sans/Product Sans Bold.ttf") format("truetype");
 }
 
-// naglolo ko pag sa iisang @font-face
+/* // naglolo ko pag sa iisang @font-face */
 
 html {
   scroll-snap-type: y proximity;
@@ -32,13 +32,13 @@ body {
 
 .fade-in {
   opacity: 0;
-  // transform: translateY(20px); 
+  /* // transform: translateY(20px); */
   transition: opacity 0.6s ease-out, transform 0.6s ease-out;
 }
 
 .fade-in.visible {
   opacity: 1;
-  // transform: translateY(0); 
+  /* // transform: translateY(0); */
 }
 
 
@@ -156,7 +156,7 @@ header {
   display: none;
   justify-content: center;
   z-index: 1000;
-  box-shadow: 0px 7px 36px 0px rgba(127,20,20,0.51);
+  box-shadow: 0px 7px 36px 0px rgba(127, 20, 20, 0.51);
 
   .close-btn {
     position: relative;
@@ -608,13 +608,13 @@ footer {
     a {
       display: grid;
       place-items: center;
-      position: relative; 
+      position: relative;
       width: max-content;
 
       img {
         border-radius: 0.5em;
         transition: filter 0.5s ease;
-        height: 85%;        
+        height: 85%;
       }
 
       .text {
@@ -756,6 +756,7 @@ body.no-scroll {
 }
 
 @media only screen and (max-width: 768px) {
+
   html,
   body {
     width: 100vw;
