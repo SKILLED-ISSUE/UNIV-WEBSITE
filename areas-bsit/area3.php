@@ -80,7 +80,7 @@
                         <ul>
                             <li class="sip">
                                 <a href="https://drive.google.com/drive/folders/1ZTJhIjKFsBhb_utRSAouG3pWdVgYbiMp?usp=sharing" target="_blank">
-                                    To access the evidences for S.1 to S.3, click here.
+                                    Click here to access the evidences for Systems - Inputs and Processes.
                                 </a>
                             </li>
                         </ul>
@@ -89,7 +89,7 @@
                         <ul>
                             <li class="imp">
                                 <a href="https://drive.google.com/drive/folders/1_4byNAmRquGLWLsj7eN9EBm6nzBKFjP-?usp=sharing" target="_blank">
-                                    To access the evidences for I.1 to I.8, click here.
+                                    Click here to access the evidences for Implementation.
                                 </a>
                             </li>
                         </ul>
@@ -98,7 +98,7 @@
                         <ul>
                             <li class="out">
                                 <a href="https://drive.google.com/drive/folders/1W6PFuHLhFEvRc-NGLDG7ewDb0oGDWJ1j?usp=sharing" target="_blank">
-                                    To access the evidences for O.1 to O.2, click here.
+                                    Click here to access the evidences for Outcome/s.
                                 </a>
                             </li>
                         </ul>
@@ -118,7 +118,7 @@
                         <ul>
                             <li class="sip">
                                 <a href="https://drive.google.com/drive/folders/1tb1CQzTK_2pAiTsNJ6RBfKxF5yczih0S?usp=drive_link" target="_blank">
-                                    To access the evidences for S.1 to S.5, click here.
+                                    Click here to access the evidences for Systems - Inputs and Processes.
                                 </a>
                             </li>
                         </ul>
@@ -127,7 +127,7 @@
                         <ul>
                             <li class="imp">
                                 <a href="https://drive.google.com/drive/folders/1p-lvpu7hT5T69gqG3Jgc-l7u1AjG9IfG?usp=drive_link" target="_blank">
-                                    To access the evidences for I.1 to I.10.3, click here.
+                                    Click here to access the evidences for Implementation.
                                 </a>
                             </li>
                         </ul>
@@ -135,8 +135,8 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#" target="_blank">
-                                    <!-- To access the evidences for O.1 to O.2, click here. -->
+                                <a href="https://drive.google.com/drive/folders/1tBC4UoCV4zEr6XRP7eusrPibSu-E0vNk?usp=drive_link" target="_blank">
+                                    Click here to access the evidences for Outcome/s.
                                 </a>
                             </li>
                         </ul>
@@ -156,7 +156,7 @@
                         <ul>
                             <li class="sip">
                                 <a href="https://drive.google.com/drive/folders/1a8XIXDRc6huhintOQ5xUwjEdqwGXTthm?usp=sharing" target="_blank">
-                                    To access the evidences for S.1.1 to S.2.2, click here.
+                                    Click here to access the evidences for Systems - Inputs and Processes.
                                 </a>
                             </li>
                         </ul>
@@ -165,7 +165,7 @@
                         <ul>
                             <li class="imp">
                                 <a href="https://drive.google.com/drive/folders/1609apc0DufUT9emDqXenZoD7xYNT1utf?usp=sharing" target="_blank">
-                                    To access the evidences for I.1 to I.3, click here.
+                                    Click here to access the evidences for Implementation.
                                 </a>
                             </li>
                         </ul>
@@ -174,7 +174,7 @@
                         <ul>
                             <li class="out">
                                 <a href="https://drive.google.com/drive/folders/1LSnzYkAh6EIKCyEIoNr4TsvzPh9-oU2I?usp=sharing" target="_blank">
-                                    To access the evidences for O.1 to O.2, click here.
+                                    Click here to access the evidences for Outcome/s
                                 </a>
                             </li>
                         </ul>
@@ -194,7 +194,7 @@
                         <ul>
                             <li class="sip">
                                 <a href="https://drive.google.com/drive/folders/1QoDVfC89CPb3tzQcj-cIB2CZ5PxdGOzu?usp=sharing" target="_blank">
-                                    To access the evidences for S.1.1 to S.1.4, click here.
+                                    Click here to access the evidences for Systems - Inputs and Processes.
                                 </a>
                             </li>
                         </ul>
@@ -203,7 +203,7 @@
                         <ul>
                             <li class="imp">
                                 <a href="https://drive.google.com/drive/folders/1GlM8MfHUYl7E1nxDiLCzxcboA5OgOodx?usp=sharing" target="_blank">
-                                    To access the evidences for I.1 to I.8, click here.
+                                    Click here to access the evidences for Implementation.
                                 </a>
                             </li>
                         </ul>
@@ -212,7 +212,7 @@
                         <ul>
                             <li class="out">
                                 <a href="https://drive.google.com/drive/folders/1zbfsl3po-0wHHs9aVpasvkUnQL9u8loo?usp=sharing" target="_blank">
-                                    To access the evidences for O.1, click here.
+                                    Click here to access the evidences for Outcome/s.
                                 </a>
                             </li>
                         </ul>
@@ -232,7 +232,7 @@
                         <ul>
                             <li class="sip">
                                 <a href="https://drive.google.com/drive/folders/1vX1J0__lzYL6ChEL-N3AHWHs94Wf36xk?usp=sharing" target="_blank">
-                                    To access the evidences for S.1, click here.
+                                    Click here to access the evidences for Systems - Inputs and Processes.
                                 </a>
                             </li>
                         </ul>
@@ -241,7 +241,7 @@
                         <ul>
                             <li class="imp">
                                 <a href="https://drive.google.com/drive/folders/1__rlfaXLKypWK90_kS-W3kKnh3k3ECtQ?usp=sharing" target="_blank">
-                                    To access the evidences for I.1 to I.5, click here.
+                                    Click here to access the evidences for Implementation.
                                 </a>
                             </li>
                         </ul>
@@ -250,7 +250,7 @@
                         <ul>
                             <li class="out">
                                 <a href="https://drive.google.com/drive/folders/1Dc1-ch-3WfDc6udiPK1ssAhCmb1wIREP?usp=sharing" target="_blank">
-                                    To access the evidences for O.1, click here.
+                                    Click here to access the evidences for Outcome/s.
                                 </a>
                             </li>
                         </ul>
@@ -270,7 +270,7 @@
                         <ul>
                             <li class="sip">
                                 <a href="https://drive.google.com/drive/folders/1OmJO2zvkNq6RtcGPEcJ8gFbnA4yzoa66?usp=sharing" target="_blank">
-                                    To access the evidences for S.1 to S.3, click here.
+                                    Click here to access the evidences for Systems - Inputs and Processes.
                                 </a>
                             </li>
                         </ul>
@@ -279,7 +279,7 @@
                         <ul>
                             <li class="imp">
                                 <a href="https://drive.google.com/drive/folders/10tHiZVAdrj5hid-QmoOBGnrttrIQq7GE?usp=sharing" target="_blank">
-                                    To access the evidences for I.1 to I.8.3, click here.
+                                    Click here to access the evidences for Implementation.
                                 </a>
                             </li>
                         </ul>
@@ -288,7 +288,7 @@
                         <ul>
                             <li class="out">
                                 <a href="https://drive.google.com/drive/folders/1fVymR8oY8w6rS-nCOKPDJ4GKu4uBzRmr?usp=sharing" target="_blank">
-                                    To access the evidences for O.1 to O.2, click here.
+                                    Click here to access the evidences for Outcome/s.
                                 </a>
                             </li>
                         </ul>
