@@ -49,6 +49,8 @@
             It is my great pleasure that Polytechnic University of the Philippines – San Juan City Campus (PUPSJ) is now getting into another phase of its endeavour in achieving its goal of being accredited by a prestigious accrediting body like the Accrediting Agency of Chartered Colleges and Universities in the Philippines, Inc. (AACCUP).
             <br><br>
 
+            See more button on progress
+
             <!-- As another addition to PUP San Juan’s one of its first, it is not enough saying that the Campus is continuously growing through attaining gradually its vision, goals and objectives served as a mere compliance, but getting into the depth of its definition and having it materialize through evidences will be of great value to achieve. Undergoing to such accreditation is really challenging in the midst of pandemic and being part of it, is such a tremendous responsibility. But we value and believe in the power of the human spirit showing our resiliency and the power of adaptation to the new normal to rise and to overcome the present situation in spite of our limitations and handicaps. We are driven to fulfil our mandate in spite of this pandemic of serving the nation through providing quality education. And this quality education through accreditation. -->
             <!-- <br><br>
 
@@ -61,7 +63,11 @@
             I, being the Director of PUPSJ, would like to appreciate the contribution of everyone and made sure that all we did for the accreditation of our two programs is anchored in the vision and philosophy of PUP, our Sintang Paaralan.
             <br><br>
 
-            To our Panel of Accreditors, our warmest welcome!! -->
+            To our Panel of Accreditors, our warmest welcome!! 
+            
+            Planning to have see more button
+
+            -->
           </h>
         </div>
       </div>
