@@ -111,7 +111,7 @@
         </div>
         <div class="profile-container">
           <section class="pointers">
-            <img id="area-image" class="fade-in" src="../assets/local-task-force/Area8.png" />
+            <img id="area-image" class="fade-in" src="../assets/local-task-force/Area7.jpg" />
           </section>
           <div class="main-contents">
             <section class="overview-programs">
