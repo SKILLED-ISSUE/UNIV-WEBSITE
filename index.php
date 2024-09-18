@@ -43,13 +43,25 @@
         <div id="quote">
           <h id="header1" class="fade-in">Director's</h>
           <h id="header2" class="fade-in">Message</h>
-          <h id="message" class="fade-in">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ullam eveniet enim
-            laboriosam,
-            dolorem voluptates iusto, illum ratione quibusdam repellendus non, assumenda dolore possimus vel ea. Vel
-            vero sit iure ipsam! <br><br>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ullam eveniet enim
-            laboriosam, dolorem voluptates iusto, illum ratione quibusdam repellendus non, assumenda dolore possimus vel
-            ea. Vel
-            vero sit iure ipsam!
+          <h id="message" class="fade-in">Greetings!
+            <br><br>
+
+            It is my great pleasure that Polytechnic University of the Philippines – San Juan City Campus (PUPSJ) is now getting into another phase of its endeavour in achieving its goal of being accredited by a prestigious accrediting body like the Accrediting Agency of Chartered Colleges and Universities in the Philippines, Inc. (AACCUP).
+            <br><br>
+
+            <!-- As another addition to PUP San Juan’s one of its first, it is not enough saying that the Campus is continuously growing through attaining gradually its vision, goals and objectives served as a mere compliance, but getting into the depth of its definition and having it materialize through evidences will be of great value to achieve. Undergoing to such accreditation is really challenging in the midst of pandemic and being part of it, is such a tremendous responsibility. But we value and believe in the power of the human spirit showing our resiliency and the power of adaptation to the new normal to rise and to overcome the present situation in spite of our limitations and handicaps. We are driven to fulfil our mandate in spite of this pandemic of serving the nation through providing quality education. And this quality education through accreditation. -->
+            <!-- <br><br>
+
+            But realizing how we worked hand and hand with the faculty members and administrative staff comprising the Local Task Force Chairs and members including everyone in the institution who availed and involved themselves in this venture is already a success.
+            <br><br>
+
+            Academically, the significance of the accreditation of the institution reflects its output to strengthen and to transform the curricular programs for the success of students, parents, alumni and other stakeholders driven by the hardworking academic community.
+            <br><br>
+
+            I, being the Director of PUPSJ, would like to appreciate the contribution of everyone and made sure that all we did for the accreditation of our two programs is anchored in the vision and philosophy of PUP, our Sintang Paaralan.
+            <br><br>
+
+            To our Panel of Accreditors, our warmest welcome!! -->
           </h>
         </div>
       </div>
@@ -70,9 +82,9 @@
 
 
 
-  
 
-<!-- TEST LANG SA FACEBOOK TIMELINE -->
+
+  <!-- TEST LANG SA FACEBOOK TIMELINE -->
 
 
   <!-- <iframe
@@ -80,7 +92,7 @@
     width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true"
     allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> -->
 
-    
+
   <?php include('assets/static-html/footer.html'); ?>
 
   <script src="init-script.js"></script>
