@@ -91,9 +91,7 @@
                                 <a href="https://drive.google.com/file/d/1s_9DMJKsja-oEr55BjsDgc91M6HXvtmq/view?usp=drive_link" target="_blank"><strong>I.2.</strong> The College/Academic Unit follows a system of formulating its goals and the objectives of the program.</a>
                             </li>
                             <li class="imp">
-                                <a href="https://drive.google.com/file/d/1_iRALYJ8YAobgVEWGGQuUWlhr0zuWp8-/view?usp=drive_link" target="_blank"><strong>I.3.</strong> The College/Academic Unit’s faculty, personnel, students and other stakeholders (cooperating agencies, linkages, alumni, industry sector and other concerned groups) participate in the formulation, review and/or revision of the VMGO.
-
-</a>
+                                <a href="https://drive.google.com/file/d/1_iRALYJ8YAobgVEWGGQuUWlhr0zuWp8-/view?usp=drive_link" target="_blank"><strong>I.3.</strong> The College/Academic Unit’s faculty, personnel, students and other stakeholders (cooperating agencies, linkages, alumni, industry sector and other concerned groups) participate in the formulation, review and/or revision of the VMGO.</a>
                             </li>
                         </ul>
                     </li>
@@ -116,7 +114,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1sjAzmnbmUcBjFLWP-iM4mfZtsP33KUfF?usp=drive_link" target="_blank"><strong>S.1.</strong> The VMGO is available on bulletin boards, in catalogs/manuals and in other forms of communication media</a>
+                                <a href="https://drive.google.com/file/d/1SChwMXz4_yVKEYKbaAFGH_Bq7rVYHKYJ/view?usp=drive_link" target="_blank"><strong>S.1.</strong> The VMGO is available on bulletin boards, in catalogs/manuals and in other forms of communication media</a>
                             </li>
                         </ul>
                     </li>
@@ -153,9 +151,13 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="hhttps://drive.google.com/file/d/1oXk-g_E8-SXJZIajRwTksmgLx6qbQatM/view?usp=drive_link" target="_blank"><strong>O.1.</strong> There is full awareness and acceptance of the VMGO by the administrators, faculty, staff, students and other stakeholders.</a>
-                                <a href="https://drive.google.com/file/d/1VXIeBvvO7Pueu_-CGwMSdSfXPYhD2kuM/view?usp=drive_link" target="_blank"><strong>O.2.</strong> There is congruency between actual educational practices and activities.</a>
-                                <a href="https://drive.google.com/file/d/16eMj_osK6bfvxzl66L_-cJLC16A3s82U/view?usp=drive_link" target="_blank"><strong>O.3.</strong> The goals and objectives are being achieved </a>
+                                <a href="https://drive.google.com/file/d/1oXk-g_E8-SXJZIajRwTksmgLx6qbQatM/view?usp=drive_link" target="_blank"><strong>O.1.</strong> There is full awareness and acceptance of the VMGO by the administrators, faculty, staff, students and other stakeholders.</a><br>
+                            </li>
+                            <li class="out">
+                                <a href="https://drive.google.com/file/d/1VXIeBvvO7Pueu_-CGwMSdSfXPYhD2kuM/view?usp=drive_link" target="_blank"><strong>O.2.</strong> There is congruency between actual educational practices and activities.</a><br>
+                            </li>
+                            <li class="out">
+                                <a href="https://drive.google.com/file/d/16eMj_osK6bfvxzl66L_-cJLC16A3s82U/view?usp=drive_link" target="_blank"><strong>O.3.</strong> The goals and objectives are being achieved </a><br>
                             </li>
                         </ul>
                     </li>
