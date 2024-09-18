@@ -27,13 +27,14 @@ html {
 
 body {
   margin: 0em;
-
 }
 
 .fade-in {
   opacity: 0;
   /* // transform: translateY(20px); */
-  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+  transition:
+    opacity 0.6s ease-out,
+    transform 0.6s ease-out;
 }
 
 .fade-in.visible {
@@ -41,12 +42,13 @@ body {
   /* // transform: translateY(0); */
 }
 
-
 img {
   object-fit: cover;
   max-width: 100%;
   border-radius: 0.2em;
-  transition: transform 0.3s ease-in-out, filter 0.3s ease-in-out;
+  transition:
+    transform 0.3s ease-in-out,
+    filter 0.3s ease-in-out;
 }
 
 div,
@@ -262,7 +264,9 @@ header {
         display: block;
         font-size: 1.1rem;
         padding: 1rem;
-        transition: color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+        transition:
+          color 0.3s ease-in-out,
+          box-shadow 0.3s ease-in-out;
       }
 
       a:hover {
@@ -434,7 +438,6 @@ footer {
       justify-content: center;
       align-items: center;
 
-
       #header1 {
         margin-top: 1.4em;
         font-size: 2rem;
@@ -448,7 +451,6 @@ footer {
       }
     }
   }
-
 
   .content-container {
     gap: 2em;
@@ -563,13 +565,11 @@ footer {
 
       img {
         height: 8.5em;
-
       }
 
       img:hover {
         transform: scale(1.05);
         filter: opacity(75%) drop-shadow(2px 2px 5px #db0808);
-
       }
     }
   }
@@ -679,7 +679,7 @@ footer {
     }
 
     .collapsible:after {
-      content: '\002B';
+      content: "\002B";
       color: white;
       font-weight: bold;
       float: right;
@@ -756,7 +756,6 @@ body.no-scroll {
 }
 
 @media only screen and (max-width: 768px) {
-
   html,
   body {
     width: 100vw;
