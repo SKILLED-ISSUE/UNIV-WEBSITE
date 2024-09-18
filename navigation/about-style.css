@@ -45,7 +45,8 @@
     align-items: center;
     flex-direction: column; }
     .profile-container .pointers #overview-image {
-      max-width: 40%; }
+      max-width: 40%;
+      border-radius: 0.5em; }
     .profile-container .pointers #area-image {
       max-width: 75%; }
   .profile-container .overview-programs {
