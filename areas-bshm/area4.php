@@ -68,7 +68,22 @@
                         <ul>
                             <li class="sip">
                                 <a href="https://drive.google.com/drive/folders/1d01p_ZDSeDKHRk0mdHU8LOcArOMZ41C9?usp=drive_link" target="_blank">
-                                    Click here to access the evidences for Systems - Inputs and Processes.
+                                To access the evidences for S.1 to S.5, click here.
+                                </a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/drive/folders/1d01p_ZDSeDKHRk0mdHU8LOcArOMZ41C9?usp=drive_link" target="_blank">
+                                To access the evidences for S.6. to S.6.2.6, click here.
+                                </a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/drive/folders/1d01p_ZDSeDKHRk0mdHU8LOcArOMZ41C9?usp=drive_link" target="_blank">
+                                To access the evidences for S.6.3.1 to S.6.3.12, click here.
+                                </a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/drive/folders/1d01p_ZDSeDKHRk0mdHU8LOcArOMZ41C9?usp=drive_link" target="_blank">
+                                To access the evidences for S.7 to S.12, click here.
                                 </a>
                             </li>
                         </ul>
@@ -77,7 +92,7 @@
                         <ul>
                             <li class="imp">
                                 <a href="https://drive.google.com/drive/folders/1C2GD_hqKYyLGGEXRbyBzsn65rGywj2Gg?usp=drive_link" target="_blank">
-                                    Click here to access the evidences for Implementation.
+                                To access the evidences for I.1 to I.7, click here.
                                 </a>
                             </li>
                         </ul>
@@ -86,7 +101,7 @@
                         <ul>
                             <li class="out">
                                 <a href="https://drive.google.com/drive/folders/1xwRlSvJ8lnTDrWSznwNpB5i0tQlTwhKj?usp=drive_link" target="_blank">
-                                    Click here to access the evidences for Outcome/s.
+                                O.1. The students are satisfied with the Student Services Program.
                                 </a>
                             </li>
                         </ul>
@@ -103,7 +118,12 @@
                         <ul>
                             <li class="sip">
                                 <a href="https://drive.google.com/drive/folders/1QMtDJMCgINBWXlATgYLgkRPQbDL4HJWN?usp=drive_link" target="_blank">
-                                    Click here to access the evidences for Systems - Inputs and Processes.
+                                To access the evidences for S.1 to S.9, click here.
+                                </a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/drive/folders/1QMtDJMCgINBWXlATgYLgkRPQbDL4HJWN?usp=drive_link" target="_blank">
+                                To access the evidences for S.10 to S.15, click here.
                                 </a>
                             </li>
                         </ul>
@@ -112,7 +132,12 @@
                         <ul>
                             <li class="imp">
                                 <a href="https://drive.google.com/drive/folders/1XQsxowY4Es1kyvBoGCgNFf6XZ3CNord_?usp=drive_link" target="_blank">
-                                    Click here to access the evidences for Implementation.
+                                To access the evidences for I.1 to I.8, click here.
+                                </a>
+                            </li>
+                            <li class="imp">
+                                <a href="https://drive.google.com/drive/folders/1XQsxowY4Es1kyvBoGCgNFf6XZ3CNord_?usp=drive_link" target="_blank">
+                                To access the evidences for I.9 to I.19, click here.
                                 </a>
                             </li>
                         </ul>
@@ -121,7 +146,7 @@
                         <ul>
                             <li class="out">
                                 <a href="https://drive.google.com/drive/folders/1Ur9tfLP6OUXQe2CZhQyB45kA9opA6iRa?usp=drive_link" target="_blank">
-                                    Click here to access the evidences for Outcome/s.
+                                O.1. Quality student welfare services are available.
                                 </a>
                             </li>
                         </ul>
@@ -138,7 +163,7 @@
                         <ul>
                             <li class="sip">
                                 <a href="https://drive.google.com/drive/folders/10YwWVrigzvAMkj7TwSrT0c7wHCSfWLaK?usp=drive_link" target="_blank">
-                                    Click here to access the evidences for Systems - Inputs and Processes.
+                                To access the evidences for S.1 to S.5, click here.
                                 </a>
                             </li>
                         </ul>
@@ -147,7 +172,7 @@
                         <ul>
                             <li class="imp">
                                 <a href="https://drive.google.com/drive/folders/1tdbVPMGSqiW7-T1FEJdOT24j7dl_MVJP?usp=drive_link" target="_blank">
-                                    Click here to access the evidences for Implementation.
+                                To access the evidences for I.1 to I.10, click here.
                                 </a>
                             </li>
                         </ul>
@@ -156,7 +181,7 @@
                         <ul>
                             <li class="out">
                                 <a href="https://drive.google.com/drive/folders/1K2uihoKxGUQER74zRNE0y561A7rrURd7?usp=drive_link" target="_blank">
-                                    Click here to access the evidences for Outcome/s.
+                                O.1. Quality student development services are assured.
                                 </a>
                             </li>
                         </ul>
@@ -173,7 +198,7 @@
                         <ul>
                             <li class="sip">
                                 <a href="https://drive.google.com/drive/folders/1rTJCOU-jsJk2wZ_z_os7cF_XlcHkdqHC?usp=drive_link" target="_blank">
-                                    Click here to access the evidences for Systems - Inputs and Processes.
+                                To access the evidences for S.1 to S.18, click here.
                                 </a>
                             </li>
                         </ul>
@@ -182,7 +207,7 @@
                         <ul>
                             <li class="imp">
                                 <a href="https://drive.google.com/drive/folders/19ZKYqxMJ50x3_mV1Rpt6AX9Yns85hVjc?usp=drive_link" target="_blank">
-                                    Click here to access the evidences for Implementation.
+                                To access the evidences for I.1 to I.28, click here.
                                 </a>
                             </li>
                         </ul>
@@ -191,7 +216,7 @@
                         <ul>
                             <li class="out">
                                 <a href="https://drive.google.com/drive/folders/1PvHGHUvFz1RcY3Bdh6oAiMXzOXejq5he?usp=drive_link" target="_blank">
-                                    Click here to access the evidences for Outcome/s.
+                                O.1. The institutional programs and services develop student potentials to the fullest.
                                 </a>
                             </li>
                         </ul>
@@ -208,7 +233,7 @@
                         <ul>
                             <li class="sip">
                                 <a href="https://drive.google.com/drive/folders/1pZqQhjFKqHg9bGuqP2HisEH84qP7Cfnl?usp=drive_link" target="_blank">
-                                    Click here to access the evidences for Systems - Inputs and Processes.
+                                To access the evidences for S.1 to S.4, click here. 
                                 </a>
                             </li>
                         </ul>
@@ -217,7 +242,7 @@
                         <ul>
                             <li class="imp">
                                 <a href="https://drive.google.com/drive/folders/1buhuu1T4EXKC7WuT-YUyGEDG-2UMBV75?usp=drive_link" target="_blank">
-                                    Click here to access the evidences for Implementation.
+                                To access the evidences for I.1 to I.5, click here. 
                                 </a>
                             </li>
                         </ul>
@@ -226,7 +251,7 @@
                         <ul>
                             <li class="out">
                                 <a href="https://drive.google.com/drive/folders/1I3QiHtBvugaKQHrDSTEXjzSalak29j7n?usp=drive_link" target="_blank">
-                                    Click here to access the evidences for Outcome/s.
+                                O.1. Research outputs are presented and published.
                                 </a>
                             </li>
                         </ul>
