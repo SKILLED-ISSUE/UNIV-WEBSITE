@@ -66,21 +66,41 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1CdSN7JaszPDds2VdGpB1kcGORmILLF-r?usp=drive_link" target="_blank">To access the evidences for S.1 to S.5, click here.</a>
+                                <a href="https://drive.google.com/file/d/1c8SOL1-vInK5cHiWiYeBUTIrx7wwjWu4/view?usp=drive_link" target="_blank"><strong>S.1.</strong> The institution has a system of determining the Vision and Mission.</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/15Mvtmc6aUwivzysCWilkyYJk46_vcmeJ/view?usp=drive_link" target="_blank"><strong>S.2.</strong> The Vision clearly reflects what the Institution hopes to become in the future.</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1YMdq6sEDq92LSTDACzn-eDbSzF4GbXEN/view?usp=drive_link" target="_blank"><strong>S.3.</strong> The Mission clearly reflects the Institution’s legal and other statutory mandates.</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1qPVmmV4YLpDjh-FaJRmk6nme87EsAgnY/view?usp=drive_link" target="_blank"><strong>S.4.</strong> The Goals of the College/Academic Unit are consistent with the Mission of the Institution.</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1km0oIpZFiKYf8UgIcMW1MQydG1l-8RMG/view?usp=drive_link" target="_blank"><strong>S.5.</strong> The Objectives of the program have the expected outcomes in terms of competencies (skills and knowledge), values and other attributes of the graduates.</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1-Kciu13w7KmTuGJAj4_ITH-Weq2xU0qh?usp=drive_link" target="_blank">To access the evidences for I.1 to I.3, click here.</a>
+                                <a href="https://drive.google.com/file/d/1HbV3T2kDd-oSf30TlH-GCjUEHIRglTpe/view?usp=drive_link" target="_blank"><strong>I.1.</strong> The Institution/College conducts review on the statement of the Vision and Mission as well as its goals and program objectives for the approval of authorities concerned.</a>
+                            </li>
+                            <li class="imp">
+                                <a href="https://drive.google.com/file/d/1s_9DMJKsja-oEr55BjsDgc91M6HXvtmq/view?usp=drive_link" target="_blank"><strong>I.2.</strong> The College/Academic Unit follows a system of formulating its goals and the objectives of the program.</a>
+                            </li>
+                            <li class="imp">
+                                <a href="https://drive.google.com/file/d/1_iRALYJ8YAobgVEWGGQuUWlhr0zuWp8-/view?usp=drive_link" target="_blank"><strong>I.3.</strong> The College/Academic Unit’s faculty, personnel, students and other stakeholders (cooperating agencies, linkages, alumni, industry sector and other concerned groups) participate in the formulation, review and/or revision of the VMGO.
+
+</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1lM3045qYyPsiW4E1ujtWKPEcPQNFOWVD?usp=drive_link" target="_blank">To access the evidences for O.1, click here.</a>
+                                <a href="https://drive.google.com/file/d/1L1I5GoOpJrNY3S6NsVauVCFmNFFPphdf/view?usp=drive_link" target="_blank"><strong>O.1.</strong> The VMGO are crafted and duly approved by BOR/BOT.</a>
                             </li>
                         </ul>
                     </li>
@@ -96,21 +116,46 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1sjAzmnbmUcBjFLWP-iM4mfZtsP33KUfF?usp=drive_link" target="_blank">To access the evidences, click here.</a>
+                                <a href="https://drive.google.com/drive/folders/1sjAzmnbmUcBjFLWP-iM4mfZtsP33KUfF?usp=drive_link" target="_blank"><strong>S.1.</strong> The VMGO is available on bulletin boards, in catalogs/manuals and in other forms of communication media</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1X6ex9yP24me1SrUsjmUsJIaBH13MYlF8?usp=drive_link" target="_blank">To access the evidences for I.1 to I.5, click here.</a>
+                                <a href="https://drive.google.com/file/d/1hEbaSTiJ_njuBr_WGnqDATD-85B_Ir_u/view?usp=drive_link" target="_blank"><strong>I.1.</strong> A system of dissemination and acceptability of the  VMGO is enforced.</a>
+                            </li>
+                            <li class="imp">
+                                <a href="https://drive.google.com/file/d/1uYoNex7HrQSkq4ziBEDsY1Ux0iQDwmei/view?usp=drive_link" target="_blank"><strong>I.2.</strong> The administrators/faculty attend in-service seminars and training on awareness and acceptability of  the: </a>
+                                <ul style="list-style-type: none;">
+                                    <li><Strong>I.2.1.</Strong> Vision and Mision of the Institution.</li>
+                                    <li><Strong>I.2.2.</Strong> Goals of the College/Academic Unit.</li>
+                                </ul>
+                            </li>
+                            <li class="imp">
+                                <a href="https://drive.google.com/file/d/1T_MWHh2l8d4JwyaQJ2AtArSCUjcCUkbk/view?usp=drive_link" target="_blank"><strong>I.3.</strong> he formulation/review/revision of the VMGO is  participated in by the following: </a>
+                                <ul style="list-style-type: none;">
+                                    <li><Strong>I.3.1.</Strong> Administrators</li>
+                                    <li><Strong>I.3.2.</Strong> Faculty</li>
+                                    <li><Strong>I.3.3.</Strong> Staff</li>
+                                    <li><Strong>I.3.4.</Strong> Students</li>
+                                    <li><Strong>I.3.5.</Strong> Other stakeholders</li>
+                                </ul>
+                            </li>
+                            <li class="imp">
+                                <a href="https://drive.google.com/file/d/1bylH9GUPATBls5CwSECjCDT5KCZogPIA/view?usp=drive_link" target="_blank"><strong>I.4.</strong> The faculty and staff perform their jobs/functions in consonance with the VMGO.</a>
+                            </li>
+                            <li class="imp">
+                                <a href="https://drive.google.com/file/d/1rkQjLetEhiMavsRxfjhzkKiybO1Jnedw/view?usp=drive_link" target="_blank"><strong>I.5.</strong> The VMGO is widely disseminated to the different agencies, institutions, industry sector and the community. </a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1dD7JdQBW_7oU9cOUC7uoQxaI6EX-W89z?usp=drive_link" target="_blank">To access the evidences for O.1 to O.3, click here.</a>
+                                <a href="hhttps://drive.google.com/file/d/1oXk-g_E8-SXJZIajRwTksmgLx6qbQatM/view?usp=drive_link" target="_blank"><strong>O.1.</strong> There is full awareness and acceptance of the VMGO by the administrators, faculty, staff, students and other stakeholders.</a>
+                                <a href="https://drive.google.com/file/d/1VXIeBvvO7Pueu_-CGwMSdSfXPYhD2kuM/view?usp=drive_link" target="_blank"><strong>O.2.</strong> There is congruency between actual educational practices and activities.</a>
+                                <a href="https://drive.google.com/file/d/16eMj_osK6bfvxzl66L_-cJLC16A3s82U/view?usp=drive_link" target="_blank"><strong>O.3.</strong> The goals and objectives are being achieved </a>
                             </li>
                         </ul>
                     </li>
