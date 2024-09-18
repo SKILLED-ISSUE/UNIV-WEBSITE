@@ -74,11 +74,11 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1iYPcEccSCGg3R0hjoWL-7LPSOlwtlZfK?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1wDeNju_kU5T3pxC2QRnscSr6m5HJ6bVg/view" target="_blank">
                                 S.1. The institution's research agenda is in consonance with institutional, regional and national priorities concerned such as DOST, CHED - National Higher Education Research Agenda, DepEd, NEDA, etc.</a>
                             </li>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1iYPcEccSCGg3R0hjoWL-7LPSOlwtlZfK?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1m7p4yMNcJCtTqhXNmo1OMN7mGFE4XbL2/view?usp=sharing" target="_blank">
                                 S.2. The institution has an approved Research Manual.</a>
                                 
                             </li>
@@ -161,11 +161,11 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/17Rc00FgYkDCAVMCeVE6l8p2EGecJu7n0?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1NdW8L3xJK0tWyUfYINH14yAcv9PkThKo/view?usp=sharing" target="_blank">
                                 S.1. The institution has an approved and adequate budget for research.</a>
                             </li>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/17Rc00FgYkDCAVMCeVE6l8p2EGecJu7n0?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1md9V1QHhaZ226i3c4ww3iHuFg_SpqXQT/view?usp=sharing" target="_blank">
                                 S.2. There are provisions for the following:</a>
                                 <ul>
                                 <li class="sip">
@@ -233,11 +233,11 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/19iWGCpy1hWaEkv1HCMPNgAHJ8XtZSmC1?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1AkRxdYGwXWyTX2_o1QrZtNd7oDGOB7K0/view?usp=sharing" target="_blank">
                                 S.1. There is a system of implementation, monitoring, evaluation, and utilization of research outputs.</a>
                             </li>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/19iWGCpy1hWaEkv1HCMPNgAHJ8XtZSmC1?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1P859KXLFUc1TajwxJmArVI7j9H_jQndY/view?usp=sharing" target="_blank">
                                 S.2. There is a policy of Intellectual Property Rights (IPR).</a>
                             </li>
                         </ul>
@@ -332,11 +332,11 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1FOCrCxoV9NhWaUUuBQrDJ1NV3UNAbqPv?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1f_ThCU8k1xEiEZsoYyILtUmzgqj30bZL/view?usp=sharing" target="_blank">
                                 S.1. The institution has an approved and copyrighted Research Journal.</a>
                             </li>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1FOCrCxoV9NhWaUUuBQrDJ1NV3UNAbqPv?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1xB2ooG31hf4bCSn-y8gf-ewtHDTk1JGw/view?usp=sharing" target="_blank">
                                 S.2. The institution has incentives for:</a>
                                 <ul>
                                 <li class="sip">
