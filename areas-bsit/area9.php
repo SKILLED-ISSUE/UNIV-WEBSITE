@@ -35,14 +35,14 @@
         </div>
 
         <div class="img-thmb" class="fade-in">
-            <a href="https://drive.google.com/file/d/1R2bHJ23zdV33Zx5wKnN-Viz8kXZqhek_/view?usp=sharing" target="_blank">
+            <a href="#" target="_blank">
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
                     <div class="text">Click here</div>
                 </div>
             </a>
 
-            <a href="#" target="_blank" class="fade-in">
+            <a href="https://drive.google.com/file/d/10wpvjVzTtuhEEKB1_QV8SPGSo8qMoh42/view?usp=drive_link" target="_blank" class="fade-in">
                 <img src="SSA1.png" alt="self survey">
                 <div class="overlay">
                     <div class="text">Click here</div>
@@ -64,7 +64,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                         <li>
-                                <a href="#"><strong>S.1.</strong> The laboratory layout conforms with standards (RA 6541 National Building Code of the Philippines / PD 856 "Code of Sanitation of the Philippines") and to particular needs of the program.</a>
+                                <a href="https://drive.google.com/file/d/1iZBEnOziM7ssltUSWVlvpR4XF2-63zKO/view?usp=drive_link"><strong>S.1.</strong> The laboratory layout conforms with standards (RA 6541 National Building Code of the Philippines / PD 856 "Code of Sanitation of the Philippines") and to particular needs of the program.</a>
                             </li>
                             <li>
                                 <a href="#"><strong>S.2.</strong> Rooms have lightings in accordance to the standard requirements of fluorescent bulbs relative to their size.</a>
