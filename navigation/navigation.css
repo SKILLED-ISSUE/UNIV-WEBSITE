@@ -231,3 +231,11 @@ ul {
 
 } */
 
+
+.certificate {
+  height: 50em;
+}
+
+.cert-container {
+  justify-content: center;
+}
