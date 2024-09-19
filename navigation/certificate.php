@@ -40,9 +40,9 @@
             <div class="card-header">
                Certificate of Authenticity
             </div>
-            <div class="card-body-history">
+            <div class="card-body-history cert-container">
                 <ul>
-                <img class="card history-banner" src="https://via.placeholder.com/800x400?text=Placeholder" alt="pupsj-certificate">
+                <img class="certificate" src="../assets/CertificateOfAuthenticity.jpg" alt="pupsj-certificate">
                 </ul>
             </div>
 

@@ -23,7 +23,7 @@
       </div>
     </div>
 
-    <div class="content-container" >
+    <div class="content-container">
       <section class="pointers">
         <h id="header" class="fade-in">CONTENTS</h>
         <a href="#c1" class='scroll-link' class="fade-in">Program Objectives</a>
@@ -54,7 +54,7 @@
       <section class="objectives-container">
         <section class="objectives-header">
           <h id="header" class="fade-in">PROGRAM OBJECTIVES</h>
-          <div class="thin-line fade-in" ></div>
+          <div class="thin-line fade-in"></div>
         </section>
 
         <ul class="fade-in">
@@ -65,6 +65,19 @@
           <li>To train students to systematically analyze and evaluate organizational systems and processes in order to recommend software solutions that properly address the organization's needs and goals.</li>
         </ul>
       </section>
+    </section>
+
+    <section class="chair">
+      <div class="border" class="fade-in">
+        <img src="../assets/chairpersons/austria-titlecard.png" alt="chairperson's photo" class="fade-in">
+        <div id="quote">
+          <h1 id="chair-header" class="fade-in">Chairperson's</h1>
+          <h2 id="chair-header" class="fade-in">Message</h2>
+          <p class="fade-in">As the Chairperson, I would like to extend my sincere gratitude for your time, effort, and expertise in this important accreditation process.
+            Your insights and recommendations are invaluable in ensuring that we continue to uphold the highest standards of excellence. We look forward to a productive and successful collaboration.
+            Thank you, guys.</p>
+        </div>
+      </div>
     </section>
 
     <section class="aus-container anchor-offset" id="c2">

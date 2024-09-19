@@ -41,14 +41,14 @@
 
         <div class="img-thmb" class="fade-in">
 
-            <a href="https://drive.google.com/drive/folders/15IWKi8MPR3tCBfHmSBZN1-McBJ1HPlPH?usp=drive_link" target="_blank">
+            <a href="https://drive.google.com/file/d/1otKdXSrCkjuzCUWG-HTPKwW7HipZzJlq/view?usp=drive_link" target="_blank">
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
                     <div class="text">NO UPLOAD YET</div>
                 </div>
             </a>
 
-            <a href="https://drive.google.com/drive/folders/1VWsxZTugyg5v2WsI1sZOEMPbal8h_Lf7?usp=drive_link" target="_blank" class="fade-in">
+            <a href="https://drive.google.com/file/d/1EXTM8zw4GrrfE-y9qJHKkStPvG51xI62/view?usp=drive_link" target="_blank" class="fade-in">
                 <img src="SSA1.png" alt="self survey">
                 <div class="overlay">
                     <div class="text">Click here</div>
@@ -78,11 +78,12 @@
                             <li>
                                 <a href="https://drive.google.com/file/d/1jjoMIFPg1EMYlDXN1BkXQfM5e1qLwJTA/view?usp=drive_link"><strong>S.2.</strong> Other qualifications such as the following are considered:</a>
                                 <ul>
-                                    <li>S.2.1. related professional experience;</li>
-                                    <li>S.2.2. licensure;</li>
-                                    <li>S.2.3. specialization;</li>
-                                    <li>S.2.4. technical skills and competence; and</li>
-                                    <li>S.2.5. special abilities, computer literacy, research productivity.</li>
+                                    <li><a href="link-to-related-professional-experience" target="_blank">S.2.1. related professional experience</a></li>
+                                    <li><a href="link-to-licensure" target="_blank">S.2.2. licensure</a></li>
+                                    <li><a href="link-to-specialization" target="_blank">S.2.3. specialization</a></li>
+                                    <li><a href="link-to-technical-skills-and-competence" target="_blank">S.2.4. technical skills and competence</a></li>
+                                    <li><a href="link-to-special-abilities-computer-literacy-research-productivity" target="_blank">S.2.5. special abilities, computer literacy, research productivity</a></li>
+
                                 </ul>
                             </li>
                             <li>
