@@ -88,15 +88,15 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                              <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/14kTFk9cyIWnqj75wOhIZ9GQIY12SOR6w?usp=sharing" target="_blank">
+                                <a href="#" target="_blank">
                                 I.1. The approved research agenda is implemented.</a>
                             </li> 
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/14kTFk9cyIWnqj75wOhIZ9GQIY12SOR6w?usp=sharing" target="_blank">
+                                <a href="#" target="_blank">
                                 I.2. The following stakeholders participate in the formulation of the research agenda as bases for identifying institutional thrusts and priorities:</a>
                                 <ul>
                                 <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/14kTFk9cyIWnqj75wOhIZ9GQIY12SOR6w?usp=sharing" target="_blank">
+                                <a href="#" target="_blank">
                                 I.2.1. administrators;</a>
                             </li> 
                             <li class="sip">
