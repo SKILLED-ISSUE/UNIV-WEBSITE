@@ -48,14 +48,14 @@
         </div>
 
         <div class="img-thmb" class="fade-in">
-            <a href="https://drive.google.com/drive/folders/1r1ZFCt8AZGT1P5c3e9wpgx8h4gBszH_s?usp=drive_link" target="_blank">
+            <a href="https://drive.google.com/file/d/1ktcSfRiV8oe67l1NKgJTh2KaQ8HnbrAy/view?usp=drive_link" target="_blank">
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
                     <div class="text">Click here</div>
                 </div>
             </a>
 
-            <a href="https://drive.google.com/drive/folders/1QA0CcjIhnOCRtOe3NI8A9SjzgaWw70dC?usp=drive_link" target="_blank">
+            <a href="https://drive.google.com/file/d/1gE40E_rty7fIP5QoYGE8RhG5Nio7vJYI/view?usp=drive_link" target="_blank">
                 <img src="SSA1.png" alt="self survey">
                 <div class="overlay">
                     <div class="text">Click here</div>
