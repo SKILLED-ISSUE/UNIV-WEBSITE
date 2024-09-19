@@ -1,0 +1,233 @@
+iframe {
+  width: 100%;
+  max-width: 1351px;
+  border-radius: 1em;
+  transition: border 0.5s ease;
+  border: 2px solid transparent;
+}
+
+iframe:hover {
+  border: 0.5em solid rgba(127, 20, 20, 0.7725490196);
+}
+
+#description {
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+}
+
+#quote-title {
+  text-align: left;
+  font-family: "Product Sans Bold";
+  font-size: 1.2em;
+}
+
+#note {
+  font-size: 0.8em;
+  color: rgb(153, 12, 12);
+}
+
+
+
+.card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #ddd;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  overflow: hidden;
+  width: 100%;
+  max-width: 1351px;
+  margin: 0 auto;
+  position: relative;
+  transition: background-color 0.7s ease-in;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+.card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to right, rgb(255, 0, 0), rgba(255, 255, 255, 0.1), rgb(255, 0, 0));
+  opacity: 0;
+  transition: opacity 0.7s ease-in;
+  z-index: -1;
+}
+
+.card:hover::before {
+  opacity: 1;
+}
+
+.card-header {
+  font-family: "Product Sans Bold";
+  font-size: 2.5em;
+  color: #a71212;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 2em;
+  text-align: center;
+  padding-top: 0.5em;
+}
+
+.card-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  line-height: 1;
+  padding-bottom: 1em;
+
+}
+
+#p1 {
+  font-size: 2em;
+  line-height: 1;
+  margin-bottom: 0.2em;
+  margin-top: 0.2em;
+}
+
+#p2 {
+  font-style: italic;
+  margin-top: 0;
+}
+
+
+.card-body-mission {
+  display: flex;
+  margin-left: 3em;
+  margin-right: 3em;
+  margin-bottom: 3em;
+  text-align: justify;
+}
+
+.card-body-mission>div {
+  width: 48%;
+}
+
+ul {
+  list-style-type: disc;
+
+}
+
+.p3 {
+
+  font-family: "Product Sans Bold";
+}
+
+.card-body-history {
+  display: flex;
+  margin-left: 3em;
+  margin-right: 5em;
+  margin-bottom: 3em;
+  text-align: justify;
+
+}
+
+.pupsj-svp {
+  margin-top: 4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: auto;
+}
+
+.refs {
+  display: block;
+
+
+}
+
+.history-banner {
+  height: 35em;
+}
+
+
+/* CAROUSEL TEST */
+
+.carousel {
+  position: relative;
+  width: 100%;
+  max-width: 1351px;
+  margin: auto;
+  overflow: hidden;
+  height: 35em;
+}
+
+.carousel-inner {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.carousel-item {
+  min-width: 100%;
+  box-sizing: border-box;
+  position: relative;
+  bottom: 18em;
+}
+
+.carousel-item img {
+  width: 100%;
+  display: block;
+
+
+}
+
+.carousel-control {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+ background: linear-gradient(to right, rgba(148, 13, 13, 0.7), rgba(0, 0, 0, 0.3));  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  z-index: 5000;
+  border-radius: 0.5em;
+}
+
+.prev {
+  left: 10px;
+}
+
+.next {
+  right: 10px;
+}
+
+/* BRANCH OFFICIALS */
+
+#their-name {
+  font-family: "Product Sans Bold", sans-serif; 
+  font-size: 1.25rem;
+  color: #7f1414;
+ 
+}
+
+#their-position {
+  font-family: "Product Sans Regular", sans-serif; 
+  font-size: 1.5rem; 
+  color: #141414; 
+}
+
+.thin-line-break {
+  height: 2px;
+  background-color: #7f1414;
+  width: 60%;
+  margin: 10px 0;
+}
+
+.content-container {
+  gap: 2em;
+  width: 40% !important;
+}
+
+/* 
+.facilty {
+  width: 60% !important;
+
+} */
+
