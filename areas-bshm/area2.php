@@ -437,10 +437,6 @@
                 </ul>
             </div>
 
-
-
-
-
             <!-- PARAMETER G -->
 
             <button class="collapsible">

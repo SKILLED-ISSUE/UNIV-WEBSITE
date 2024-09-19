@@ -35,7 +35,7 @@
         </div>
 
         <div class="img-thmb" class="fade-in">
-            <a href="https://drive.google.com/drive/folders/1uERTQkb-cmcgZHO7wysz48Rdy7bheaaK?usp=sharing"
+            <a href="https://drive.google.com/file/d/1FRw8EQTA3gi7tXkYDepfr39VPv9cUdUy/view?usp=drive_link"
                 target="_blank">
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
@@ -43,7 +43,7 @@
                 </div>
             </a>
 
-            <a href="https://drive.google.com/drive/folders/1QBCzAw_RZn_ZV-WIWcaw3FLKfCmCkIts?usp=sharing"
+            <a href="https://drive.google.com/file/d/1sgxxC2HHUsJKa8c97ZzApPo6MWiyPy94/view?usp=drive_link"
                 target="_blank" class="fade-in">
                 <img src="SSA1.png" alt="self survey">
                 <div class="overlay">
@@ -69,7 +69,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1-yatXs3JZdsdr0ouj3OvCfB40eSbteQF?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1k98ny4-ngavxD0e4UQhgeMi4woyRcQ6p/view?usp=drive_link"
                                     target="_blank">To access the evidences for S.1 to S.6, click here.</a>
                             </li>
                         </ul>
@@ -77,7 +77,7 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/18SsjnVzJioiDg9xFqeOhNlRR9lfUWPOe?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1MXnOg4xsClZYkh4Uwi0kF82mp5MHAQ_J/view?usp=drive_link"
                                     target="_blank">To access the evidences for I.1 to I.6, click here.</a>
                             </li>
                         </ul>
@@ -85,7 +85,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1nHFmllEREPKa5TM55fFrXfy9cwHxnogO?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1ff8smsZtlyQjwFUd_7D8BEYBuERg7Q7b/view?usp=drive_link"
                                     target="_blank">To access the evidences for O.1 to O.4, click here.</a>
                             </li>
                         </ul>
@@ -104,7 +104,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1BlewkVGnEUJGH4SRPk27juJ5qvT0SVba?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1WWfKKk2c0lD6feaDzam5t_9dpYJ3jbr7/view?usp=drive_link"
                                     target="_blank">To access the evidences for S.1 to S.14, click here.</a>
                             </li>
                         </ul>
@@ -112,7 +112,7 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1bIcASWQoEz0JZ-hYeK-YiOd2bIYNZx8i?usp=sharing"
+                                <a href="https://drive.google.com/file/d/14ee8iAIwWxfgd5IyAIafvwh1oBgTatrA/view?usp=drive_link"
                                     target="_blank">To access the evidences for I.1 to I.19, click here.</a>
                             </li>
                         </ul>
@@ -120,7 +120,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1geA6Mcf5Hufbcu0STxauaWdKA1Vpuvwz?usp=sharing"
+                                <a href="https://drive.google.com/file/d/16KKkJJpATaG9fb6yfZS3lTO1T7E-wuh7/view?usp=drive_link"
                                     target="_blank">To access the evidences for O.1, click here.</a>
                             </li>
                         </ul>
@@ -139,7 +139,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1gX1o9kh40bWXuMd3QkNfEpjos2Tb4_JI?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1e76grIpeNdAHYKfWlx6joscElmvMHHZN/view?usp=drive_link"
                                     target="_blank">To access the evidences for S.1 to S.4, click here.</a>
                             </li>
                         </ul>
@@ -147,7 +147,7 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1s5zB22w9Gc5Kow6YEF7tsV0vnwtfLu3s?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1tcATkvmcdfvgwlkGgF4C3Whnr7Av_gEQ/view?usp=drive_link"
                                     target="_blank">To access the evidences for I.1 to I.3, click here.</a>
                             </li>
                         </ul>
@@ -155,7 +155,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1WhvSm5OdIJC-8YC04ajOWZX5_06Zy5Hj?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1Dxxi8ITFrmxNcfxL8iMX5GNDGdQRTfG4/view?usp=drive_link"
                                     target="_blank">To access the evidences for O.1, click here.</a>
                             </li>
                         </ul>
@@ -174,7 +174,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1TH6dkxjHcJAWs6cqiLyONdVsVLMuIZbD?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1myd1KthCFlt6WoTEzfPt4eRM2gT9EWcW/view?usp=drive_link"
                                     target="_blank">To access the evidences for S.1 to S.8, click here.</a>
                             </li>
                         </ul>
@@ -182,7 +182,7 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1_xDt2eySmDmMO2i0oLthEYPInTVy0b23?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1gHSA2h4ffhqlAq2553ffZ6hhY9EqiM0E/view?usp=drive_link"
                                     target="_blank">To access the evidences for I.1 to I.2, click here.</a>
                             </li>
                         </ul>
@@ -190,7 +190,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1iKTZj8azjqKW_rCIhletSrAwNckgLtBP?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1nTQrAULjBb7rvUygMQSKLBiSSh1HvdWD/view?usp=drive_link"
                                     target="_blank">To access the evidences for O.1, click here.</a>
                             </li>
                         </ul>
@@ -210,7 +210,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1Ac1waXrFqL-SZGKy4Fg_H6v6MFNdglr8?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1b8Rwn7ZOl7TeqDDxF9YioqYqeOYfFvjy/view?usp=drive_link"
                                     target="_blank">To access the evidences for S.1 to S.5, click here.</a>
                             </li>
                         </ul>
@@ -218,7 +218,7 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1mmzvsBEvjNSdzjVhkZnjo4D_ngI75Ua6?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1DvowR5gFH2kNNttXnkdyy3MrcyfVpWpG/view?usp=drive_link"
                                     target="_blank">To access the evidences for I.1 to I.4, click here.</a>
                             </li>
                         </ul>
@@ -226,7 +226,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/17fDk5ANrobj13RkwDuhkczba6CEwMj03?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1SNVdaa2unspbHanNA3gCCz40xwBZpnw4/view?usp=drive_link"
                                     target="_blank">To access the evidences for O.1, click here.</a>
                             </li>
                         </ul>
@@ -245,7 +245,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1TADhu8sV-QyTgBcReTiZHADtT4MR106g?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1kvP7d5kEkbJuGlN0WE6wUIRFEsla47ER/view?usp=drive_link"
                                     target="_blank">To access the evidences for S.1 to S.10, click here.</a>
                             </li>
                         </ul>
@@ -253,7 +253,7 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1GY-ZlGyoQZu_SniWBz0PjFywK8PZPi_8?usp=sharing"
+                                <a href="https://drive.google.com/file/d/110BUpl5xkKOa-Eq2uLxZt8M5HRKlMvL7/view?usp=drive_link"
                                     target="_blank">To access the evidences for I.1 to I.3, click here.</a>
                             </li>
                         </ul>
@@ -261,7 +261,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1SokvFVB5_Ta-YlvKfZ15yqFGr9xj9FcD?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1nzHvrUFycyUPc3kTeIcTo1tKXtXAgbT-/view?usp=drive_link"
                                     target="_blank">To access the evidences for O.1, click here.</a>
                             </li>
                         </ul>
@@ -281,7 +281,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/12RaNbxt5PCq4tDz-x_ZkwysFgyT1k74c?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1M2fFesdKxCxpsfUswAEM-wp3RM2k6azd/view?usp=drive_link"
                                     target="_blank">To access the evidences for S.1 to S.8, click here.</a>
                             </li>
                         </ul>
@@ -289,7 +289,7 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1ICFJT2T4Z9vj97CnJaeOllkgKKOvsGE4?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1NbR6VI-dhqolchi7dYrk9SHGhrjo5fZO/view?usp=drive_link"
                                     target="_blank">To access the evidences for I.1 to I.2, click here.</a>
                             </li>
                         </ul>
@@ -297,7 +297,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/111ea1Bdq6MdkfwUkLhVqw4x-hE92QEoN?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1ftUbfJ0SyauoHKCa3p0FoW0kBnvs7NAK/view?usp=drive_link"
                                     target="_blank">To access the evidences for O.1, click here.</a>
                             </li>
                         </ul>
@@ -317,7 +317,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1PzVjzXEc6SAu7UJAjNiUvE7lfYdau7oP?usp=sharing"
+                                <a href="https://drive.google.com/file/d/19fNdyP2MCAsx7Sx0PXar5mhf7djWGHol/view?usp=drive_link"
                                     target="_blank">To access the evidences for S.1 to S.3, click here.</a>
                             </li>
                         </ul>
@@ -325,7 +325,7 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1_aH9Pv6BsHMutFW5Iw6oJQe6825T-6Mq?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1qGhJ0utC2WREW1xwETXDfuXVgrm-KfY7/view?usp=drive_link"
                                     target="_blank">To access the evidences for I.1 to I.5, click here.</a>
                             </li>
                         </ul>
@@ -333,7 +333,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1MY5cGZCRQOHjiwOqhaqEKcRBgPeiv9d3?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1qA5HyjBTlDG8sjEN-17t9jveg-Fy6DaV/view?usp=drive_link"
                                     target="_blank">To access the evidences for O.1 to O.2, click here.</a>
                             </li>
                         </ul>
@@ -352,7 +352,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1X9Rdeh4ADPdJCmP277HphPF2teJQ1jA8?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1xs0jZ0EYvSUoLNOROVDk33Osmupzmrgq/view?usp=drive_link"
                                     target="_blank">To access the evidences for S.1 to S.2, click here.</a>
                             </li>
                         </ul>
@@ -360,7 +360,7 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1feaSIYqG8vGalDQQIPQhyuy5tjC8JjdU?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1FvpCrOoIvbH6KonbVvYVrTWHHo4ed5cV/view?usp=drive_link"
                                     target="_blank">To access the evidences for I.1 to I.3, click here.</a>
                             </li>
                         </ul>
@@ -368,7 +368,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1cbMt_BVQlHshU9v4w8hEZyB9CLhIY6aG?usp=sharing"
+                                <a href="https://drive.google.com/file/d/1Xod8_12LHx3m6clERoeAgNmzW44xYX-2/view?usp=drive_link"
                                     target="_blank">To access the evidences for O.1, click here.</a>
                             </li>
                         </ul>
@@ -387,8 +387,69 @@
                     <li class="list-header"><strong>Supporting Documents</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1-bdaibzAoUnZhwQB7Jo74YygyVYwn5f3?usp=sharing"
-                                    target="_blank">To access the documents, click here.</a>
+                                <a href="https://drive.google.com/file/d/1mlatV0u2U1F17QYPTOF6qeR_SYxh0ilF/view?usp=drive_link"
+                                    target="_blank">IDSA Client Survey Forms</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/10F9tjUKHESipNHf1WL4DqDZ_HPvSz840/view?usp=drive_link"
+                                    target="_blank">Electrical Inspection Certification</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1-3JrAe24EyXltCJ9akOMJbbtlH3fH_ki/view?usp=drive_link"
+                                    target="_blank">Enrollment Trend</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1ib1_etANWAv3CYGXmSqukUbTkws7MoSW/view?usp=drive_link"
+                                    target="_blank">Medical and Dental Equipment</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1-v4T9lLe2hxkyHVfSqeYi_no15O2ep5y/view?usp=drive_link"
+                                    target="_blank">Medical Profile Matrix</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1Q_2OcUv4XP8BDO0dYyhWMZmZ-iPJzzvr/view?usp=drive_link"
+                                    target="_blank">Medical Personnel</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/13CEpvpbzpz9znRp9FQvTavDrp5jihyYP/view?usp=drive_link"
+                                    target="_blank">Zoning Order</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1Wj-QVdBnq5AuvWQ8iO3VNc4iFbsTwetT/view?usp=drive_link"
+                                    target="_blank">Pest Control Request</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1r8u7aEmaObwfAGqHX3gfbi7ye4rLla_z/view?usp=drive_link"
+                                    target="_blank">Proposed Facility Guidelines</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1f2smk_EXx0Pe8XPeUEbFCdX1q0uLRFtH/view?usp=drive_link"
+                                    target="_blank">Request for Centralized Signal and Alarm</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1Fze2UKmQy2MNUYy3TV6GybJZkxQvlwJa/view?usp=drive_link"
+                                    target="_blank">Security and Services</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1uJBaU8DR0dzQfn5PR3R6D0F8pO7pFjEU/view?usp=drive_link"
+                                    target="_blank">Services for Students with Special Needs and Differently-
+                                    abled Persons</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1tJoD20NFK8yne2rtFxGygJHDzzJ4htJR/view?usp=drive_link"
+                                    target="_blank">Student Assembly Office</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1AjAShJqIulTQOhBkIPVCR7ZUfaWUKhEl/view?usp=drive_link"
+                                    target="_blank">Student Center Rules and Regulations</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1NH19RBCIfyuCVBaPXJVWDxWc9HHY18-h/view?usp=drive_link"
+                                    target="_blank">Waste Management Request</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1NH19RBCIfyuCVBaPXJVWDxWc9HHY18-h/view?usp=drive_link"
+                                    target="_blank">Waste Management Mechanisms on the Campus</a>
                             </li>
                         </ul>
                     </li>

@@ -285,6 +285,7 @@ header {
   align-items: center;
   justify-content: center;
   gap: 5em;
+  width: 100%;
 }
 .cform #motto-desc {
   font-weight: 500;
@@ -367,6 +368,62 @@ footer .right {
   align-items: center;
   flex-direction: column;
   gap: 2em;
+}
+.program .border {
+  position: relative;
+  padding: 1em;
+  border-radius: 10px;
+  background-color: white;
+  /* Set your background color */
+}
+.program .border:before {
+  content: "";
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  border-radius: 12px;
+  background: linear-gradient(to right, rgba(58, 208, 213, 0) 35%, #7f1414 100%);
+  z-index: -1;
+}
+.program .chair {
+  height: 20em;
+  width: 60%;
+}
+.program .chair img {
+  margin-top: -1.2em;
+  height: 20em;
+}
+.program .chair div:nth-child(1) {
+  gap: 3em;
+}
+.program .chair #name {
+  font-size: 72px;
+  background: -webkit-linear-gradient(left, #f7ca05, #ffffff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.program .chair #quote {
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  width: 65%;
+}
+.program .chair #quote #chair-header {
+  margin: 0;
+  color: #7f1414;
+}
+.program .chair #quote h1 {
+  font-size: 3.5em;
+}
+.program .chair #quote h2 {
+  margin-top: -0.4em !important;
+  font-size: 2.5em;
+  font-weight: 100;
+}
+.program .chair #quote p {
+  font-size: 1.2em;
 }
 .program .header {
   justify-content: center;

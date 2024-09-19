@@ -43,7 +43,7 @@
       <div class="areas">
         <div class="profile-container">
           <section class="pointers">
-            <img id="area-image" class="fade-in" src="../assets/local-task-force/Area1.png" />
+            <img id="area-image" class="fade-in" src="../assets/local-task-force/Austria.png" />
           </section>
           <div class="main-contents">
             <section class="overview-programs">
@@ -54,7 +54,7 @@
         </div>
         <div class="profile-container">
           <section class="pointers">
-            <img id="area-image" class="fade-in" src="../assets/local-task-force/Area2.png" />
+            <img id="area-image" class="fade-in" src="../assets/local-task-force/Corpuz.png" />
           </section>
           <div class="main-contents">
             <section class="overview-programs">
@@ -65,7 +65,7 @@
         </div>
         <div class="profile-container">
           <section class="pointers">
-            <img id="area-image" class="fade-in" src="../assets/local-task-force/Area3.png" />
+            <img id="area-image" class="fade-in" src="../assets/local-task-force/Pagalilawan.png" />
           </section>
           <div class="main-contents">
             <section class="overview-programs">
@@ -76,7 +76,7 @@
         </div>
         <div class="profile-container">
           <section class="pointers">
-            <img id="area-image" class="fade-in" src="../assets/local-task-force/Area4.png" />
+            <img id="area-image" class="fade-in" src="../assets/local-task-force/Biason.png" />
           </section>
           <div class="main-contents">
             <section class="overview-programs">
@@ -87,7 +87,7 @@
         </div>
         <div class="profile-container">
           <section class="pointers">
-            <img id="area-image" class="fade-in" src="../assets/local-task-force/Area5.png" />
+            <img id="area-image" class="fade-in" src="../assets/local-task-force/Saguindan.png" />
           </section>
           <div class="main-contents">
             <section class="overview-programs">
@@ -100,7 +100,7 @@
       <div class="areas">
         <div class="profile-container">
           <section class="pointers">
-            <img id="area-image" class="fade-in" src="../assets/local-task-force/Area6.png" />
+            <img id="area-image" class="fade-in" src="../assets/local-task-force/Espiritu.png" />
           </section>
           <div class="main-contents">
             <section class="overview-programs">
@@ -111,7 +111,7 @@
         </div>
         <div class="profile-container">
           <section class="pointers">
-            <img id="area-image" class="fade-in" src="../assets/local-task-force/Area7.jpg" />
+            <img id="area-image" class="fade-in" src="../assets/local-task-force/Oliverio.jpg" />
           </section>
           <div class="main-contents">
             <section class="overview-programs">
@@ -122,7 +122,7 @@
         </div>
         <div class="profile-container">
           <section class="pointers">
-            <img id="area-image" class="fade-in" src="../assets/local-task-force/Area8.png" />
+            <img id="area-image" class="fade-in" src="../assets/local-task-force/Damole.png" />
           </section>
           <div class="main-contents">
             <section class="overview-programs">
@@ -133,7 +133,7 @@
         </div>
         <div class="profile-container">
           <section class="pointers">
-            <img id="area-image" class="fade-in" src="../assets/local-task-force/Area9.png" />
+            <img id="area-image" class="fade-in" src="../assets/local-task-force/Salcedo.png" />
           </section>
           <div class="main-contents">
             <section class="overview-programs">
@@ -144,7 +144,7 @@
         </div>
         <div class="profile-container">
           <section class="pointers">
-            <img id="area-image" class="fade-in" src="../assets/local-task-force/Area9.png" />
+            <img id="area-image" class="fade-in" src="../assets/local-task-force/Ruiz.png" />
           </section>
           <div class="main-contents">
             <section class="overview-programs">
