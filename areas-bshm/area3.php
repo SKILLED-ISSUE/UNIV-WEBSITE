@@ -180,7 +180,7 @@
                             <ul style="list-style-type: none;">
                             <a href="https://drive.google.com/file/d/1_iAyxy8lbozuq4oq83lxqaokE3FFIsEf/view?usp=drive_link" target="_blank">To access the evidences from S.3 to S.5 click here.</a>
                             </ul>
-                            <li class="imp"><a href="https://drive.google.com/file/d/1m7_06sYEkMlqVWn9ddxCOTqkUhs-MJ_z/view?usp=drive_link" target="_blank"><Strong>S.3.</Strong> Copies of all course syllabi during the term are available at the Dean's office or in any other appropriate repository.</a></li>
+                            <li class="sip"><a href="https://drive.google.com/file/d/1m7_06sYEkMlqVWn9ddxCOTqkUhs-MJ_z/view?usp=drive_link" target="_blank"><Strong>S.3.</Strong> Copies of all course syllabi during the term are available at the Dean's office or in any other appropriate repository.</a></li>
                             <li><Strong>S.4.</Strong> Copies of all syllabi in previous terms are filed for reference purposes.</li>
                             <li><Strong>S.5.</Strong> There is provision for remedial measures to strengthen the basic skills in Mathematics and English and other "tool" subjects.</li>
                             <li><Strong>S.6.</Strong> There is a mechanism to facilitate the teaching-learning process</li>
@@ -597,12 +597,12 @@
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
-                        <ul style="list-style-type: none;">
+                        <ul>
                             <li class="out">
                                 <a href="https://drive.google.com/file/d/1TPayqpgC2KVbrgSdkuUOyrkzdimehnTc/view?usp=drive_link" target="_blank"> <strong>O.1.</strong> The faculty and students have commendable performance as a result of administrative support.</a>
                             </li>
                             <li class="out">
-                                <a href="https://drive.google.com/file/d/1AgJ04rEA1H-AGL5dlnhdBYJpuyQNxQgj/view?usp=drive_link" target="_blank"> <strong>O.2.</strong> The graduates of the program are employable</a>
+                                <a href="https://drive.google.com/drive/folders/1bXoNsEv0Kn4Q8wphgZvodQFeeGGCkirR?usp=drive_link" target="_blank"> <strong>O.2.</strong> The graduates of the program are employable</a>
                             </li>
                         </ul>
                     </li>
