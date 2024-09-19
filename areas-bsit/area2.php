@@ -73,10 +73,10 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li>
-                                <a href="#"><strong>S.1.</strong> The required number of faculty have earned graduate degrees and qualifications appropriate and relevant to the program, namely</a>
+                                <a href="https://drive.google.com/file/d/15XIKNEZXI-BhF3gKGKFsfUUTFkFXFoXb/view?usp=drive_link"><strong>S.1.</strong> The required number of faculty have earned graduate degrees and qualifications appropriate and relevant to the program, namely</a>
                             </li>
                             <li>
-                                <a><strong>S.2.</strong> Other qualifications such as the following are considered:</a>
+                                <a href="https://drive.google.com/file/d/1jjoMIFPg1EMYlDXN1BkXQfM5e1qLwJTA/view?usp=drive_link"><strong>S.2.</strong> Other qualifications such as the following are considered:</a>
                                 <ul>
                                     <li><a href="link-to-related-professional-experience" target="_blank">S.2.1. related professional experience</a></li>
                                     <li><a href="link-to-licensure" target="_blank">S.2.2. licensure</a></li>
@@ -87,17 +87,17 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="#"><strong>S.3.</strong> Faculty handling OJT/practicum courses have had at least three (3) years of teaching and industry-based experience in the field.</a>
+                                <a href="https://drive.google.com/file/d/1B-imf54OHxleACW97S_Bmwe89iB5m_Hl/view?usp=drive_link"><strong>S.3.</strong> Faculty handling OJT/practicum courses have had at least three (3) years of teaching and industry-based experience in the field.</a>
                             </li>
                             <li>
-                                <a href="#"><strong>S.4.</strong> At least 50% of the faculty members have earned relevant graduate degrees.</a>
+                                <a href="https://drive.google.com/file/d/1O9tyZypOWuaTZ1PG1i7hGndCeDxqj23K/view?usp=drive_link"><strong>S.4.</strong> At least 50% of the faculty members have earned relevant graduate degrees.</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li>
-                                <a href="#"><strong>I.1.</strong> The faculty demonstrate professional competence and are engaged in or a combination of the following:</a>
+                                <a href="https://drive.google.com/file/d/14FbfNwQjX9Qi6UffnH5ACjjIOHc40brA/view?usp=drive_link"><strong>I.1.</strong> The faculty demonstrate professional competence and are engaged in or a combination of the following:</a>
                                 <ul>
                                     <li>I.1.1. instruction;</li>
                                     <li>I.1.2. research;</li>
@@ -115,7 +115,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li>
-                                <a href="#"><strong>O.1.</strong> The institution has qualified and competent faculty.</a>
+                                <a href="https://drive.google.com/file/d/15ShM_-MX-aUQnVOQaCY3YnCMXYpGXYkQ/view?usp=drive_link"><strong>O.1.</strong> The institution has qualified and competent faculty.</a>
                             </li>
                         </ul>
                     </li>

@@ -68,12 +68,13 @@
 
 .exhibits-card {
   display: grid;
+  grid-template-columns: repeat(4, 1fr);
   border: 1px solid #ddd;
   border-radius: 0.5rem;
   box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
   overflow: hidden;
   width: 100%;
-  max-width: 1351px;
+  max-width: 1200px;
   margin: 0 auto;
   position: relative;
   transition: background-color 0.7s ease-in;
@@ -89,5 +90,17 @@
     opacity: 0;
     transition: opacity 0.7s ease-in;
     z-index: -1; }
+
+.ul-exhibits {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-inline-start: 0px;
+  margin-left: -13%;
+  margin-right: -13%; }
+  .ul-exhibits #area-image {
+    width: 70%;
+    /* align-self: center; */ }
 
 /*# sourceMappingURL=about-style.css.map */
