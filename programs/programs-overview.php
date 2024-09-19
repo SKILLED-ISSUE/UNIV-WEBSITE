@@ -23,7 +23,7 @@
       </div>
     </div>
 
-    <div class="content-container" >
+    <!--<div class="content-container" >
       <section class="pointers">
   			<img id="overview-image" class="fade-in" src="../assets/programs/overview/accountancy.jpg" />
       </section>
@@ -41,8 +41,8 @@
           </h>
         </section>
       </div>
-    </div>
-    <div class="content-container" >
+    </div>-->
+    <!--<div class="content-container" >
       <section class="pointers">
   			<img id="overview-image" class="fade-in" src="../assets/programs/overview/entrep.jpg" />
       </section>
@@ -60,8 +60,8 @@
           </h>
         </section>
       </div>
-    </div>
-    <div class="content-container" >
+    </div>-->
+    <!--<div class="content-container" >
       <section class="pointers">
   			<img id="overview-image" class="fade-in" src="../assets/programs/overview/educ.jpg" />
       </section>
@@ -76,7 +76,7 @@
           </h>
         </section>
       </div>
-    </div>
+    </div>-->
     <div class="content-container" >
       <section class="pointers">
   			<img id="overview-image" class="fade-in" src="../assets/programs/overview/hm.jpg" />
@@ -118,7 +118,7 @@
         </section>
       </div>
     </div>
-    <div class="content-container" >
+    <!--<div class="content-container" >
       <section class="pointers">
   			<img id="overview-image" class="fade-in" src="../assets/programs/overview/fm.jpg" />
       </section>
@@ -141,7 +141,7 @@
           </h>
         </section>
       </div>
-    </div>
+    </div>-->
   </section>
 
   <?php include('../assets/static-html/footer.html'); ?>
