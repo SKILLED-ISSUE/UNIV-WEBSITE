@@ -122,8 +122,7 @@
                         <li class="imp">
                                 <a href="https://drive.google.com/file/d/18ndswazbLeOV9GHyxAp58N6CRNEOXayJ/view?usp=drive_link" target="_blank"><strong>I.6.</strong> Opportunities for participation in hands-on activities such as immersion/practical training and field study are maintained in the curriculum.</a>
                             </li>
-                        <li class="imp"> <!-- no file in gdrive -->
-                                <a href="https://drive.google.com/file/d/1MlgLybEeniU5_pUsW2k1M8ckhum1H4TK/view?usp=drive_link" target="_blank"><strong>I.7.</strong> The following activities are undertaken to ensure quality in the process of curriculum development:</a>
+                            <li><strong>I.7.</strong> The following activities are undertaken to ensure quality in the process of curriculum development:</li>
                                 <ul style="list-style-type: none;">
                                     <li><Strong>I.7.1.</Strong> participative planning and designing of the curriculum by the following stakeholders:</li>
                                     <li class="imp">
@@ -174,15 +173,14 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                         <li class="sip">
-                                <a href="https://drive.google.com/file/d/1dCm5LDh9geOZ-_fdIPDuJfkLgLqDmBbV/view?usp=drive_link" target="_blank"><strong>S.1.</strong> There is an institutional outcomes-based standard format in the preparation of course syllabi.</a>
+                                <a href="https://drive.google.com/file/d/1vFYsC7GK5DoCaydt88UdMPxMu3CJ1HaP/view?usp=drive_link" target="_blank"><strong>S.1.</strong> There is an institutional outcomes-based standard format in the preparation of course syllabi.</a>
                             </li>
-                        <li class="sip">
-                                <a href="https://drive.google.com/file/d/1dCm5LDh9geOZ-_fdIPDuJfkLgLqDmBbV/view?usp=drive_link" target="_blank"><strong>S.2.</strong> The syllabus includes a list of suggested readings and references of print and electronic resources within the last ten (10) years.</a>
+                        <li><strong>S.2.</strong> The syllabus includes a list of suggested readings and references of print and electronic resources within the last ten (10) years.
                             </li>
                             <ul style="list-style-type: none;">
-                            <a href="https://drive.google.com/file/d/1MlgLybEeniU5_pUsW2k1M8ckhum1H4TK/view?usp=drive_link" target="_blank">To access the evidences from S.3 to S.5 click here.</a>
+                            <a href="https://drive.google.com/file/d/1_iAyxy8lbozuq4oq83lxqaokE3FFIsEf/view?usp=drive_link" target="_blank">To access the evidences from S.3 to S.5 click here.</a>
                             </ul>
-                            <li><Strong>S.3.</Strong> Copies of all course syllabi during the term are available at the Dean's office or in any other appropriate repository.</li>
+                            <li class="imp"><a href="https://drive.google.com/file/d/1m7_06sYEkMlqVWn9ddxCOTqkUhs-MJ_z/view?usp=drive_link" target="_blank"><Strong>S.3.</Strong> Copies of all course syllabi during the term are available at the Dean's office or in any other appropriate repository.</a></li>
                             <li><Strong>S.4.</Strong> Copies of all syllabi in previous terms are filed for reference purposes.</li>
                             <li><Strong>S.5.</Strong> There is provision for remedial measures to strengthen the basic skills in Mathematics and English and other "tool" subjects.</li>
                             <li><Strong>S.6.</Strong> There is a mechanism to facilitate the teaching-learning process</li>
@@ -191,29 +189,29 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                         <li class="imp">
-                                <a href="https://drive.google.com/file/d/1DMembudMUkzO6Vv-PGbb3mf04YboIsB2/view?usp=drive_link" target="_blank"><strong>I.1.</strong> The Dean or official concerned approves the updated syllabus for each subject.</a>
+                                <a href="https://drive.google.com/file/d/1t87k-IUYHxjiErpKSv9P1pJiLD6VyVN9/view?usp=drive_link" target="_blank"><strong>I.1.</strong> The Dean or official concerned approves the updated syllabus for each subject.</a>
                             </li>
                         <li class="imp">
-                                <a href="https://drive.google.com/file/d/1DMembudMUkzO6Vv-PGbb3mf04YboIsB2/view?usp=drive_link" target="_blank"><strong>I.2.</strong> The faculty prepare syllabi with comprehensive contents.</a>
+                                <a href="https://drive.google.com/file/d/1SVGWIXYtnHfeAF_aLRjoX63RClyVrXBn/view?usp=drive_link" target="_blank"><strong>I.2.</strong> The faculty prepare syllabi with comprehensive contents.</a>
                             </li>
                         <li class="imp">
-                                <a href="https://drive.google.com/file/d/1DMembudMUkzO6Vv-PGbb3mf04YboIsB2/view?usp=drive_link" target="_blank"><strong>I.3.</strong> The faculty revise and enhance the syllabus preferably every two (2) years and as needed.</a>
+                                <a href="https://drive.google.com/file/d/17sYPvmZDKaYDTcpaJYyKgr_ACzQQy1go/view?usp=drive_link" target="_blank"><strong>I.3.</strong> The faculty revise and enhance the syllabus preferably every two (2) years and as needed.</a>
                             </li>
                         <li class="imp">
-                                <a href="https://drive.google.com/file/d/1DMembudMUkzO6Vv-PGbb3mf04YboIsB2/view?usp=drive_link" target="_blank"><strong>I.4.</strong> The faculty distribute a copy of the syllabus to each student.</a>
+                                <a href="https://drive.google.com/file/d/16IhCQnmZIBU45DhR_OIJGcmUJy98sEzb/view?usp=drive_link" target="_blank"><strong>I.4.</strong> The faculty distribute a copy of the syllabus to each student.</a>
                             </li>
-                            <li><Strong>I.5.</Strong> Teaching strategies stimulate the development of the students' Higher-Order Thinking Skills (HOTS) such as critical thinking, analytical thinking, creative thinking and problem-solving.</li>
+                            <li class="imp"><a href="https://drive.google.com/file/d/1UW8OEC0BQ2wulXviqaFxqFdJgrTg5qTZ/view?usp=drive_link" target="_blank"><Strong>I.5.</Strong> Teaching strategies stimulate the development of the students' Higher-Order Thinking Skills (HOTS) such as critical thinking, analytical thinking, creative thinking and problem-solving.</a></li>
                             <li><Strong>I.6.</Strong> Classroom instruction is enriched through the use of the following strategies: </li>
                                 <ul style="list-style-type: none;">
                                 <li class="imp">
-                                <a href="https://drive.google.com/file/d/1DMembudMUkzO6Vv-PGbb3mf04YboIsB2/view?usp=drive_link" target="_blank">To access the evidences for I.6.1 to I.6.2, click here. </a>
+                                <a href="https://drive.google.com/file/d/1cOiTMCAwXcrYxKjyllBt2Emp9LzzLvMD/view?usp=drive_link" target="_blank">To access the evidences for I.6.1 to I.6.2, click here. </a>
                             </li>
                             <li><Strong>I.6.1.</Strong> symposia, seminars, workshops, professional lectures;</li>
                                 <li><Strong>I.6.2.</Strong> Ceducational tours/learning visits/other co-curricular activities;</li>
                                 <li><Strong>I.6.3.</Strong> peer teaching/cooperative learning; and</li>
                                 <li><Strong>I.6.4.</Strong> computer-assisted instruction (CAI) and computer-assisted learning (CAL).</li>
                                 </ul>
-                            <li><Strong>I.7.</Strong> At least three (3) of the following course requirements are used: </li>
+                            <li class="imp"><a href="https://drive.google.com/file/d/1k6MYp8gz3Z0_kF9nr4CbKq2tI5XUUL2w/view?usp=drive_link" target="_blank"><Strong>I.7.</Strong> At least three (3) of the following course requirements are used: </a></li>
                                 <ul style="list-style-type: none;">
                                     <li><Strong>I.7.1.</Strong> group/individual projects;</li>
                                     <li><Strong>I.7.2.</Strong> group/individual reports;</li>
@@ -221,17 +219,15 @@
                                     <li><Strong>I.7.4.</Strong> performance activities;</li>
                                     <li><Strong>I.7.5.</Strong> learning contract;</li>
                                     <li class="imp">
-                                <a href="https://drive.google.com/file/d/1DMembudMUkzO6Vv-PGbb3mf04YboIsB2/view?usp=drive_link" target="_blank"><strong>I.7.6.</strong> portfolio;</a>
+                                <a href="https://drive.google.com/file/d/19-sG6QUa1cQtZMSvKuNzQn0CQPqNP53m/view?usp=drive_link" target="_blank"><strong>I.7.6.</strong> portfolio;</a>
                             </li>
-                                    <li class="imp">
-                                <a href="https://drive.google.com/file/d/1DMembudMUkzO6Vv-PGbb3mf04YboIsB2/view?usp=drive_link" target="_blank"><strong>I.7.7.</strong> learning modules;</a>
-                            </li>
+                            <li class="imp"><strong>I.7.7.</strong> learning modules;</li>
                             <li><Strong>I.7.8</Strong> research study; and</li>
                             <li><Strong>I.7.9</Strong> others</li>
                             </li>
                                 </ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/file/d/1DMembudMUkzO6Vv-PGbb3mf04YboIsB2/view?usp=drive_link" target="_blank"><strong>I.8.</strong> Instruction is enriched through the use of, at least, 10 of the following techniques/strategies:</a>
+                                <a href="https://drive.google.com/file/d/12fPJ9x94pZ7t6U3BKXJf4s9c8hZG7ZgT/view?usp=drive_link" target="_blank"><strong>I.8.</strong> Instruction is enriched through the use of, at least, 10 of the following techniques/strategies:</a>
                                 <ul style="list-style-type: none;">
                                     <li><Strong>I.8.1</Strong> film showing;</li>
                                     <li><Strong>I.8.2</Strong> projects;</li>
@@ -262,37 +258,35 @@
                             <li><Strong>I.10.</Strong> Instruction is enhanced through the following:</li>
                                 <ul style="list-style-type: none;">
                                 <li class="imp">
-                                <a href="https://drive.google.com/file/d/1DMembudMUkzO6Vv-PGbb3mf04YboIsB2/view?usp=drive_link" target="_blank">To access the evidences for I.10.1 to I.10.3, click here. </a>
+                                <a href="https://drive.google.com/file/d/1j56Ifbi5PnT4zhosV2rypjEu-kKtrDN_/view?usp=drive_link" target="_blank">To access the evidences for I.10.1 to I.10.3, click here. </a>
                                 <li><Strong>I.10.1.</Strong> submission of approved and updated syllabus for every subject/course;</li>
                                 <li><Strong>I.10.2.</Strong> regular classroom observation/supervision;</li>
                                 <li><Strong>I.10.3.</Strong> regular faculty meetings with the Dean/Academic Head/Department Chair;</li>
                             </li>
                             <li class="imp">
-                                <a href="https://drive.google.com/file/d/1DMembudMUkzO6Vv-PGbb3mf04YboIsB2/view?usp=drive_link" target="_blank">To access the evidences for I.10.4 to I.10.5, click here. </a>
+                                <a href="https://drive.google.com/file/d/1wZP-rTTo1u29AGaa_l7OKu-obMaxeM2z/view?usp=drive_link" target="_blank">To access the evidences for I.10.4 to I.10.5, click here. </a>
                                 <li><Strong>I.10.4.</Strong> regular faculty performance evaluation;</li>
                                 <li><Strong>I.10.5.</Strong> attendance/participation of the faculty in in-service training;</li>
-                                <li><Strong>I.10.6.</Strong> conduct of experimental classes; and</li>
                             </li>
-                            <li class="imp">
-                                <a href="https://drive.google.com/file/d/1DMembudMUkzO6Vv-PGbb3mf04YboIsB2/view?usp=drive_link" target="_blank"><strong>I.10.7.</strong> adoption of alternative instructional delivery modes, such as modular instruction, e-learning and on-line study.</a>
-                            </li>
+                            <li class="imp"><a href="https://drive.google.com/file/d/1G5MNNnlrBdO6BAMdWRwwuiZYiQjfiScH/view?usp=drive_link" target="_blank"><Strong>I.10.6.</Strong> conduct of experimental classes; and</a></li>
+                            <li class="imp"><a href="https://drive.google.com/file/d/1AZ4dBCWoZevcHgLRMS98GATZYagzqJQi/view?usp=drive_link" target="_blank"><strong>I.10.7.</strong> adoption of alternative instructional delivery modes, such as modular instruction, e-learning and on-line study.</a> </li>
                                 </ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/file/d/1DMembudMUkzO6Vv-PGbb3mf04YboIsB2/view?usp=drive_link" target="_blank"><strong>I.11.</strong> Instructional materials (IMs) are reviewed and recommended by the Instructional Materials Committee (IMC).</a>
+                                <a href="https://drive.google.com/file/d/1Y9ytVyx9tffWRT27ztiGAZ7_RIpdR4gk/view?usp=drive_link" target="_blank"><strong>I.11.</strong> Instructional materials (IMs) are reviewed and recommended by the Instructional Materials Committee (IMC).</a>
                             </li>
                             <li><Strong>I.12.</Strong> Varied, multi-sensory materials and computer programs are utilized.</li>
                             <li class="imp">
-                                <a href="https://drive.google.com/file/d/1DMembudMUkzO6Vv-PGbb3mf04YboIsB2/view?usp=drive_link" target="_blank"><strong>I.13.</strong> The College/Academic Unit maintains consortia and linkages with other learning institutions for academic exchange of instructional materials.</a>
+                                <a href="https://drive.google.com/file/d/1Y9ytVyx9tffWRT27ztiGAZ7_RIpdR4gk/view?usp=drive_link" target="_blank"><strong>I.13.</strong> The College/Academic Unit maintains consortia and linkages with other learning institutions for academic exchange of instructional materials.</a>
                             </li>
                             <li class="imp">
-                                <a href="https://drive.google.com/file/d/1DMembudMUkzO6Vv-PGbb3mf04YboIsB2/view?usp=drive_link" target="_blank"><strong>I.14.</strong> The faculty are encouraged to produce their own instructional materials such as modules, software, visual aids, manuals, and textbooks.</a>
+                                <a href="https://drive.google.com/file/d/1RsEWLKo9DNiS4iiNe1Pc7mztrJXIddUQ/view?usp=drive_link" target="_blank"><strong>I.14.</strong> The faculty are encouraged to produce their own instructional materials such as modules, software, visual aids, manuals, and textbooks.</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul style="list-style-type: none;">
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1bulNvdLG1-rL72suNPPqQHywO-xkJvU0?usp=drive_link" target="_blank">
+                                <a href="https://drive.google.com/file/d/1a_05F2wcaXX84ix-2keuckdcBzUpUJuv/view?usp=drive_link" target="_blank">
                                 To access the evidences for O.1 to O.3, click here.
                                 </a>
                             </li>
@@ -314,12 +308,11 @@
                 <ul>
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1Sz-XyPGFmYlFkCHom75FJG4QJD_jUkEH?usp=drive_link" target="_blank">
-                                <strong>S.1.</strong> The institution has a system of evaluating students' performance through a combination of the following:</a>
+                            <li>
+                                <strong>S.1.</strong> The institution has a system of evaluating students' performance through a combination of the following:
                                 <ul style="list-style-type: none;">
                                 <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1Sz-XyPGFmYlFkCHom75FJG4QJD_jUkEH?usp=drive_link" target="_blank">To access the evidences for S.1. to S.I.4 click here.</a>
+                                <a href="https://drive.google.com/file/d/1gWJNze0eQucfDLA2OgJtYRRv8HCf2WIY/view?usp=drive_link" target="_blank">To access the evidences for S.1. to S.I.4 click here.</a>
                             </li>
                             <li><Strong>S.1.1</Strong> formative tests such as quizzes, units' tests;</li>
                             <li><Strong>S.1.2</Strong> summative tests such as mid-term and final examinations;</li>
@@ -329,7 +322,7 @@
                                 </ul>
                             </li>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1Sz-XyPGFmYlFkCHom75FJG4QJD_jUkEH?usp=drive_link" target="_blank">
+                                <a href="https://drive.google.com/file/d/1m0E7qhtO5SzqZEVw5_GTU4sI77lDopd9/view?usp=drive_link" target="_blank">
                                 <strong>S.2.</strong> The summative tests are:</a>
                                 <ul style="list-style-type: none;">
                                     <li><Strong>S.2.1</Strong> comprehensive enough to test the different levels of cognitive skills and knowledge of content; and</li>
@@ -342,44 +335,27 @@
                         <ul>
                             <li><Strong>I.1.</Strong> Varied evaluation measures are used, such as:</li>
                             <ul style="list-style-type: none;">
-                            <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1cK_RM0Cj7pZma0ugUJ2fRP_HEMNd7-ms?usp=drive_link" target="_blank">To access the evidences for I.1. to I.1.7 click here. 
-                                </a>
-                                <ul style="list-style-type: none;">
-                                    <li><Strong>I.1.1.</Strong> portfolio;</li>
-                                    <li><Strong>I.1.2.</Strong> rubric assessment;</li>
-                                    <li><Strong>I.1.3.</Strong> skills demonstration;</li>
-                                    <li><Strong>I.1.4.</Strong> paper and pencil tests;</li>
-                                    <li><Strong>I.1.5.</Strong> oral examinations;</li>
-                                    <li><Strong>I.1.6.</Strong> group/individual reports;</li>
-                                    <li><Strong>I.1.7.</Strong> group/individual reports;</li>
-                                    <li><Strong>I.1.8.</Strong> others</li>
-                                </ul>
-                            </li>
+                                    <li class="imp"><a href="https://drive.google.com/file/d/1mPYcoKWvzNSIO1Uj2DuO45j5owC2WOJz/view?usp=drive_link" target="_blank"><Strong>I.1.1.</Strong> portfolio;</a></li>
+                                    <li class="imp"><a href="https://drive.google.com/file/d/1POiaHCdL3MMl_FyiAk9K_lPsJeWkeTvy/view?usp=drive_link" target="_blank"><Strong>I.1.2.</Strong> rubric assessment;</a></li>
+                                    <li class="imp"><a href="https://drive.google.com/file/d/18ixTJI6YU1PzgzgIoVEzE2BIpmM4-tjw/view?usp=drive_link" target="_blank"><Strong>I.1.3.</Strong> skills demonstration;</a></li>
+                                    <li class="imp"><a href="https://drive.google.com/file/d/12u-5P4LeucI_XpKrbD4tzWRksHo86_Cc/view?usp=drive_link" target="_blank"><Strong>I.1.4.</Strong> paper and pencil tests;</a></li>
+                                    <li class="imp"><a href="https://drive.google.com/file/d/13yTsFq4_a7ipmqyKZ-aOhGCaLCHgWOqz/view?usp=drive_link" target="_blank"><Strong>I.1.5.</Strong> oral examinations;</a></li>
+                                    <li class="imp"><a href="https://drive.google.com/file/d/17uawVUosxmh8fruJkO2uQmHcHJFoHq1c/view?usp=drive_link" target="_blank"><Strong>I.1.6.</Strong> group/individual reports;</a></li>
+                                    <li><Strong>I.1.7.</Strong> others</li>
                             </ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1cK_RM0Cj7pZma0ugUJ2fRP_HEMNd7-ms?usp=drive_link" target="_blank"><strong>I.2.</strong> Evaluation tools/instruments are reviewed and revised periodically.</a>
+                                <a href="https://drive.google.com/file/d/1DxTiyleNhXyJYXlcb9Az7t038SM41yDB/view?usp=drive_link" target="_blank"><strong>I.2.</strong> Evaluation tools/instruments are reviewed and revised periodically.</a>
                             </li>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1cK_RM0Cj7pZma0ugUJ2fRP_HEMNd7-ms?usp=drive_link" target="_blank"><strong>I.3.</strong> The faculty are trained how to assess student performance properly.</a>
+                                <a href="https://drive.google.com/file/d/1_Wv91bxdWVgr-NaxFiNuhkycDmGAXOB1/view?usp=drive_link" target="_blank"><strong>I.3.</strong> The faculty are trained how to assess student performance properly.</a>
                             </li>
-                            <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1cK_RM0Cj7pZma0ugUJ2fRP_HEMNd7-ms?usp=drive_link" target="_blank"><strong>I.4.</strong> The College/Academic Unit encourages and supports assessment for multiple intelligences.</a>
-                            </li>
-                            <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1cK_RM0Cj7pZma0ugUJ2fRP_HEMNd7-ms?usp=drive_link" target="_blank"><strong>I.5.</strong> Course and test requirements are returned to students after results are recorded, and analyzed.</a>
-                            </li>
-                            <li><Strong>I.6.</Strong> The system of student evaluation and grading is defined, understood, and disseminated to:</li>
+                            <li><strong>I.4.</strong> The College/Academic Unit encourages and supports assessment for multiple intelligences.</a></li>
+                            <li><strong>I.5.</strong> Course and test requirements are returned to students after results are recorded, and analyzed.</li>
+                            <li class="imp"><a href="https://drive.google.com/file/d/1S2mwxgGaUNhXNgLEIQDzCt2HHHSkw7aI/view?usp=drive_link" target="_blank"><Strong>I.6.</Strong> The system of student evaluation and grading is defined, understood, and disseminated to:</a></li>
                             <ul style="list-style-type: none;">
-                                <li class="imp">
-                                    <a href="https://drive.google.com/drive/folders/1cK_RM0Cj7pZma0ugUJ2fRP_HEMNd7-ms?usp=drive_link" target="_blank"><strong>I.6.1.</strong> students;</a>
-                                </li>
-                                <li class="imp">
-                                    <a href="https://drive.google.com/drive/folders/1cK_RM0Cj7pZma0ugUJ2fRP_HEMNd7-ms?usp=drive_link" target="_blank"><strong>I.6.2.</strong> faculty;</a>
-                                </li>
-                                <li class="imp">
-                                    <a href="https://drive.google.com/drive/folders/1cK_RM0Cj7pZma0ugUJ2fRP_HEMNd7-ms?usp=drive_link" target="_blank"><strong>I.6.3.</strong> academic administrators;</a> and
-                                </li>
+                                <li><strong>I.6.1.</strong> students;</li>
+                                <li><strong>I.6.2.</strong> faculty;</li>
+                                <li><strong>I.6.3.</strong> academic administrators; </li>and
                                 <li><Strong>I.6.4.</Strong> parent/guardians.</li>
                             </ul>
                         </ul>
@@ -387,11 +363,11 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1pEqeyQnYo8JPF8qfJmYnC5kVmbYj59Ue?usp=drive_link" target="_blank"><strong>O.1.</strong> Students' academic performance is commendable.
+                                <a href="https://drive.google.com/file/d/1r5cdtDSuTgNDnVDNs60Ln-PDwh4A-lMM/view?usp=drive_link" target="_blank"><strong>O.1.</strong> Students' academic performance is commendable.
                                 </a>
                             </li>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1pEqeyQnYo8JPF8qfJmYnC5kVmbYj59Ue?usp=drive_link" target="_blank"><strong>O.2.</strong> Retention rate of students is on the average.
+                                <a href="https://drive.google.com/file/d/1r5cdtDSuTgNDnVDNs60Ln-PDwh4A-lMM/view?usp=drive_link" target="_blank"><strong>O.2.</strong> Retention rate of students is on the average.
                                 </a>
                             </li>
                         </ul>
@@ -412,16 +388,13 @@
                             <li><Strong>S.1.</Strong>  There are policies on management of learning which include the following:</li>
                             <ul style="list-style-type: none;">
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1S-Oasznf-SITWtnxMgmuD8T0RIvsx3di?usp=drive_link" target="_blank">To access the evidences for S.1.1 to S.1.2, click here. 
+                                <a href="https://drive.google.com/file/d/1_wQqlwiI5x9ETJ2YRyZQSVYBtYZFUh63/view?usp=drive_link" target="_blank">To access the evidences for S.1.1 to S.1.4, click here. 
                                 </a>
                             </li>
                             <li><Strong>S.1.1.</Strong>  students' attendance in class and other academic activities;</li>
                             <li><Strong>S.1.2.</Strong>  schedules of classes;</li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1S-Oasznf-SITWtnxMgmuD8T0RIvsx3di?usp=drive_link" target="_blank"><Strong>S.1.3.</Strong>students' discipline;</a> and
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1S-Oasznf-SITWtnxMgmuD8T0RIvsx3di?usp=drive_link" target="_blank"><Strong>S.1.4.</Strong>maintenance of cleanliness and orderliness.</a>
+                            <li><Strong>S.1.3.</Strong>students' discipline;</li>and
+                            <li class="sip"><Strong>S.1.4.</Strong>maintenance of cleanliness and orderliness.
                             </li>
                             </ul>
                         </ul>
@@ -429,43 +402,40 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1D5GB2SEGx6kqpHFqWn2PVOUfL-LAgrIk?usp=drive_link" target="_blank"><strong>I.1.</strong> The policies on management of learning are enforced.
+                                <a href="https://drive.google.com/file/d/1DLE_3z5Qt13S0dRpB54rfyKLZTKGAFSM/view?usp=drive_link" target="_blank"><strong>I.1.</strong> The policies on management of learning are enforced.
+                                </a>
+                            </li>
+                            <li class="imp"><strong>I.2.</strong> Student activities are well-planned and implemented.</li>
+                            <li class="imp">
+                                <a href="https://drive.google.com/file/d/1tVxu88WmwsO6U0NedTqYFvifNaMWeX24/view?usp=drive_link" target="_blank"><strong>I.3.</strong> Assignments are designed to reinforce teaching which results in students maximum learning.
                                 </a>
                             </li>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1D5GB2SEGx6kqpHFqWn2PVOUfL-LAgrIk?usp=drive_link" target="_blank"><strong>I.2.</strong> Student activities are well-planned and implemented.
+                                <a href="https://drive.google.com/file/d/15wEcPQ24bFglZKkYmND3kk_7I2KOt876/view?usp=drive_link" target="_blank"><strong>I.4.</strong> The maximum class size of 50 for undergraduate courses is enforced.
                                 </a>
                             </li>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1D5GB2SEGx6kqpHFqWn2PVOUfL-LAgrIk?usp=drive_link" target="_blank"><strong>I.3.</strong> Assignments are designed to reinforce teaching which results in students maximum learning.
+                                <a href="https://drive.google.com/file/d/1Pe7ctuzhkQpMq5rk7konU4c73B142S3s/view?usp=drive_link" target="_blank"><strong>I.5.</strong> Classroom discipline is maintained in consonance with democratic practices.
                                 </a>
                             </li>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1D5GB2SEGx6kqpHFqWn2PVOUfL-LAgrIk?usp=drive_link" target="_blank"><strong>I.4.</strong> The maximum class size of 50 for undergraduate courses is enforced.
-                                </a>
-                            </li>
-                            <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1D5GB2SEGx6kqpHFqWn2PVOUfL-LAgrIk?usp=drive_link" target="_blank"><strong>I.5.</strong> Classroom discipline is maintained in consonance with democratic practices.
-                                </a>
-                            </li>
-                            <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1D5GB2SEGx6kqpHFqWn2PVOUfL-LAgrIk?usp=drive_link" target="_blank"><strong>I.6.</strong> The class officers and assigned students assist in maintaining cleanliness of classrooms, laboratories, corridors, and the school campus.
+                                <a href="https://drive.google.com/file/d/1dLD6oXZUnZ9muqo1ZxF3xouQkF0NtIcE/view?usp=drive_link" target="_blank"><strong>I.6.</strong> The class officers and assigned students assist in maintaining cleanliness of classrooms, laboratories, corridors, and the school campus.
                                 </a>
                             </li>
                             <li><Strong>I.7.</Strong> Independent work and performance in the following are monitored in the following activities:</li>
                             <ul style="list-style-type: none;">
                                 <li class="imp">
-                                    <a href="https://drive.google.com/drive/folders/1D5GB2SEGx6kqpHFqWn2PVOUfL-LAgrIk?usp=drive_link" target="_blank">To access the evidences for I.7.1 to I.7.2, click here. 
+                                    <a href="https://drive.google.com/file/d/1nR7JwKgt-yaJ-UaNMYD36J6xn-2igFTc/view?usp=drive_link" target="_blank">To access the evidences for I.7.1 to I.7.2, click here. 
                                     </a>
                                 </li>
-                                <li><Strong>I.7.1.</Strong> case studies/projects/reports;</li>
-                                <li><Strong>I.7.2.</Strong> accounting practices;</li>
-                                <li><Strong>I.7.3.</Strong> thesis;</li>
+                                <li><Strong>I.7.1.</Strong> projects/reports;</li>
+                                <li><Strong>I.7.2.</Strong> thesis;</li>
+                                <li><Strong>I.7.3.</Strong> accounting practices;</li>
                                 <li><Strong>I.7.4.</Strong> on-the-job training; and</li>
                                 <li><Strong>I.7.5.</Strong> others</li>
                             </ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1D5GB2SEGx6kqpHFqWn2PVOUfL-LAgrIk?usp=drive_link" target="_blank"><strong>I.8.</strong> In practicum courses, (field study, practice teaching, etc.) the number of trainees for each coordinator does not exceed 50.
+                                <a href="https://drive.google.com/file/d/1yW6XsCB_QmMHrL95C7qjt-NcbC4LqRqe/view?usp=drive_link" target="_blank"><strong>I.8.</strong> In practicum courses, (field study, practice teaching, etc.) the number of trainees for each coordinator does not exceed 50.
                                 </a>
                             </li>
                         </ul>
@@ -473,7 +443,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1gb0T0fyECF01GGZCZxnAIhsm0IhL9zOB?usp=drive_link" target="_blank"><strong>O.1.</strong> Learning is efficiently and effectively managed.
+                                <a href="https://drive.google.com/file/d/1kYj4bcfpBOosl_54sT7HyuO_vGxnT8VU/view?usp=drive_link" target="_blank"><strong>O.1.</strong> Learning is efficiently and effectively managed.
                                 </a>
                             </li>
                         </ul>
@@ -492,7 +462,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/15O9xWuP_hvMDa9fk6544wdxRGXevSGop?usp=drive_link" target="_blank"><strong>S.1.</strong> There is a policy on graduation requirements.
+                                <a href="https://drive.google.com/file/d/1gwQE5mrxr_cLHTPGX6tkITJd20RH7v8S/view?usp=drive_link" target="_blank"><strong>S.1.</strong> There is a policy on graduation requirements.
                                 </a>
                             </li>
                         </ul>
@@ -500,20 +470,20 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1eMQbsSwi0MJ8E1pCl6ys5UErGKFm3L9a?usp=drive_link" target="_blank"><strong>I.1.</strong> The students are regularly informed of the academic requirements of their respective courses.
+                                <a href="https://drive.google.com/file/d/1h8y2COin9RT4uHjSspZlKCS-0rkvuEc6/view?usp=drive_link" target="_blank"><strong>I.1.</strong> The students are regularly informed of the academic requirements of their respective courses.
                                 </a>
                             </li>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1eMQbsSwi0MJ8E1pCl6ys5UErGKFm3L9a?usp=drive_link" target="_blank"><strong>I.2.</strong> The College/Academic Unit implements the system for student returnees and transferees to meet the residence and other graduated requirements.
+                                <a href="https://drive.google.com/file/d/1M8iWudem-EMeu09fnI6Ed1rQjb0ufiuQ/view?usp=drive_link" target="_blank"><strong>I.2.</strong> The College/Academic Unit implements the system for student returnees and transferees to meet the residence and other graduated requirements.
                                 </a>
                             </li>
-                            <li><Strong>I.3.</Strong>  Graduating students conduct research and/or undergo practicum/OJT or other activities prescribed in their respective curricula.</li>
+                            <li class="imp"><a href="https://drive.google.com/file/d/164NPb2mIVvig07X-4CBTh4uS8YUJu3z1/view?usp=drive_link" target="_blank"><Strong>I.3.</Strong>  Graduating students conduct research and/or undergo practicum/OJT or other activities prescribed in their respective curricula.</a></li>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1eMQbsSwi0MJ8E1pCl6ys5UErGKFm3L9a?usp=drive_link" target="_blank"><strong>I.4.</strong> The College/Academic Unit assists the graduating students with academic deficiencies, disciplinary cases, and other problems which hinder issuance of clearances.
+                                <a href="https://drive.google.com/file/d/1B6ddJsFgNlq2x4ZMfGQj7NNzPcTdI3cz/view?usp=drive_link" target="_blank"><strong>I.4.</strong> The College/Academic Unit assists the graduating students with academic deficiencies, disciplinary cases, and other problems which hinder issuance of clearances.
                                 </a>
                             </li>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1eMQbsSwi0MJ8E1pCl6ys5UErGKFm3L9a?usp=drive_link" target="_blank"><strong>I.5.</strong> A clearance from academic and financial accountabilities and responsibilities is required before graduation.
+                                <a href="https://drive.google.com/file/d/1qu7RAakWsRW0-2Jd8jdk9RdoggGuGlFV/view?usp=drive_link" target="_blank"><strong>I.5.</strong> A clearance from academic and financial accountabilities and responsibilities is required before graduation.
                                 </a>
                             </li>
                         </ul>
@@ -521,7 +491,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1gOk4i3LXKduJbeoC1ES7C6aHkGiQ3Pl2?usp=drive_link" target="_blank"><strong>O.1.</strong> At least 60% of the students enrolled in the program graduate within the regular time frame.
+                                <a href="https://drive.google.com/file/d/1KLZAdrDFhyKRKHWNtb1-YVrk8HLelH0Q/view?usp=drive_link" target="_blank"><strong>O.1.</strong> At least 60% of the students enrolled in the program graduate within the regular time frame.
                                 </a>
                             </li>
                         </ul>
@@ -539,12 +509,10 @@
                 <ul>
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1Me9M1NpJlIGArFnfyLOd9wtTdBfwl3eW?usp=drive_link" target="_blank"><strong>S.1.</strong> The institution has policies on:</a>
-                            </li>
+                            <li><strong>S.1.</strong> The institution has policies on:</li>
                             <ul style="list-style-type: none;">
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1Me9M1NpJlIGArFnfyLOd9wtTdBfwl3eW?usp=drive_link" target="_blank"><strong>To access the evidences for S.1.1 to S.1.3, click here. </a>
+                                <a href="https://drive.google.com/file/d/1gIpzuZPOXoLtPxnxPyxiJfp6Y34hmujT/view?usp=drive_link" target="_blank"><strong>To access the evidences for S.1.1 to S.1.3, click here. </a>
                             </li>
                             <li><Strong>S.1.1.</Strong> substitution or special arrangements whenever a teacher is on leave or absent;</li>
                             <li><Strong>S.1.2.</Strong> giving awards and/or recognition for faculty and students with outstanding achievements; and</li>
@@ -555,11 +523,11 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/15Se22yXJ2QNW36H8fPK0AGlTXYz4wz58?usp=drive_link" target="_blank"><strong>I.1.</strong> The institution implements rules on the attendance of the faculty in their respective classes and other academic related activities.
+                                <a href="https://drive.google.com/file/d/1hMU4qy-WAU5yq1pl_hokI7fifmT_qxAF/view?usp=drive_link" target="_blank"><strong>I.1.</strong> The institution implements rules on the attendance of the faculty in their respective classes and other academic related activities.
                                 </a>
                             </li>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/15Se22yXJ2QNW36H8fPK0AGlTXYz4wz58?usp=drive_link" target="_blank"><strong>I.2.</strong> Dialogues are regularly conducted between the administration and the:
+                                <a href="https://drive.google.com/file/d/1EwRBiBZyZAqyqCqnnxCPfE_WiV5X1zWH/view?usp=drive_link" target="_blank"><strong>I.2.</strong> Dialogues are regularly conducted between the administration and the:
                                 </a>
                                 <ul style="list-style-type: none;">
                                     <li><Strong>I.2.1.</Strong> faculty; and</li>
@@ -569,24 +537,24 @@
                             <li><Strong>I.3.</Strong> Quality instruction is assured through the following strategies:</li>
                             <ul style="list-style-type: none;">
                                     <li class="imp">
-                                    <a href="https://drive.google.com/drive/folders/15Se22yXJ2QNW36H8fPK0AGlTXYz4wz58?usp=drive_link" target="_blank">To access the evidences for I.3.1 to I.3.2, click here.</a></li>
+                                    <a href="https://drive.google.com/file/d/1yHwEfuDVc5bIYbUdvQO0lajataXjHTS7/view?usp=drive_link" target="_blank">To access the evidences for I.3.1 to I.3.2, click here.</a></li>
                                     <li><Strong>I.3.1.</Strong> conducting seminar/workshop on syllabi making;</li>
                                     <li><Strong>I.3.2.</Strong> holding workshops on test construction and the corresponding table of specifications;</li>
                                     <li><Strong>I.3.3.</Strong> conducting competency assessment;</li>
                                     <li class="imp">
-                                    <a href="https://drive.google.com/drive/folders/15Se22yXJ2QNW36H8fPK0AGlTXYz4wz58?usp=drive_link" target="_blank"><strong>I.3.4.</strong> conducting supervisory visits of classes and providing assistance, if necessary;</a>
+                                    <a href="https://drive.google.com/file/d/12hNJKt_QPE-OS5pX2J9OhcWMqjIf-wDz/view?usp=drive_link" target="_blank"><strong>I.3.4.</strong> conducting supervisory visits of classes and providing assistance, if necessary;</a>
                                     </li>
                                     <li class="imp">
-                                    <a href="https://drive.google.com/drive/folders/15Se22yXJ2QNW36H8fPK0AGlTXYz4wz58?usp=drive_link" target="_blank"><strong>I.3.5.</strong> holding of regular faculty meetings;</a>
+                                    <a href="https://drive.google.com/file/d/1FqzjVX72o4RErdn68X7bt061Q-aa6EkS/view?usp=drive_link" target="_blank"><strong>I.3.5.</strong> holding of regular faculty meetings;</a>
                                     </li>
                                     <li><Strong>I.3.6.</Strong> requiring consultations between students and faculty;</li>
                                     <li><Strong>I.3.7.</Strong> conducting studies on academic performance of students; and</li>
                                     <li class="imp">
-                                    <a href="https://drive.google.com/drive/folders/15Se22yXJ2QNW36H8fPK0AGlTXYz4wz58?usp=drive_link" target="_blank"><strong>I.3.8.</strong> providing opportunities for the participation of the faculty in in-service activities.</a>
+                                    <a href="https://drive.google.com/file/d/1jmon4vSSTf1R5lo132EQEWZkaS_mtTEz/view?usp=drive_link" target="_blank"><strong>I.3.8.</strong> providing opportunities for the participation of the faculty in in-service activities.</a>
                                     </li>
                                 </ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/15Se22yXJ2QNW36H8fPK0AGlTXYz4wz58?usp=drive_link" target="_blank"><strong>I.4.</strong> Periodic faculty performance evaluation in teaching and in other functions is conducted by at least three (3) of the following:
+                                <a href="https://drive.google.com/file/d/1yQChlRKNhkDnf6QDhAOKHZHsBIUOV4Ra/view?usp=drive_link" target="_blank"><strong>I.4.</strong> Periodic faculty performance evaluation in teaching and in other functions is conducted by at least three (3) of the following:
                                 </a>
                                 <ul style="list-style-type: none;">
                                 <li><Strong>I.4.1.</Strong> the Dean/Academic Head/Department Chair;</li>
@@ -597,17 +565,17 @@
                                 </ul>
                             </li>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/15Se22yXJ2QNW36H8fPK0AGlTXYz4wz58?usp=drive_link" target="_blank"><strong>I.5.</strong> The results of the performance evaluation are used to improve the performance/competencies of the faculty.
+                                <a href="https://drive.google.com/file/d/1nJWQCmRMTUKWu6xDVopTh5cfU8GCuFJE/view?usp=drive_link" target="_blank"><strong>I.5.</strong> The results of the performance evaluation are used to improve the performance/competencies of the faculty.
                                 </a>
                             </li>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/15Se22yXJ2QNW36H8fPK0AGlTXYz4wz58?usp=drive_link" target="_blank"><strong>I.6.</strong> Students are given recognition for exemplary academic and non-academic performances.
+                                <a href="https://drive.google.com/file/d/1413jntAmP8jiHQp9JUrNkJaDlVWAo2LP/view?usp=drive_link" target="_blank"><strong>I.6.</strong> Students are given recognition for exemplary academic and non-academic performances.
                                 </a>
                             </li>
                             <li><Strong>I.7.</Strong> Outstanding achievement of students is recognized and encouraged through:</li>
                             <ul style="list-style-type: none;">
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/15Se22yXJ2QNW36H8fPK0AGlTXYz4wz58?usp=drive_link" target="_blank">To access the evidences for I.7.1 to I.7.4, click here.</a>
+                                <a href="https://drive.google.com/file/d/1lzoVcFxvIXA87HnzcHbzVarkwmzWd8Kq/view?usp=drive_link" target="_blank">To access the evidences for I.7.1 to I.7.4, click here.</a>
                             </li>
                             <li><Strong>I.7.1.</Strong> inclusion in honor roll, Dean's list, etc.</li>
                             <li><Strong>I.7.2.</Strong> grant of tuition scholarships;</li>
@@ -616,12 +584,10 @@
                             <li><Strong>I.7.5.</Strong> grant of special privileges such as opportunities for leadership and others (excluding exemption from major exams on all professional business subjects); and</li>
                             <li><Strong>I.7.6.</Strong> grant of awards and recognition for outstanding academic accomplishments, e.g., Best Thesis, Students Researcher of the Year, etc.</li>
                             </ul>
-                            <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/15Se22yXJ2QNW36H8fPK0AGlTXYz4wz58?usp=drive_link" target="_blank"><strong>I.8.</strong> Indicators on performance of graduates are studied such as:
-                                </a></li>
+                            <li><strong>I.8.</strong> Indicators on performance of graduates are studied such as:</li>
                                 <ul style="list-style-type: none;">
                                 <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/15Se22yXJ2QNW36H8fPK0AGlTXYz4wz58?usp=drive_link" target="_blank">To access the evidences for I.8. to I.8.3, click here. </a>
+                                <a href="https://drive.google.com/file/d/1xPYkTDy1_r3Zj9rZK_EpiFSgHkRu2lAt/view?usp=drive_link" target="_blank">To access the evidences for I.8. to I.8.3, click here. </a>
                             </li>
                             <li><Strong>I.8.1.</Strong> analysis of performance of graduates in the Information Technology Licensure Examination (if applicable);</li>
                             <li><Strong>I.8.2.</Strong> employability of graduates; and</li>
@@ -633,10 +599,10 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul style="list-style-type: none;">
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1bXoNsEv0Kn4Q8wphgZvodQFeeGGCkirR?usp=drive_link" target="_blank"> <strong>O.1.</strong> The faculty and students have commendable performance as a result of administrative support.</a>
+                                <a href="https://drive.google.com/file/d/1TPayqpgC2KVbrgSdkuUOyrkzdimehnTc/view?usp=drive_link" target="_blank"> <strong>O.1.</strong> The faculty and students have commendable performance as a result of administrative support.</a>
                             </li>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1bXoNsEv0Kn4Q8wphgZvodQFeeGGCkirR?usp=drive_link" target="_blank"> <strong>O.2.</strong> The graduates of the program are employable</a>
+                                <a href="https://drive.google.com/file/d/1AgJ04rEA1H-AGL5dlnhdBYJpuyQNxQgj/view?usp=drive_link" target="_blank"> <strong>O.2.</strong> The graduates of the program are employable</a>
                             </li>
                         </ul>
                     </li>
