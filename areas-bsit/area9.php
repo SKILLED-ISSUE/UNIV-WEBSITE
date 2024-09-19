@@ -64,7 +64,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                         <li>
-                                <a href="https://drive.google.com/file/d/1iZBEnOziM7ssltUSWVlvpR4XF2-63zKO/view?usp=drive_link"><strong>S.1.</strong> The laboratory layout conforms with standards (RA 6541 National Building Code of the Philippines / PD 856 "Code of Sanitation of the Philippines") and to particular needs of the program.</a>
+                                <a href="https://drive.google.com/file/d/1iZBEnOziM7ssltUSWVlvpR4XF2-63zKO/view?usp=drive_link" target="_blank"><strong>S.1.</strong> The laboratory layout conforms with standards (RA 6541 National Building Code of the Philippines / PD 856 "Code of Sanitation of the Philippines") and to particular needs of the program.</a>
                             </li>
                             <li>
                                 <a href="#"><strong>S.2.</strong> Rooms have lightings in accordance to the standard requirements of fluorescent bulbs relative to their size.</a>
@@ -86,48 +86,15 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="#">
-                                    <strong>I.1.</strong> Furniture and equipment arrangement allows mobility and enables students to work comfortably without interference.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.2.</strong> Safety and precautionary measures are implemented.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.3.</strong> Usable fire extinguishers are accessible to staff and students.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.4.</strong> Laboratory Operations Manuals for the faculty and students are provided in each laboratory.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.5.</strong> Demonstrations and training on the use of fire extinguishers, first-aid kit and other emergency measures are periodically conducted.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.6.</strong> A well-equipped first-aid kit, charts for antidotes and neutralizing solutions are made available in each laboratory room.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.7.</strong> A student's access to a computer is at least 18 hours per semester for every subject.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.8.</strong> Appropriate laboratories for general education subjects are adequately equipped and well-maintained.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.9.</strong>  A well-equipped Multimedia Center is maintained.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.10.</strong>  Gas, water and electricity are utilized for class practicum activities.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.11.</strong>  A demonstration table, equipped with sink, water, electrical and gas outlets is available and utilized.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.12.</strong>  Laboratory equipment, supplies and materials are kept in separate stock rooms.</a>
+                                <a href="https://drive.google.com/file/d/1VM2yJHkUMC4R6cudew7-GdVaM-RT6QzO/view?usp=drive_link" target="_blank">
+                                To access the evidences for I.1 to I.12, click here.</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#">
+                                <a href="https://drive.google.com/file/d/1MXZjZitDu7mjeZRIGPG0MRIo2uFr8NjI/view?usp=drive_link" target="_blank">
                                     <strong>O.1.</strong> The laboratories and shops are well-equipped, functional and are conducive to learning.
                                 </a>
                             </li>
@@ -135,6 +102,8 @@
                     </li>
                 </ul>
             </div>
+
+
             <button class="collapsible">
                 <div class="title">Parameter B</div>
                 <div class="desc">Equipment, Supplies and Materials</div>
@@ -144,16 +113,10 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#"><strong>S.1.</strong> The equipment, instruments and materials needed in the classroom are available.
+                                <a href="https://drive.google.com/file/d/1Nbbvk6XKyeXw3sh3GTUWvFr6gcdYyDX-/view?usp=drive_link" target="_blank">
+                                To access the evidences for S.1 to S.3, click here.
                                 </a>
                             </li>
-                            <li>
-                                <a href="#"><strong>S.2.</strong> Apparatuses, tools and materials conform with the standard required for the subject in accordance with the CMO of the program.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>S.3.</strong>  Varied computer software are available.</a>
-                            </li>
-                            
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
@@ -167,14 +130,14 @@
                                 <a href="#"><strong>I.2.</strong> Laboratory supplies and materials are wisely utilized.</a>
                             </li>
                             <li>
-                                <a href="#"><strong>I.3.</strong> Licensed computer software are installed and utilized.</a>
+                                <a href="https://drive.google.com/file/d/1AkzRXNV72z3BMDSqQzqKxuaXIl8QGkRf/view?usp=drive_link" target="_blank"><strong>I.3.</strong> Licensed computer software are installed and utilized.</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#">
+                                <a href="https://drive.google.com/file/d/13zDk-uZtk-BoIhsE2SP2W48JpRhizJz3/view?usp=drive_link">
                                     <strong>O.1.</strong> The laboratory equipment, supplies and materials are sufficient and wisely utilized.
                                 </a>
                             </li>
