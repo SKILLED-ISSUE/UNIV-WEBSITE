@@ -26,97 +26,97 @@
     </div>
     <div class="exhibits-card">
       <ul class="ul-exhibits">
-        <a href="#">
+        <a href="#" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/ovpsas-manual-of-operations.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#">
+        <a href="#" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/pupsj-4-year-plan.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#">
+        <a href="#" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/citizens-charter.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#">
+        <a href="#" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/student-handbook.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#">
+        <a href="#" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/university-code.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#">
+        <a href="#" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/bsent-cmo.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#">
+        <a href="#" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/bsed-cmo.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#">
+        <a href="#" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/syllabi.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#">
+        <a href="#" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/instructional-materials.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#">
+        <a href="#" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/ambisyon-natin-2024.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#">
+        <a href="#" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/updated-ph-dev-plan.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#">
+        <a href="#" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/un-sdg-2030.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#">
+        <a href="#" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/harmonized-natl-research-adn-devt-agenda.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#">
+        <a href="#" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/cmo-52-s-2016.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#">
+        <a href="#" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/university-research-national-references.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#">
+        <a href="#" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/cmo-no-9-s-2013.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#">
+        <a href="#" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/university-research-related-policies.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#">
+        <a href="#" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/university-research-and-development-manual.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#">
+        <a href="#" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/university-thesis-and-disertation.png" />
         </a>
       </ul>
