@@ -38,10 +38,10 @@
         </div>
 
         <div class="img-thmb" class="fade-in">
-            <a href="https://drive.google.com/drive/folders/1iz1rK3cefF98O_GiCBTIrrHDQ_9hI4A6?usp=drive_link" target="_blank">
+            <a href="https://drive.google.com/file/d/1hQofOOqNN0KGRmLttFO8qguEvkmnpdnr/view?usp=sharing" target="_blank">
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
-                    <div class="text">NO UPLOAD YET</div>
+                    <div class="text">Click Here</div>
                 </div>
             </a>
 
@@ -54,7 +54,7 @@
         </div>
 
         <div class="line-container">
-            <div class="two" id="thin-line"></div>
+            <div class="two" id="thin-line"></div>  
         </div>
 
         <section class="collapsible-container">
@@ -162,7 +162,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/10YwWVrigzvAMkj7TwSrT0c7wHCSfWLaK?usp=drive_link" target="_blank">
+                                <a href="https://drive.google.com/file/d/1OQK9P-uOhmEkGTMOcZGwgcRLet1GPRL9/view?usp=sharing" target="_blank">
                                 To access the evidences for S.1 to S.5, click here.
                                 </a>
                             </li>
@@ -171,7 +171,7 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1tdbVPMGSqiW7-T1FEJdOT24j7dl_MVJP?usp=drive_link" target="_blank">
+                                <a href="https://drive.google.com/file/d/1JODrviU9SrLjVxXK8CIM6NIm1roHIq4_/view?usp=sharing" target="_blank">
                                 To access the evidences for I.1 to I.10, click here.
                                 </a>
                             </li>
@@ -180,7 +180,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1K2uihoKxGUQER74zRNE0y561A7rrURd7?usp=drive_link" target="_blank">
+                                <a href="https://drive.google.com/file/d/1u393qVKj-Bd_3-c6xd5Qyx6-kZf0RIGv/view?usp=sharing" target="_blank">
                                 O.1. Quality student development services are assured.
                                 </a>
                             </li>
@@ -206,7 +206,7 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/19ZKYqxMJ50x3_mV1Rpt6AX9Yns85hVjc?usp=drive_link" target="_blank">
+                                <a href="https://drive.google.com/file/d/1zwkGv1HE_mtfHqPtBff64qpISgHKjWp-/view?usp=sharing" target="_blank">
                                 To access the evidences for I.1 to I.28, click here.
                                 </a>
                             </li>
@@ -215,7 +215,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1PvHGHUvFz1RcY3Bdh6oAiMXzOXejq5he?usp=drive_link" target="_blank">
+                                <a href="https://drive.google.com/file/d/1fLcV5ZdAcDG78NVts_w-T-hhVQTjeOSl/view?usp=sharing" target="_blank">
                                 O.1. The institutional programs and services develop student potentials to the fullest.
                                 </a>
                             </li>
@@ -241,7 +241,7 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1buhuu1T4EXKC7WuT-YUyGEDG-2UMBV75?usp=drive_link" target="_blank">
+                                <a href="https://drive.google.com/file/d/1aGC6Xf7OrLS9_4BnCFn_FUExz4OwGdaY/view?usp=sharing" target="_blank">
                                 To access the evidences for I.1 to I.5, click here. 
                                 </a>
                             </li>
@@ -250,7 +250,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1I3QiHtBvugaKQHrDSTEXjzSalak29j7n?usp=drive_link" target="_blank">
+                                <a href="https://drive.google.com/file/d/1-v2fGX1muC_dGUZd2zrrs0jr7SfqDO4m/view?usp=sharing" target="_blank">
                                 O.1. Research outputs are presented and published.
                                 </a>
                             </li>
