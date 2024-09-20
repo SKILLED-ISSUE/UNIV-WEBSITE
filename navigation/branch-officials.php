@@ -67,7 +67,7 @@
 
     <div class="content-container">
       <section class="pointers">
-        <img id="overview-image" class="fade-in" src="assets\local-task-force\Saguindan.png"/>
+        <img id="overview-image" class="fade-in" src="../assets/local-task-force/Saguindan.png"/>
       </section>
       <div class="main-contents">
         <section class="overview-programs">
