@@ -40,17 +40,17 @@
         </div>
 
         <div class="img-thmb" class="fade-in">
-            <a href="https://drive.google.com/drive/folders/1NWUZg-CKuHEiVa7koAiMR-p_hsDyEh_4?usp=drive_link" target="_blank">
+            <a href="https://drive.google.com/file/d/16rg8jNaSNRUjSl2-13RiH7c6MB2m4Jqo/view?usp=drive_link" target="_blank">
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
-                    <div class="text">NO UPLOAD YET</div>
+                    <div class="text">Click here</div>
                 </div>
             </a>
 
-            <a href="https://drive.google.com/drive/folders/1TzyakeIeENxnYaLss7yjABqnk0aDJ2oP?usp=drive_link" target="_blank">
+            <a href="https://drive.google.com/file/d/1pW_A7sDxlQ-7DpsLwtdIZUxUez1nXX1Q/view?usp=drive_link" target="_blank">
                 <img src="SSA1.png" alt="self survey">
                 <div class="overlay">
-                    <div class="text">NO UPLOAD YET</div>
+                    <div class="text">Click here</div>
                 </div>
             </a>
         </div>
@@ -72,48 +72,43 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li>
-                                <a href="#"><strong>S.1.</strong> The required number of faculty have earned graduate degrees and qualifications appropriate and relevant to the program, namely</a>
+                                <a href="https://drive.google.com/file/d/1x_cm58Lu4oq_kwQBwKxW-JpfUjCfulGK/view?usp=drive_link" target="_blank"><strong>S.1.</strong> The required number of faculty have earned graduate degrees and qualifications appropriate and relevant to the program, namely</a>
                             </li>
                             <li>
-                                <a href="#"><strong>S.2.</strong> Other qualifications such as the following are considered:</a>
+                                <a href="https://drive.google.com/file/d/1Or1rbLME5L1QYoLc6EWa-1MkJOmHkBwy/view?usp=drive_link" target="_blank"><strong>S.2.</strong> Other qualifications such as the following are considered:</a>
                                 <ul>
                                     <li>S.2.1. related professional experience;</li>
-                                    <li>S.2.2. licensure;</li>
-                                    <li>S.2.3. specialization;</li>
+                                    <li>S.2.2. technical/pedagogical skills and competence;</li>
+                                    <li>S.2.3. National Certification (NC) provided by TESDA and other competency-based assessment test given by the concerned agencies (if required – Occupational
+                                        Health and Safety, OHS); and</li>
                                     <li>S.2.4. technical skills and competence; and</li>
-                                    <li>S.2.5. special abilities, computer literacy, research productivity.</li>
                                 </ul>
                             </li>
                             <li>
-                                <a href="#"><strong>S.3.</strong> Faculty handling OJT/practicum courses have had at least three (3) years of teaching and industry-based experience in the field.</a>
+                                <a href="https://drive.google.com/file/d/15IZm9Rx1aOYCLhuzpGZ2nsHF8vD8fScS/view?usp=drive_link" target="_blank"><strong>S.3.</strong> Faculty handling OJT/practicum courses have had at least three ( 3 ) years of teaching and industry-based experience in the field.</a>
                             </li>
                             <li>
-                                <a href="#"><strong>S.4.</strong> At least 50% of the faculty members have earned relevant graduate degrees.</a>
+                                <a href="https://drive.google.com/file/d/1eaaQolqIm9TfIh2AQSmNMHAeQy8qmQZu/view?usp=drive_link" target="_blank"><strong>S.4.</strong> At least 50% of the faculty members have earned relevant graduate degrees.</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li>
-                                <a href="#"><strong>I.1.</strong> The faculty demonstrate professional competence and are engaged in or a combination of the following:</a>
+                                <a href="https://drive.google.com/file/d/19z8Hztd3DAMnQHpumtV215SyHiKFZmUO/view?usp=drive_link" target="_blank"><strong>I.1.</strong> The faculty demonstrate professional competence and are engaged in or a combination of the following:</a>
                                 <ul>
                                     <li>I.1.1. instruction;</li>
-                                    <li>I.1.2. research;</li>
-                                    <li>I.1.3. extension;</li>
-                                    <li>I.1.4. production;</li>
-                                    <li>I.1.5. consultancy and expert service; and</li>
-                                    <li>I.1.6. publication, creative and scholarly works.</li>
                                 </ul>
                             </li>
                             <li>
-                                <a href="#"><strong>I.2.</strong> Faculty Pursue Graduate Degrees Related to the Program and/or Allied Fields from Reputable Institutions (with at least Level II accreditation status or World/Asian rank)</a>
+                                <a href="https://drive.google.com/file/d/12_v12tY-V_EaEvJOsC84-ASAjSehLtmC/view?usp=drive_link" target="_blank"><strong>I.2.</strong> At least 50% of the faculty teach full-time</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li>
-                                <a href="#"><strong>O.1.</strong> The institution has qualified and competent faculty.</a>
+                                <a href="https://drive.google.com/file/d/1DGTTUCUALUbcIzkGkcCheRsd57Qg1Y1d/view?usp=drive_link" target="_blank"><strong>O.1.</strong> The institution has qualified and competent faculty.</a>
                             </li>
                         </ul>
                     </li>
@@ -132,14 +127,14 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li>
-                                <a href="#"><strong>S.1.</strong> Faculty recruitment is based on an Institutional Human Resource Development Plan/Program (HRDP)</a>
+                                <a href="https://drive.google.com/file/d/1EGVz-w5YE_NmKqgrxBfg763-YeQICOUj/view?usp=drive_link" target="_blank"><strong>S.1.</strong> Faculty recruitment is based on an Institutional Human Resource Development Plan/Program (HRDP)</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li>
-                                <a href="#"><strong>I.1.</strong> Recruitment and selection of faculty is processed by the Faculty Selection Board using the following criteria:</a>
+                                <a href="https://drive.google.com/file/d/1GA013sdIF0NwkmfYOTHiWXSeXMQHG8BY/view?usp=drive_link" target="_blank"><strong>I.1.</strong> Recruitment and selection of faculty is processed by the Faculty Selection Board using the following criteria:</a>
                                 <ul>
                                     <li>I.1.1. academic qualifications;</li>
                                     <li>I.1.2. personal qualities;</li>
@@ -154,7 +149,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="#"><strong>I.2.</strong> The hiring system adopts an open competitive selection, based on the CSC-approved Merit System of the institution, published and well-disseminated through various media outlets:</a>
+                                <a href="https://drive.google.com/file/d/1DUxTFgnFWGf5lpWEvizsusXaaJlGN6El/view?usp=drive_link" target="_blank"><strong>I.2.</strong> The hiring system adopts an open competitive selection, based on the CSC-approved Merit System of the institution, published and well-disseminated through various media outlets:</a>
                                 <ul>
                                     <li>I.2.1. print media (newspaper, flyers, CSC Bulletin of vacant positions);</li>
                                     <li>I.2.2. broadcast media (TV, radio);</li>
@@ -164,20 +159,20 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="#"><strong>I.3.</strong> A Screening Committee selects and recommends the best and most qualified applicant.</a>
+                                <a href="https://drive.google.com/file/d/1RAjUtncJzxBT_jNrPLHEhglSg009F9du/view?usp=drive_link" target="_blank"><strong>I.3.</strong> A Screening Committee selects and recommends the best and most qualified applicant.</a>
                             </li>
                             <li>
-                                <a href="#"><strong>I.4.</strong> Measures to avoid professional in-breeding are observed;</a>
+                                <a href="https://drive.google.com/file/d/1HFjKNBGIQcYGgtykyqtIYTduoBQYg2Rg/view?usp=drive_link" target="_blank"><strong>I.4.</strong> Measures to avoid professional in-breeding are observed;</a>
                             </li>
                             <li>
-                                <a href="#"><strong>I.5.</strong> The institution conducts orientation for newly-hired faculty on its vision and mission and CSC, PRC, DBM and administration policies on their duties, responsibilities and other concerns.</a>
+                                <a href="https://drive.google.com/file/d/10pokLiua_3ntGMFzbXLDfLmbdmE9H1YJ/view?usp=drive_link" target="_blank"><strong>I.5.</strong> The institution conducts orientation for newly-hired faculty on its vision and mission and CSC, PRC, DBM and administration policies on their duties, responsibilities and other concerns.</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li>
-                                <a href="#"><strong>O.1.</strong> The most qualified faculty are selected.</a>
+                                <a href="https://drive.google.com/file/d/1eHzgJU8lPGR4F56TX1H8U1Ps5_0SEnQd/view?usp=drive_link" target="_blank"><strong>O.1.</strong> The most qualified faculty are selected.</a>
                             </li>
                         </ul>
                     </li>

@@ -11,7 +11,7 @@
 
 <body>
     <header class="header-container">
-    <?php include('../assets/static-html/header.html'); ?>
+        <?php include('../assets/static-html/header.html'); ?>
     </header>
 
     <section class="area program">
@@ -24,10 +24,10 @@
         </div>
 
         <div id="description" class="fade-in">
-        Laboratories are included in the support systems for any academic program. 
-        Broadly defined, they cover science laboratories, speech laboratories, demonstration 
-        farms, shops, and other facilities for practicum activities essential to the successful 
-        implementation of curricular programs inclusive of their use and functions.
+            Laboratories are included in the support systems for any academic program.
+            Broadly defined, they cover science laboratories, speech laboratories, demonstration
+            farms, shops, and other facilities for practicum activities essential to the successful
+            implementation of curricular programs inclusive of their use and functions.
         </div>
 
         <div class="line-container">
@@ -63,31 +63,87 @@
                 <ul>
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
-                        <li>
-                                <a href="https://drive.google.com/file/d/1iZBEnOziM7ssltUSWVlvpR4XF2-63zKO/view?usp=drive_link" target="_blank"><strong>S.1.</strong> The laboratory layout conforms with standards (RA 6541 National Building Code of the Philippines / PD 856 "Code of Sanitation of the Philippines") and to particular needs of the program.</a>
+                            <li>
+                                <a href="https://drive.google.com/file/d/1pyiL4MwuP2y8QU6JUrTzdUWSgSFmjON7/view?usp=drive_link" target="_blank"><strong>S.1.</strong> The laboratory layout conforms with standards (RA 6541 National Building Code of the Philippines / PD 856 "Code of Sanitation of the Philippines") and to particular needs of the program.</a>
                             </li>
                             <li>
-                                <a href="#"><strong>S.2.</strong> Rooms have lightings in accordance to the standard requirements of fluorescent bulbs relative to their size.</a>
+                                <a href="https://drive.google.com/file/d/1bUbxRjh_62Gapc3cKYVT4YhiySB0j8xF/view?usp=drive_link"><strong>S.2.</strong> Rooms have lightings in accordance to the standard requirements of fluorescent bulbs relative to their size.</a>
                             </li>
                             <li>
-                                <a href="#"><strong>S.3.</strong> The laboratories are properly lighted and well ventilated.</a>
+                                <a href="https://drive.google.com/file/d/1gkxcfM-Kv5Lr1IBSbG8MP0A7Qnp9aO2i/view?usp=drive_link"><strong>S.3.</strong> The laboratories are properly lighted and well ventilated.</a>
                             </li>
                             <li>
-                                <a href="#"><strong>S.4.</strong> Each laboratory room has at least two exit doors that open outward.</a>
+                                <a href="https://drive.google.com/file/d/1FGRS_UEmaGk68QtaTvhd1_RS-3ra5Roj/view?usp=drive_link"><strong>S.4.</strong> Each laboratory room has at least two exit doors that open outward.</a>
                             </li>
                             <li>
-                                <a href="#"><strong>S.5.</strong>  There is a laboratory for shop work for specific technologies.</a>
+                                <a href="https://drive.google.com/file/d/1SZs8lwGroaaEAyL3xz1hCNl2EO-3qS_-/view?usp=drive_link"><strong>S.5.</strong> There is a laboratory for shop work for specific technologies.</a>
                             </li>
                             <li>
-                                <a href="#"><strong>S.6.</strong> There is a computer laboratory with at least 15 usable computer units and a printer.</a>
+                                <a href="https://drive.google.com/file/d/1Hpf7x6HDymdQhg-xNYpPEnWYKomDKsSH/view?usp=drive_link"><strong>S.6.</strong> There is a computer laboratory with at least 15 usable computer units and a printer.</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/file/d/1VM2yJHkUMC4R6cudew7-GdVaM-RT6QzO/view?usp=drive_link" target="_blank">
-                                To access the evidences for I.1 to I.12, click here.</a>
+                                <a href="" target="_blank">
+                                    I.1. Furniture and equipment arrangement allows mobility and enables students to work comfortably without interference.
+                                </a>
+                            </li>
+                            <li class="imp">
+                                <a href="" target="_blank">
+                                    I.2. Safety and precautionary measures are implemented.
+                                </a>
+                            </li>
+                            <li class="imp">
+                                <a href="" target="_blank">
+                                    I.3. Usable fire extinguishers are accessible to staff and students.
+                                </a>
+                            </li>
+                            <li class="imp">
+                                <a href="" target="_blank">
+                                    I.4. Laboratory Operations Manuals for the faculty and students are provided in each laboratory.
+                                </a>
+                            </li>
+                            <li class="imp">
+                                <a href="" target="_blank">
+                                    I.5. Demonstrations and training on the use of fire extinguishers, first-aid kit and other emergency measures are periodically conducted.
+                                </a>
+                            </li>
+                            <li class="imp">
+                                <a href="" target="_blank">
+                                    I.6. A well-equipped first-aid kit, charts for antidotes and neutralizing solutions are made available in each laboratory room.
+                                </a>
+                            </li>
+                            <li class="imp">
+                                <a href="" target="_blank">
+                                    I.7. A student's access to a computer is at least 18 hours per semester for every subject.
+                                </a>
+                            </li>
+                            <li class="imp">
+                                <a href="" target="_blank">
+                                    I.8. Appropriate laboratories for general education subjects are adequately equipped and well-maintained.
+                                </a>
+                            </li>
+                            <li class="imp">
+                                <a href="" target="_blank">
+                                    I.9. A well-equipped Multimedia Center is maintained.
+                                </a>
+                            </li>
+                            <li class="imp">
+                                <a href="" target="_blank">
+                                    I.10. Gas, water and electricity are utilized for class practicum activities.
+                                </a>
+                            </li>
+                            <li class="imp">
+                                <a href="" target="_blank">
+                                    I.11. A demonstration table, equipped with sink, water, electrical and gas outlets is available and utilized.
+                                </a>
+                            </li>
+                            <li class="imp">
+                                <a href="" target="_blank">
+                                    I.12. Laboratory equipment, supplies and materials are kept in separate stock rooms.
+                                </a>
                             </li>
                         </ul>
                     </li>
@@ -114,7 +170,7 @@
                         <ul>
                             <li class="sip">
                                 <a href="https://drive.google.com/file/d/1Nbbvk6XKyeXw3sh3GTUWvFr6gcdYyDX-/view?usp=drive_link" target="_blank">
-                                To access the evidences for S.1 to S.3, click here.
+                                    To access the evidences for S.1 to S.3, click here.
                                 </a>
                             </li>
                         </ul>
@@ -159,19 +215,19 @@
                             </li>
                             <li>
                                 <a href="#"><strong>S.2.</strong> The institution has a Maintenance and Repair Department/Unit managed by skilled personnel who provides services on direct call.</a>
-                            <ul>
-                            <li>
-                                <a href="#"><strong>S.2.1</strong> inventory of equipment and supplies;</a>
+                                <ul>
+                                    <li>
+                                        <a href="#"><strong>S.2.1</strong> inventory of equipment and supplies;</a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><strong>S.2.2</strong> checking on the physical conditions of equipment and supplies;</a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><strong>S.2.3</strong> maintenance of the laboratories and shops.</a>
+                                    </li>
+                                </ul>
                             </li>
-                            <li>
-                                <a href="#"><strong>S.2.2</strong> checking on the physical conditions of equipment and supplies;</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>S.2.3</strong> maintenance of the laboratories and shops.</a>
-                            </li>
-                            </ul>
-                            </li>
-                            
+
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
@@ -199,17 +255,17 @@
                             <li>
                                 <a href="#"><strong>I.7</strong> The following are properly maintained by trained staff/technicians:</a>
                                 <ul>
-                                <li>I.7.1. Shops;</li>
-                                <li>I.7.2. Computer Laboratories;</li>
-                                <li>I.7.3. multi-media/educational technology center;</li>
-                                <li>I.7.4. research facility;</li>
-                                <li>I.7.5. general education laboratory;</li>
-                                <ul>
-                                <li>I.7.5.1. natural/physical sciences;</li>
-                                <li>I.7.5.2. speech laboratory;</li>
-                                <li>I.7.5.3 physical education; and;</li>
-                                </ul>
-                                <li>I.7.6. Others;</li>
+                                    <li>I.7.1. Shops;</li>
+                                    <li>I.7.2. Computer Laboratories;</li>
+                                    <li>I.7.3. multi-media/educational technology center;</li>
+                                    <li>I.7.4. research facility;</li>
+                                    <li>I.7.5. general education laboratory;</li>
+                                    <ul>
+                                        <li>I.7.5.1. natural/physical sciences;</li>
+                                        <li>I.7.5.2. speech laboratory;</li>
+                                        <li>I.7.5.3 physical education; and;</li>
+                                    </ul>
+                                    <li>I.7.6. Others;</li>
                                 </ul>
                             </li>
                         </ul>
@@ -266,7 +322,7 @@
                 </ul>
             </div>
 
-            
+
         </section>
 
 
