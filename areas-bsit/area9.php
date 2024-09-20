@@ -67,19 +67,19 @@
                                 <a href="https://drive.google.com/file/d/1pyiL4MwuP2y8QU6JUrTzdUWSgSFmjON7/view?usp=drive_link" target="_blank"><strong>S.1.</strong> The laboratory layout conforms with standards (RA 6541 National Building Code of the Philippines / PD 856 "Code of Sanitation of the Philippines") and to particular needs of the program.</a>
                             </li>
                             <li>
-                                <a href="https://drive.google.com/file/d/1bUbxRjh_62Gapc3cKYVT4YhiySB0j8xF/view?usp=drive_link"><strong>S.2.</strong> Rooms have lightings in accordance to the standard requirements of fluorescent bulbs relative to their size.</a>
+                                <a href="https://drive.google.com/file/d/1bUbxRjh_62Gapc3cKYVT4YhiySB0j8xF/view?usp=drive_link" target="_blank"><strong>S.2.</strong> Rooms have lightings in accordance to the standard requirements of fluorescent bulbs relative to their size.</a>
                             </li>
                             <li>
-                                <a href="https://drive.google.com/file/d/1gkxcfM-Kv5Lr1IBSbG8MP0A7Qnp9aO2i/view?usp=drive_link"><strong>S.3.</strong> The laboratories are properly lighted and well ventilated.</a>
+                                <a href="https://drive.google.com/file/d/1gkxcfM-Kv5Lr1IBSbG8MP0A7Qnp9aO2i/view?usp=drive_link" target="_blank"><strong>S.3.</strong> The laboratories are properly lighted and well ventilated.</a>
                             </li>
                             <li>
-                                <a href="https://drive.google.com/file/d/1FGRS_UEmaGk68QtaTvhd1_RS-3ra5Roj/view?usp=drive_link"><strong>S.4.</strong> Each laboratory room has at least two exit doors that open outward.</a>
+                                <a href="https://drive.google.com/file/d/1FGRS_UEmaGk68QtaTvhd1_RS-3ra5Roj/view?usp=drive_link" target="_blank"><strong>S.4.</strong> Each laboratory room has at least two exit doors that open outward.</a>
                             </li>
                             <li>
-                                <a href="https://drive.google.com/file/d/1SZs8lwGroaaEAyL3xz1hCNl2EO-3qS_-/view?usp=drive_link"><strong>S.5.</strong> There is a laboratory for shop work for specific technologies.</a>
+                                <a href="https://drive.google.com/file/d/1SZs8lwGroaaEAyL3xz1hCNl2EO-3qS_-/view?usp=drive_link" target="_blank"><strong>S.5.</strong> There is a laboratory for shop work for specific technologies.</a>
                             </li>
                             <li>
-                                <a href="https://drive.google.com/file/d/1Hpf7x6HDymdQhg-xNYpPEnWYKomDKsSH/view?usp=drive_link"><strong>S.6.</strong> There is a computer laboratory with at least 15 usable computer units and a printer.</a>
+                                <a href="https://drive.google.com/file/d/1Hpf7x6HDymdQhg-xNYpPEnWYKomDKsSH/view?usp=drive_link" target="_blank"><strong>S.6.</strong> There is a computer laboratory with at least 15 usable computer units and a printer.</a>
                             </li>
                         </ul>
                     </li>
@@ -189,12 +189,12 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/file/d/1yz-YI-sASXRM8ga3hJTnX3s_yvekdQ9I/view?usp=drive_link">
+                                <a href="https://drive.google.com/file/d/1yz-YI-sASXRM8ga3hJTnX3s_yvekdQ9I/view?usp=drive_link" target="_blank">
                                     <strong>I.1.</strong> Equipment are well-maintained.
                                 </a>
                             </li>
                             <li>
-                                <a href="https://drive.google.com/file/d/1VB4l_BXlvh4n7F7YDuVmETZ5tOcOZbI3/view?usp=drive_link"><strong>I.2.</strong> Laboratory supplies and materials are wisely utilized.</a>
+                                <a href="https://drive.google.com/file/d/1VB4l_BXlvh4n7F7YDuVmETZ5tOcOZbI3/view?usp=drive_link" target="_blank"><strong>I.2.</strong> Laboratory supplies and materials are wisely utilized.</a>
                             </li>
                             <li>
                                 <a href="https://drive.google.com/file/d/1z5_lXxuXRy6rPxggk2aMlJAfC1vSGq2p/view?usp=drive_link" target="_blank"><strong>I.3.</strong> Licensed computer software are installed and utilized.</a>
@@ -204,7 +204,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/file/d/1xAtvgkLDPgVnHvq9Fmh9goH2ewLTTsdy/view?usp=drive_link">
+                                <a href="https://drive.google.com/file/d/1xAtvgkLDPgVnHvq9Fmh9goH2ewLTTsdy/view?usp=drive_link" target="_blank">
                                     <strong>O.1.</strong> The laboratory equipment, supplies and materials are sufficient and wisely utilized.
                                 </a>
                             </li>
@@ -221,11 +221,11 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/file/d/1Xx6xuvS22JaV3m91B-i_C4BGh5GJAlzI/view?usp=drive_link"><strong>S.1.</strong> A laboratory technician/assistant is available for the proper upkeep of the laboratories.
+                                <a href="https://drive.google.com/file/d/1Xx6xuvS22JaV3m91B-i_C4BGh5GJAlzI/view?usp=drive_link" target="_blank"><strong>S.1.</strong> A laboratory technician/assistant is available for the proper upkeep of the laboratories.
                                 </a>
                             </li>
                             <li>
-                                <a href="https://drive.google.com/file/d/1WRaNUZ9DITLAM-2pZWaoW0Fn7LzjrkWR/view?usp=drive_link"><strong>S.2.</strong> The institution has a Maintenance and Repair Department/Unit managed by skilled personnel who provides services on direct call.</a>
+                                <a href="https://drive.google.com/file/d/1WRaNUZ9DITLAM-2pZWaoW0Fn7LzjrkWR/view?usp=drive_link" target="_blank"><strong>S.2.</strong> The institution has a Maintenance and Repair Department/Unit managed by skilled personnel who provides services on direct call.</a>
 
                             </li>
 
@@ -234,27 +234,27 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/file/d/17fP78Ixbi72etyc1tdq_0lfMh7zqsrWI/view?usp=drive_link">
+                                <a href="https://drive.google.com/file/d/17fP78Ixbi72etyc1tdq_0lfMh7zqsrWI/view?usp=drive_link" target="_blank">
                                     <strong>I.1.</strong> The institution keeps the laboratories neat, clean and orderly.
                                 </a>
                             </li>
                             <li>
-                                <a href="https://drive.google.com/file/d/1On9lif7xJwhT02wevnLr6xqGo9FZEZSU/view?usp=drive_link"><strong>I.2</strong> There is regular replenishment/replacement of laboratory supplies and materials, whenever applicable.</a>
+                                <a href="https://drive.google.com/file/d/1On9lif7xJwhT02wevnLr6xqGo9FZEZSU/view?usp=drive_link" target="_blank"><strong>I.2</strong> There is regular replenishment/replacement of laboratory supplies and materials, whenever applicable.</a>
                             </li>
                             <li>
-                                <a href="https://drive.google.com/file/d/1M-JR4HJOW83fqi12HCtUktVzy6bQx5Eo/view?usp=drive_link"><strong>I.3</strong> The inventory of laboratory, facilities and equipment is systematically and periodically conducted.</a>
+                                <a href="https://drive.google.com/file/d/1M-JR4HJOW83fqi12HCtUktVzy6bQx5Eo/view?usp=drive_link" target="_blank"><strong>I.3</strong> The inventory of laboratory, facilities and equipment is systematically and periodically conducted.</a>
                             </li>
                             <li>
-                                <a href="https://drive.google.com/file/d/1YEvMbIlTMdLmMeCEb42sPewgQio9YlAV/view?usp=drive_link"><strong>I.4</strong> The laboratory equipment and instruments are periodically calibrated.</a>
+                                <a href="https://drive.google.com/file/d/1YEvMbIlTMdLmMeCEb42sPewgQio9YlAV/view?usp=drive_link" target="_blank"><strong>I.4</strong> The laboratory equipment and instruments are periodically calibrated.</a>
                             </li>
                             <li>
-                                <a href="https://drive.google.com/file/d/18oCf4amQyuP7F_4p2QELKfCWbrWVVckA/view?usp=drive_link"><strong>I.5</strong> All equipment are coded, listed, and inventoried.</a>
+                                <a href="https://drive.google.com/file/d/18oCf4amQyuP7F_4p2QELKfCWbrWVVckA/view?usp=drive_link" target="_blank"><strong>I.5</strong> All equipment are coded, listed, and inventoried.</a>
                             </li>
                             <li>
-                                <a href="https://drive.google.com/file/d/1FWSUeRKGUgwc23_onAK_gfhJFKlOowT2/view?usp=drive_link"><strong>I.6</strong> Waste disposal is efficiently and effectively managed.</a>
+                                <a href="https://drive.google.com/file/d/1FWSUeRKGUgwc23_onAK_gfhJFKlOowT2/view?usp=drive_link" target="_blank"><strong>I.6</strong> Waste disposal is efficiently and effectively managed.</a>
                             </li>
                             <li>
-                                <a href="https://drive.google.com/file/d/1_S4sTXJgRBTY-KSoZ04Y5YMBG6_6DYPf/view?usp=drive_link"><strong>I.7</strong> The following are properly maintained by trained staff/technicians:</a>
+                                <a href="https://drive.google.com/file/d/1_S4sTXJgRBTY-KSoZ04Y5YMBG6_6DYPf/view?usp=drive_link" target="_blank"><strong>I.7</strong> The following are properly maintained by trained staff/technicians:</a>
                                 <ul>
                                     <li>I.7.1. Shops;</li>
                                     <li>I.7.2. Computer Laboratories;</li>
@@ -267,7 +267,7 @@
                                         <li>I.7.5.3 physical education; and;</li>
                                     </ul>
                                     <li>
-                                        <a href="https://drive.google.com/file/d/1yugLt3jcuPbwLjsvfFz9TAEMkV5GPoei/view?usp=drive_link"><strong> I.7.6.</strong> Others;</a>
+                                        <a href="https://drive.google.com/file/d/1yugLt3jcuPbwLjsvfFz9TAEMkV5GPoei/view?usp=drive_link" target="_blank"><strong> I.7.6.</strong> Others;</a>
                                     </li>
                                 </ul>
                             </li>
@@ -276,7 +276,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/file/d/1bbbw3-CZRfuP8kHr-Mwm2POUoKUUF9nU/view?usp=drive_link">
+                                <a href="https://drive.google.com/file/d/1bbbw3-CZRfuP8kHr-Mwm2POUoKUUF9nU/view?usp=drive_link" target="_blank">
                                     <strong>O.1.</strong> The laboratories and shops are functional and are properly maintained.
                                 </a>
                             </li>
@@ -293,21 +293,21 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/file/d/1BAmb7SLr7kxLzpopsGJTfDq7vanMtgWE/view?usp=drive_link"><strong>S.1.</strong> Specific program requirements (listing of materials and equipment as per CMO) are in accordance with guidelines/policies embodied in official issuances.
+                                <a href="https://drive.google.com/file/d/1BAmb7SLr7kxLzpopsGJTfDq7vanMtgWE/view?usp=drive_link" target="_blank"><strong>S.1.</strong> Specific program requirements (listing of materials and equipment as per CMO) are in accordance with guidelines/policies embodied in official issuances.
                                 </a>
                             </li>
                             <li>
-                                <a href="https://drive.google.com/file/d/1Fi3PRaTiIjnGJ8xMdEazxOnkPF4zknX5/view?usp=drive_link"><strong>S.2</strong> There is an approved Project Procurement Management Plan (PPMP).</a>
+                                <a href="https://drive.google.com/file/d/1Fi3PRaTiIjnGJ8xMdEazxOnkPF4zknX5/view?usp=drive_link" target="_blank"><strong>S.2</strong> There is an approved Project Procurement Management Plan (PPMP).</a>
                             </li>
                             <li>
-                                <a href="https://drive.google.com/file/d/1U5lQ4_8Xle_WVcrQHTKkVJpkjuq8GUul/view?usp=drive_link"><strong>S.3</strong> There is an approved Annual Procurement Plan (APP) for laboratory equipment, supplies and materials.</a>
+                                <a href="https://drive.google.com/file/d/1U5lQ4_8Xle_WVcrQHTKkVJpkjuq8GUul/view?usp=drive_link" target="_blank"><strong>S.3</strong> There is an approved Annual Procurement Plan (APP) for laboratory equipment, supplies and materials.</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/file/d/1Seao3e4Zon3sVM8uuDb8SvWy8WxYVJZD/view?usp=drive_link">
+                                <a href="https://drive.google.com/file/d/1Seao3e4Zon3sVM8uuDb8SvWy8WxYVJZD/view?usp=drive_link" target="_blank">
                                     <strong>I.1.</strong> The institution implements the provisions as stated in the CMO.
                                 </a>
                             </li>
@@ -316,7 +316,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/file/d/1sIfl4rCw_9cVoI5rzdM-4jKBYHSCiIyA/view?usp=drive_link">
+                                <a href="https://drive.google.com/file/d/1sIfl4rCw_9cVoI5rzdM-4jKBYHSCiIyA/view?usp=drive_link" target="_blank">
                                     <strong>O.1.</strong> The special provisions in the CMO of the program are complied with.
                                 </a>
                             </li>
