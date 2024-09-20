@@ -44,7 +44,7 @@
             <a href="https://drive.google.com/file/d/1otKdXSrCkjuzCUWG-HTPKwW7HipZzJlq/view?usp=drive_link" target="_blank">
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
-                    <div class="text">NO UPLOAD YET</div>
+                    <div class="text">Click here</div>
                 </div>
             </a>
 
@@ -73,49 +73,71 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li>
-                                <a href="https://drive.google.com/file/d/15XIKNEZXI-BhF3gKGKFsfUUTFkFXFoXb/view?usp=drive_link"><strong>S.1.</strong> The required number of faculty have earned graduate degrees and qualifications appropriate and relevant to the program, namely</a>
+                                <a href="https://drive.google.com/file/d/15XIKNEZXI-BhF3gKGKFsfUUTFkFXFoXb/view?usp=drive_link" target="_blank"><strong>S.1.</strong> The required number of faculty have earned graduate degrees and qualifications appropriate and relevant to the program, namely</a>
                             </li>
                             <li>
-                                <a href="https://drive.google.com/file/d/1jjoMIFPg1EMYlDXN1BkXQfM5e1qLwJTA/view?usp=drive_link"><strong>S.2.</strong> Other qualifications such as the following are considered:</a>
+                                <a href="https://drive.google.com/file/d/1jjoMIFPg1EMYlDXN1BkXQfM5e1qLwJTA/view?usp=drive_link" target="_blank"><strong>S.2.</strong> Other qualifications such as the following are considered:</a>
                                 <ul>
-                                    <li><a href="link-to-related-professional-experience" target="_blank">S.2.1. related professional experience</a></li>
-                                    <li><a href="link-to-licensure" target="_blank">S.2.2. licensure</a></li>
-                                    <li><a href="link-to-specialization" target="_blank">S.2.3. specialization</a></li>
-                                    <li><a href="link-to-technical-skills-and-competence" target="_blank">S.2.4. technical skills and competence</a></li>
-                                    <li><a href="link-to-special-abilities-computer-literacy-research-productivity" target="_blank">S.2.5. special abilities, computer literacy, research productivity</a></li>
+                                    <li>S.2.1. related professional experience</li>
+                                    <li>S.2.2. computer literacy;</li>
+                                    <li>S.2.3. technical/pedagogical skills and competence;</li>
+                                    <li>S.2.4. special abilities;</li>
+                                    <li>S.2.5. research capability;</a></li>
 
                                 </ul>
                             </li>
                             <li>
-                                <a href="https://drive.google.com/file/d/1B-imf54OHxleACW97S_Bmwe89iB5m_Hl/view?usp=drive_link"><strong>S.3.</strong> Faculty handling OJT/practicum courses have had at least three (3) years of teaching and industry-based experience in the field.</a>
+                                <a href="https://drive.google.com/file/d/1B-imf54OHxleACW97S_Bmwe89iB5m_Hl/view?usp=drive_link" target="_blank"><strong>S.3.</strong> Faculty handling OJT/practicum courses have had at least three (3) years of teaching and industry-based experience in the field.</a>
                             </li>
                             <li>
-                                <a href="https://drive.google.com/file/d/1O9tyZypOWuaTZ1PG1i7hGndCeDxqj23K/view?usp=drive_link"><strong>S.4.</strong> At least 50% of the faculty members have earned relevant graduate degrees.</a>
+                                <a href="https://drive.google.com/file/d/1O9tyZypOWuaTZ1PG1i7hGndCeDxqj23K/view?usp=drive_link" target="_blank"><strong>S.4.</strong> At least 50% of the faculty members have earned relevant graduate degrees.</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li>
-                                <a href="https://drive.google.com/file/d/14FbfNwQjX9Qi6UffnH5ACjjIOHc40brA/view?usp=drive_link"><strong>I.1.</strong> The faculty demonstrate professional competence and are engaged in or a combination of the following:</a>
+                                <strong>I.1.</strong> The faculty demonstrate professional competence and are engaged in or a combination of the following:
                                 <ul>
-                                    <li>I.1.1. instruction;</li>
-                                    <li>I.1.2. research;</li>
+                                    <li>
+                                        <a href="https://drive.google.com/file/d/14FbfNwQjX9Qi6UffnH5ACjjIOHc40brA/view?usp=drive_link" target="_blank">
+                                            I.1.1. instruction;
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://drive.google.com/file/d/1xif-KEtNNmyPyMyyePYnLTloWj6Ww_c6/view?usp=drive_link" target="_blank">
+                                            I.1.2. research;
+                                        </a>
+                                    </li>
                                     <li>I.1.3. extension;</li>
-                                    <li>I.1.4. production;</li>
-                                    <li>I.1.5. consultancy and expert service; and</li>
-                                    <li>I.1.6. publication, creative and scholarly works.</li>
+                                    <li>
+                                        <a href="https://drive.google.com/file/d/1as_wuRA8QVcbeCXQCmjIKRWpZ7SaQQNd/view?usp=drive_link" target="_blank">
+                                            I.1.4. production;
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://drive.google.com/file/d/1S4PgKZ458BvStZwZadXrWydApJ2vKJOT/view?usp=drive_link" target="_blank">
+                                            I.1.5. consultancy and expert service; and
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://drive.google.com/file/d/1T76j_f48XY_QIAFX2oIhUAq_n2wuML2d/view?usp=drive_link" target="_blank">
+                                            I.1.6. publication, creative and scholarly works.
+                                        </a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
-                                <a href="#"><strong>I.2.</strong> Faculty Pursue Graduate Degrees Related to the Program and/or Allied Fields from Reputable Institutions (with at least Level II accreditation status or World/Asian rank)</a>
+                                <strong>I.2.</strong> Faculty Pursue Graduate Degrees Related to the Program and/or Allied Fields from Reputable Institutions (with at least Level II accreditation status or World/Asian rank)
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li>
-                                <a href="https://drive.google.com/file/d/15ShM_-MX-aUQnVOQaCY3YnCMXYpGXYkQ/view?usp=drive_link"><strong>O.1.</strong> The institution has qualified and competent faculty.</a>
+                                <a href="https://drive.google.com/file/d/15ShM_-MX-aUQnVOQaCY3YnCMXYpGXYkQ/view?usp=drive_link" target="_blank">
+                                    <strong>O.1.</strong> The institution has qualified and competent faculty.
+                                </a>
                             </li>
                         </ul>
                     </li>
@@ -134,7 +156,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li>
-                                <a href="#"><strong>S.1.</strong> Faculty recruitment is based on an Institutional Human Resource Development Plan/Program (HRDP)</a>
+                                <a href="https://drive.google.com/file/d/1xdlJsykXUSEa7seeR-MCrt3WXvQ7tXzp/view?usp=drive_link" target="_blank"><strong>S.1.</strong> Faculty recruitment is based on an Institutional Human Resource Development Plan/Program (HRDP)</a>
                             </li>
                         </ul>
                     </li>
