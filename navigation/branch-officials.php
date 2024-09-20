@@ -32,7 +32,7 @@
       </section>
       <div class="main-contents">
         <section class="overview-programs">
-          <div class="fade-in" id="their-name">Persons's Name</div>
+          <div class="fade-in" id="their-name">Dir. Cecilia R. Alagon</div>
           <div id="their-position">Branch Director</div>
           <div class="thin-line-break fade-in"></div>
         </section>
@@ -67,7 +67,7 @@
 
     <div class="content-container">
       <section class="pointers">
-        <img id="overview-image" class="fade-in" src="https://via.placeholder.com/800x700?text=Placeholder" />
+        <img id="overview-image" class="fade-in" src="../assets/local-task-force/Saguindan.png"/>
       </section>
       <div class="main-contents">
         <section class="overview-programs">
