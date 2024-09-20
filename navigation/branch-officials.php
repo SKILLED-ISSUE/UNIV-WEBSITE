@@ -32,7 +32,7 @@
       </section>
       <div class="main-contents">
         <section class="overview-programs">
-          <div class="fade-in" id="their-name">Persons's Name</div>
+          <div class="fade-in" id="their-name">Dir. Cecilia R. Alagon</div>
           <div id="their-position">Branch Director</div>
           <div class="thin-line-break fade-in"></div>
         </section>
