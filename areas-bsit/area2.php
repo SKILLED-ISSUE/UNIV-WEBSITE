@@ -78,11 +78,11 @@
                             <li>
                                 <a href="https://drive.google.com/file/d/1jjoMIFPg1EMYlDXN1BkXQfM5e1qLwJTA/view?usp=drive_link" target="_blank"><strong>S.2.</strong> Other qualifications such as the following are considered:</a>
                                 <ul>
-                                    <li>S.2.1. related professional experience</li>
-                                    <li>S.2.2. computer literacy;</li>
-                                    <li>S.2.3. technical/pedagogical skills and competence;</li>
-                                    <li>S.2.4. special abilities;</li>
-                                    <li>S.2.5. research capability;</a></li>
+                                    <li><strong>S.2.1.</strong> related professional experience</li>
+                                    <li><strong>S.2.2.</strong> computer literacy;</li>
+                                    <li><strong>S.2.3.</strong> technical/pedagogical skills and competence;</li>
+                                    <li><strong>S.2.4.</strong> special abilities;</li>
+                                    <li><strong>S.2.5.</strong> research capability;</a></li>
 
                                 </ul>
                             </li>
@@ -101,28 +101,28 @@
                                 <ul>
                                     <li>
                                         <a href="https://drive.google.com/file/d/14FbfNwQjX9Qi6UffnH5ACjjIOHc40brA/view?usp=drive_link" target="_blank">
-                                            I.1.1. instruction;
+                                            <strong>I.1.1.</strong> instruction;
                                         </a>
                                     </li>
                                     <li>
                                         <a href="https://drive.google.com/file/d/1xif-KEtNNmyPyMyyePYnLTloWj6Ww_c6/view?usp=drive_link" target="_blank">
-                                            I.1.2. research;
+                                            <strong>I.1.2.</strong> research;
                                         </a>
                                     </li>
-                                    <li>I.1.3. extension;</li>
+                                    <li><strong>I.1.3. extension;</strong></li>
                                     <li>
                                         <a href="https://drive.google.com/file/d/1as_wuRA8QVcbeCXQCmjIKRWpZ7SaQQNd/view?usp=drive_link" target="_blank">
-                                            I.1.4. production;
+                                            <strong>I.1.4.</strong> production;
                                         </a>
                                     </li>
                                     <li>
                                         <a href="https://drive.google.com/file/d/1S4PgKZ458BvStZwZadXrWydApJ2vKJOT/view?usp=drive_link" target="_blank">
-                                            I.1.5. consultancy and expert service; and
+                                            <strong>I.1.5.</strong> consultancy and expert service; and
                                         </a>
                                     </li>
                                     <li>
                                         <a href="https://drive.google.com/file/d/1T76j_f48XY_QIAFX2oIhUAq_n2wuML2d/view?usp=drive_link" target="_blank">
-                                            I.1.6. publication, creative and scholarly works.
+                                            <strong>I.1.6.</strong> publication, creative and scholarly works.
                                         </a>
                                     </li>
                                 </ul>
@@ -165,26 +165,26 @@
                             <li>
                                 <a href="https://drive.google.com/file/d/1O2Rm0BTqxQb7WdyXUu5ptEyivkbzZVJ9/view?usp=drive_link" target="_blank"><strong>I.1.</strong> Recruitment and selection of faculty is processed by the Faculty Selection Board using the following criteria:</a>
                                 <ul>
-                                    <li>I.1.1. academic qualifications;</li>
-                                    <li>I.1.2. personal qualities;</li>
-                                    <li>I.1.3. communication skills;</li>
-                                    <li>I.1.4. teaching ability;</li>
-                                    <li>I.1.5. medical examination results;</li>
-                                    <li>I.1.6. psychological examination results;</li>
-                                    <li>I.1.7. relevant professional experiences;</li>
-                                    <li>I.1.8. previous record of employment;</li>
-                                    <li>I.1.9. technical/special skills & abilities; and</li>
-                                    <li>I.1.10. previous performance rating.</li>
+                                    <li><strong>I.1.1.</strong> academic qualifications;</li>
+                                    <li><strong>I.1.2.</strong> personal qualities;</li>
+                                    <li><strong>I.1.3.</strong> communication skills;</li>
+                                    <li><strong>I.1.4.</strong> teaching ability;</li>
+                                    <li><strong>I.1.5.</strong> medical examination results;</li>
+                                    <li><strong>I.1.6.</strong> psychological examination results;</li>
+                                    <li><strong>I.1.7.</strong> relevant professional experiences;</li>
+                                    <li><strong>I.1.8.</strong> previous record of employment;</li>
+                                    <li><strong>I.1.9.</strong> technical/special skills & abilities; and</li>
+                                    <li><strong>I.1.10.</strong> previous performance rating.</li>
                                 </ul>
                             </li>
                             <li>
                                 <a href="https://drive.google.com/file/d/1KWifk13a5rChbqRlTnLovXh6I3qh8HWK/view?usp=drive_link" target="_blank"><strong>I.2.</strong> The hiring system adopts an open competitive selection, based on the CSC-approved Merit System of the institution, published and well-disseminated through various media outlets:</a>
                                 <ul>
-                                    <li>I.2.1. print media (newspaper, flyers, CSC Bulletin of vacant positions);</li>
-                                    <li>I.2.2. broadcast media (TV, radio);</li>
-                                    <li>I.2.3. website;</li>
-                                    <li>I.2.4. bulletin boards; and</li>
-                                    <li>I.2.5. others</li>
+                                    <li><strong>I.2.1.</strong> print media (newspaper, flyers, CSC Bulletin of vacant positions);</li>
+                                    <li><strong>I.2.2.</strong> broadcast media (TV, radio);</li>
+                                    <li><strong>I.2.3.</strong> website;</li>
+                                    <li><strong>I.2.4.</strong> bulletin boards; and</li>
+                                    <li><strong>I.2.5.</strong> others</li>
                                 </ul>
                             </li>
                             <li>
@@ -229,11 +229,11 @@
                                 <ul>
                                     <li>
                                         <a href="https://drive.google.com/file/d/1yxHXWZZGVBW0NQVMvO2tGqRKM-aHIs4X/view?usp=drive_link" target="_blank">
-                                            S.1.1. lecture (1:35-50)
+                                            <strong>S.1.1.</strong> lecture (1:35-50)
                                         </a>
                                     </li>
                                     <li><a href="https://drive.google.com/file/d/1cZyKwX071NSNvGQoN9c_dFGwhZolIkn4/view?usp=drive_link" target="_blank">
-                                            S.1.2. laboratory (specific to discipline)
+                                            <strong>S.1.2.</strong> laboratory (specific to discipline)
                                         </a>
                                     </li>
                                 </ul>
@@ -563,11 +563,11 @@
                                     <strong>I.1.</strong> The faculty responsibly observe the following:
                                 </a>
                                 <ul>
-                                    <li><a href="https://drive.google.com/file/d/1Le-iNF4ZiS_vX9yOcgCA9lzvbXwvWJk5/view?usp=drive_link" target="_blank">I.1.1. regular and prompt attendance to classes; </a></li>
-                                    <li><a href="https://drive.google.com/file/d/1rtQL16_S-BafTX8taIx1uzPb9lTp8A_H/view?usp=drive_link" target="_blank">I.1.2. participation in faculty meetings and university/college activities;</a></li>
-                                    <li><a href="https://drive.google.com/file/d/1EaFgJBK-cLiYYY2Rcuil0cQrSozK50pB/view?usp=drive_link" target="_blank">I.1.3. completion of assigned tasks on time;</a></li>
-                                    <li><a href="https://drive.google.com/file/d/1w8X7H847zHvmFIaLHcIqx-pqpPWcWLg3/view?usp=drive_link" target="_blank">I.1.4. submission of all required reports promptly; and</a></li>
-                                    <li><a href="https://drive.google.com/file/d/1aziSxy4IoK59M1KufpFVajJtoaXVJHDD/view?usp=drive_link" target="_blank">I.1.5. decorum at all times.</a></li>
+                                    <li><a href="https://drive.google.com/file/d/1Le-iNF4ZiS_vX9yOcgCA9lzvbXwvWJk5/view?usp=drive_link" target="_blank"><strong>I.1.1.</strong> regular and prompt attendance to classes; </a></li>
+                                    <li><a href="https://drive.google.com/file/d/1rtQL16_S-BafTX8taIx1uzPb9lTp8A_H/view?usp=drive_link" target="_blank"><strong>I.1.2.</strong> participation in faculty meetings and university/college activities;</a></li>
+                                    <li><a href="https://drive.google.com/file/d/1EaFgJBK-cLiYYY2Rcuil0cQrSozK50pB/view?usp=drive_link" target="_blank"><strong>I.1.3.</strong> completion of assigned tasks on time;</a></li>
+                                    <li><a href="https://drive.google.com/file/d/1w8X7H847zHvmFIaLHcIqx-pqpPWcWLg3/view?usp=drive_link" target="_blank"><strong>I.1.4.</strong> submission of all required reports promptly; and</a></li>
+                                    <li><a href="https://drive.google.com/file/d/1aziSxy4IoK59M1KufpFVajJtoaXVJHDD/view?usp=drive_link" target="_blank"><strong>I.1.5.</strong> decorum at all times.</a></li>
 
                                 </ul>
                             </li>
@@ -579,19 +579,22 @@
                                 <a href="https://drive.google.com/file/d/1oPCTVjcKqR0-fupyoObOYx-OiUtWQ_uf/view?usp=drive_link" target="_blank"><strong>I.3.</strong> The faculty exercise academic freedom judiciously.
                                 </a>
                             </li>
-                            <li class="imp"><strong>I.4.</strong> The faculty show commitment and loyalty to the institution as evidenced by:</li>
-                            <ul>
-                                <li>
-                                    <a href="https://drive.google.com/file/d/1AIKpkl7ceqFHNi1gTkML8DBgLR-RPS51/view?usp=drive_link" target="_blank">I.4.1. observance of official time;
-                                    </a>
-                                </li>
-                                <li>I.4.2. productive use of official time;</li>
-                                <li>
-                                    <a href="https://drive.google.com/file/d/1l7xdrsRkEJZx8GpNub74QxnsV4Tifbx0/view?usp=drive_link" target="_blank">I.4.3. performance of other tasks and assignments with or without compensation; and
-                                    </a>
-                                </li>
-                                <li>I.4.4. compliance with terms of agreement/contracts (e.g., scholarships and training).</li>
-                            </ul>
+                            <li class="imp"><strong>I.4.</strong> The faculty show commitment and loyalty to the institution as evidenced by:
+                                <ul>
+                                    <li>
+                                        <a href="https://drive.google.com/file/d/1AIKpkl7ceqFHNi1gTkML8DBgLR-RPS51/view?usp=drive_link" target="_blank">
+                                            <strong>I.4.1.</strong> observance of official time;
+                                        </a>
+                                    </li>
+                                    <li><strong>I.4.2.</strong> productive use of official time;</li>
+                                    <li>
+                                        <a href="https://drive.google.com/file/d/1l7xdrsRkEJZx8GpNub74QxnsV4Tifbx0/view?usp=drive_link" target="_blank">
+                                            <strong>I.4.3.</strong> performance of other tasks and assignments with or without compensation; and
+                                        </a>
+                                    </li>
+                                    <li><strong>I.4.4.</strong> compliance with terms of agreement/contracts (e.g., scholarships and training).</li>
+                                </ul>
+                            </li>
                             <li class="imp"><strong>I.5.</strong> The faculty maintain harmonious interpersonal relations with superiors, peers, students, parents and the community.</li>
                             <li class="imp"><strong>I.6.</strong> The faculty demonstrate knowledge of recent educational trends/issues/resources in the field of Entrepreneurship.</li>
                             <li class="imp"><strong>I.7.</strong> The faculty show evidence of professional growth through further and continuing studies.</li>
