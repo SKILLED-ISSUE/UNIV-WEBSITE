@@ -26,7 +26,7 @@
 
     <div class="content-container facilty">
       <section class="pointers">
-        <img id="overview-image" class="fade-in" src="https://via.placeholder.com/800x700?text=Placeholder" />
+        <img id="overview-image" class="fade-in" src="../assets/facilities/gym.jpg" />
       </section>
       <div class="main-contents">
         <section class="overview-programs">
@@ -42,7 +42,7 @@
 
     <div class="content-container facilty">
       <section class="pointers">
-        <img id="overview-image" class="fade-in" src="https://via.placeholder.com/800x700?text=Placeholder" />
+        <img id="overview-image" class="fade-in" src="../assets/facilities/mph.jpg" />
       </section>
       <div class="main-contents">
         <section class="overview-programs">
@@ -57,7 +57,7 @@
 
     <div class="content-container facilty">
       <section class="pointers">
-        <img id="overview-image" class="fade-in" src="https://via.placeholder.com/800x700?text=Placeholder" />
+        <img id="overview-image" class="fade-in" src="../assets/facilities/avr.jpg" />
       </section>
       <div class="main-contents">
         <section class="overview-programs">
@@ -72,7 +72,7 @@
 
     <div class="content-container facilty">
       <section class="pointers">
-        <img id="overview-image" class="fade-in" src="https://via.placeholder.com/800x700?text=Placeholder" />
+        <img id="overview-image" class="fade-in" src="../assets/facilities/lib.jpg" />
       </section>
       <div class="main-contents">
         <section class="overview-programs">
@@ -87,7 +87,7 @@
 
     <div class="content-container facilty">
       <section class="pointers">
-        <img id="overview-image" class="fade-in" src="https://via.placeholder.com/800x700?text=Placeholder" />
+        <img id="overview-image" class="fade-in" src="../assets/facilities/clab.png" />
       </section>
       <div class="main-contents">
         <section class="overview-programs">

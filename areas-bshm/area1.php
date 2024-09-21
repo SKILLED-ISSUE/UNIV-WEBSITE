@@ -188,6 +188,16 @@
                             <li class="sip">
                                 <a href="https://drive.google.com/drive/folders/1HYMGGMi1vcwh1xK0RGzLLfHrQ7SRz5RH?usp=drive_link"
                                     target="_blank">PARAMETER B SYSTEM INPUTS AND PROCESSES</a>
+                                    <ul style="list-style-type: none;">
+                                    <li class="sip">
+                                <a href="https://docs.google.com/document/d/1d-nK0qtVx4Q-Td-FwLBYQo_R9XMxgu4A/edit?usp=drive_link&ouid=114979923999881396694&rtpof=true&sd=true"
+                                    target="_blank">Memo AVP</a>
+                            </li>
+                                    <li class="sip">
+                                <a href="https://drive.google.com/file/d/1xKbOgfXOsvqKA_sSzNc-r84DGUbjdh3z/view?usp=drive_link"
+                                    target="_blank">New Student Orientation with Gender and Development</a>
+                            </li>
+                                    </ul>
                             </li>
                             <li class="sip">
                                 <a href="https://drive.google.com/file/d/15qoR54X_De_y9jmHmB_5h2QfgPN3mo8y/view?usp=drive_link"
