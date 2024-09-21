@@ -120,7 +120,6 @@
         </a>
       </ul>
     </div>
-
   </section>
   <section id = "syllabi-dialog" class="exhibits-dialog-overlay">
     <section class="exhibits-dialog-box">
