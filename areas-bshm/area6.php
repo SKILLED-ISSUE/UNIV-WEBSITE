@@ -46,7 +46,7 @@
         </div>
 
         <div class="img-thmb" class="fade-in">
-            <a href="https://drive.google.com/file/d/1R2bHJ23zdV33Zx5wKnN-Viz8kXZqhek_/view?usp=sharing" target="_blank">
+            <a href="https://drive.google.com/file/d/1LLPdMnQtdQeExlLtuVGY05QYmziQRE6C/view?usp=sharing" target="_blank">
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
                     <div class="text">Click here</div>
@@ -109,7 +109,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#"><strong>S.1-S.2.</strong> Click here to access the evidences for S.1 to S.2.
+                                <a href="https://drive.google.com/file/d/1ksdQyNJCAjD9bWkBSc0Ln0rnQYXDaEex/view?usp=sharing" target="_blank"><strong>S.1-S.2.</strong> Click here to access the evidences for S.1 to S.2.
                                 </a>
                             </li>
                         </ul>
@@ -117,7 +117,7 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="#">
+                                <a href="https://drive.google.com/file/d/1ZJvj67OCZerlmNTBkZE5O4V9rdfa_l4T/view?usp=sharing" target="_blank">
                                     <strong>I.1-I.10.</strong> Click here to access the evidences for I.1 to I.10.
                                 </a>
                             </li>
@@ -126,7 +126,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#">
+                                <a href="https://drive.google.com/file/d/1Qqfg-mhSiC58GQMgghh3oC8zZ6F7nV36/view?usp=sharing" target="_blank">
                                     <strong>O.1-O.2.</strong> Click here to access the evidences for O.1 to O.2.
                                 </a>
                             </li>
@@ -143,7 +143,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#"><strong>S.1-S.2.</strong> Click here to access the evidences for S.1 to S.2.
+                                <a href="https://drive.google.com/file/d/1ZNkLojznTNJyh85QWTM8Bbt__EXfeHKw/view?usp=sharing" target="_blank"><strong>S.1-S.2.</strong> Click here to access the evidences for S.1 to S.2.
                                 </a>
                             </li>
                         </ul>
@@ -151,7 +151,7 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="#">
+                                <a href="https://drive.google.com/file/d/1WLXJF6_PoZPR2encWgnW79a8HveDzhLT/view?usp=sharing" target="_blank">
                                     <strong>I.1-I.3.</strong> Click here to access the evidences for I.1 to I.3.
                                 </a>
                             </li>
@@ -160,7 +160,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#">
+                                <a href="https://drive.google.com/file/d/1pzk4txbtDnzc7RN9n93QWLMwjv58P5gM/view?usp=sharing" target="_blank">
                                     <strong>O.1.</strong> Click here to access the evidences for O.1.
                                 </a>
                             </li>
@@ -177,7 +177,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#"><strong>S.1.</strong> Click here to access the evidences for S.1.
+                                <a href="https://drive.google.com/file/d/10bt6zo2rJ9U_t36JepDXZhIsm6u01MKR/view?usp=sharing" target="_blank"><strong>S.1.</strong> Click here to access the evidences for S.1.
                                 </a>
                             </li>
                         </ul>
@@ -185,7 +185,7 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="#">
+                                <a href="https://drive.google.com/file/d/1UETsEchgZKEKE4yUdtYIH0I05aXt05Wa/view?usp=sharing" target="_blank">
                                     <strong>I.1-I.2.</strong> Click here to access the evidences for I.1 to I.2.
                                 </a>
                             </li>
@@ -194,7 +194,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#">
+                                <a href="https://drive.google.com/file/d/1a94QWqg1LjeOc0V05Q8LB0XU4ICajaJR/view?usp=sharing" target="_blank">
                                     <strong>O.1.</strong> Click here to access the evidences for O.1.
                                 </a>
                             </li>

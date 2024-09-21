@@ -35,7 +35,7 @@
         </div>
 
         <div class="img-thmb" class="fade-in">
-            <a href="https://drive.google.com/file/d/1DQYQCTGFC9LVJjqkktcFdXjqBkAYGDsg/view?usp=drive_link"
+            <a href="https://drive.google.com/file/d/1SF9zToCgfHGFkLYwp96yvyQZsCcYQxZX/view?usp=sharing"
                 target="_blank">
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
