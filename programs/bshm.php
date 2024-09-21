@@ -69,12 +69,12 @@
       </section>
     </section>
 
-    <section class="chair">
+    <!-- <section class="chair">
       <div class="border" class="fade-in">
         <img src="../assets/chairpersons/corpuz-titlecard.png" alt="chairperson's photo" class="fade-in">
           <h1 id="chair-header" class="fade-in">Regular Faculty</h1>
       </div>
-    </section>
+    </section> -->
 
     <section class="aus-container anchor-offset" id="c2">
       <div class="aus-header">AREAS UNDER SURVEY</div>

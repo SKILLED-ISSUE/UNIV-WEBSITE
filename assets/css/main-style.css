@@ -386,42 +386,42 @@ footer .right {
   background: linear-gradient(to right, rgba(58, 208, 213, 0) 35%, #7f1414 100%);
   z-index: -1;
 }
-.program .chair {
+.program .chair-container {
   height: 20em;
   width: 60%;
 }
-.program .chair img {
+.program .chair-container img {
   margin-top: -1.2em;
   height: 20em;
 }
-.program .chair div:nth-child(1) {
+.program .chair-container div:nth-child(1) {
   gap: 3em;
 }
-.program .chair #name {
+.program .chair-container #name {
   font-size: 72px;
   background: -webkit-linear-gradient(left, #f7ca05, #ffffff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.program .chair #quote {
+.program .chair-container #quote {
   justify-content: center;
   display: flex;
   flex-direction: column;
   width: 65%;
 }
-.program .chair #quote #chair-header {
+.program .chair-container #quote #chair-header {
   margin: 0;
   color: #7f1414;
 }
-.program .chair #quote h1 {
+.program .chair-container #quote h1 {
   font-size: 3.5em;
 }
-.program .chair #quote h2 {
+.program .chair-container #quote h2 {
   margin-top: -0.4em !important;
   font-size: 2.5em;
   font-weight: 100;
 }
-.program .chair #quote p {
+.program .chair-container #quote p {
   font-size: 1.2em;
 }
 .program .header {

@@ -67,7 +67,7 @@
       </section>
     </section>
 
-    <section class="chair">
+    <!-- <section class="chair-container">
       <div class="border" class="fade-in">
         <img src="../assets/chairpersons/austria-titlecard.png" alt="chairperson's photo" class="fade-in">
         <p id="chair-header" class="fade-in"><strong>Regular</strong> Faculty</p>
@@ -81,7 +81,7 @@
         <div class="name-cont">
         </div>
       </div>
-    </section>
+    </section> -->
 
     <section class="aus-container anchor-offset" id="c2">
       <div class="aus-header">AREAS UNDER SURVEY</div>
