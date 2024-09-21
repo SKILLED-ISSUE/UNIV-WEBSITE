@@ -61,7 +61,7 @@
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#" class="link-exhibits">
+        <a href="#" class="link-exhibits" onclick="syllabDialog()">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/syllabi.png" />
         </a>
       </ul>
