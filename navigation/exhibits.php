@@ -138,37 +138,37 @@
         <div class="content">
           <ul>
             <li class="sip">
-              <a href="" target="_blank">
+              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
                 Kitchen Essentials and Basic Food Preparations (Lab)
               </a>
             </li>
             <li class="sip">
-              <a href="" target="_blank">
+              <a href="https://drive.google.com/file/d/17cyju06O1WOT7UNKIwsw2tqw-t2NK3Tb/view?usp=drive_link" target="_blank">
                 Kitchen Essentials and Basic Food Preparations (Lecture)
               </a>
             </li>
             <li class="sip">
-              <a href="" target="_blank">
+              <a href="https://drive.google.com/file/d/1h7kyFkbb9_d0IwWzgK_wOez6IeboPm7H/view?usp=drive_link" target="_blank">
                 Fundamentals in Food Service Operations
               </a>
             </li>
             <li class="sip">
-              <a href="" target="_blank">
+              <a href="https://drive.google.com/file/d/1O_iuntPQgCTyywgkZMsjGdJcdN_ssuJo/view?usp=drive_link" target="_blank">
                 Fundamental in Lodging Operations
               </a>
             </li>
             <li class="sip">
-              <a href="" target="_blank">
+              <a href="https://drive.google.com/file/d/1amvb1_o5WHCcuyWdLmZECsqeS2ZssZgA/view?usp=drive_link" target="_blank">
                 Revenue Management
               </a>
             </li>
             <li class="sip">
-              <a href="" target="_blank">
+              <a href="https://drive.google.com/file/d/1Ek3izu-x6W078U7nuuPKyB0oOXtsssE2/view?usp=drive_link" target="_blank">
                 Recreation and Leisure Management
               </a>
             </li>
             <li class="sip">
-              <a href="" target="_blank">
+              <a href="https://drive.google.com/file/d/1RXWnqovTPdIdBW2-cOA7AYIwJU_lcd31/view?usp=drive_link" target="_blank">
                 Risk Management as Applied to Safety, Security and Sanitation
               </a>
             </li>
@@ -182,52 +182,52 @@
         <div class="content">
           <ul>
             <li class="sip">
-              <a href="" target="_blank">
+              <a href="https://drive.google.com/file/d/1cSHvj12VzEsR613Nnby7zX4aFAJ3JG87/view?usp=drive_link" target="_blank">
                 Multimedia
               </a>
             </li>
             <li class="sip">
-              <a href="" target="_blank">
+              <a href="https://drive.google.com/file/d/1SQdvy2gRb_w7WIU1zshTqsYu5JZMaPrc/view?usp=drive_link" target="_blank">
                 Intro to Computing
               </a>
             </li>
             <li class="sip">
-              <a href="" target="_blank">
+              <a href="https://drive.google.com/file/d/1sMXO-q76rvIXtmrEaAAo7uaMYkUdsJjT/view?usp=drive_link" target="_blank">
                 Discrete Structures
               </a>
             </li>
             <li class="sip">
-              <a href="" target="_blank">
+              <a href="https://drive.google.com/file/d/1GyB2pFIurbYor7uF2sSDtXq9O53F6UTh/view?usp=drive_link" target="_blank">
                 Data Communications and Networking
               </a>
             </li>
             <li class="sip">
-              <a href="" target="_blank">
+              <a href="https://drive.google.com/file/d/17rorssAXEmillWqMm_BKvxyCpqo8Joo1/view?usp=drive_link" target="_blank">
                 OOP
               </a>
             </li>
             <li class="sip">
-              <a href="" target="_blank">
+              <a href="https://drive.google.com/file/d/1EYxdPz-0-WqbkhiJ7Ixn7mwIdjlU6SaR/view?usp=drive_link" target="_blank">
                 Programming 1
               </a>
             </li>
             <li class="sip">
-              <a href="" target="_blank">
+              <a href="https://drive.google.com/file/d/1qHEHB9DltGxoA6B1cvy0aUMQaAq3No5c/view?usp=drive_link" target="_blank">
                 Programming 2
               </a>
             </li>
             <li class="sip">
-              <a href="" target="_blank">
+              <a href="https://drive.google.com/file/d/1r4JPb3eYPgOBjTXf7oT0rjsl1HkMjkZ7/view?usp=drive_link" target="_blank">
                 Programming 3
               </a>
             </li>
             <li class="sip">
-              <a href="" target="_blank">
+              <a href="https://drive.google.com/file/d/1SJANauEQtclCzDUnJIXaLjZn7owYlHpd/view?usp=drive_link" target="_blank">
                 Practicum
               </a>
             </li>
             <li class="sip">
-              <a href="" target="_blank">
+              <a href="https://drive.google.com/file/d/1hlqWRrjOcmeiqG53e6JkSI2KBGv-UuMi/view?usp=drive_link" target="_blank">
                 Integrative Programming
               </a>
             </li>
@@ -241,17 +241,17 @@
         <div class="content">
           <ul>
             <li class="sip">
-              <a href="" target="_blank">
+              <a href="https://drive.google.com/file/d/1BWyIht2dhX9GfLyzUYu5OarQBge-Woqz/view?usp=drive_link" target="_blank">
                 Filipinolohiya
               </a>
             </li>
             <li class="sip">
-              <a href="" target="_blank">
+              <a href="https://drive.google.com/file/d/1lfuHhJnmIzyLrNYUdVxf9cKtGHkSakBR/view?usp=drive_link" target="_blank">
                 Panitikang Filipino
               </a>
             </li>
             <li class="sip">
-              <a href="" target="_blank">
+              <a href="https://drive.google.com/file/d/14IzUjR_kV1EIPtb5lksFeKhwKu1og1QA/view?usp=drive_link" target="_blank">
                 Buhay at Mga Gawa ni Rizal
               </a>
             </li>
