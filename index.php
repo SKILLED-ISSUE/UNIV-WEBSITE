@@ -7,6 +7,7 @@
   <title>PUP San Juan</title>
   <link rel="stylesheet" href="assets/css/main-style.css" />
   <link rel="stylesheet" href="navigation/navigation.css" />
+  <link rel="stylesheet" href="navigation/about-style.css" />
   <link rel="icon" href="assets/PUPSJ-LOGO.png" type="image/icon type" />
 </head>
 <!-- scroll fade-ib effect add lang, class="fade-in" -->
@@ -45,38 +46,37 @@
           <h id="header2" class="fade-in">Message</h>
           <h id="message" class="fade-in">Greetings!
             <br><br>
-
             It is my great pleasure that Polytechnic University of the Philippines – San Juan City Campus (PUPSJ) is now getting into another phase of its endeavour in achieving its goal of being accredited by a prestigious accrediting body like the Accrediting Agency of Chartered Colleges and Universities in the Philippines, Inc. (AACCUP).
             <br><br>
-
-            <button class="see-more-btn">See More</button>
-
-            <!-- As another addition to PUP San Juan’s one of its first, it is not enough saying that the Campus is continuously growing through attaining gradually its vision, goals and objectives served as a mere compliance, but getting into the depth of its definition and having it materialize through evidences will be of great value to achieve. Undergoing to such accreditation is really challenging in the midst of pandemic and being part of it, is such a tremendous responsibility. But we value and believe in the power of the human spirit showing our resiliency and the power of adaptation to the new normal to rise and to overcome the present situation in spite of our limitations and handicaps. We are driven to fulfil our mandate in spite of this pandemic of serving the nation through providing quality education. And this quality education through accreditation. -->
-            <!-- <br><br>
-
-            But realizing how we worked hand and hand with the faculty members and administrative staff comprising the Local Task Force Chairs and members including everyone in the institution who availed and involved themselves in this venture is already a success.
-            <br><br>
-
-            Academically, the significance of the accreditation of the institution reflects its output to strengthen and to transform the curricular programs for the success of students, parents, alumni and other stakeholders driven by the hardworking academic community.
-            <br><br>
-
-            I, being the Director of PUPSJ, would like to appreciate the contribution of everyone and made sure that all we did for the accreditation of our two programs is anchored in the vision and philosophy of PUP, our Sintang Paaralan.
-            <br><br>
-
-            To our Panel of Accreditors, our warmest welcome!! 
-            
-            Planning to have see more button
-
-            -->
           </h>
         </div>
       </div>
-
-
     </section>
-
-
   </section>
+  <button id="see-button" onclick="openSyllabiDialog()" style="z-index: 10; position: relative;">See More</button>
+
+  <button class="close-btn exhibits-dialog-overlay" id="syllabi-dialog" onclick="closeSyllabiDialog()">
+    <div class="mess-overlay" style="display: flex; flex-direction: column;">
+      <strong>Message from the Director</strong>
+      <div>
+        As another addition to PUP San Juan’s one of its first, it is not enough saying that the Campus is continuously growing through attaining gradually its vision, goals and objectives served as a mere compliance, but getting into the depth of its definition and having it materialize through evidences will be of great value to achieve. Undergoing to such accreditation is really challenging in the midst of pandemic and being part of it, is such a tremendous responsibility. But we value and believe in the power of the human spirit showing our resiliency and the power of adaptation to the new normal to rise and to overcome the present situation in spite of our limitations and handicaps. We are driven to fulfil our mandate in spite of this pandemic of serving the nation through providing quality education. And this quality education through accreditation.
+        <br><br>
+
+        But realizing how we worked hand and hand with the faculty members and administrative staff comprising the Local Task Force Chairs and members including everyone in the institution who availed and involved themselves in this venture is already a success.
+        <br><br>
+
+        Academically, the significance of the accreditation of the institution reflects its output to strengthen and to transform the curricular programs for the success of students, parents, alumni and other stakeholders driven by the hardworking academic community.
+        <br><br>
+
+        I, being the Director of PUPSJ, would like to appreciate the contribution of everyone and made sure that all we did for the accreditation of our two programs is anchored in the vision and philosophy of PUP, our Sintang Paaralan.
+        <br><br>
+
+        To our Panel of Accreditors, our warmest welcome!!
+      </div>
+
+    </div>
+  </button>
+
 
   <section class="pupsj-svp">
 

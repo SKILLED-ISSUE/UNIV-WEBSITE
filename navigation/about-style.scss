@@ -72,9 +72,7 @@
       max-width: 40%;
       border-radius: 0.5em !important;
       border: 1px solid #ddd !important;
-      box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
-
-      
+      box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;      
     }
 
     #area-image {
@@ -160,9 +158,22 @@
     }
   }
 }
+
+#see-button {
+  font-family: "Karla";
+  position: relative;
+  top: -8em;
+  left: 100em;
+  border: none;
+  background: none;
+  color: white;
+  font-weight: 500;
+}
+
 #syllabi-dialog {
   visibility: hidden;
 }
+
 .exhibits-dialog-overlay {
   /* display: absolute; */
   position: fixed;
@@ -283,5 +294,23 @@
         }
       }
     }
+  }
+}
+
+.mess-overlay {
+  font-family: "Karla";
+  color: white;
+  background-color: #7f1414;
+  width: 60%;
+  height: 55%;
+  top: 20%;
+  left: 20%;
+  padding: 3em 5em;
+  border-radius: 1em;
+  font-size: 1vw;
+  gap: 1em;
+
+  strong {
+    font-size: 2rem;
   }
 }
