@@ -54,6 +54,13 @@
                     <div class="text">Click here</div>
                 </div>
             </a>
+
+            <a href="https://drive.google.com/file/d/1QP5l453JDYz1WnDj0Q1ScqeaM7fADt4U/view?usp=drive_link" target="_blank" class="fade-in">
+                <img src="CRA1.png" alt="Compliance">
+                <div class="overlay">
+                    <div class="text">Click here</div>
+                </div>
+            </a>
         </div>
 
         <div class="line-container">
@@ -163,7 +170,7 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/file/d/1xLruSaI3u-KB_JZrjJ6CM1JXvlFa8nD1/view?usp=drive_link">To acccess the files for I.1 to I.5, click here.</a>
+                                <a href="https://drive.google.com/file/d/1xLruSaI3u-KB_JZrjJ6CM1JXvlFa8nD1/view?usp=drive_link" target="_blank">To acccess the files for I.1 to I.5, click here.</a>
                             </li>
                         </ul>
                     </li>

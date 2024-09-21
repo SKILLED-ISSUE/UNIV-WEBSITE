@@ -45,7 +45,7 @@
                 </div>
             </a>
 
-            <a href="https://drive.google.com/drive/folders/17lksRSgSWufSFREhVFjH9vB1V0hePuFu?usp=drive_link" target="_blank">
+            <a href="https://drive.google.com/file/d/1r028h02SM756zQ8I_F9Y7HQgATKFdGWb/view?usp=sharing" target="_blank">
                 <img src="SSA1.png" alt="self survey">
                 <div class="overlay">
                     <div class="text">Click Here</div>
@@ -93,7 +93,7 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1C2GD_hqKYyLGGEXRbyBzsn65rGywj2Gg?usp=drive_link" target="_blank">
+                                <a href="https://drive.google.com/file/d/1I5n_m-7uYZT4xUwPsr9dyJRGe3UA9u79/view?usp=sharing" target="_blank">
                                 To access the evidences for I.1 to I.7, click here.
                                 </a>
                             </li>
@@ -102,7 +102,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1xwRlSvJ8lnTDrWSznwNpB5i0tQlTwhKj?usp=drive_link" target="_blank">
+                                <a href="https://drive.google.com/file/d/1znfNbvxrXGkljsm1wZIZyaMSuZBsEcjI/view?usp=sharing" target="_blank">
                                 O.1. The students are satisfied with the Student Services Program.
                                 </a>
                             </li>

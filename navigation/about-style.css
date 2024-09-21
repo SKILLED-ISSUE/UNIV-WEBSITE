@@ -41,6 +41,8 @@
   flex-direction: column;
   align-items: center;
   margin: 1em; }
+  .profile-container .heads img {
+    height: 20em; }
   .profile-container .pointers {
     align-items: center;
     flex-direction: column; }
@@ -140,6 +142,7 @@
       gap: 1rem;
       /* align-items: left; */ }
       .exhibits-dialog-overlay .exhibits-dialog-box .header-dialog .close-btn {
+        font-family: "Symbols Nerd Font";
         max-width: 50px;
         background-color: #ffffffff;
         border: none;

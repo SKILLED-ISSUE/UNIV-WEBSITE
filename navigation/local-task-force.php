@@ -26,40 +26,57 @@
     </div>
 
     <div class="profile-container">
-      <section class="pointers">
+      <section class="heads">
         <img id="overview-image" class="fade-in" src="../assets/local-task-force/Delmo.png" />
       </section>
       <div class="main-contents">
         <section class="overview-programs">
           <div class="fade-in" id="their-name">Edgardo S. Delmo</div>
+          <div id="their-area">Overall Chairman</div>
+        </section>
+      </div>
+    </div>
+
+    <div class="profile-container">
+      <section class="heads">
+        <img id="overview-image" class="fade-in" src="../assets/local-task-force/Corpuz.png" />
+      </section>
+      <div class="main-contents">
+        <section class="overview-programs">
+          <div class="fade-in" id="their-name">Ma. Carina Corpuz</div>
           <div id="their-area">Accreditation Coordinator</div>
         </section>
       </div>
     </div>
+
     <div class="card">
       <div class="card-header">
-        AREA CHAIRS
+        ACCREDITATION TASK FORCE
       </div>
       <div class="areas">
+        <div class="profile-container">
+          <section class="pointers">
+            <img id="area-image" class="fade-in" src="../assets/local-task-force/Mendoza.png" />
+          </section>
+          <div class="main-contents">
+            <section class="overview-programs">
+              <div class="fade-in" id="their-name">Jane Mendoza</div>
+              <div id="their-area">Area I - VMGO</div>
+              <div class="fade-in" id="their-name">Members</div>
+              <div id="their-area">Raymond Ruiz</div>
+            </section>
+          </div>
+        </div>
         <div class="profile-container">
           <section class="pointers">
             <img id="area-image" class="fade-in" src="../assets/local-task-force/Austria.png" />
           </section>
           <div class="main-contents">
             <section class="overview-programs">
-              <div class="fade-in" id="their-name">Elias A. Austria</div>
-              <div id="their-area">Area I - VMGO</div>
-            </section>
-          </div>
-        </div>
-        <div class="profile-container">
-          <section class="pointers">
-            <img id="area-image" class="fade-in" src="../assets/local-task-force/Corpuz.png" />
-          </section>
-          <div class="main-contents">
-            <section class="overview-programs">
-              <div class="fade-in" id="their-name">Ma. Carina P. Corpuz</div>
+              <div class="fade-in" id="their-name">Elias Austria</div>
               <div id="their-area">Area II - Faculty</div>
+              <div class="fade-in" id="their-name">Members</div>
+              <div id="their-area">Ma. Carina Corpuz</div>
             </section>
           </div>
         </div>
@@ -82,6 +99,8 @@
             <section class="overview-programs">
               <div class="fade-in" id="their-name">Peter Glenn J. Biason</div>
               <div id="their-area">Area IV - Support to Students</div>
+              <div class="fade-in" id="their-name">Members</div>
+              <div id="their-area">Anna Madonna Arellano</div>
             </section>
           </div>
         </div>
@@ -117,6 +136,8 @@
             <section class="overview-programs">
               <div class="fade-in" id="their-name">Orlando M. Oliverio Jr.</div>
               <div id="their-area">Area VII - Library</div>
+              <div class="fade-in" id="their-name">Members</div>
+              <div id="their-area">Angeline Pabilona</div>
             </section>
           </div>
         </div>
@@ -128,6 +149,10 @@
             <section class="overview-programs">
               <div class="fade-in" id="their-name">Lemuel N. Damole</div>
               <div id="their-area">Area VIII - Physical Plant and Facilites</div>
+              <div class="fade-in" id="their-name">Members</div>
+              <div id="their-area">Jaime Delos Santos</div>
+              <div id="their-area">Rogie Delena</div>
+              <div id="their-area">Lourdes Dela Cruz</div>
             </section>
           </div>
         </div>
@@ -139,32 +164,36 @@
             <section class="overview-programs">
               <div class="fade-in" id="their-name">Martino Miguel M. Salcedo</div>
               <div id="their-area">Area IX - Laboratory</div>
+              <div class="fade-in" id="their-name">Members</div>
+              <div id="their-area">Maricar Dela Cruz</div>
             </section>
           </div>
         </div>
         <div class="profile-container">
           <section class="pointers">
-            <img id="area-image" class="fade-in" src="../assets/local-task-force/Ruiz.png" />
+            <img id="area-image" class="fade-in" src="../assets/local-task-force/Nartea.png" />
           </section>
           <div class="main-contents">
             <section class="overview-programs">
-              <div class="fade-in" id="their-name">Raymond Ruiz</div>
+              <div class="fade-in" id="their-name">Mecmack Nartea</div>
               <div id="their-area">Area X - Administration</div>
+              <div class="fade-in" id="their-name">Members</div>
+              <div id="their-area">Ian Llenarez</div>
             </section>
           </div>
         </div>
       </div>
     </div>
-    <div class="card">
+    <!-- <div class="card">
       <div class="card-header">
         TECHNICAL TEAM
       </div>
       <div class="card-body">
         <div class="fade-in" id="their-name">Ma. Carina P. Corpuz</div>
         <div id="their-area">Acreditation Site Leader</div>
-        <br></br>
+        <br></br> -->
         <!--<p id="p2">PUP: Pambansang Politeknikong Unibersidad</p>-->
-        <div class="fade-in" id="their-name">Ma. Carina P. Corpuz</div>
+        <!-- <div class="fade-in" id="their-name">Ma. Carina P. Corpuz</div>
         <div id="their-area">Audtio Visual Presentation Team Leader</div>
         <br></br>
         <p id="p2">Members</p>
@@ -172,9 +201,9 @@
         <div id="their-area">Name</div>
         <div id="their-area">Name</div>
         <div id="their-area">Name</div>
-      </div>
+      </div> 
 
-    </div>
+    </div>-->
   </section>
 
   <?php include('../assets/static-html/footer.html'); ?>
