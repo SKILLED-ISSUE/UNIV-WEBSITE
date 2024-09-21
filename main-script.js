@@ -72,8 +72,11 @@ if (window.innerWidth < 768) {
 }
 
 // Popup DialogBox
-function syllabiDialog() {
-  document.getElementById("syllabi-dialog").style.display = "block";
+function openSyllabiDialog() {
+  document.getElementById("syllabi-dialog").style.visibility = "visible";
+}
+function closeSyllabiDialog() {
+  document.getElementById("syllabi-dialog").style.visibility = "hidden";
 }
 
 // CAROUSEL TEST
