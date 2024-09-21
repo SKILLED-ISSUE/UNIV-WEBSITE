@@ -187,7 +187,7 @@
                             <ul style="list-style-type: none;">
                             <a href="https://drive.google.com/file/d/1SWr-cchXNq8rPa6OFZzY1nBwPCFLddGJ/view?usp=drive_link" target="_blank">To access the evidences from S.3 to S.5 click here.</a>
                             </ul>
-                            <li class="sip"><a href="https://drive.google.com/file/d/1m7_06sYEkMlqVWn9ddxCOTqkUhs-MJ_z/view?usp=drive_link" target="_blank"><Strong>S.3.</Strong> Copies of all course syllabi during the term are available at the Dean's office or in any other appropriate repository.</a></li>
+                            <li class="sip"><a href="https://drive.google.com/file/d/1SWr-cchXNq8rPa6OFZzY1nBwPCFLddGJ/view?usp=sharing" target="_blank"><Strong>S.3.</Strong> Copies of all course syllabi during the term are available at the Dean's office or in any other appropriate repository.</a></li>
                             <li><Strong>S.4.</Strong> Copies of all syllabi in previous terms are filed for reference purposes.</li>
                             <li><Strong>S.5.</Strong> There is provision for remedial measures to strengthen the basic skills in Mathematics and English and other "tool" subjects.</li>
                             <li class="sip"><a href="https://drive.google.com/file/d/12lrK4EQfLJftA_bvRP3WYcqhJaAqLvYl/view?usp=drive_link" target="_blank"><Strong>S.6.</Strong> There is a mechanism to facilitate the teaching-learning process</a></li>
@@ -519,7 +519,7 @@
                             <li><strong>S.1.</strong> The institution has policies on:</li>
                             <ul style="list-style-type: none;">
                             <li class="sip">
-                                <a href="https://drive.google.com/file/d/1gIpzuZPOXoLtPxnxPyxiJfp6Y34hmujT/view?usp=drive_link" target="_blank"><strong>To access the evidences for S.1.1 to S.1.3, click here. </a>
+                                <a href="https://drive.google.com/file/d/1gIpzuZPOXoLtPxnxPyxiJfp6Y34hmujT/view?usp=drive_link" target="_blank"><strong>To access the evidences for S.1.1 to S.1.3, click here.</strong> </a>
                             </li>
                             <li><Strong>S.1.1.</Strong> substitution or special arrangements whenever a teacher is on leave or absent;</li>
                             <li><Strong>S.1.2.</Strong> giving awards and/or recognition for faculty and students with outstanding achievements; and</li>
@@ -599,9 +599,9 @@
                                 <li class="imp">
                                 <a href="https://drive.google.com/file/d/1xPYkTDy1_r3Zj9rZK_EpiFSgHkRu2lAt/view?usp=drive_link" target="_blank">To access the evidences for I.8. to I.8.3, click here. </a>
                             </li>
-                            <li><Strong>I.8.1.</Strong> analysis of performance of graduates in the Information Technology Licensure Examination (if applicable);</li>
-                            <li><Strong>I.8.2.</Strong> employability of graduates; and</li>
-                            <li><Strong>I.8.3.</Strong> feedback from employees regarding performance of graduates</li>   
+                            <li><strong>I.8.1.</strong> analysis of performance of graduates in the Information Technology Licensure Examination (if applicable);</li>
+                            <li><strong>I.8.2.</strong> employability of graduates; and</li>
+                            <li><strong>I.8.3.</strong> feedback from employees regarding performance of graduates</li>   
                                 </ul>
                             </li>
                         </ul>
@@ -618,7 +618,40 @@
                     </li>
                 </ul>
             </div>
+
+            <!-- others -->
+
+            <button class="collapsible">
+                <div class="title">Others</div>
+                <div class="desc">Supporting Documents</div>
+            </button>
+            <div class="content">
+                <ul>
+                    <li class="list-header"><strong>Supporting Documents</strong>
+                        <ul>
+                        <li>Student Activies</li>
+                            <ul style="list-style-type: none;">
+                                <li class="out">
+                                    <a href="https://drive.google.com/file/d/1S9JbMJAWv1hIanQpnldperdO86lhAUyy/view?usp=drive_link" target="_blank">List of activities</a>
+                                </li>
+                                <li class="out">
+                                    <a href="https://drive.google.com/file/d/1jGl4JQlbJdjvPMFWg6iTzPvDUclEdP3k/view?usp=drive_link" target="_blank">ACCOMPLISHMENT REPORT</a>
+                                </li>
+                            </ul>
+                            <li class="out">
+                                <a href="https://drive.google.com/file/d/1Dn1PdPrP8M6y5RY2EOwlN2iVybCncPFv/view?usp=drive_link" target="_blank"> <strong>O.2.</strong>ZARAGOZA OJT FOOD SERVICE PORTFOLIO </a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/drive/folders/1TrcH_VECYM0C3BOwp2Ao3MeyHPPtKZhh?usp=drive_link"
+                                    target="_blank">PARAMETER B SYSTEM INPUTS AND PROCESSES</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
         </section>
+
     </section>
 
     <?php include('../assets/static-html/footer.html'); ?>
