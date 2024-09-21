@@ -25,27 +25,27 @@
     </div>
     <div class="exhibits-card">
       <ul class="ul-exhibits">
-        <a href="#" class="link-exhibits">
+        <a href="https://drive.google.com/file/d/12oeVeO4vng_6ZL0101BKQlky1I2D3vuM/view" target="_blank" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/ovpsas-manual-of-operations.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#" class="link-exhibits">
+        <a href="https://drive.google.com/file/d/1AJ3CH_scPuT0tuXeveiVgRCPc0gdUv9g/view" target="_blank"  class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/pupsj-4-year-plan.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#" class="link-exhibits">
+        <a href="https://drive.google.com/file/d/0B1BuDAuN0r8SbmFEU1RJUDFYU1E/view?resourcekey=0-ntyYkBAnyIFKdRJWhiKEcw" target="_blank"  class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/citizens-charter.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#" class="link-exhibits">
+        <a href="https://drive.google.com/file/d/0B1BuDAuN0r8SX1BWX2NSN3FURzg/view?resourcekey=0-oi8lUy9PCFysh0FDyL5ipw" target="_blank"  class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/student-handbook.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#" class="link-exhibits">
+        <a href="https://drive.google.com/file/d/1xzD2TuHdmky2ZtDvzr2ZsWBwLohHU4HG/view" target="_blank" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/university-code.png" />
         </a>
       </ul>
