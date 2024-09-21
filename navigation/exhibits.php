@@ -50,13 +50,13 @@
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#" class="link-exhibits">
-          <img id="area-image" class="fade-in" src="../assets/Exhibits/bsent-cmo.png" />
+        <a href="https://drive.google.com/file/d/15PagJY66WllFerrmPlFWVRnRgcFkAVdL/view?usp=drive_link" target="_blank"  class="link-exhibits">
+          <img id="area-image" class="fade-in" src="../assets/Exhibits/bshm-cmo.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#" class="link-exhibits">
-          <img id="area-image" class="fade-in" src="../assets/Exhibits/bsed-cmo.png" />
+        <a href="https://drive.google.com/file/d/1SwXEcjaXrSeeexgA4nru6UYeWMllRRDl/view?usp=drive_link" target="_blank" class="link-exhibits">
+          <img id="area-image" class="fade-in" src="../assets/Exhibits/bsit-cmo.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
@@ -75,7 +75,7 @@
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#" class="link-exhibits">
+        <a href="https://pdp.neda.gov.ph/philippine-development-plan-2023-2028/" target="_blank" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/updated-ph-dev-plan.png" />
         </a>
       </ul>
@@ -85,7 +85,7 @@
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#" class="link-exhibits">
+        <a href="https://www.dost.gov.ph/knowledge-resources/downloads/file/5669-harmonized-national-r-d-agenda-2022-2028.html"  target="_blank" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/harmonized-natl-research-adn-devt-agenda.png" />
         </a>
       </ul>
