@@ -184,26 +184,27 @@
         </div>
       </div>
     </div>
-    <!-- <div class="card">
+
+
+    <div class="card">
       <div class="card-header">
         TECHNICAL TEAM
       </div>
       <div class="card-body">
-        <div class="fade-in" id="their-name">Ma. Carina P. Corpuz</div>
+        <div class="fade-in" id="their-name">Elias Austria</div>
         <div id="their-area">Acreditation Site Leader</div>
-        <br></br> -->
-        <!--<p id="p2">PUP: Pambansang Politeknikong Unibersidad</p>-->
-        <!-- <div class="fade-in" id="their-name">Ma. Carina P. Corpuz</div>
-        <div id="their-area">Audtio Visual Presentation Team Leader</div>
-        <br></br>
-        <p id="p2">Members</p>
-        <div id="their-area">Name</div>
-        <div id="their-area">Name</div>
-        <div id="their-area">Name</div>
-        <div id="their-area">Name</div>
-      </div> 
-
-    </div>-->
+        <br>
+        <div id="their-name">Members</div>
+        <div id="their-area">Regie San Juan</div>
+        <div id="their-area">Mark Fulguerinas</div>
+        <div id="their-area">Justine Lloyd Bautista</div>
+        <div id="their-area">Charles Ezra Ilarde</div>
+        <div id="their-area">Kobe Fajardo</div>
+        <div id="their-area">Eugene Manahan</div>
+        <br>
+      </div>
+    </div>
+    
   </section>
 
   <?php include('../assets/static-html/footer.html'); ?>

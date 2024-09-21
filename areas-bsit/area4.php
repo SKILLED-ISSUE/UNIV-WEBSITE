@@ -38,7 +38,7 @@
         </div>
 
         <div class="img-thmb" class="fade-in">
-            <a href="https://drive.google.com/file/d/1R2bHJ23zdV33Zx5wKnN-Viz8kXZqhek_/view?usp=sharing" target="_blank">
+            <a href="https://drive.google.com/file/d/1PSNF52lyvb49EDE7bd7ymqe4wOANAxgg/view?usp=sharing" target="_blank">
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
                     <div class="text">Click here</div>
@@ -153,7 +153,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#"><strong>S.1-S.5.</strong> Click here to access the evidences for S.1 to S.5.
+                                <a href="https://drive.google.com/file/d/1RUnGCme3R8A5VSb00PMqco94yCXtKNmW/view?usp=sharing" target="_blank"><strong>S.1-S.5.</strong> Click here to access the evidences for S.1 to S.5.
                                 </a>
                             </li>
                         </ul>
