@@ -402,7 +402,7 @@ footer .right {
 }
 .program .chair-container .members {
   flex-direction: row;
-  gap: 0.5em;
+  gap: 1.5em;
   justify-content: space-evenly;
   padding-right: 1em;
   padding-bottom: 1em;
@@ -424,7 +424,7 @@ footer .right {
   height: 10em;
 }
 .program .chair-container img {
-  height: 21em;
+  height: 25em;
 }
 .program .header {
   justify-content: center;
