@@ -48,6 +48,13 @@
                     <div class="text">Click here</div>
                 </div>
             </a>
+
+            <a href="https://drive.google.com/file/d/1KMCnNNI7an2AaPViscsBNVO0eJl5gBck/view?usp=drive_link" target="_blank" class="fade-in">
+                <img src="CRA1.png" alt="Compliance">
+                <div class="overlay">
+                    <div class="text">Click here</div>
+                </div>
+            </a>
         </div>
 
         <div class="line-container">
@@ -65,7 +72,7 @@
                         <ul>
                             <li>
                                 <a href="https://drive.google.com/file/d/1HQa97O3FozESWzTXcbthff2p5V24K5SE/view?usp=drive_link" target="_blank">
-                                     To access the evidences for S.1 to S.6, click here.</a>
+                                    To access the evidences for S.1 to S.6, click here.</a>
                             </li>
                         </ul>
                     </li>
@@ -73,7 +80,7 @@
                         <ul>
                             <li class="imp">
                                 <a href="https://drive.google.com/file/d/1TC2VkaDwvstCbJZFtP8gziBTFB1_mkBA/view?usp=drive_link" target="_blank">
-                                     To access the evidences for I.1 to I.12, click here.</a>
+                                    To access the evidences for I.1 to I.12, click here.</a>
                             </li>
                         </ul>
                     </li>
@@ -98,8 +105,8 @@
                         <ul>
                             <li class="sip">
                                 <a href="https://drive.google.com/file/d/1jrVvkyBMWlQckfsdny_MfbTzCuCxegq3/view?usp=drive_link" target="_blank">
-                                To access the evidences for S.1 to S.3, click here.
-                                </a>    
+                                    To access the evidences for S.1 to S.3, click here.
+                                </a>
                             </li>
                         </ul>
                     </li>
@@ -107,7 +114,7 @@
                         <ul>
                             <li class="imp">
                                 <a href="https://drive.google.com/file/d/13rIop38GvySMce0MvW0zyPHLBVqyOK7q/view?usp=drive_link" target="_blank">
-                                To access the evidences for I.1 to I.3, click here.
+                                    To access the evidences for I.1 to I.3, click here.
                                 </a>
                             </li>
                         </ul>
@@ -133,7 +140,7 @@
                         <ul>
                             <li class="sip">
                                 <a href="https://drive.google.com/file/d/1xzRVdNjbfxvFDnkF0848oTEzmmqwB0Sd/view?usp=drive_link" target="_blank">
-                                To access the evidences for S.1 to S.2, click here.
+                                    To access the evidences for S.1 to S.2, click here.
                                 </a>
                             </li>
                         </ul>
@@ -142,7 +149,7 @@
                         <ul>
                             <li class="imp">
                                 <a href="https://drive.google.com/file/d/1brkwrzj-aEdhVWy8AWBP8X10Q8CjCaKu/view?usp=drive_link" target="_blank">
-                                To access the evidences for I.1 to I.7, click here.
+                                    To access the evidences for I.1 to I.7, click here.
                                 </a>
                             </li>
                         </ul>
@@ -168,7 +175,7 @@
                         <ul>
                             <li class="sip">
                                 <a href="https://drive.google.com/file/d/1zE3rn4G-2uUf_FyX_Lxh2j5IjfEs1Hzb/view?usp=drive_link" target="_blank">
-                                To access the evidences for S.1 to S.3, click here.
+                                    To access the evidences for S.1 to S.3, click here.
                                 </a>
                             </li>
                         </ul>
@@ -191,6 +198,58 @@
                             </li>
                         </ul>
                     </li>
+                </ul>
+            </div>
+
+            <button class="collapsible">
+                <div class="title">Others</div>
+                <div class="desc">Proof/ Evidence</div>
+            </button>
+            <div class="content">
+                <ul>
+                   
+                    <li class="sip">
+                        <a href="https://drive.google.com/drive/folders/1r0jCl0sT86YlhnzfFcc8Lls5-ixm8jyv?usp=drive_link"
+                            target="_blank">Request Local Government Unit</a>
+                    </li>
+                    <li class="sip">
+                        <a href="https://drive.google.com/drive/folders/1JzgMrlWSVSkkSWO5u7qwcR2XLJKdFj3U?usp=drive_link"
+                            target="_blank">Request Letters</a>
+                    </li>
+                    <li class="sip">
+                        <a href="https://drive.google.com/drive/folders/1lDFHMbcgmPNzQsqLAnBk5iTblV8-v0u2?usp=drive_link"
+                            target="_blank">Laboratory Enhancement</a>
+                    </li>
+                    <li class="sip">
+                        <a href="https://drive.google.com/drive/folders/1fzPSu625urSBghdZFIe1GinG8vEBCfWp?usp=drive_link"
+                            target="_blank">Hot and Cold Kitchen Laboratory</a>
+                    </li>
+
+                    <li class="sip">
+                        <a href="https://drive.google.com/drive/folders/1ewge0zeoVaFU_GDLuS_vJaNWa1_8d8M6?usp=drive_link"
+                            target="_blank">Baking and Cooking Tools and Equipments</a>
+                    </li>
+
+                    <li class="sip">
+                        <a href="https://drive.google.com/file/d/1b96Xb-PpBW5dcg_oBddUQAFTLF4x9KrM/view?usp=drive_link"
+                            target="_blank">JV Building Floor Plan - Ground Floor</a>
+                    </li>
+
+                    <li class="sip">
+                        <a href="https://drive.google.com/file/d/1zz8KWu7zOWVkuWy25sBNHDUmKcBlyzhJ/view?usp=drive_link"
+                            target="_blank">JV Building Floor Plan - Second Floor</a>
+                    </li>
+
+                    <li class="sip">
+                        <a href="https://drive.google.com/file/d/18oi-CaObehaDEbA_QLPDr_-6w3yub_Db/view?usp=drive_link"
+                            target="_blank">JV Building Floor Plan - Third Floor</a>
+                    </li>
+
+                    <li class="sip">
+                        <a href="https://drive.google.com/file/d/1yY0OQFx5oRq5IV-uTuK75ak7SzZOGkfe/view?usp=drive_link"
+                            target="_blank">Mini-Hall</a>
+                    </li>
+                    
                 </ul>
             </div>
 
