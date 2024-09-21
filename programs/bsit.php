@@ -67,21 +67,45 @@
       </section>
     </section>
 
-    <!-- <section class="chair-container">
+    <section class="chair-container">
+      <img src="../assets/chairpersons/austria-titlecard.png" alt="chairperson's photo" class="fade-in">
       <div class="border" class="fade-in">
-        <img src="../assets/chairpersons/austria-titlecard.png" alt="chairperson's photo" class="fade-in">
         <p id="chair-header" class="fade-in"><strong>Regular</strong> Faculty</p>
-        <div class="img-cont">
-        </div>
-        <div class="name-cont">
+        <div class=" members">
+          <div class="regular img-cont">
+            <img src="../assets/local-task-force/Nayre.jpg" alt="">
+            <p>Rachel A. Nayre</p>
+          </div>
+          <div class="regular img-cont">
+            <img src="../assets/local-task-force/Pagalilawan.png" alt="">
+            <p>Alfred M .Pagalilawan</p>
+          </div>
+          <div class="regular img-cont">
+            <img src="../assets/local-task-force/Santos.png" alt="">
+            <p>John Dustin Santos</p>
+          </div>
         </div>
         <p id="chair-header" class="fade-in"><strong>Part-Time</strong> Faculty</p>
-        <div class="img-cont">
-        </div>
-        <div class="name-cont">
+        <div class="members">
+          <div class="img-cont">
+            <img src="../assets/PLACEHOLDER.png" alt="">
+            <p>Rodolf E. Esguerra</p>
+          </div>
+          <div class="img-cont">
+            <img src="../assets/PLACEHOLDER.png" alt="">
+            <p>Alfeo R. Mendoza</p>
+          </div>
+          <div class="img-cont">
+            <img src="../assets/PLACEHOLDER.png" alt="">
+            <p>Noel C. Gagolinan</p>
+          </div>
+          <div class="img-cont">
+            <img src="../assets/PLACEHOLDER.png" alt="">
+            <p>Marivil G. Santos</p>
+          </div>
         </div>
       </div>
-    </section> -->
+    </section>
 
     <section class="aus-container anchor-offset" id="c2">
       <div class="aus-header">AREAS UNDER SURVEY</div>

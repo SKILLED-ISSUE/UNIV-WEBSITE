@@ -69,12 +69,41 @@
       </section>
     </section>
 
-    <!-- <section class="chair">
+    <section class="chair-container">
+      <img src="../assets/chairpersons/corpuz-titlecard.png" alt="chairperson's photo" class="fade-in">
       <div class="border" class="fade-in">
-        <img src="../assets/chairpersons/corpuz-titlecard.png" alt="chairperson's photo" class="fade-in">
-          <h1 id="chair-header" class="fade-in">Regular Faculty</h1>
+        <p id="chair-header" class="fade-in"><strong>Regular</strong> Faculty</p>
+        <div class="members">
+          <div class="regular img-cont">
+            <img src="../assets/local-task-force/Delacruz.jpg" alt="">
+            <p>Maricar Dela Cruz</p>
+          </div>
+          <div class="regular img-cont">
+            <img src="../assets/local-task-force/Espiritu.png" alt="">
+            <p>Ronette M. Espiritu</p>
+          </div>
+          <div class="regular img-cont">
+            <img src="../assets/local-task-force/Salcedo.png" alt="">
+            <p>Martino Miguel Salcedo</p>
+          </div>
+        </div>
+        <p id="chair-header" class="fade-in"><strong>Part-Time</strong> Faculty</p>
+        <div class="members">
+          <div class="regular img-cont">
+            <img src="../assets/local-task-force/Marcelo.png" alt="">
+            <p>Jefferson S. Marcelo</p>
+          </div>
+          <div class="regular img-cont">
+            <img src="../assets/local-task-force/Quibot.png" alt="">
+            <p>Anna Margarita Quibot</p>
+          </div>
+          <div class="regular img-cont">
+            <img src="../assets/local-task-force/Yu.jpg" alt="">
+            <p>Rolando T. Yu</p>
+          </div>
+        </div>
       </div>
-    </section> -->
+    </section>
 
     <section class="aus-container anchor-offset" id="c2">
       <div class="aus-header">AREAS UNDER SURVEY</div>

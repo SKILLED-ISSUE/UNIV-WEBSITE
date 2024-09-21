@@ -438,49 +438,55 @@ footer {
   }
 
   .chair-container {
-    height: 20em;
-    width: 60%;
+    align-items: center;
+    gap: 1em;
 
-    img {
-      margin-top: -1.2em;
-      height: 20em;
-    }
-
-    div:nth-child(1) {
-      gap: 3em;
-    }
-
-    #name {
-      font-size: 72px;
-      background: -webkit-linear-gradient(left, #f7ca05, #ffffff);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-    }
-
-    #quote {
-      justify-content: center;
-      display: flex;
+    .border {
       flex-direction: column;
-      width: 65%;
+      gap: 1em;
 
       #chair-header {
-        margin: 0;
         color: #7f1414;
+        font-size: 1.5rem;
+        margin: 0;
+
+        text-align: center;
+
+      }
+    }
+
+    .members {
+      flex-direction: row;
+      gap: 0.5em;
+      justify-content: space-evenly;
+      padding-right: 1em;
+      padding-bottom: 1em;
+
+      .img-cont {
+        flex-direction: column;
+        gap: 0.5rem;
+
+        img {
+          height: 7em;
+          border-radius: 0.8em;
+        }
+
+        p {
+          margin: 0;
+          font-size: 0.8rem;
+          text-align: center;
+        }
       }
 
-      h1 {
-        font-size: 3.5em;
+      .regular {
+        img {
+          height: 10em;
+        }
       }
+    }
 
-      h2 {
-        margin-top: -0.4em !important;
-        font-size: 2.5em;
-        font-weight: 100;
-      }
-
-      p {
-        font-size: 1.2em;
-      }
+    img {
+      height: 21em;
     }
   }
 

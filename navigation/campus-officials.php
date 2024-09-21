@@ -28,11 +28,11 @@
 
     <div class="content-container">
       <section class="pointers">
-        <img id="overview-image" class="fade-in" src="../assets/local-task-force/Alagon.jpg" />
+        <img id="overview-image" class="fade-in" src="../assets/local-task-force/Delmo.png" />
       </section>
       <div class="main-contents">
         <section class="overview-programs">
-          <div class="fade-in" id="their-name">Dir. Cecilia R. Alagon</div>
+          <div class="fade-in" id="their-name">Dir. Edgardo S. Delmo</div>
           <div id="their-position">Campus Director</div>
           <div class="thin-line-break fade-in"></div>
         </section>
