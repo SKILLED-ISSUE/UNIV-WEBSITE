@@ -170,6 +170,41 @@
                     </li>
                 </ul>
             </div>
+
+            <!-- Others -->
+
+            <button class="collapsible">
+                <div class="title">Others</div>
+                <div class="desc">Supporting Documents</div>
+            </button>
+            <div class="content">
+                <ul>
+                    <li class="list-header"><strong>Supporting Documents</strong>
+                        <ul>
+                            <li class="sip">
+                                <a href="https://drive.google.com/drive/folders/12IpEQJm3EwfWpkvi_2VH5G1cRi0xRPBg?usp=drive_link"
+                                    target="_blank">STUDENT ACTIVITIES PERTAINING TO VMGO</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/drive/folders/1HYMGGMi1vcwh1xK0RGzLLfHrQ7SRz5RH?usp=drive_link"
+                                    target="_blank">PARAMETER B SYSTEM INPUTS AND PROCESSES</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/15qoR54X_De_y9jmHmB_5h2QfgPN3mo8y/view?usp=drive_link"
+                                    target="_blank">Development Plan</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://docs.google.com/document/d/1XtKnOmyp99J3yPhiQIbLRsZGA8IWboEC/edit?usp=sharing&ouid=108207515687335018379&rtpof=true&sd=true"
+                                    target="_blank">BSHM SEMESTRAL PLAN OF COURSES</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://docs.google.com/document/d/1NupmrpKGUbQSVnXgI8922mxQzMTAFhzV/edit?usp=sharing&ouid=108207515687335018379&rtpof=true&sd=true"
+                                    target="_blank">BSHM NOTABLE ALUMNI</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
         </section>
     </section>
     
