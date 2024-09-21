@@ -186,7 +186,7 @@
     </div>
 
 
-    <div class="card">
+    <!-- <div class="card">
       <div class="card-header">
         TECHNICAL TEAM
       </div>
@@ -203,7 +203,7 @@
         <div id="their-area">Eugene Manahan</div>
         <br>
       </div>
-    </div>
+    </div> -->
     
   </section>
 
