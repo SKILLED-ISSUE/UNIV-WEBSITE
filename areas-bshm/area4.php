@@ -73,22 +73,18 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1d01p_ZDSeDKHRk0mdHU8LOcArOMZ41C9?usp=drive_link" target="_blank">
+                                <a href="https://drive.google.com/file/d/1NTx2WT05irX-knhmGoaHr3K_flLx_WIe/view?usp=sharing" target="_blank">
                                 To access the evidences for S.1 to S.5, click here.
                                 </a>
                             </li>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1d01p_ZDSeDKHRk0mdHU8LOcArOMZ41C9?usp=drive_link" target="_blank">
-                                To access the evidences for S.6. to S.6.2.6, click here.
+                                <a href="https://drive.google.com/file/d/1jCQ3MGT3ClfA6wYe92crMa12Uk13iMCT/view?usp=sharing" target="_blank">
+                                To access the evidences for S.6.  click here.
                                 </a>
                             </li>
+                    
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1d01p_ZDSeDKHRk0mdHU8LOcArOMZ41C9?usp=drive_link" target="_blank">
-                                To access the evidences for S.6.3.1 to S.6.3.12, click here.
-                                </a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1d01p_ZDSeDKHRk0mdHU8LOcArOMZ41C9?usp=drive_link" target="_blank">
+                                <a href="https://drive.google.com/file/d/1m1H6_4uV5_SRnARUlMHeAg5u4IidM07S/view?usp=sharing" target="_blank">
                                 To access the evidences for S.7 to S.12, click here.
                                 </a>
                             </li>
@@ -123,35 +119,27 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1QMtDJMCgINBWXlATgYLgkRPQbDL4HJWN?usp=drive_link" target="_blank">
-                                To access the evidences for S.1 to S.9, click here.
+                                <a href="https://drive.google.com/file/d/1ynvVOaPQTw50Sy7uS5mhdac-GE6oLwcK/view?usp=sharing" target="_blank">
+                                To access the evidences for S.1 to S.15, click here.
                                 </a>
                             </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1QMtDJMCgINBWXlATgYLgkRPQbDL4HJWN?usp=drive_link" target="_blank">
-                                To access the evidences for S.10 to S.15, click here.
-                                </a>
-                            </li>
+                
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1XQsxowY4Es1kyvBoGCgNFf6XZ3CNord_?usp=drive_link" target="_blank">
-                                To access the evidences for I.1 to I.8, click here.
+                                <a href="https://drive.google.com/file/d/1BA77p0O5hrVkLtxw2nrJusQvnTxkgJJB/view?usp=sharing" target="_blank">
+                                To access the evidences for I.1 to I.19, click here.
                                 </a>
                             </li>
-                            <li class="imp">
-                                <a href="https://drive.google.com/drive/folders/1XQsxowY4Es1kyvBoGCgNFf6XZ3CNord_?usp=drive_link" target="_blank">
-                                To access the evidences for I.9 to I.19, click here.
-                                </a>
-                            </li>
+                    
                         </ul>
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="https://drive.google.com/drive/folders/1Ur9tfLP6OUXQe2CZhQyB45kA9opA6iRa?usp=drive_link" target="_blank">
+                                <a href="https://drive.google.com/file/d/17Ciw9FbimVbLVbj8mLzVPjA3fl3POlG3/view?usp=sharing" target="_blank">
                                 O.1. Quality student welfare services are available.
                                 </a>
                             </li>

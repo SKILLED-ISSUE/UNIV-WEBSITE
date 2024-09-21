@@ -73,19 +73,17 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#"><strong>S.1-S.5.</strong> Click here to access the evidences for S.1 to S.5.
+                                <a href="https://drive.google.com/file/d/1L5ilPYUggDhPpfJWFjyS4boDmIHgN85a/view?usp=sharing" target="_blank"><strong>S.1-S.5.</strong> Click here to access the evidences for S.1 to S.5.
                                 </a>
                             </li>
                             <li class="sip">
-                                <a href="#"><strong>S.6-S.6.2.6.</strong> Click here to access the evidences for S.6 to S.6.2.6.
+                                <a href="https://drive.google.com/file/d/1Q9aBxCTTj9pH-BgqwwTnWTm2ptMblbPe/view?usp=sharing" target="_blank"><strong>S.6.</strong> Click here to access the evidences for S.6.
                                 </a>
                             </li>
-                            <li class="sip">
-                                <a href="#"><strong>S.6.3.1-S.6.3.12.</strong> Click here to access the evidences for S.6.3.1 to S.6.3.12.
-                                </a>
+                
                             </li>
                             <li class="sip">
-                                <a href="#"><strong>S.7-S.12.</strong> Click here to access the evidences for S.7 to S.12.
+                                <a href="https://drive.google.com/file/d/1ErLoRUIxFr26nG5y0KH3foYYs2GfMupW/view?usp=sharing" target="_blank"><strong>S.7-S.12.</strong> Click here to access the evidences for S.7 to S.12.
                                 </a>
                             </li>
                         </ul>
