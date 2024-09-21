@@ -51,10 +51,10 @@
                     <div class="text">Click here</div>
                 </div>
             </a>
-            <a href="#" target="_blank" class="fade-in">
+            <a href="https://drive.google.com/file/d/1F1K5Afkj9KRJE_AkSJYkouMc-GHNeZI6/view?usp=sharing" target="_blank" class="fade-in">
                 <img src="CRA1.png" alt="Compliance">
                 <div class="overlay">
-                    <div class="text">NO UPLOAD YET</div>
+                    <div class="text">Click Here</div>
                 </div>
             </a>
         </div>
