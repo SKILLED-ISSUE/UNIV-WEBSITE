@@ -74,7 +74,7 @@
   border-radius: 0.5rem;
   box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
   overflow: hidden;
-  width: 55%;
+  width: 100%;
   max-width: 1250px;
   margin: 0 auto;
   position: relative;
@@ -99,10 +99,10 @@
   flex-wrap: wrap;
   padding-inline-start: 0px; }
   .ul-exhibits .link-exhibits {
-    max-width: 70%; }
+    max-width: 75%; }
     .ul-exhibits .link-exhibits #area-image {
-      height: 200px !important;
-      width: 200px !important;
+      height: 275px !important;
+      width: 275px !important;
       transition: transform 0.2s ease-in, filter 0.2s ease-in; }
       .ul-exhibits .link-exhibits #area-image:hover {
         transform: scale(1.05);
