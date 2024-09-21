@@ -51,6 +51,12 @@
                     <div class="text">Click here</div>
                 </div>
             </a>
+            <a href="#" target="_blank" class="fade-in">
+                <img src="CRA1.png" alt="Compliance">
+                <div class="overlay">
+                    <div class="text">NO UPLOAD YET</div>
+                </div>
+            </a>
         </div>
 
         <div class="line-container">
