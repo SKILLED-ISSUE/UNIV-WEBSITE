@@ -187,6 +187,12 @@
                             <li class="sip">
                                 <a href="https://drive.google.com/drive/folders/1TrcH_VECYM0C3BOwp2Ao3MeyHPPtKZhh?usp=drive_link"
                                     target="_blank">PARAMETER B SYSTEM INPUTS AND PROCESSES</a>
+                                    <ul style="list-style-type: none;">
+                                    <li class="sip">
+                                <a href="https://docs.google.com/document/d/1DEId0Wj9VbBRYKdEK-8ccgnYZ2L-HzSW/edit?usp=drive_link&ouid=108207515687335018379&rtpof=true&sd=true"
+                                    target="_blank">Memo AVP</a>
+                            </li>
+                        </ul>
                             </li>
                             <li class="sip">
                                 <a href="https://drive.google.com/file/d/1zBGlTNCAfTPxzvjjhP3GACOVrD8dkyh6/view?usp=drive_link"
