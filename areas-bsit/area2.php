@@ -41,7 +41,7 @@
 
         <div class="img-thmb" class="fade-in">
 
-            <a href="https://drive.google.com/file/d/1otKdXSrCkjuzCUWG-HTPKwW7HipZzJlq/view?usp=drive_link" target="_blank">
+            <a href="https://drive.google.com/file/d/1XmJZxENIzM4iq-VZIFo_c4YxuYHF6Bjl/view?usp=sharing" target="_blank">
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
                     <div class="text">Click here</div>
