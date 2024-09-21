@@ -35,7 +35,7 @@
         </div>
 
         <div class="img-thmb" class="fade-in">
-            <a href="#" target="_blank">
+            <a href="https://drive.google.com/file/d/1uiR-kNKpjW_hT2Qd9DwnBzpzN-iXnHVK/view?usp=drive_link" target="_blank">
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
                     <div class="text">Click here</div>
@@ -49,7 +49,7 @@
                 </div>
             </a>
 
-            <a href="https://drive.google.com/file/d/1uiR-kNKpjW_hT2Qd9DwnBzpzN-iXnHVK/view?usp=drive_link" target="_blank" class="fade-in">
+            <a href="https://drive.google.com/file/d/1aSJzMb-GNmu-V43xREZRs9yjfn5mJgjw/view?usp=drive_link" target="_blank" class="fade-in">
                 <img src="CRA1.png" alt="Compliance">
                 <div class="overlay">
                     <div class="text">Click here</div>
