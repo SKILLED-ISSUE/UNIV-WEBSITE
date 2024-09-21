@@ -68,7 +68,7 @@
           <li class="list-header"><strong>Systems - Inputs and Processes</strong>
             <ul>
               <li class="sip">
-                <a href="https://drive.google.com/file/d/1TkUEvBaIjrWL5Kgbjcub2amV0WoSdQ26/view?usp=drive_link" target="_blank"> 
+                <a href="https://drive.google.com/file/d/1TkUEvBaIjrWL5Kgbjcub2amV0WoSdQ26/view?usp=drive_link" target="_blank">
                   To access the Systems - Inputs and Processes, click here.
                 </a>
               </li>
@@ -211,7 +211,7 @@
               <li class="sip">
                 <a href="https://drive.google.com/file/d/1ku-cUoLDoiZo1O5gAZDip51Z7UJCZV_d/view?usp=drive_link" target="_blank">
                   To access the Systems - Inputs and Processes, click here.
-              </a>
+                </a>
               </li>
             </ul>
           </li>
