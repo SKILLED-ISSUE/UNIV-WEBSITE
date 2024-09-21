@@ -170,6 +170,49 @@
                 </ul>
             </div>
 
+            <!-- Others -->
+
+            <button class="collapsible">
+                <div class="title">Others</div>
+                <div class="desc">Supporting Documents</div>
+            </button>
+            <div class="content">
+                <ul>
+                    <li class="list-header"><strong>Supporting Documents</strong>
+                        <ul>
+                            <li class="sip">
+                                <a href="https://drive.google.com/drive/folders/1UqeUJbjk4mg2Fg6_EaUzpQqfg_fnhPOk?usp=drive_link"
+                                    target="_blank">STUDENT ACTIVITIES PERTAINING TO VMGO</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/drive/folders/1TrcH_VECYM0C3BOwp2Ao3MeyHPPtKZhh?usp=drive_link"
+                                    target="_blank">PARAMETER B SYSTEM INPUTS AND PROCESSES</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1zBGlTNCAfTPxzvjjhP3GACOVrD8dkyh6/view?usp=drive_link"
+                                    target="_blank">New Student Orientation with Gender and Development</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1SC6xaJ4E5swdbWpwcRav2tZPe-fOp6kU/view?usp=drive_link"
+                                    target="_blank">Development Plan</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://docs.google.com/document/d/193knwx1fWqKCFeYBxNpHCaEWwTuKDjl2/edit?usp=drive_link&ouid=108207515687335018379&rtpof=true&sd=true"
+                                    target="_blank">BSIT NOTABLE ALUMNI</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/18lOJDvLYJwVg3JlwN12eaRiySl3L64HI/view?usp=drive_link"
+                                    target="_blank">BS Information Technology 2018 Curriculum</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1vOk4sxyZ6ZSQTsPaRSwFyZR-czb7-XGu/view?usp=drive_link"
+                                    target="_blank">Achievements and Awards</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
         </section>
     </section>
 
