@@ -639,11 +639,27 @@
                                 </li>
                             </ul>
                             <li class="out">
-                                <a href="https://drive.google.com/file/d/1Dn1PdPrP8M6y5RY2EOwlN2iVybCncPFv/view?usp=drive_link" target="_blank"> <strong>O.2.</strong>ZARAGOZA OJT FOOD SERVICE PORTFOLIO </a>
+                                <a href="https://drive.google.com/file/d/1Dn1PdPrP8M6y5RY2EOwlN2iVybCncPFv/view?usp=drive_link" target="_blank">ZARAGOZA OJT FOOD SERVICE PORTFOLIO </a>
                             </li>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1TrcH_VECYM0C3BOwp2Ao3MeyHPPtKZhh?usp=drive_link"
-                                    target="_blank">PARAMETER B SYSTEM INPUTS AND PROCESSES</a>
+                                <a href="https://drive.google.com/file/d/1ecNhhNAwghI3Kd0HZEh9Lo4-_kdPjbZr/view?usp=sharing"
+                                    target="_blank">RUBY DARUCA_OJT FOOD SERVICE PORTFOLIO FORMAT</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1P9rDZ_mYbtbc5lmFPI5vMlFIi0VdNa2y/view?usp=sharing"
+                                    target="_blank">OJT PORTFOLIO DALAN</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/16TtyDstHUAeN4CQz4CKP94c93--z2T-w/view?usp=sharing"
+                                    target="_blank">HINAGPISAN OJT PORTFOLIO</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/19_zjlUtKC7ErwuTEPJGbWH6kN1A9IqOZ/view?usp=sharing"
+                                    target="_blank">FERRER_OJT FOOD SERVICE PORTFOLIO</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1jgStw1Q5OzVC-Y7gkXZIHPUT3Z6fHwKL/view?usp=sharing"
+                                    target="_blank">FDIRECTO OJT PORTFOLIO</a>
                             </li>
                         </ul>
                     </li>
