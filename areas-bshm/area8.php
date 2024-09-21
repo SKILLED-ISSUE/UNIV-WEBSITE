@@ -124,7 +124,7 @@
                             <li class="imp">
                                 <a href="https://drive.google.com/file/d/1XPxxaC-QqDh-D4ijQoKsupAfuOTF7yO4/view?usp=drive_link"
                                     target="_blank">To
-                                    access the evidences for I.1 to I.19, click here.</a>
+                                    access the evidences for I.1 to I.9, click here.</a>
                             </li>
                         </ul>
                     </li>
