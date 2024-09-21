@@ -50,7 +50,7 @@
                     <div class="text">Click here</div>
                 </div>
             </a>
-            <a href="" target="_blank" class="fade-in">
+            <a href="https://drive.google.com/file/d/1AW79wTlyHsUY-wLsw5NMACnRLwCQ6kez/view?usp=drive_link" target="_blank" class="fade-in">
                 <img src="CRA1.png" alt="Compliance">
                 <div class="overlay">
                     <div class="text">Click here</div>

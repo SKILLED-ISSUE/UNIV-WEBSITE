@@ -51,7 +51,7 @@
                 </div>
             </a>
 
-            <a href="" target="_blank" class="fade-in">
+            <a href="https://drive.google.com/file/d/1qox2go_n_h1rxd2PcWheOUvC_Qjo9RMx/view?usp=drive_link" target="_blank" class="fade-in">
                 <img src="CRA1.png" alt="Compliance">
                 <div class="overlay">
                     <div class="text">Click here</div>
