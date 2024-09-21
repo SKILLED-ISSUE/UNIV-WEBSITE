@@ -48,13 +48,13 @@
             <a href="https://drive.google.com/drive/folders/17lksRSgSWufSFREhVFjH9vB1V0hePuFu?usp=drive_link" target="_blank">
                 <img src="SSA1.png" alt="self survey">
                 <div class="overlay">
-                    <div class="text">NO UPLOAD YET</div>
+                    <div class="text">Click Here</div>
                 </div>
             </a>
-            <a href="#" target="_blank" class="fade-in">
+            <a href="https://drive.google.com/file/d/1zLO-8q1AQDlIakEz55NLLqBjtpT51lO3/view?usp=sharing" target="_blank" class="fade-in">
                 <img src="CRA1.png" alt="Compliance">
                 <div class="overlay">
-                    <div class="text">NO UPLOAD YET</div>
+                    <div class="text">Click Here</div>
                 </div>
             </a>
         </div>
