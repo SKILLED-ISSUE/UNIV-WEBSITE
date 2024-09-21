@@ -191,7 +191,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1rTJCOU-jsJk2wZ_z_os7cF_XlcHkdqHC?usp=drive_link" target="_blank">
+                                <a href="https://drive.google.com/file/d/1ZKhDiOqSvxSudVMQB6hhBZOVbD9KPwnK/view?usp=sharing" target="_blank">
                                 To access the evidences for S.1 to S.18, click here.
                                 </a>
                             </li>
@@ -226,7 +226,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1pZqQhjFKqHg9bGuqP2HisEH84qP7Cfnl?usp=drive_link" target="_blank">
+                                <a href="https://drive.google.com/file/d/1AECx2NhPPPz_hHEVM0VbubN5cYR1Ivz8/view?usp=sharing" target="_blank">
                                 To access the evidences for S.1 to S.4, click here. 
                                 </a>
                             </li>
