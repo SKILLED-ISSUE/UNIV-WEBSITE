@@ -61,6 +61,13 @@
                     <div class="text">Click here</div>
                 </div>
             </a>
+
+            <a href="https://drive.google.com/file/d/1kL7gGnmQI-cgGELw5CObS7NcuePkydAZ/view?usp=drive_link" target="_blank" class="fade-in">
+                <img src="CRA1.png" alt="Compliance">
+                <div class="overlay">
+                    <div class="text">Click here</div>
+                </div>
+            </a>
         </div>
 
         <div class="line-container">
@@ -180,7 +187,7 @@
                             <li><Strong>S.3.</Strong> Copies of all course syllabi during the term are available at the Dean's office or in any other appropriate repository.</li>
                             <li><Strong>S.4.</Strong> Copies of all syllabi in previous terms are filed for reference purposes.</li>
                             <li><Strong>S.5.</Strong> There is provision for remedial measures to strengthen the basic skills in Mathematics and English and other "tool" subjects.</li>
-                            <li><Strong>S.6.</Strong> There is a mechanism to facilitate the teaching-learning process</li>
+                            <li class="sip"><a href="https://drive.google.com/file/d/1X09R70GCzIMbTiepZJ71lXmehHvfQRew/view?usp=drive_link" target="_blank"><Strong>S.6.</Strong> There is a mechanism to facilitate the teaching-learning process</a></li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
@@ -195,7 +202,7 @@
                                 <a href="https://drive.google.com/file/d/1iVGk4IznsPtwO8P2Cx0MuOxmp8d-PXI_/view?usp=drive_link" target="_blank"><strong>I.3.</strong> The faculty revise and enhance the syllabus preferably every two (2) years and as needed.</a>
                             </li>
                         <li class="imp">
-                                <a href="hhttps://drive.google.com/file/d/1D5udJK3Zntef-SrFLZ_P-VyklPjad3x7/view?usp=drive_link" target="_blank"><strong>I.4.</strong> The faculty distribute a copy of the syllabus to each student.</a>
+                                <a href="https://drive.google.com/file/d/1D5udJK3Zntef-SrFLZ_P-VyklPjad3x7/view?usp=drive_link" target="_blank"><strong>I.4.</strong> The faculty distribute a copy of the syllabus to each student.</a>
                             </li>
                             <li class="imp"><a href="https://drive.google.com/file/d/1IBjrDed90fZkTewTxvQDbguLy1HZzsu8/view?usp=drive_link" target="_blank"><Strong>I.5.</Strong> Teaching strategies stimulate the development of the students' Higher-Order Thinking Skills (HOTS) such as critical thinking, analytical thinking, creative thinking and problem-solving.</a></li>
                             <li><Strong>I.6.</Strong> Classroom instruction is enriched through the use of the following strategies: </li>
@@ -206,7 +213,7 @@
                             <li><Strong>I.6.1.</Strong> symposia, seminars, workshops, professional lectures;</li>
                                 <li><Strong>I.6.2.</Strong> Ceducational tours/learning visits/other co-curricular activities;</li>
                                 <li><Strong>I.6.3.</Strong> peer teaching/cooperative learning; and</li>
-                                <li><Strong>I.6.4.</Strong> computer-assisted instruction (CAI) and computer-assisted learning (CAL).</li>
+                                <li class="imp"><a href="https://drive.google.com/file/d/1go8cEliCx-OPZbQXXeRA9c_AQxiJKOp6/view?usp=drive_link" target="_blank"><Strong>I.6.4.</Strong> computer-assisted instruction (CAI) and computer-assisted learning (CAL).</a></li>
                                 </ul>
                             <li class="imp"><a href="https://drive.google.com/file/d/1tZLyVZ8i_z7UHJ2cGAetF2qCKj3SlCS1/view?usp=drive_link" target="_blank"><Strong>I.7.</Strong> At least three (3) of the following course requirements are used: </a></li>
                                 <ul style="list-style-type: none;">
@@ -249,7 +256,7 @@
                                     <li><Strong>I.8.23</Strong> others</li>
                                 </ul>
                             </li>
-                            <li><Strong>I.9.</Strong> Instructional strategies provide for student's individual needs and multiple intelligences.</li>
+                            <li class="imp"><a href="https://drive.google.com/file/d/1yM86eN1ucx1HQQ9n0nUomIGJ4-4HKhvn/view?usp=drive_link" target="_blank"><Strong>I.9.</Strong> Instructional strategies provide for student's individual needs and multiple intelligences.</a></li>
                             <li><Strong>I.10.</Strong> Instruction is enhanced through the following:</li>
                                 <ul style="list-style-type: none;">
                                 <li class="imp">
@@ -307,7 +314,7 @@
                                 <strong>S.1.</strong> The institution has a system of evaluating students' performance through a combination of the following:
                                 <ul style="list-style-type: none;">
                                 <li class="sip">
-                                <a href="https://drive.google.com/file/d/1urX5H5vJo4u31uNEL_pDXHs18BkznH8B/view?usp=drive_link" target="_blank">To access the evidences for S.1. to S.I.4 click here.</a>
+                                <a href="https://drive.google.com/file/d/1urX5H5vJo4u31uNEL_pDXHs18BkznH8B/view?usp=drive_link" target="_blank">To access the evidences for S.1. to S.I.5 click here.</a>
                             </li>
                             <li><Strong>S.1.1</Strong> formative tests such as quizzes, units' tests;</li>
                             <li><Strong>S.1.2</Strong> summative tests such as mid-term and final examinations;</li>
@@ -336,7 +343,7 @@
                                     <li class="imp"><a href="https://drive.google.com/file/d/1-ocpd520bqceJYyocM8JLFwEKmYX79KD/view?usp=drive_link" target="_blank"><Strong>I.1.4.</Strong> paper and pencil tests;</a></li>
                                     <li class="imp"><a href="https://drive.google.com/file/d/1jJwaAYwNXkxdfj39KdnY465uzItAoBvY/view?usp=drive_link" target="_blank"><Strong>I.1.5.</Strong> oral examinations;</a></li>
                                     <li class="imp"><a href="https://drive.google.com/file/d/1SkyPWHZzU1FlaiXYwOYmX00AdtcXjfDy/view?usp=drive_link" target="_blank"><Strong>I.1.6.</Strong> group/individual reports;</a></li>
-                                    <li class="imp"><a href="https://drive.google.com/file/d/1Ly6xTzqBR4Jy65LudE0Jabsxa4Dak-A9/view?usp=drive_link" target="_blank"><Strong>I.1.7.</Strong> others</a></li>
+                                    <li class="imp"><a href="https://drive.google.com/file/d/1Ly6xTzqBR4Jy65LudE0Jabsxa4Dak-A9/view?usp=drive_link" target="_blank"><Strong>I.1.7.</Strong> group/individual projects</a></li>
                             </ul>
                             <li class="imp">
                                 <a href="https://drive.google.com/file/d/1xrwUb3h3lAjmUtYgQaBenWxN9ioZH4Mj/view?usp=drive_link" target="_blank"><strong>I.2.</strong> Evaluation tools/instruments are reviewed and revised periodically.</a>
@@ -344,13 +351,13 @@
                             <li class="imp">
                                 <a href="https://drive.google.com/file/d/10t9xGRNu8KB0sx8ArKd90LzZDbgXYk_7/view?usp=drive_link" target="_blank"><strong>I.3.</strong> The faculty are trained how to assess student performance properly.</a>
                             </li>
-                            <li><strong>I.4.</strong> The College/Academic Unit encourages and supports assessment for multiple intelligences.</a></li>
+                            <li class="imp"><a href="https://drive.google.com/file/d/11S96wiIl6067bqxpF506fsJ5ypsC7c7_/view?usp=drive_link" target="_blank"><strong>I.4.</strong> The College/Academic Unit encourages and supports assessment for multiple intelligences.</a></li>
                             <li class="imp"><a href="https://drive.google.com/file/d/1Z-pnK9eThrjuKqu3uCloEmbAuWpYMPMK/view?usp=drive_link" target="_blank"><strong>I.5.</strong> Course and test requirements are returned to students after results are recorded, and analyzed.</a></li>
                             <li class="imp"><a href="https://drive.google.com/file/d/1uCuw58yWBaavKPLLsZHRWEL_-Vdw7T2u/view?usp=drive_link" target="_blank"><Strong>I.6.</Strong> The system of student evaluation and grading is defined, understood, and disseminated to:</a></li>
                             <ul style="list-style-type: none;">
                                 <li><strong>I.6.1.</strong> students;</li>
                                 <li><strong>I.6.2.</strong> faculty;</li>
-                                <li><strong>I.6.3.</strong> academic administrators; </li>and
+                                <li><strong>I.6.3.</strong> academic administrators; </li>
                                 <li><Strong>I.6.4.</Strong> parent/guardians.</li>
                             </ul>
                         </ul>
@@ -388,7 +395,7 @@
                             </li>
                             <li><Strong>S.1.1.</Strong>  students' attendance in class and other academic activities;</li>
                             <li><Strong>S.1.2.</Strong>  schedules of classes;</li>
-                            <li><Strong>S.1.3.</Strong>students' discipline;</li>and
+                            <li><Strong>S.1.3.</Strong>students' discipline;</li>
                             <li class="sip"><Strong>S.1.4.</Strong>maintenance of cleanliness and orderliness.
                             </li>
                             </ul>
@@ -542,7 +549,7 @@
                                     <a href="https://drive.google.com/file/d/1oxNHYi4eQyV-3yi647TQuuh3Yf52ynpg/view?usp=drive_link" target="_blank"><strong>I.3.5.</strong> holding of regular faculty meetings;</a>
                                     </li>
                                     <li class="imp"><a href="https://drive.google.com/file/d/1Ay0GkvImDes3OYpvUgesLaOah6z3VdZo/view?usp=drive_link" target="_blank"><Strong>I.3.6.</Strong> requiring consultations between students and faculty;</a></li>
-                                    <li><Strong>I.3.7.</Strong> conducting studies on academic performance of students; and</li>
+                                    <li class="imp"><a href="https://drive.google.com/file/d/1ygoeYe7EVFSbqx95xmoZGJ28vUlIAUrq/view?usp=drive_link" target="_blank"><Strong>I.3.7.</Strong> conducting studies on academic performance of students; and</a></li>
                                     <li class="imp">
                                     <a href="https://drive.google.com/file/d/1NPl2-6R6T2pucgYL_UsNlDF8dyYsLnlf/view?usp=drive_link" target="_blank"><strong>I.3.8.</strong> providing opportunities for the participation of the faculty in in-service activities.</a>
                                     </li>
@@ -575,6 +582,9 @@
                             <li><Strong>I.7.2.</Strong> grant of tuition scholarships;</li>
                             <li><Strong>I.7.3.</Strong> awarding of honor medals and merit certificates;</li>
                             <li><Strong>I.7.4.</Strong> inclusion in honor societies/honor class/sections, etc.;</li>
+                            <li class="imp">
+                                <a href="https://drive.google.com/file/d/14pmDIzh4iCNI3GnfdBSGHP6Wl7HY2w7l/view?usp=drive_link" target="_blank">To access the evidences for I.7.5 to I.7.6, click here.</a>
+                            </li>
                             <li><Strong>I.7.5.</Strong> grant of special privileges such as opportunities for leadership and others (excluding exemption from major exams on all professional business subjects); and</li>
                             <li><Strong>I.7.6.</Strong> grant of awards and recognition for outstanding academic accomplishments, e.g., Best Thesis, Students Researcher of the Year, etc.</li>
                             </ul>
