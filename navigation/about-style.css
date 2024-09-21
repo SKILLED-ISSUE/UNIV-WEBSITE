@@ -136,6 +136,7 @@
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
     /* align-items: center !important; */
     flex-direction: column;
+    overflow-y: auto;
     /* Ensure it's on top of other elements */ }
     .exhibits-dialog-overlay .exhibits-dialog-box .header-dialog {
       padding-left: 3em;
@@ -200,6 +201,7 @@
           list-style-type: none; }
         .exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .content li {
           margin-top: 0.4em;
+          list-style-type: circle;
           /* margin-left: -1em; */ }
         .exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .content a {
           color: #7f1414; }
