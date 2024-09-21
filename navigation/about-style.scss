@@ -118,12 +118,10 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(
-      to right,
-      rgb(255, 0, 0),
-      rgba(255, 255, 255, 0.1),
-      rgb(255, 0, 0)
-    );
+    background: linear-gradient(to right,
+        rgb(255, 0, 0),
+        rgba(255, 255, 255, 0.1),
+        rgb(255, 0, 0));
     opacity: 0;
     transition: opacity 0.3s ease-in;
     z-index: -1;
@@ -150,6 +148,128 @@
       &:hover {
         transform: scale(1.05);
         filter: opacity(75%);
+      }
+    }
+  }
+}
+#syllabi-dialog {
+  visibility: hidden;
+}
+.exhibits-dialog-overlay {
+  /* display: absolute; */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  /* Semi-transparent background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+
+  .exhibits-dialog-box {
+    background-color: white;
+    padding: 15px;
+    padding-bottom: 30px;
+    gap: 1em;
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    /* align-items: center !important; */
+    flex-direction: column;
+
+    .header-dialog {
+      padding-left: 3em;
+      gap: 1rem;
+      /* align-items: left; */
+      .close-btn {
+        max-width: 50px;
+        background-color: #ffffffff;
+        border: none;
+        font-size: 1.5rem;
+      }
+
+      .title-dialog {
+        font-family: "Product Sans Bold", sans-serif;
+        font-size: 1.5rem;
+        color: #7f1414;
+      }
+    }
+
+    /* Ensure it's on top of other elements */
+    .collapsible-container {
+      flex-direction: column;
+      gap: 1em;
+      align-items: center;
+      width: 100%;
+
+      .collapsible {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 1em;
+        border-radius: 0.5em;
+        background-color: #7f1414;
+        color: white;
+        cursor: pointer;
+        padding: 18px;
+        width: 80%;
+        border: none;
+        text-align: left;
+        outline: none;
+        font-size: 15px;
+        transition: background-color 0.5s ease;
+
+        #title {
+          font-weight: 600;
+          font-size: 1rem;
+        }
+      }
+
+      .active,
+      .collapsible:hover {
+        background-color: #7f1414c5;
+      }
+
+      .collapsible:after {
+        content: "\002B";
+        color: white;
+        font-weight: bold;
+        float: right;
+        margin-left: 5px;
+      }
+
+      .active:after {
+        content: "\2212";
+      }
+
+      .content {
+        font-family: "Product Sans Regular";
+        margin-top: -1em;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.2s ease-out;
+        width: 80%;
+
+        ul {
+          display: flex;
+          flex-direction: column;
+        }
+
+        .list-header {
+          list-style-type: none;
+        }
+
+        li {
+          margin-top: 0.4em;
+          /* margin-left: -1em; */
+        }
+
+        a {
+          color: #7f1414;
+        }
       }
     }
   }
