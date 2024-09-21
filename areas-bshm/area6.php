@@ -59,6 +59,12 @@
                     <div class="text">Click here</div>
                 </div>
             </a>
+            <a href="" target="_blank" class="fade-in">
+                <img src="CRA1.png" alt="Compliance">
+                <div class="overlay">
+                    <div class="text">Click here</div>
+                </div>
+            </a>
         </div>
 
         <div class="line-container">
@@ -75,7 +81,7 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="#"><strong>S.1-S.5.</strong> Click here to access the evidences for S.1 to S.5.
+                                <a href="https://drive.google.com/file/d/14j_u--hGOZhi0sEngkP1NQXHCHBkfamY/view?usp=sharing" target="_blank"><strong>S.1-S.5.</strong> Click here to access the evidences for S.1 to S.5.
                                 </a>
                             </li>
                         </ul>
@@ -83,7 +89,7 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                             <li class="imp">
-                                <a href="#">
+                                <a href="https://drive.google.com/file/d/10uJmhi7evEImzhUftA3rEOt_9RP_fQlx/view?usp=sharing" target="_blank">
                                     <strong>I.1-I.4.</strong> Click here to access the evidences for I.1 to I.4.
                                 </a>
                             </li>
@@ -92,7 +98,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                             <li class="out">
-                                <a href="#">
+                                <a href="https://drive.google.com/file/d/1K4RrT61inTubdakMyasGZWIYofiIu_cD/view?usp=sharing" target="_blank">
                                     <strong>O.1.</strong> Click here to access the evidences for O.1.
                                 </a>
                             </li>
