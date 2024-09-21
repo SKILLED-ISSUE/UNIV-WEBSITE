@@ -142,7 +142,7 @@
       gap: 1rem;
       /* align-items: left; */ }
       .exhibits-dialog-overlay .exhibits-dialog-box .header-dialog .close-btn {
-        font-family: "Symbols Nerd Font";
+        font-family: "Symbols Nerd Font Regular";
         max-width: 50px;
         background-color: #ffffffff;
         border: none;
