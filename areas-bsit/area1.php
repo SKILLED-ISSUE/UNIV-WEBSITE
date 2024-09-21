@@ -50,6 +50,12 @@
                     <div class="text">Click here</div>
                 </div>
             </a>
+            <a href="" target="_blank" class="fade-in">
+                <img src="CRA1.png" alt="Compliance">
+                <div class="overlay">
+                    <div class="text">Click here</div>
+                </div>
+            </a>
         </div>
 
         <div class="line-container">
@@ -65,7 +71,7 @@
                 <ul>
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
-                        <li class="sip">
+                            <li class="sip">
                                 <a href="https://drive.google.com/file/d/1M-HeV1czv6VjT5MDn85iaU_rRvbmO9Rl/view?usp=drive_link" target="_blank"><strong>S.1.</strong> The institution has a system of determining the Vision and Mission.</a>
                             </li>
                             <li class="sip">
@@ -84,7 +90,7 @@
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
-                        <li class="imp">
+                            <li class="imp">
                                 <a href="https://drive.google.com/file/d/1DMembudMUkzO6Vv-PGbb3mf04YboIsB2/view?usp=drive_link" target="_blank"><strong>I.1.</strong> The Institution/College conducts review on the statement of the Vision and Mission as well as its goals and program objectives for the approval of authorities concerned.</a>
                             </li>
                             <li class="imp">
@@ -97,7 +103,7 @@
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
-                        <li class="out">
+                            <li class="out">
                                 <a href="https://drive.google.com/file/d/1TnOJMQ-gXl5tXA8vYXFfUFlHNfjRh0nC/view?usp=drive_link" target="_blank"><strong>O.1.</strong> The VMGO are crafted and duly approved by BOR/BOT.</a>
                             </li>
                         </ul>
@@ -113,25 +119,25 @@
                 <ul>
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
-                        <li class="sip">
+                            <li class="sip">
                                 <a href="https://drive.google.com/file/d/1EkloPr6IPh1H6lPUXqMtIKY2quAI0RVa/view?usp=drive_link" target="_blank"><strong>S.1.</strong> The VMGO is available on bulletin boards, in catalogs/manuals and in other forms of communication media</a>
                             </li>
                         </ul>
                     </li>
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
-                        <li class="imp">
-                                <a href="https://drive.google.com/file/d/1556vIBKM50JlFT5N2TR2KYdW19UY1a3X/view?usp=drive_link" target="_blank"><strong>I.1.</strong> A system of dissemination and acceptability of the  VMGO is enforced.</a>
+                            <li class="imp">
+                                <a href="https://drive.google.com/file/d/1556vIBKM50JlFT5N2TR2KYdW19UY1a3X/view?usp=drive_link" target="_blank"><strong>I.1.</strong> A system of dissemination and acceptability of the VMGO is enforced.</a>
                             </li>
                             <li class="imp">
-                                <a href="https://drive.google.com/file/d/1Oqk2iGpDdZKLo9kzl9pNcTRE8wLNHGB-/view?usp=drive_link" target="_blank"><strong>I.2.</strong> The administrators/faculty attend in-service seminars and training on awareness and acceptability of  the: </a>
+                                <a href="https://drive.google.com/file/d/1Oqk2iGpDdZKLo9kzl9pNcTRE8wLNHGB-/view?usp=drive_link" target="_blank"><strong>I.2.</strong> The administrators/faculty attend in-service seminars and training on awareness and acceptability of the: </a>
                                 <ul style="list-style-type: none;">
                                     <li><Strong>I.2.1.</Strong> Vision and Mision of the Institution.</li>
                                     <li><Strong>I.2.2.</Strong> Goals of the College/Academic Unit.</li>
                                 </ul>
                             </li>
                             <li class="imp">
-                                <a href="https://drive.google.com/file/d/1CnQaFHzz6HuysWVYNdhgBehL1vym7kXJ/view?usp=drive_link" target="_blank"><strong>I.3.</strong> he formulation/review/revision of the VMGO is  participated in by the following: </a>
+                                <a href="https://drive.google.com/file/d/1CnQaFHzz6HuysWVYNdhgBehL1vym7kXJ/view?usp=drive_link" target="_blank"><strong>I.3.</strong> he formulation/review/revision of the VMGO is participated in by the following: </a>
                                 <ul style="list-style-type: none;">
                                     <li><Strong>I.3.1.</Strong> Administrators</li>
                                     <li><Strong>I.3.2.</Strong> Faculty</li>
@@ -150,7 +156,7 @@
                     </li>
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
-                        <li class="out">
+                            <li class="out">
                                 <a href="https://drive.google.com/file/d/1LKRIwmiBRlpIB7LyAaGXajSd_LEnK6dh/view?usp=drive_link" target="_blank"><strong>O.1.</strong> There is full awareness and acceptance of the VMGO by the administrators, faculty, staff, students and other stakeholders.</a><br>
                             </li>
                             <li class="out">

@@ -69,18 +69,12 @@
       </section>
     </section>
 
-    <section class="chair">
+    <!-- <section class="chair">
       <div class="border" class="fade-in">
         <img src="../assets/chairpersons/corpuz-titlecard.png" alt="chairperson's photo" class="fade-in">
-        <div id="quote">
-          <h1 id="chair-header" class="fade-in">Chairperson's</h1>
-          <h2 id="chair-header" class="fade-in">Message</h2>
-          <p class="fade-in">As the Chairperson, I would like to extend my sincere gratitude for your time, effort, and expertise in this important accreditation process.
-            Your insights and recommendations are invaluable in ensuring that we continue to uphold the highest standards of excellence. We look forward to a productive and successful collaboration.
-            Thank you, guys.</p>
-        </div>
+          <h1 id="chair-header" class="fade-in">Regular Faculty</h1>
       </div>
-    </section>
+    </section> -->
 
     <section class="aus-container anchor-offset" id="c2">
       <div class="aus-header">AREAS UNDER SURVEY</div>
