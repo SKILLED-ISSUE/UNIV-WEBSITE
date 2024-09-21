@@ -48,6 +48,13 @@
                     <div class="text">Click here</div>
                 </div>
             </a>
+
+            <a href="https://drive.google.com/file/d/1aSJzMb-GNmu-V43xREZRs9yjfn5mJgjw/view?usp=drive_link" target="_blank" class="fade-in">
+                <img src="CRA1.png" alt="Compliance">
+                <div class="overlay">
+                    <div class="text">Click here</div>
+                </div>
+            </a>
         </div>
 
         <div class="line-container">
