@@ -33,15 +33,21 @@
     </div>
 
     <div class="img-thmb" class="fade-in">
-      <a href="https://drive.google.com/file/d/1R2bHJ23zdV33Zx5wKnN-Viz8kXZqhek_/view?usp=sharing" target="_blank">
+      <a href="https://drive.google.com/file/d/1bvnygnuWT52IZTc-iWGHOHXofhAOyyPw/view?usp=drive_link" target="_blank">
         <img src="PPPA1.png" alt="program performance profile">
         <div class="overlay">
           <div class="text">Click here</div>
         </div>
       </a>
 
-      <a href="#" target="_blank" class="fade-in">
+      <a href="https://drive.google.com/file/d/1ckdSxIde7u9VzrZgM81uGHoIcDBX8H7E/view?usp=drive_link" target="_blank" class="fade-in">
         <img src="SSA1.png" alt="self survey">
+        <div class="overlay">
+          <div class="text">Click here</div>
+        </div>
+      </a>
+      <a href="https://drive.google.com/file/d/1SyNdYPPR7mvfacsIPHzVy1eFv4WZUFhi/view?usp=drive_link" target="_blank" class="fade-in">
+        <img src="CRA1.png" alt="Compliance">
         <div class="overlay">
           <div class="text">Click here</div>
         </div>
@@ -62,7 +68,8 @@
           <li class="list-header"><strong>Systems - Inputs and Processes</strong>
             <ul>
               <li class="sip">
-                <a href="https://drive.google.com/file/d/1TkUEvBaIjrWL5Kgbjcub2amV0WoSdQ26/view?usp=drive_link" target="_blank"> To access the Systems - Inputs and Processes, click here.</a>
+                <a href="https://drive.google.com/file/d/1gTgPwjLHie0NyaHixeyKtdJKXPet-aPI/view?usp=drive_link" target="_blank">
+                  To access the Systems - Inputs and Processes, click here.
                 </a>
               </li>
             </ul>
@@ -70,7 +77,7 @@
           <li class="list-header"><strong>Implementation</strong>
             <ul>
               <li class="imp">
-                <a href="https://drive.google.com/file/d/1oUdyME6VsxIVfmKcPrLDxI5WFltJE03p/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/128MOZk6kVjc8ZCkOlAg0bfNSEIfWCadx/view?usp=drive_link" target="_blank">
                   To access the Implementation, click here.
                 </a>
               </li>
@@ -79,7 +86,7 @@
           <li class="list-header"><strong>Outcome/s</strong>
             <ul>
               <li class="out">
-                <a href="https://drive.google.com/file/d/18MDENlJlEpd4Pw_akoAW8wGT9EG2P_51/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/16OYqoCS0M8w7XCeygOCzJVMhZqyIu0r-/view?usp=drive_link" target="_blank">
                   To access the Outcome, click here.
                 </a>
               </li>
@@ -96,7 +103,7 @@
           <li class="list-header"><strong>Systems - Inputs and Processes</strong>
             <ul>
               <li class="sip">
-                <a href="https://drive.google.com/file/d/1mMFnxE_PzfPI51HXr1iTqE0cYVVeXNd9/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1CTECc3IIyhJbauc70AXuXo07e5LHH5Va/view?usp=drive_link" target="_blank">
                   To access the Systems - Inputs and Processes, click here.
                 </a>
               </li>
@@ -105,7 +112,7 @@
           <li class="list-header"><strong>Implementation</strong>
             <ul>
               <li class="imp">
-                <a href="https://drive.google.com/file/d/1TdyhwHHw1fb5cHxDxuNN_0Su8XyWTNtk/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1gqT0xYzCotEzV_WuL97th6VXVkyN217O/view?usp=drive_link" target="_blank">
                   To access the Implementation, click here.
                 </a>
               </li>
@@ -114,7 +121,7 @@
           <li class="list-header"><strong>Outcome/s</strong>
             <ul>
               <li class="out">
-                <a href="https://drive.google.com/file/d/1lvrq7KqCvSCXLk2s3DpSV-G1hZAUc7CX/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/187LnPxXG5DdoPvNxrhyCZw-lKSM4vRuv/view?usp=drive_link" target="_blank">
                   To access the Outcome, click here.
                 </a>
               </li>
@@ -131,7 +138,7 @@
           <li class="list-header"><strong>Systems - Inputs and Processes</strong>
             <ul>
               <li class="sip">
-                <a href="https://drive.google.com/file/d/1KW9gZ8pEF4UhHDzCH0yIXQnWN2qTXQ_A/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/17Uhfch2nzUWYu9UlgX1qlwL_Y8Rj47f3/view?usp=drive_link" target="_blank">
                   To access the Systems - Inputs and Processes, click here.
                 </a>
               </li>
@@ -140,7 +147,7 @@
           <li class="list-header"><strong>Implementation</strong>
             <ul>
               <li class="imp">
-                <a href="https://drive.google.com/file/d/1ZlWJkkt2hYPnug9uByjhwkhGEp6Ckd1g/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1Ff9VB0S8Nfs0bFYFCAq8v10cclrgo75r/view?usp=drive_link" target="_blank">
                   To access the Implementation, click here.
                 </a>
               </li>
@@ -149,7 +156,7 @@
           <li class="list-header"><strong>Outcome/s</strong>
             <ul>
               <li class="out">
-                <a href="https://drive.google.com/file/d/18Pv4JnvFIajbv9gBCF-ZK-Yl9V8L3KzJ/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1BHXLEP7EtsaIvy4ebAhUJTZ2sBmF78aD/view?usp=drive_link" target="_blank">
                   To access the Outcome, click here.
                 </a>
               </li>
@@ -166,7 +173,7 @@
           <li class="list-header"><strong>Systems - Inputs and Processes</strong>
             <ul>
               <li class="sip">
-                <a href="https://drive.google.com/file/d/1tzbz1i-ZOZsQNLTsB0j5Jslryh0uO_DJ/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1zHsrFr2Kr1D7HuwEBdVOX9zh8ZIIo2O6/view?usp=drive_link" target="_blank">
                   To access the Systems - Inputs and Processes, click here.
                 </a>
               </li>
@@ -175,7 +182,7 @@
           <li class="list-header"><strong>Implementation</strong>
             <ul>
               <li class="imp">
-                <a href="https://drive.google.com/file/d/1KeGdLHnu9aDOW9BiSGl5eLXmnue9qQde/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1zAh2nfjZOjhJU49mZUR0Dh5hprAHuDR3/view?usp=drive_link" target="_blank">
                   To access the Implementation, click here.
                 </a>
               </li>
@@ -184,7 +191,7 @@
           <li class="list-header"><strong>Outcome/s</strong>
             <ul>
               <li class="imp">
-                <a href="https://drive.google.com/file/d/1DLnrDLAUWcAmkNE4Ey9vD0xOIe-eM3o-/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1YU1rnRKTK2NhYeMi_c9o_uMpJWpRfNHO/view?usp=drive_link" target="_blank">
                   To access the Outcome, click here.
                 </a>
               </li>
@@ -202,7 +209,7 @@
           <li class="list-header"><strong>Systems - Inputs and Processes</strong>
             <ul>
               <li class="sip">
-                <a href="https://drive.google.com/file/d/1ku-cUoLDoiZo1O5gAZDip51Z7UJCZV_d/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1gFDJUyjTBR1DkzPwtsLEGbh37Ad0D6Sw/view?usp=drive_link" target="_blank">
                   To access the Systems - Inputs and Processes, click here.
                 </a>
               </li>
@@ -211,7 +218,7 @@
           <li class="list-header"><strong>Implementation</strong>
             <ul>
               <li class="imp">
-                <a href="https://drive.google.com/file/d/1acczV5-QuMr_Snzs_c0QF-ZwAcEcoRas/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/16PJiIBHgrbqLYuU0PnZaPXwCwMbuS5V1/view?usp=drive_link" target="_blank">
                   To access the Implementation, click here.
                 </a>
               </li>
@@ -220,7 +227,7 @@
           <li class="list-header"><strong>Outcome/s</strong>
             <ul>
               <li class="out">
-                <a href="https://drive.google.com/file/d/1-yz_WU8MS01DcXT8pHDMUZOEsKgtys1i/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1XDWfRbm2sSQDGBp3xjGodvYT_goDlRLX/view?usp=drive_link" target="_blank">
                   To access the Outcome, click here.
                 </a>
               </li>
@@ -238,7 +245,7 @@
           <li class="list-header"><strong>Systems - Inputs and Processes</strong>
             <ul>
               <li class="sip">
-                <a href="https://drive.google.com/file/d/1pAX1leSy7e0g5odJotQyhupzRhNYj1eU/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1FRifqSrCMESt-r9rBkx-PlH7FXYJFwSi/view?usp=drive_link" target="_blank">
                   To access the Systems - Inputs and Processes, click here.
                 </a>
               </li>
@@ -247,7 +254,7 @@
           <li class="list-header"><strong>Implementation</strong>
             <ul>
               <li class="imp">
-                <a href="https://drive.google.com/file/d/1BNUYWkFmaUNsMm8nyvmd3GDDSp0uE-In/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/19P9tp54KQbxwIaSqJ-Ujy3OuYU9IRwvK/view?usp=drive_link" target="_blank">
                   To access the Implementation, click here.
                 </a>
               </li>
@@ -256,7 +263,7 @@
           <li class="list-header"><strong>Outcome/s</strong>
             <ul>
               <li class="out">
-                <a href="https://drive.google.com/file/d/1fjhpUJ4rGdFr_Pfw6fIEhf8vqecncDHk/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1-QK8O0yXbPHF50ZI_FFuSK40dQWYOaGq/view?usp=drive_link" target="_blank">
                   To access the Outcome, click here.
                 </a>
               </li>
@@ -274,7 +281,7 @@
           <li class="list-header"><strong>Systems - Inputs and Processes</strong>
             <ul>
               <li class="sip">
-                <a href="https://drive.google.com/file/d/1aHq_JgtKoWSF-46OszX7dGMBKFNfZU0H/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1FWd5doZj6i8bhh-p4fA2NvnlBV_elfds/view?usp=drive_link" target="_blank">
                   To access the Systems - Inputs and Processes, click here.
                 </a>
               </li>
@@ -283,7 +290,7 @@
           <li class="list-header"><strong>Implementation</strong>
             <ul>
               <li class="imp">
-                <a href="https://drive.google.com/file/d/1i8bsF5UKCKWu43GvkOV5Ti9-vS9vPvU9/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1GZsCDhn0IXb1rmLDjTZUWGkhhKcU757n/view?usp=drive_link" target="_blank">
                   To access the Implementation, click here.
                 </a>
               </li>
@@ -292,7 +299,7 @@
           <li class="list-header"><strong>Outcome/s</strong>
             <ul>
               <li class="out">
-                <a href="https://drive.google.com/file/d/1xxCs8bElsJxJy9EgCTLU-BhxNvsZo5oW/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1HZ7PM1tknsmLbpK6zcEZ7TvfL0bJRqBM/view?usp=drive_link" target="_blank">
                   To access the Outcome, click here.
                 </a>
               </li>
@@ -309,7 +316,7 @@
           <li class="list-header"><strong>Systems - Inputs and Processes</strong>
             <ul>
               <li class="sip">
-                <a href="https://drive.google.com/file/d/1_TJO3yU3RQ8d2c5A49lDx1AJcdQkVW2V/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1kuW2PABzxSXdjmPTYrpJeuGJUjIsVt25/view?usp=drive_link" target="_blank">
                   To access the Systems - Inputs and Processes, click here.
                 </a>
               </li>
@@ -318,7 +325,7 @@
           <li class="list-header"><strong>Implementation</strong>
             <ul>
               <li class="imp">
-                <a href="https://drive.google.com/file/d/1_W4nrU7iH5Y8xdB8BqLQU--hPPW1oVt4/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1nNr4K7uug3vApz0twtwuESplxgaOwySz/view?usp=drive_link" target="_blank">
                   To access the Implementation, click here.
                 </a>
               </li>
@@ -327,7 +334,7 @@
           <li class="list-header"><strong>Outcome/s</strong>
             <ul>
               <li class="out">
-                <a href="https://drive.google.com/file/d/1RSqEpMOUAifqq_vIXifXqVpIX7Yhq8eq/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1An1niFYru2hwfWDDZA5eXdokRDbBitjB/view?usp=drive_link" target="_blank">
                   To access the Outcome, click here.
                 </a>
               </li>

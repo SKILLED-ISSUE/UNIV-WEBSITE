@@ -46,6 +46,12 @@
           <div class="text">Click here</div>
         </div>
       </a>
+      <a href="" target="_blank" class="fade-in">
+        <img src="CRA1.png" alt="Compliance">
+        <div class="overlay">
+          <div class="text">Click here</div>
+        </div>
+      </a>
     </div>
 
     <div class="line-container">
@@ -62,7 +68,8 @@
           <li class="list-header"><strong>Systems - Inputs and Processes</strong>
             <ul>
               <li class="sip">
-                <a href="https://drive.google.com/file/d/1TkUEvBaIjrWL5Kgbjcub2amV0WoSdQ26/view?usp=drive_link" target="_blank"> To access the Systems - Inputs and Processes, click here.</a>
+                <a href="https://drive.google.com/file/d/1TkUEvBaIjrWL5Kgbjcub2amV0WoSdQ26/view?usp=drive_link" target="_blank"> 
+                  To access the Systems - Inputs and Processes, click here.
                 </a>
               </li>
             </ul>
