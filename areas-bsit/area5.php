@@ -72,11 +72,11 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/file/d/1wDeNju_kU5T3pxC2QRnscSr6m5HJ6bVg/view" target="_blank">
+                                <a href="https://drive.google.com/file/d/1r9sUpGRJRWFZSOPhgpmLSUIOX7kS1b1Y/view?usp=drive_link" target="_blank">
                                 S.1. The institution's research agenda is in consonance with institutional, regional and national priorities concerned such as DOST, CHED - National Higher Education Research Agenda, DepEd, NEDA, etc.</a>
                             </li>
                             <li class="sip">
-                                <a href="https://drive.google.com/file/d/1m7p4yMNcJCtTqhXNmo1OMN7mGFE4XbL2/view?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1TVdpWkKIsdMmUh3BtjAQHNrSK82-1SeR/view?usp=drive_link" target="_blank">
                                 S.2. The institution has an approved Research Manual.</a>
                                 
                             </li>
@@ -86,41 +86,40 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                              <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/14kTFk9cyIWnqj75wOhIZ9GQIY12SOR6w?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1e33rCTLIPT8wR83ak9ZPvuKaoMHtMvM6/view?usp=sharing" target="_blank">
                                 I.1. The approved research agenda is implemented.</a>
                             </li> 
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/14kTFk9cyIWnqj75wOhIZ9GQIY12SOR6w?usp=sharing" target="_blank">
+                                
                                 I.2. The following stakeholders participate in the formulation of the research agenda as bases for identifying institutional thrusts and priorities:</a>
                                 <ul>
                                 <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/14kTFk9cyIWnqj75wOhIZ9GQIY12SOR6w?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1XWO1eOwTpRPz6bmYLJTk6HBlzz-4ZwKN/view?usp=sharing" target="_blank">
                                 I.2.1. administrators;</a>
                             </li> 
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/14kTFk9cyIWnqj75wOhIZ9GQIY12SOR6w?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1XWO1eOwTpRPz6bmYLJTk6HBlzz-4ZwKN/view?usp=sharing" target="_blank">
                                 I.2.2. faculty;</a>
                             </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/14kTFk9cyIWnqj75wOhIZ9GQIY12SOR6w?usp=sharing" target="_blank">
-                                I.1. The approved research agenda is implemented.</a>
+                            <li>
+                                I.1. The approved research agenda is implemented.
                             </li> 
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/14kTFk9cyIWnqj75wOhIZ9GQIY12SOR6w?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1dqaVN6dPNXGUO9vjSCSrRm_P-PtY90TV/view?usp=sharing" target="_blank">
                                 I.2.3. students;</a>
                             </li> 
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/14kTFk9cyIWnqj75wOhIZ9GQIY12SOR6w?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/14GmnoTIW85kxZYm4aS1fe3BgeRVClXAT/view?usp=sharing" target="_blank">
                                 I.2.4. government agency representatives (DOST, CHED, NEDA, etc.); and</a>
                             </li> 
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/14kTFk9cyIWnqj75wOhIZ9GQIY12SOR6w?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1tfoMP4i17wQ63KrqNCPOfLAJEnUmNB4Z/view?usp=sharing" target="_blank">
                                 I.2.5. other stakeholders (alumni, parents, industry representatives, etc.)</a>
                             </li> 
                                 </ul>
                             </li> 
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/14kTFk9cyIWnqj75wOhIZ9GQIY12SOR6w?usp=sharing" target="_blank">
+                                <a href="#" target="_blank">
                                 I.3. Action researches to test theory in practice are conducted by faculty and students.</a>
                             </li> 
                             <li class="sip">
@@ -136,11 +135,11 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                              <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1HsTPArOkA2bBxwEYWbTllQrSZ22tz9Rx?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1GVmjzfBdJSvoYsjb_fn_r_DB0psbHfq2/view?usp=sharing" target="_blank">
                                 O.1. Priority researches are identified and conducted.</a>
                             </li> 
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1HsTPArOkA2bBxwEYWbTllQrSZ22tz9Rx?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1B5v9-Wb7pcK4QC_mFgzzp7SghF3IWWvw/view?usp=sharing" target="_blank">
                                 O.2. Research results are published.</a>
                             </li> 
                         </ul>
@@ -159,27 +158,27 @@
                     <li class="list-header"><strong>Systems - Inputs and Processes</strong>
                         <ul>
                             <li class="sip">
-                                <a href="https://drive.google.com/file/d/1NdW8L3xJK0tWyUfYINH14yAcv9PkThKo/view?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1r53ICxRIfwobAJ7vXhtAKMZ2vCWz41UK/view?usp=sharing" target="_blank">
                                 S.1. The institution has an approved and adequate budget for research.</a>
                             </li>
                             <li class="sip">
-                                <a href="https://drive.google.com/file/d/1md9V1QHhaZ226i3c4ww3iHuFg_SpqXQT/view?usp=sharing" target="_blank">
+                                
                                 S.2. There are provisions for the following:</a>
                                 <ul>
                                 <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/17Rc00FgYkDCAVMCeVE6l8p2EGecJu7n0?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1UmRod4gyjiDz6AJrbDuI2QNxjgYx_2hJ/view?usp=sharing" target="_blank">
                                 S.2.1. facilities and equipment such as internet, statistical software, and other ICT resources;</a>
                             </li>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/17Rc00FgYkDCAVMCeVE6l8p2EGecJu7n0?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1i0HA3S0a3w1yBeVIFWgNGNnKvpWwDziT/view?usp=sharing" target="_blank">
                                 S.2.2. research staff;</a>
                             </li>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/17Rc00FgYkDCAVMCeVE6l8p2EGecJu7n0?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1eU8eVRb6ZE6Sd-8DtSLsdaf8cTVmrlx0/view?usp=sharing" target="_blank">
                                 S.2.3. supplies and materials; and</a>
                             </li>
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/17Rc00FgYkDCAVMCeVE6l8p2EGecJu7n0?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1z5ZWsz-8bIVwrHU6ZjtDEdOwMFJInNu2/view?usp=sharing" target="_blank">
                                 S.2.4. workplace.</a>
                             </li>
                                 </ul>
@@ -191,15 +190,15 @@
                     <li class="list-header"><strong>Implementation</strong>
                         <ul>
                              <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1VNtMBtmpUs86hpzeOSdZEVFv4f9b_Ec9?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1TOYg93W2iBDmW1eGInq6pkN01vuaWCF7/view?usp=sharing" target="_blank">
                                 I.1. The institution allocates adequate funds for the conduct of faculty and student research.</a>
                             </li> 
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1VNtMBtmpUs86hpzeOSdZEVFv4f9b_Ec9?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1pkp6xTieey_a7buq92BsJzzW-KN07sUC/view?usp=sharing" target="_blank">
                                 I.2. The institution established linkages with local/national/international agencies for funding support and assistance.</a>
                             </li> 
                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1VNtMBtmpUs86hpzeOSdZEVFv4f9b_Ec9?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1gf8ZnUUCFBZTiWCbMOMGPyA0JVpdLZHJ/view?usp=sharing" target="_blank">
                                 I.3. The institution maintains a functional and long-range program of faculty/staff development to enhance research capability and competence.</a>
                             </li> 
                             <li class="sip">
@@ -211,7 +210,7 @@
                     <li class="list-header"><strong>Outcome/s</strong>
                         <ul>
                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1iVcIpcB4Q_8kwr2M9dIpnHiyjxkCwQYc?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/13wa_FkeVgRjZVHHhEuBq_uJrnwt4GIpK/view?usp=sharing" target="_blank">
                                 O.1. The research program is adequately funded.</a>
                             </li> 
                         </ul>
