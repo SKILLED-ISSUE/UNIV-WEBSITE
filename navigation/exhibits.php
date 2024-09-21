@@ -70,7 +70,7 @@
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#" class="link-exhibits">
+        <a href="https://drive.google.com/file/d/1hmTc7tNBhUhng7rm_Vnfh-WTd0JhUOOJ/view" target="_blank" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/ambisyon-natin-2024.png" />
         </a>
       </ul>
@@ -80,7 +80,7 @@
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#" class="link-exhibits">
+        <a href="https://drive.google.com/file/d/1rRGCWrMKD74uAoI-K34wkzR9yLUtQEVG/view" target="_blank" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/un-sdg-2030.png" />
         </a>
       </ul>
@@ -90,7 +90,7 @@
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#" class="link-exhibits">
+        <a href="https://drive.google.com/file/d/1rxqdcpYLd2senFC_mVXVAnFJklRX4pEu/view" target="_blank" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/cmo-52-s-2016.png" />
         </a>
       </ul>
@@ -100,12 +100,12 @@
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#" class="link-exhibits">
+        <a href="https://drive.google.com/file/d/15LS2dxw6CslL0fZvIBadNSZcHwGXsUlb/view" target="_blank" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/cmo-no-9-s-2013.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="#" class="link-exhibits">
+        <a href="#" target="_blank"  class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/university-research-related-policies.png" />
         </a>
       </ul>
