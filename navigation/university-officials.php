@@ -28,7 +28,7 @@
 
     <div class="content-container">
       <section class="pointers">
-        <img id="overview-image" class="fade-in" src="https://via.placeholder.com/800x700?text=Placeholder" />
+        <img id="overview-image" class="fade-in" src="../assets\univ-officials\pres.jpg" />
       </section>
       <div class="main-contents">
         <section class="overview-programs">
@@ -41,12 +41,13 @@
 
     <div class="content-container">
       <section class="pointers">
-        <img id="overview-image" class="fade-in" src="https://via.placeholder.com/800x700?text=Placeholder" />
+        <img id="overview-image" class="fade-in" src="../assets\univ-officials\vpfinance.png" />
       </section>
       <div class="main-contents">
         <section class="overview-programs">
           <div class="fade-in" id="their-name">Alberto C. Guillo, MS (Stat) MA (Econ)</div>
           <div id="their-position">Executive Vice President</div>
+          <div id="their-position">Vice President for Finance (Concurrent)</div>
           <div class="thin-line-break fade-in"></div>
         </section>
       </div>
@@ -54,7 +55,7 @@
 
     <div class="content-container">
       <section class="pointers">
-        <img id="overview-image" class="fade-in" src="https://via.placeholder.com/800x700?text=Placeholder" />
+        <img id="overview-image" class="fade-in" src="../assets\univ-officials\vpacad.png" />
       </section>
       <div class="main-contents">
         <section class="overview-programs">
@@ -67,7 +68,7 @@
 
     <div class="content-container">
       <section class="pointers">
-        <img id="overview-image" class="fade-in" src="https://via.placeholder.com/800x700?text=Placeholder" />
+        <img id="overview-image" class="fade-in" src="../assets\univ-officials\vpsa.png" />
       </section>
       <div class="main-contents">
         <section class="overview-programs">
@@ -80,7 +81,7 @@
 
     <div class="content-container">
       <section class="pointers">
-        <img id="overview-image" class="fade-in" src="https://via.placeholder.com/800x700?text=Placeholder" />
+        <img id="overview-image" class="fade-in" src="../assets\univ-officials\vpresearch.png" />
       </section>
       <div class="main-contents">
         <section class="overview-programs">
@@ -93,7 +94,7 @@
     
     <div class="content-container">
       <section class="pointers">
-        <img id="overview-image" class="fade-in" src="https://via.placeholder.com/800x700?text=Placeholder" />
+        <img id="overview-image" class="fade-in" src="../assets\univ-officials\vpbranches.png" />
       </section>
       <div class="main-contents">
         <section class="overview-programs">
@@ -106,7 +107,7 @@
 
     <div class="content-container">
       <section class="pointers">
-        <img id="overview-image" class="fade-in" src="https://via.placeholder.com/800x700?text=Placeholder" />
+        <img id="overview-image" class="fade-in" src="../assets\univ-officials\vpadmin.png" />
       </section>
       <div class="main-contents">
         <section class="overview-programs">
@@ -117,9 +118,9 @@
       </div>
     </div>
 
-    <div class="content-container">
+    <!-- <div class="content-container">
       <section class="pointers">
-        <img id="overview-image" class="fade-in" src="https://via.placeholder.com/800x700?text=Placeholder" />
+        <img id="overview-image" class="fade-in" src="../assets\univ-officials\vpfinance.png" />
       </section>
       <div class="main-contents">
         <section class="overview-programs">
@@ -128,7 +129,7 @@
           <div class="thin-line-break fade-in"></div>
         </section>
       </div>
-    </div>
+    </div> -->
 
 
   </section>
