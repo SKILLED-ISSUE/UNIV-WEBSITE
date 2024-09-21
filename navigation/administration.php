@@ -39,7 +39,7 @@
 
         <div class="card">
             <div class="card-header">
-            The Administration
+                The Administration
             </div>
             <div class="card-body-history">
                 <ul>
@@ -64,15 +64,15 @@
             </div>
 
 
-            
+
         </div>
         <section class="ref-n-contents admin">
             <div class="refs">
-                <a href="../navigation/branch-officials.php">Branch Officials</a>
+                <a href="../navigation/campus-officials.php">Campus Officials</a>
                 <a href="../navigation/university-officials.php">University Officials</a>
                 <a href="../navigation/board-regent.php">Board of Regents</a>
             </div>
-				</section>
+        </section>
 
     </section>
 
