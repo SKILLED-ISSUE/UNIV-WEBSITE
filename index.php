@@ -44,7 +44,7 @@
         <div id="quote">
           <h id="header1" class="fade-in">Director's</h>
           <h id="header2" class="fade-in">Message</h>
-          <h id="message" class="fade-in">Greetings!
+          <h id="message" class="fade-in">Greetings!!
             <br><br>
             It is my great pleasure that Polytechnic University of the Philippines – San Juan City Campus (PUPSJ) is now getting into another phase of its endeavour in achieving its goal of being accredited by a prestigious accrediting body like the Accrediting Agency of Chartered Colleges and Universities in the Philippines, Inc. (AACCUP).
             <br><br>
