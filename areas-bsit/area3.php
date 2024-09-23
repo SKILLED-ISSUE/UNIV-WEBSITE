@@ -212,7 +212,7 @@
                             </li>
                             <li><Strong>I.6.1.</Strong> symposia, seminars, workshops, professional lectures;</li>
                                 <li><Strong>I.6.2.</Strong> Ceducational tours/learning visits/other co-curricular activities;</li>
-                                <li><Strong>I.6.3.</Strong> peer teaching/cooperative learning; and</li>
+                                <li class="imp"><a href="https://drive.google.com/file/d/11_FvMUQi-EDNtnBuomrpMvo7f74ZlKtz/view?usp=sharing" target="_blank"><Strong>I.6.3.</Strong> peer teaching/cooperative learning; and</a></li>
                                 <li class="imp"><a href="https://drive.google.com/file/d/1go8cEliCx-OPZbQXXeRA9c_AQxiJKOp6/view?usp=drive_link" target="_blank"><Strong>I.6.4.</Strong> computer-assisted instruction (CAI) and computer-assisted learning (CAL).</a></li>
                                 </ul>
                             <li class="imp"><a href="https://drive.google.com/file/d/1tZLyVZ8i_z7UHJ2cGAetF2qCKj3SlCS1/view?usp=drive_link" target="_blank"><Strong>I.7.</Strong> At least three (3) of the following course requirements are used: </a></li>
