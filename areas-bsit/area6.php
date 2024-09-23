@@ -46,14 +46,14 @@
         </div>
 
         <div class="img-thmb" class="fade-in">
-            <a href="https://drive.google.com/file/d/1nSKS8Lvp12sFxnPS5CrkK9xUuYgy6FMI/view?usp=sharing" target="_blank">
+            <a href="https://drive.google.com/file/d/1_6wF8XgW6np3bSj1b_mE2Ko9IG3RWq9P/view?usp=sharing" target="_blank">
                 <img src="PPPA1.png" alt="program performance profile">
                 <div class="overlay">
                     <div class="text">Click here</div>
                 </div>
             </a>
 
-            <a href="#" target="_blank" class="fade-in">
+            <a href="https://drive.google.com/file/d/1dEx62FAbzuytfEUIdVpReUxZMQMFXbjQ/view?usp=drive_link" target="_blank" class="fade-in">
                 <img src="SSA1.png" alt="self survey">
                 <div class="overlay">
                     <div class="text">Click here</div>
