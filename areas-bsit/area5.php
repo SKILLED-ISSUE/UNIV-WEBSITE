@@ -48,7 +48,7 @@
                 </div>
             </a>
 
-            <a href="#" target="_blank" class="fade-in">
+            <a href="https://drive.google.com/file/d/1DZBNRATaNU97Y7_yoCCFybeIJaE0BjnK/view?usp=sharing" target="_blank" class="fade-in">
                 <img src="SSA1.png" alt="self survey">
                 <div class="overlay">
                     <div class="text">Click here</div>
@@ -294,7 +294,7 @@
                                 </ul>
                             </li> 
                             <li class="sip">
-                                
+                            <a href="https://drive.google.com/file/d/1KZU-0oHbnwd93HYavxZmUJiKeHKNKZYM/view?usp=sharing" target="_blank">
                                 I.9. Packaged technologies and new information are disseminated to the target clientele through appropriate delivery systems.</a>
                             </li> 
                             <li class="sip">
