@@ -127,7 +127,7 @@
                                 </ul>
                             </li> 
                             <li class="sip">
-                                <a href="#" target="_blank">
+                                <a href="https://drive.google.com/file/d/11kcHMPhOPpW_0FKzw-xi_jNN_5olP8Kc/view?usp=sharing" target="_blank">
                                 I.3. Action researches to test theory in practice are conducted by faculty and students.</a>
                             </li> 
                             <li class="sip">
