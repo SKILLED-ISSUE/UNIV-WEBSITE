@@ -965,47 +965,42 @@
           <!--<img src="../assets/close.png" />-->
           󰌑
         </button>
-        <div class="title-dialog">Syllabus</div>
+        <div class="title-dialog">University Thesis and Disertation</div>
       </section>
       <section class="collapsible-container">
         <button class="collapsible">
-          <div class="title">BSHM</div>
+          <div class="title">Social Sciences and Development Review</div>
         </button>
         <div class="content">
           <ul>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                Kitchen Essentials and Basic Food Preparations (Lab)
+              <a href="https://drive.google.com/file/d/1PyTke-xmtHD5C6raNNPXJKVfFC4HUIY3/view?usp=drive_link" target="_blank">
+                SSDR 2021
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/17cyju06O1WOT7UNKIwsw2tqw-t2NK3Tb/view?usp=drive_link" target="_blank">
-                Kitchen Essentials and Basic Food Preparations (Lecture)
+              <a href="https://drive.google.com/file/d/1sn7WFrQIxR6y2nH1RXHjITBtxN3YJKsb/view?usp=drive_link" target="_blank">
+                SSDR 2020
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1h7kyFkbb9_d0IwWzgK_wOez6IeboPm7H/view?usp=drive_link" target="_blank">
-                Fundamentals in Food Service Operations
+              <a href="https://drive.google.com/file/d/1JkWBK1H6TytNwHwKCsOY5g5POw954gHl/view?usp=drive_link" target="_blank">
+                SSDR 2019
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1O_iuntPQgCTyywgkZMsjGdJcdN_ssuJo/view?usp=drive_link" target="_blank">
-                Fundamental in Lodging Operations
+              <a href="https://drive.google.com/file/d/1SAhJ0JpR4XXHhjvMp7L_evZaftc0QKP9/view?usp=drive_link" target="_blank">
+                PUP Journal SSDR 2021
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1amvb1_o5WHCcuyWdLmZECsqeS2ZssZgA/view?usp=drive_link" target="_blank">
-                Revenue Management
+              <a href="https://drive.google.com/file/d/1G0ZRg5xoVDJjrkZt2Of-9zw1tRV1u1cO/view?usp=drive_link" target="_blank">
+                PUP Journal SSDR 2020
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1Ek3izu-x6W078U7nuuPKyB0oOXtsssE2/view?usp=drive_link" target="_blank">
-                Recreation and Leisure Management
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1RXWnqovTPdIdBW2-cOA7AYIwJU_lcd31/view?usp=drive_link" target="_blank">
-                Risk Management as Applied to Safety, Security and Sanitation
+              <a href="https://drive.google.com/file/d/10pUJ7VBUG3HzRCnorXaqgqfGMHAFRkbk/view?usp=drive_link" target="_blank">
+                PUP Journal SSDR 2019
               </a>
             </li>
           </ul>
@@ -1013,7 +1008,7 @@
       </section>
       <section class="collapsible-container">
         <button class="collapsible">
-          <div class="title">BSIT</div>
+          <div class="title">Mabini Review</div>
         </button>
         <div class="content">
           <ul>
@@ -1033,36 +1028,6 @@
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1GyB2pFIurbYor7uF2sSDtXq9O53F6UTh/view?usp=drive_link" target="_blank">
-                Data Communications and Networking
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/17rorssAXEmillWqMm_BKvxyCpqo8Joo1/view?usp=drive_link" target="_blank">
-                OOP
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1EYxdPz-0-WqbkhiJ7Ixn7mwIdjlU6SaR/view?usp=drive_link" target="_blank">
-                Programming 1
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1qHEHB9DltGxoA6B1cvy0aUMQaAq3No5c/view?usp=drive_link" target="_blank">
-                Programming 2
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1r4JPb3eYPgOBjTXf7oT0rjsl1HkMjkZ7/view?usp=drive_link" target="_blank">
-                Programming 3
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1SJANauEQtclCzDUnJIXaLjZn7owYlHpd/view?usp=drive_link" target="_blank">
-                Practicum
-              </a>
-            </li>
-            <li class="sip">
               <a href="https://drive.google.com/file/d/1hlqWRrjOcmeiqG53e6JkSI2KBGv-UuMi/view?usp=drive_link" target="_blank">
                 Integrative Programming
               </a>
@@ -1072,7 +1037,7 @@
       </section>
       <section class="collapsible-container">
         <button class="collapsible">
-          <div class="title">General Education</div>
+          <div class="title">Journal of Science and Technology</div>
         </button>
         <div class="content">
           <ul>
@@ -1081,14 +1046,46 @@
                 Filipinolohiya
               </a>
             </li>
+          </ul>
+        </div>
+      </section>
+      <section class="collapsible-container">
+        <button class="collapsible">
+          <div class="title">Entrada</div>
+        </button>
+        <div class="content">
+          <ul>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1lfuHhJnmIzyLrNYUdVxf9cKtGHkSakBR/view?usp=drive_link" target="_blank">
-                Panitikang Filipino
+              <a href="https://drive.google.com/file/d/1BWyIht2dhX9GfLyzUYu5OarQBge-Woqz/view?usp=drive_link" target="_blank">
+                Filipinolohiya
               </a>
             </li>
+          </ul>
+        </div>
+      </section>
+      <section class="collapsible-container">
+        <button class="collapsible">
+          <div class="title">Education Review</div>
+        </button>
+        <div class="content">
+          <ul>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/14IzUjR_kV1EIPtb5lksFeKhwKu1og1QA/view?usp=drive_link" target="_blank">
-                Buhay at Mga Gawa ni Rizal
+              <a href="https://drive.google.com/file/d/1BWyIht2dhX9GfLyzUYu5OarQBge-Woqz/view?usp=drive_link" target="_blank">
+                Filipinolohiya
+              </a>
+            </li>
+          </ul>
+        </div>
+      </section>
+      <section class="collapsible-container">
+        <button class="collapsible">
+          <div class="title">Bisig</div>
+        </button>
+        <div class="content">
+          <ul>
+            <li class="sip">
+              <a href="https://drive.google.com/file/d/1BWyIht2dhX9GfLyzUYu5OarQBge-Woqz/view?usp=drive_link" target="_blank">
+                Filipinolohiya
               </a>
             </li>
           </ul>

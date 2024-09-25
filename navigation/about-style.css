@@ -166,7 +166,7 @@
     /* Ensure it's on top of other elements */ }
     .exhibits-dialog-overlay .exhibits-dialog-box .header-dialog {
       padding-left: 3em;
-      gap: 1rem;
+      gap: 0.25rem;
       /* align-items: left; */ }
       .exhibits-dialog-overlay .exhibits-dialog-box .header-dialog .close-btn {
         font-family: "Symbols Nerd Font Regular";
