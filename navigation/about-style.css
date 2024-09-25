@@ -1,92 +1,73 @@
-@charset "UTF-8";
 .ref-n-contents {
   gap: 3em;
-  justify-content: center;
-}
-.ref-n-contents div:nth-child(1) {
-  flex-direction: column;
-  gap: 1em;
-}
-.ref-n-contents div:nth-child(1) a {
-  text-decoration: none;
-  background-color: #7f1414;
-  color: white;
-  line-height: 3em;
-  padding: 0.5em 1em;
-  border-radius: 0.5em;
-  height: 3em;
-  transition: background 0.3s ease-in;
-  text-align: center;
-}
-.ref-n-contents div:nth-child(1) a:hover {
-  background-color: rgba(127, 20, 20, 0.7764705882);
-}
-.ref-n-contents .desc-container {
-  flex-direction: column;
-  width: 50%;
-}
-.ref-n-contents .desc-container #desc {
-  width: 100%;
-  text-align: justify;
-  padding: 1.5em;
-}
+  justify-content: center; }
+  .ref-n-contents div:nth-child(1) {
+    flex-direction: column;
+    gap: 1em; }
+    .ref-n-contents div:nth-child(1) a {
+      text-decoration: none;
+      background-color: #7f1414;
+      color: white;
+      line-height: 3em;
+      padding: 0.5em 1em;
+      border-radius: 0.5em;
+      height: 3em;
+      transition: background 0.3s ease-in;
+      text-align: center; }
+    .ref-n-contents div:nth-child(1) a:hover {
+      background-color: #7f1414c6; }
+  .ref-n-contents .desc-container {
+    flex-direction: column;
+    width: 50%; }
+    .ref-n-contents .desc-container #desc {
+      width: 100%;
+      text-align: justify;
+      padding: 1.5em; }
 
 .overview {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 1em;
-}
-.overview p {
-  margin: 0;
-  width: 70%;
-}
-.overview p:nth-child(1) {
-  font-weight: bold;
-  color: #7f1414;
-  font-size: 1.5rem;
-}
+  gap: 1em; }
+  .overview p {
+    margin: 0;
+    width: 70%; }
+  .overview p:nth-child(1) {
+    font-weight: bold;
+    color: #7f1414;
+    font-size: 1.5rem; }
 
 .profile-container {
   flex-direction: column;
   align-items: center;
-  margin: 1em;
-}
-.profile-container .heads img {
-  height: 20em;
-}
-.profile-container .pointers {
-  align-items: center;
-  flex-direction: column;
-}
-.profile-container .pointers #overview-image {
-  max-width: 40%;
-  border-radius: 0.5em !important;
-  border: 1px solid #ddd !important;
-  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
-}
-.profile-container .pointers #area-image {
-  border-radius: 0.5em !important;
-  max-width: 75%;
-}
-.profile-container .overview-programs {
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-}
-.profile-container .overview-programs #their-name {
-  font-family: "Product Sans Bold", sans-serif;
-  font-size: 1.25rem;
-  color: #7f1414;
-  margin-top: 0.5em;
-}
-.profile-container .overview-programs #their-area {
-  font-size: 1rem;
-}
+  margin: 1em; }
+  .profile-container .heads img {
+    height: 20em; }
+  .profile-container .pointers {
+    align-items: center;
+    flex-direction: column; }
+    .profile-container .pointers #overview-image {
+      max-width: 40%;
+      border-radius: 0.5em !important;
+      border: 1px solid #ddd !important;
+      box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important; }
+    .profile-container .pointers #area-image {
+      border-radius: 0.5em !important;
+      max-width: 75%; }
+  .profile-container .overview-programs {
+    flex-direction: column;
+    align-items: center;
+    text-align: center; }
+    .profile-container .overview-programs #their-name {
+      font-family: "Product Sans Bold", sans-serif;
+      font-size: 1.25rem;
+      color: #7f1414;
+      margin-top: 0.5em; }
+    .profile-container .overview-programs #their-area {
+      font-size: 1rem; }
 
 .areas {
-  margin: 1em;
-}
+  margin: 1em; }
 
 .exhibits-card {
   display: grid;
@@ -100,40 +81,34 @@
   margin: 0 auto;
   position: relative;
   transition: background-color 0.3s ease-in;
-  background-color: rgba(255, 255, 255, 0.9);
-}
-.exhibits-card .exhibits-card::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(to right, rgb(255, 0, 0), rgba(255, 255, 255, 0.1), rgb(255, 0, 0));
-  opacity: 0;
-  transition: opacity 0.3s ease-in;
-  z-index: -1;
-}
+  background-color: rgba(255, 255, 255, 0.9); }
+  .exhibits-card .exhibits-card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right, red, rgba(255, 255, 255, 0.1), red);
+    opacity: 0;
+    transition: opacity 0.3s ease-in;
+    z-index: -1; }
 
 .ul-exhibits {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  padding-inline-start: 0px;
-}
-.ul-exhibits .link-exhibits {
-  max-width: 75%;
-}
-.ul-exhibits .link-exhibits #area-image {
-  height: 275px !important;
-  width: 275px !important;
-  transition: transform 0.2s ease-in, filter 0.2s ease-in;
-}
-.ul-exhibits .link-exhibits #area-image:hover {
-  transform: scale(1.05);
-  filter: opacity(75%);
-}
+  padding-inline-start: 0px; }
+  .ul-exhibits .link-exhibits {
+    max-width: 75%; }
+    .ul-exhibits .link-exhibits #area-image {
+      height: 275px !important;
+      width: 275px !important;
+      transition: transform 0.2s ease-in, filter 0.2s ease-in; }
+      .ul-exhibits .link-exhibits #area-image:hover {
+        transform: scale(1.05);
+        filter: opacity(75%); }
 
 #see-button {
   font-family: "Karla";
@@ -143,12 +118,25 @@
   border: none;
   background: none;
   color: white;
-  font-weight: 500;
-}
+  font-weight: 500; }
 
 #syllabi-dialog {
-  visibility: hidden;
-}
+  visibility: hidden; }
+
+#IM-dialog {
+  visibility: hidden; }
+
+#references-dialog {
+  visibility: hidden; }
+
+#policies-dialog {
+  visibility: hidden; }
+
+#development-dialog {
+  visibility: hidden; }
+
+#disertation-dialog {
+  visibility: hidden; }
 
 .exhibits-dialog-overlay {
   /* display: absolute; */
@@ -162,102 +150,87 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  z-index: 9999;
-}
-.exhibits-dialog-overlay .exhibits-dialog-box {
-  background-color: white;
-  padding: 15px;
-  padding-bottom: 30px;
-  gap: 1em;
-  width: 500px;
-  border-radius: 10px;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-  /* align-items: center !important; */
-  flex-direction: column;
-  overflow-y: auto;
-  /* Ensure it's on top of other elements */
-}
-.exhibits-dialog-overlay .exhibits-dialog-box .header-dialog {
-  padding-left: 3em;
-  gap: 1rem;
-  /* align-items: left; */
-}
-.exhibits-dialog-overlay .exhibits-dialog-box .header-dialog .close-btn {
-  font-family: "Symbols Nerd Font Regular";
-  max-width: 50px;
-  background-color: white;
-  border: none;
-  font-size: 1.5rem;
-}
-.exhibits-dialog-overlay .exhibits-dialog-box .header-dialog .title-dialog {
-  font-family: "Product Sans Bold", sans-serif;
-  font-size: 1.5rem;
-  color: #7f1414;
-}
-.exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container {
-  flex-direction: column;
-  gap: 1em;
-  align-items: center;
-  width: 100%;
-}
-.exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .collapsible {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 1em;
-  border-radius: 0.5em;
-  background-color: #7f1414;
-  color: white;
-  cursor: pointer;
-  padding: 18px;
-  width: 80%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-  transition: background-color 0.5s ease;
-}
-.exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .collapsible #title {
-  font-weight: 600;
-  font-size: 1rem;
-}
-.exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .active,
-.exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .collapsible:hover {
-  background-color: rgba(127, 20, 20, 0.7725490196);
-}
-.exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .collapsible:after {
-  content: "+";
-  color: white;
-  font-weight: bold;
-  float: right;
-  margin-left: 5px;
-}
-.exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .active:after {
-  content: "−";
-}
-.exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .content {
-  font-family: "Product Sans Regular";
-  margin-top: -1em;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-  width: 80%;
-}
-.exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .content ul {
-  display: flex;
-  flex-direction: column;
-}
-.exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .content .list-header {
-  list-style-type: none;
-}
-.exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .content li {
-  margin-top: 0.4em;
-  list-style-type: circle;
-  /* margin-left: -1em; */
-}
-.exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .content a {
-  color: #7f1414;
-}
+  z-index: 9999; }
+  .exhibits-dialog-overlay .exhibits-dialog-box {
+    background-color: white;
+    padding: 15px;
+    padding-bottom: 30px;
+    gap: 1em;
+    width: 500px;
+    max-height: 350px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    /* align-items: center !important; */
+    flex-direction: column;
+    overflow-y: scroll;
+    /* Ensure it's on top of other elements */ }
+    .exhibits-dialog-overlay .exhibits-dialog-box .header-dialog {
+      padding-left: 3em;
+      gap: 1rem;
+      /* align-items: left; */ }
+      .exhibits-dialog-overlay .exhibits-dialog-box .header-dialog .close-btn {
+        font-family: "Symbols Nerd Font Regular";
+        max-width: 50px;
+        background-color: #ffffffff;
+        border: none;
+        font-size: 1.5rem; }
+      .exhibits-dialog-overlay .exhibits-dialog-box .header-dialog .title-dialog {
+        font-family: "Product Sans Bold", sans-serif;
+        font-size: 1.5rem;
+        color: #7f1414; }
+    .exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container {
+      flex-direction: column;
+      gap: 1em;
+      align-items: center;
+      width: 100%; }
+      .exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .collapsible {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 1em;
+        border-radius: 0.5em;
+        background-color: #7f1414;
+        color: white;
+        cursor: pointer;
+        padding: 18px;
+        width: 80%;
+        border: none;
+        text-align: left;
+        outline: none;
+        font-size: 15px;
+        transition: background-color 0.5s ease; }
+        .exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .collapsible #title {
+          font-weight: 600;
+          font-size: 1rem; }
+      .exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .active,
+      .exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .collapsible:hover {
+        background-color: #7f1414c5; }
+      .exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .collapsible:after {
+        content: "\002B";
+        color: white;
+        font-weight: bold;
+        float: right;
+        margin-left: 5px; }
+      .exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .active:after {
+        content: "\2212"; }
+      .exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .content {
+        font-family: "Product Sans Regular";
+        margin-top: -1em;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.2s ease-out;
+        width: 80%; }
+        .exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .content ul {
+          display: flex;
+          flex-direction: column; }
+        .exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .content .list-header {
+          list-style-type: none; }
+        .exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .content li {
+          margin-top: 0.4em;
+          list-style-type: circle;
+          /* margin-left: -1em; */ }
+        .exhibits-dialog-overlay .exhibits-dialog-box .collapsible-container .content a {
+          color: #7f1414; }
 
 .mess-overlay {
   font-family: "Karla";
@@ -270,10 +243,15 @@
   padding: 3em 5em;
   border-radius: 1em;
   font-size: 1vw;
-  gap: 1em;
-}
-.mess-overlay strong {
-  font-size: 2vw;
-}
+  gap: 1em; }
+  .mess-overlay strong {
+    font-size: 2vw; }
+
+::-webkit-scrollbar {
+  width: 7px; }
+
+::-webkit-scrollbar-thumb {
+  background-color: #7f1414;
+  border-radius: 10px; }
 
 /*# sourceMappingURL=about-style.css.map */

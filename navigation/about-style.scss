@@ -173,6 +173,21 @@
 #syllabi-dialog {
   visibility: hidden;
 }
+#IM-dialog {
+  visibility: hidden;
+}
+#references-dialog {
+  visibility: hidden;
+}
+#policies-dialog {
+  visibility: hidden;
+}
+#development-dialog {
+  visibility: hidden;
+}
+#disertation-dialog {
+  visibility: hidden;
+}
 
 .exhibits-dialog-overlay {
   /* display: absolute; */
@@ -194,11 +209,12 @@
     padding-bottom: 30px;
     gap: 1em;
     width: 500px;
+    max-height: 350px;
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
     /* align-items: center !important; */
     flex-direction: column;
-    overflow-y: auto;
+    overflow-y: scroll;
 
     .header-dialog {
       padding-left: 3em;
@@ -313,4 +329,12 @@
   strong {
     font-size: 2vw;
   }
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #7f1414;
+  border-radius: 10px;
 }

@@ -78,6 +78,36 @@ function openSyllabiDialog() {
 function closeSyllabiDialog() {
   document.getElementById("syllabi-dialog").style.visibility = "hidden";
 }
+function openIMDialog() {
+  document.getElementById("IM-dialog").style.visibility = "visible";
+}
+function closeIMDialog() {
+  document.getElementById("IM-dialog").style.visibility = "hidden";
+}
+function openReferencesDialog() {
+  document.getElementById("references-dialog").style.visibility = "visible";
+}
+function closeReferencesDialog() {
+  document.getElementById("references-dialog").style.visibility = "hidden";
+}
+function openPoliciesDialog() {
+  document.getElementById("policies-dialog").style.visibility = "visible";
+}
+function closePoliciesDialog() {
+  document.getElementById("policies-dialog").style.visibility = "hidden";
+}
+function openDevelopmentDialog() {
+  document.getElementById("development-dialog").style.visibility = "visible";
+}
+function closeDevelopmentDialog() {
+  document.getElementById("development-dialog").style.visibility = "hidden";
+}
+function openDisertationDialog() {
+  document.getElementById("disertation-dialog").style.visibility = "visible";
+}
+function closeDisertationDialog() {
+  document.getElementById("disertation-dialog").style.visibility = "hidden";
+}
 
 // CAROUSEL TEST
 
