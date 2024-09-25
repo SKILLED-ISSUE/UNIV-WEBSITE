@@ -208,7 +208,7 @@
                                     target="_blank">BSHM SEMESTRAL PLAN OF COURSES</a>
                             </li>
                             <li class="sip">
-                                <a href="https://docs.google.com/document/d/1XtKnOmyp99J3yPhiQIbLRsZGA8IWboEC/edit?usp=sharing&ouid=108207515687335018379&rtpof=true&sd=true"
+                                <a href="https://docs.google.com/document/d/1NupmrpKGUbQSVnXgI8922mxQzMTAFhzV/edit?usp=sharing&ouid=108207515687335018379&rtpof=true&sd=truee"
                                     target="_blank">BSHM NOTABLE ALUMNI</a>
                             </li>
                         </ul>
