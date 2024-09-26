@@ -315,7 +315,7 @@ footer {
     background-color: white;
     /* Set your background color */ }
   .program .border:before {
-    content: '';
+    content: "";
     position: absolute;
     top: -2px;
     left: -2px;
@@ -601,5 +601,11 @@ body.no-scroll {
     width: 100vw;
     height: 100vh;
     overflow-x: hidden; } }
+::-webkit-scrollbar {
+  width: 7px; }
+
+::-webkit-scrollbar-thumb {
+  background-color: #7f1414;
+  border-radius: 10px; }
 
 /*# sourceMappingURL=main-style.css.map */

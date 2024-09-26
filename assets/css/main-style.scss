@@ -431,7 +431,7 @@ footer {
   }
 
   .border:before {
-    content: '';
+    content: "";
     position: absolute;
     top: -2px;
     left: -2px;
@@ -456,7 +456,6 @@ footer {
         margin: 0;
 
         text-align: center;
-
       }
     }
 
@@ -834,11 +833,19 @@ body.no-scroll {
 }
 
 @media only screen and (max-width: 768px) {
-
   html,
   body {
     width: 100vw;
     height: 100vh;
     overflow-x: hidden;
   }
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #7f1414;
+  border-radius: 10px;
 }

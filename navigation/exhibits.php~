@@ -30,17 +30,17 @@
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="https://drive.google.com/file/d/1AJ3CH_scPuT0tuXeveiVgRCPc0gdUv9g/view" target="_blank" class="link-exhibits">
+        <a href="https://drive.google.com/file/d/1AJ3CH_scPuT0tuXeveiVgRCPc0gdUv9g/view" target="_blank"  class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/pupsj-4-year-plan.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="https://drive.google.com/file/d/0B1BuDAuN0r8SbmFEU1RJUDFYU1E/view?resourcekey=0-ntyYkBAnyIFKdRJWhiKEcw" target="_blank" class="link-exhibits">
+        <a href="https://drive.google.com/file/d/0B1BuDAuN0r8SbmFEU1RJUDFYU1E/view?resourcekey=0-ntyYkBAnyIFKdRJWhiKEcw" target="_blank"  class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/citizens-charter.png" />
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="https://drive.google.com/file/d/0B1BuDAuN0r8SX1BWX2NSN3FURzg/view?resourcekey=0-oi8lUy9PCFysh0FDyL5ipw" target="_blank" class="link-exhibits">
+        <a href="https://drive.google.com/file/d/0B1BuDAuN0r8SX1BWX2NSN3FURzg/view?resourcekey=0-oi8lUy9PCFysh0FDyL5ipw" target="_blank"  class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/student-handbook.png" />
         </a>
       </ul>
@@ -50,7 +50,7 @@
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="https://drive.google.com/file/d/15PagJY66WllFerrmPlFWVRnRgcFkAVdL/view?usp=drive_link" target="_blank" class="link-exhibits">
+        <a href="https://drive.google.com/file/d/15PagJY66WllFerrmPlFWVRnRgcFkAVdL/view?usp=drive_link" target="_blank"  class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/bshm-cmo.png" />
         </a>
       </ul>
@@ -85,7 +85,7 @@
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a href="https://www.dost.gov.ph/knowledge-resources/downloads/file/5669-harmonized-national-r-d-agenda-2022-2028.html" target="_blank" class="link-exhibits">
+        <a href="https://www.dost.gov.ph/knowledge-resources/downloads/file/5669-harmonized-national-r-d-agenda-2022-2028.html"  target="_blank" class="link-exhibits">
           <img id="area-image" class="fade-in" src="../assets/Exhibits/harmonized-natl-research-adn-devt-agenda.png" />
         </a>
       </ul>
@@ -95,7 +95,7 @@
         </a>
       </ul>
       <ul class="ul-exhibits">
-        <a class="link-exhibits" onclick="openReferencesDialog()">
+        <a class="link-exhibits" onclick="openReferencesDialog()"> 
           <img id="area-image" class="fade-in" src="../assets/Exhibits/university-research-national-references.png" />
         </a>
       </ul>
@@ -122,7 +122,7 @@
     </div>
   </section>
 
-  <section id="syllabi-dialog" class="exhibits-dialog-overlay">
+  <section id = "syllabi-dialog" class="exhibits-dialog-overlay">
     <section class="exhibits-dialog-box">
       <section class="header-dialog">
         <button class="close-btn" onclick="closeSyllabiDialog()">
@@ -261,14 +261,14 @@
     </section>
   </section>
 
-  <section id="IM-dialog" class="exhibits-dialog-overlay">
+  <section id = "IM-dialog" class="exhibits-dialog-overlay">
     <section class="exhibits-dialog-box">
       <section class="header-dialog">
         <button class="close-btn" onclick="closeIMDialog()">
           <!--<img src="../assets/close.png" />-->
           󰌑
         </button>
-        <div class="title-dialog">Instructional Materials</div>
+        <div class="title-dialog">Syllabus</div>
       </section>
       <section class="collapsible-container">
         <button class="collapsible">
@@ -277,94 +277,39 @@
         <div class="content">
           <ul>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1PZRDrCaOsMLNWUbGHRw4OMbJlo_svpf6/view?usp=drive_link" target="_blank">
-                Bar and Beverage Management
+              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+                Kitchen Essentials and Basic Food Preparations (Lab)
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/118rdZaUXtsm7MkNWTqSqjERo4u-bd814/view?usp=drive_link" target="_blank">
-                Bread and Pastry
+              <a href="https://drive.google.com/file/d/17cyju06O1WOT7UNKIwsw2tqw-t2NK3Tb/view?usp=drive_link" target="_blank">
+                Kitchen Essentials and Basic Food Preparations (Lecture)
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1U7RgUoJ8WTe2xtUJJU0CAjJfWuAzK_aw/view?usp=drive_link" target="_blank">
-                Ergonomics
+              <a href="https://drive.google.com/file/d/1h7kyFkbb9_d0IwWzgK_wOez6IeboPm7H/view?usp=drive_link" target="_blank">
+                Fundamentals in Food Service Operations
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1nZACOWSKde6R-MJ9tHt3PtZK7iE_ma4F/view?usp=drive_link" target="_blank">
-                Fundamentals in Lodging Operations
+              <a href="https://drive.google.com/file/d/1O_iuntPQgCTyywgkZMsjGdJcdN_ssuJo/view?usp=drive_link" target="_blank">
+                Fundamental in Lodging Operations
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1e3ZS7nzC0CenJ_3fFop-0JPtoSkyhcdm/view?usp=drive_link" target="_blank">
-                Applied Business Tools and Technologies
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1CycyPWiAV39jvk_ETPfYsVg9hXYTB0i5/view?usp=drive_link" target="_blank">
-                Introduction to MICE
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/15O5J2zHT62cPCHhmu9WXE_9Mj9N42TTs/view?usp=drive_link" target="_blank">
-                Tourism and Hospitality Marketing
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1XhIykO78Z259d-bVPJKb7tesZOJV7nfF/view?usp=drive_link" target="_blank">
-                Crowd and Crisis Management
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1ZaaH3Y7pFGSUvoskfvk1GX-rFNHfqBmR/view?usp=drive_link" target="_blank">
-                Rooms Division
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1cVmD14Tsp2PaEVP6G3PO7UwTNq0do5mW/view?usp=drive_link" target="_blank">
-                Kitchen Essentials
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1C1P1wa79D4MZ3TJYPznkSekdS3OmyZXr/view?usp=drive_link" target="_blank">
-                FOLA 2
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1ZOoEXU9RuG_ObzIj7gaQ4k6WErn0kDAG/view?usp=drive_link" target="_blank">
-                Applied Business Tools and Technologies
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1sTbkvAOzhGTnucLjD7J6kH3SpXFrv-3K/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1amvb1_o5WHCcuyWdLmZECsqeS2ZssZgA/view?usp=drive_link" target="_blank">
                 Revenue Management
               </a>
             </li>
-            <li class="list-header">
-              <strong>SCM</strong>
-              <ul>
-                <li class="sip">
-                  <a href="https://drive.google.com/file/d/1HalHb1CmcV48sLrQXopJTIbT9e5IVa3C/view?usp=drive_link" target="_blank">
-                    Topic 3 TSC Coordination
-                  </a>
-                </li>
-                <li class="sip">
-                  <a href="https://drive.google.com/file/d/1s0ssLDS1qOqyeM7wBf8YKKDusJtiYTy3/view?usp=drive_link" target="_blank">
-                    Topic 5 TSC Competition
-                  </a>
-                </li>
-                <li class="sip">
-                  <a href="https://drive.google.com/file/d/1vbFUhe3KaILSgOpNSrF_ckf9JKa13Sh8/view?usp=drive_link" target="_blank">
-                    Topic 6 Chain Vs Chain Competition
-                  </a>
-                </li>
-                <li class="sip">
-                  <a href="https://drive.google.com/file/d/1GW1XE6ldshcESR28_6p9oY1InMiAruNn/view?usp=drive_link" target="_blank">
-                    Topic 7 Tourism Distriution Channel
-                  </a>
-                </li>
-              </ul>
+            <li class="sip">
+              <a href="https://drive.google.com/file/d/1Ek3izu-x6W078U7nuuPKyB0oOXtsssE2/view?usp=drive_link" target="_blank">
+                Recreation and Leisure Management
+              </a>
+            </li>
+            <li class="sip">
+              <a href="https://drive.google.com/file/d/1RXWnqovTPdIdBW2-cOA7AYIwJU_lcd31/view?usp=drive_link" target="_blank">
+                Risk Management as Applied to Safety, Security and Sanitation
+              </a>
             </li>
           </ul>
         </div>
@@ -376,129 +321,78 @@
         <div class="content">
           <ul>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1b6tm5JgkyKt-3SBEi47WWUzG6WtBTIPe/view?usp=drive_link" target="_blank">
-                Basic Networking
+              <a href="https://drive.google.com/file/d/1cSHvj12VzEsR613Nnby7zX4aFAJ3JG87/view?usp=drive_link" target="_blank">
+                Multimedia
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1EE-Rr7l9k9TgDNdsQqCRar17d6T8Bsfd/view?usp=drive_link" target="_blank">
-                Business Intelligence
+              <a href="https://drive.google.com/file/d/1SQdvy2gRb_w7WIU1zshTqsYu5JZMaPrc/view?usp=drive_link" target="_blank">
+                Intro to Computing
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1ZnjdPPnrl7mBtnUpqJwtaRtZn9nZ3NtH/view?usp=drive_link" target="_blank">
-                CyberSecurity Fundamentals
+              <a href="https://drive.google.com/file/d/1sMXO-q76rvIXtmrEaAAo7uaMYkUdsJjT/view?usp=drive_link" target="_blank">
+                Discrete Structures
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1GvHlVKiuJD9FZIdsdl941GSIYTXmFBFo/view?usp=drive_link" target="_blank">
-                Modeling and Simulation
+              <a href="https://drive.google.com/file/d/1GyB2pFIurbYor7uF2sSDtXq9O53F6UTh/view?usp=drive_link" target="_blank">
+                Data Communications and Networking
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/10d4gIATER8QsHJycyU28rUktYRmLnnA0/view?usp=drive_link" target="_blank">
-                COMP-009-OOP
+              <a href="https://drive.google.com/file/d/17rorssAXEmillWqMm_BKvxyCpqo8Joo1/view?usp=drive_link" target="_blank">
+                OOP
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1x9kmKOH1dr47jgQ_9Sq4ahdQzrzlf2XU/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1EYxdPz-0-WqbkhiJ7Ixn7mwIdjlU6SaR/view?usp=drive_link" target="_blank">
+                Programming 1
+              </a>
+            </li>
+            <li class="sip">
+              <a href="https://drive.google.com/file/d/1qHEHB9DltGxoA6B1cvy0aUMQaAq3No5c/view?usp=drive_link" target="_blank">
                 Programming 2
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1Pcd-P9DFRaqacN8ESCgwudMhg9bRuRWq/view?usp=drive_link" target="_blank">
-                Operating Systems
+              <a href="https://drive.google.com/file/d/1r4JPb3eYPgOBjTXf7oT0rjsl1HkMjkZ7/view?usp=drive_link" target="_blank">
+                Programming 3
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1kVrYY9tf0vZFkZMaOZkgEilZlULBFekx/view?usp=drive_link" target="_blank">
-                Data Mining and Warehousing-converted
+              <a href="https://drive.google.com/file/d/1SJANauEQtclCzDUnJIXaLjZn7owYlHpd/view?usp=drive_link" target="_blank">
+                Practicum
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1qfpjB_JqCz7PD5ZFf4USuQpooJikhcnH/view?usp=drive_link" target="_blank">
-                Capstone 1
+              <a href="https://drive.google.com/file/d/1hlqWRrjOcmeiqG53e6JkSI2KBGv-UuMi/view?usp=drive_link" target="_blank">
+                Integrative Programming
+              </a>
+            </li>
+          </ul>
+        </div>
+      </section>
+      <section class="collapsible-container">
+        <button class="collapsible">
+          <div class="title">General Education</div>
+        </button>
+        <div class="content">
+          <ul>
+            <li class="sip">
+              <a href="https://drive.google.com/file/d/1BWyIht2dhX9GfLyzUYu5OarQBge-Woqz/view?usp=drive_link" target="_blank">
+                Filipinolohiya
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/17qKiyV_V0lnMBOEcKV4Vl5I-n0u7-7DU/view?usp=drive_link" target="_blank">
-                Capstone 2
+              <a href="https://drive.google.com/file/d/1lfuHhJnmIzyLrNYUdVxf9cKtGHkSakBR/view?usp=drive_link" target="_blank">
+                Panitikang Filipino
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1gQD3C_MiCgcCytBDBhrAQkKXpZZecxFr/view?usp=drive_link" target="_blank">
-                Programming 3-COBOL
+              <a href="https://drive.google.com/file/d/14IzUjR_kV1EIPtb5lksFeKhwKu1og1QA/view?usp=drive_link" target="_blank">
+                Buhay at Mga Gawa ni Rizal
               </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1f04Ml3q6Fa01CuU5pvVEj0rXB4wquBay/view?usp=drive_link" target="_blank">
-                SAD
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1m7CmEudubd4mJ6CiS40aDn3F-ax8Oo7w/view?usp=drive_link" target="_blank">
-                Integrative with data analytics
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1AYzCqXOv1SPtFVYgoHJc9hQDeoDiS-Fs/view?usp=drive_link" target="_blank">
-                Computer Programming 1
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1A81-xRhSxV6x_Ty96JkVO7OfCHZpGV9q/view?usp=drive_link" target="_blank">
-                Multimedia
-              </a>
-            </li>
-            <li class="list-header">
-              <strong>General Education</strong>
-              <ul>
-                <li class="sip">
-                  <a href="https://drive.google.com/file/d/165JTIHvLTzCYgolGlaLPot8HP03_MENs/view?usp=drive_link" target="_blank">
-                    Readings in Philippine History
-                  </a>
-                </li>
-                <li class="sip">
-                  <a href="https://drive.google.com/file/d/13bXJo_d2T31_4m2RqNlEEIqUK6NDU1a7/view?usp=drive_link" target="_blank">
-                    Art Appreciation
-                  </a>
-                </li>
-                <li class="sip">
-                  <a href="https://drive.google.com/file/d/1H9tJtRunIqKKMLfLi_fEAx5LheVxUTzY/view?usp=drive_link" target="_blank">
-                    Politics and Governance
-                  </a>
-                </li>
-                <li class="sip">
-                  <a href="https://drive.google.com/file/d/1IsCUt-S67D5iwU-MYwoBhdsnKyMPAGbn/view?usp=drive_link" target="_blank">
-                    Contemporary World
-                  </a>
-                </li>
-                <li class="sip">
-                  <a href="https://drive.google.com/file/d/13q4xwzV0-CUDC_p8xTAhyC-AxTxHLToW/view?usp=drive_link" target="_blank">
-                    Mathematics in the Modern World
-                  </a>
-                </li>
-                <li class="sip">
-                  <a href="https://drive.google.com/file/d/11MSXx3want0y1U3AKg0IoggR_9vVbICM/view?usp=drive_link" target="_blank">
-                    Ethics
-                  </a>
-                </li>
-                <li class="sip">
-                  <a href="https://drive.google.com/file/d/15yFNex3tXLCcpJinJoaHUZlJMk0CJfSa/view?usp=drive_link" target="_blank">
-                    Panitikan ng Pilipinas
-                  </a>
-                </li>
-                <li class="sip">
-                  <a href="https://drive.google.com/file/d/1HNW2YngWKRZLvJdc5Dfl5yWphD7MHJ4F/view?usp=drive_link" target="_blank">
-                    Science, Technology and Society
-                  </a>
-                </li>
-                <li class="sip">
-                  <a href="https://drive.google.com/file/d/1s3v8eMnOsD-_jMODsKf5f7co9uTMGItV/view?usp=drive_link" target="_blank">
-                    Understanding the Self
-                  </a>
-                </li>
-              </ul>
             </li>
           </ul>
         </div>
@@ -506,7 +400,7 @@
     </section>
   </section>
 
-  <section id="references-dialog" class="exhibits-dialog-overlay">
+  <section id = "references-dialog" class="exhibits-dialog-overlay">
     <section class="exhibits-dialog-box">
       <section class="header-dialog">
         <button class="close-btn" onclick="closeReferencesDialog()">
@@ -557,7 +451,7 @@
     </section>
   </section>
 
-  <section id="policies-dialog" class="exhibits-dialog-overlay">
+  <section id = "policies-dialog" class="exhibits-dialog-overlay">
     <section class="exhibits-dialog-box">
       <section class="header-dialog">
         <button class="close-btn" onclick="closePoliciesDialog()">
@@ -574,187 +468,37 @@
           <ul>
             <li class="sip">
               <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                EO 9 s2022 Revised Guidelines on ReAP for Regular Full-Time Faculty Members
+                Kitchen Essentials and Basic Food Preparations (Lab)
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                EO 15 s2023 Annex Technology Transfer & Commercialization Prcess
+              <a href="https://drive.google.com/file/d/17cyju06O1WOT7UNKIwsw2tqw-t2NK3Tb/view?usp=drive_link" target="_blank">
+                Kitchen Essentials and Basic Food Preparations (Lecture)
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                EO 15 s2023 Protocol on Technology Transfer, Intellectual Property Licensing & Commercialization
+              <a href="https://drive.google.com/file/d/1h7kyFkbb9_d0IwWzgK_wOez6IeboPm7H/view?usp=drive_link" target="_blank">
+                Fundamentals in Food Service Operations
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                EO 17 s2023 Policies and Guidelines on University Incentives for Literary Arts Publications
+              <a href="https://drive.google.com/file/d/1O_iuntPQgCTyywgkZMsjGdJcdN_ssuJo/view?usp=drive_link" target="_blank">
+                Fundamental in Lodging Operations
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                EO 18 s2023 Annex
+              <a href="https://drive.google.com/file/d/1amvb1_o5WHCcuyWdLmZECsqeS2ZssZgA/view?usp=drive_link" target="_blank">
+                Revenue Management
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                EO 18 s2023 Policy on Funding Support for Hosting International Research Activities
+              <a href="https://drive.google.com/file/d/1Ek3izu-x6W078U7nuuPKyB0oOXtsssE2/view?usp=drive_link" target="_blank">
+                Recreation and Leisure Management
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                EO 19 s2023 Annex
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                EO 19 s2023 Poicy on Funding Support to Students for Research Production, Paper Presentationm Publication, Citation and Patent
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                EO 21 s2023 Annex
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                EO 21 s2023 Revised University & Externally Funded Research Policy
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                RO 22 s2022 Reconstitution of the UREDCO
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                EO 22 s2023 Appendix A
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                EO 22 s2023 Appendix B
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                EO 22 s2023 Appendix D
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                EO 22 s2023 Standards & Guidelines on Research Mentoring, Collaboration & Authorship
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                EO 24 s2020 Implementing Guidellines on Merit Promotion
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                EO 25 s2020 Revised UPA, Publication Citation Incentives
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                EO 27 s2020 Revised Implementing Guidelines on International and National Paper Presentation Financial Assistance
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                EO 28 s2020 Implementing Guidelines on Dissertation Financial Assistance
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                EO 34 s2021 Guidelines on Institute-Funded Research Project or Program
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                EO 37 s2021 Guidelines for the Honorarium of Journal Reviewers
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                IPMO MO 1 s2023
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                MO 6 s2019 Guidelines for Faculty Fellowship
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                MO 7 s2018 University Policy Concerning Illegal Copying and Use of Unlicensed Software
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                MO 10 s2020 Revised Implementing Guidelines for Internally-Funded Researches
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                MO 11 s2020 Revised Implementing Guidelines for Externally-Funded Researches
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                MO 12 s2020 Revised Implementing Guidelines for Gawad Tuklas Outstanding Researcher Award
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                MO 13 s2020 Reveised Implementing Guidelines for Thesis and Dissertation Grant
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                MO 14 s2020 Reveised Implementing Guidelines of University Research Ethics Board Structures and Functions
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                MO 15 s2020 Reveised Implementing Guidelines on Incentives for Publication and Citation
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                MO 16 s2020 Revised Implementing Guidelines on International and National
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                MO 17 s2020 Revised Implementing Guidelines on Merit Promotion on The Basis of Research Publicaiton and Citation
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                MO 18 s2020 Revised Implementing Guidelines on the Utilization of College Branch Resaerch Fund
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                MO 20 s2019 Policy on Commercialization of Resaeerch and Development Output
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                MO 21 s2019 Revised Implementing Guidelines on Invention Disclosure Incentives
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                MO 30 s2019 Gawad Lathala International Publication Excellence Award
-              </a>
-            </li>
-            <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
-                MO 32 s2013 Policy on Copuright Registration of Undergraduate and Gradueate Works
+              <a href="https://drive.google.com/file/d/1RXWnqovTPdIdBW2-cOA7AYIwJU_lcd31/view?usp=drive_link" target="_blank">
+                Risk Management as Applied to Safety, Security and Sanitation
               </a>
             </li>
           </ul>
@@ -763,14 +507,14 @@
     </section>
   </section>
 
-  <section id="development-dialog" class="exhibits-dialog-overlay">
+  <section id = "development-dialog" class="exhibits-dialog-overlay">
     <section class="exhibits-dialog-box">
       <section class="header-dialog">
         <button class="close-btn" onclick="closeDevelopmentDialog()">
           <!--<img src="../assets/close.png" />-->
           󰌑
         </button>
-        <div class="title-dialog">University Research and Devt. Manual</div>
+          <div class="title-dialog">University Research and Devt. Manual</div>
       </section>
       <section class="collapsible-container">
         <button class="collapsible">
@@ -795,7 +539,7 @@
   </section>
 
 
-  <section id="disertation-dialog" class="exhibits-dialog-overlay">
+  <section id = "disertation-dialog" class="exhibits-dialog-overlay">
     <section class="exhibits-dialog-box">
       <section class="header-dialog">
         <button class="close-btn" onclick="closeDisertationDialog()">
@@ -978,7 +722,7 @@
             </li>
             <li class="sip">
               <a href="https://drive.google.com/file/d/1oa-WcQ9LjCQ7Piq8UmIwo65GDIKzUfju/view?usp=drive_link" target="_blank">
-                EducReview 2022
+                 EducReview 2022
               </a>
             </li>
             <li class="sip">
