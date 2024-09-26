@@ -433,6 +433,29 @@
                             </li>
                         </ul>
                     </li>
+
+                    <li class="list-header"><strong>SUPPLEMENTAL DOCUMENTS</strong>
+                        <ul>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1tunzlFqDG4a_HhCpylkZCk6MAXw4lVFL/view?usp=sharing" target="_blank">SO-Faculty Immerssion</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1fSYr2n-eGh0TjsyP1vUvQ6zwyRIv1eYw/view?usp=sharing" target="_blank">Policy on Faculty Grants</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1Jtp479nfDh63S5t-UgTfHl_E3wZESk3h/view?usp=sharing" target="_blank">Matrix of the Part Time Faculty</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1ZL6oLLSegoWgjeiSVbwecS4oCU-yqCTM/view?usp=sharing" target="_blank">Matrix of the Full Time Faculty</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/1DmlxzxGwrqk-nnAdtdLAM48rXWXtSQC6/view?usp=sharing" target="_blank">Development Plan 2024-2028</a>
+                            </li>
+                            <li class="sip">
+                                <a href="https://drive.google.com/file/d/114JzazTvMVMspYaN0YwFuw8CVH79IJFC/view?usp=sharing" target="_blank">Development Plan 2020 - 2024</a>
+                            </li>
+                        </ul>
+                    </li>
                 </ul>
             </div>
         </section>
