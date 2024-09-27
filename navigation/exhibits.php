@@ -573,187 +573,187 @@
         <div class="content">
           <ul>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1MMtPhzYzbgIDArQrw_QzPvIJxP7PxxJP/view?usp=drive_link" target="_blank">
                 EO 9 s2022 Revised Guidelines on ReAP for Regular Full-Time Faculty Members
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1od-NU-WSyUMxmJBfEQZD9u3Xx_Td2AhP/view?usp=drive_link" target="_blank">
                 EO 15 s2023 Annex Technology Transfer & Commercialization Prcess
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/13ngZhvhrFG9N9etAcJkss8KzTjEyoQbW/view?usp=drive_link" target="_blank">
                 EO 15 s2023 Protocol on Technology Transfer, Intellectual Property Licensing & Commercialization
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1EnfKcCDI_SeIUtiRlcd4wZYC5vnnS4HK/view?usp=drive_link" target="_blank">
                 EO 17 s2023 Policies and Guidelines on University Incentives for Literary Arts Publications
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1SPWZOXxfdfnZn72WOAuyQSZiNkuKdGQT/view?usp=drive_link" target="_blank">
                 EO 18 s2023 Annex
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1uHxpmrnIbH30CUwRnsplwpLw88dAEupy/view?usp=drive_link" target="_blank">
                 EO 18 s2023 Policy on Funding Support for Hosting International Research Activities
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1j6IbHeMzxEAFWUQxQhzWB5p-AzFM7c46/view?usp=drive_link" target="_blank">
                 EO 19 s2023 Annex
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1zZMWlWyL4eQjdLXg3XogM0j_LuBUv8DE/view?usp=drive_link" target="_blank">
                 EO 19 s2023 Poicy on Funding Support to Students for Research Production, Paper Presentationm Publication, Citation and Patent
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/19HLpmT61zhDSMj7S1FGgjiONvS0tFpGs/view?usp=drive_link" target="_blank">
                 EO 21 s2023 Annex
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/17usOgDiU4Poe9d1yLf7JckCQzMP2m_fn/view?usp=drive_link" target="_blank">
                 EO 21 s2023 Revised University & Externally Funded Research Policy
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/10MOM_qF_ONYyKFGuB0tJSNlwNg8jxQ8C/view?usp=drive_link" target="_blank">
                 RO 22 s2022 Reconstitution of the UREDCO
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1O05EVOuACWV4zqi5XvGcf97WKGqMsLqg/view?usp=drive_link" target="_blank">
                 EO 22 s2023 Appendix A
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1RkfgKZt895xZI8zHnxYhDzl2dea1P-Hc/view?usp=drive_link" target="_blank">
                 EO 22 s2023 Appendix B
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="" target="_blank">
                 EO 22 s2023 Appendix D
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/11AA_z57RKda-2hAaHuZv70WVM02obmx-/view?usp=drive_link" target="_blank">
                 EO 22 s2023 Standards & Guidelines on Research Mentoring, Collaboration & Authorship
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1d3jekOl1Jizu85QpZi3hUhnc8tG8NlH2/view?usp=drive_link" target="_blank">
                 EO 24 s2020 Implementing Guidellines on Merit Promotion
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1jg96BWeYrya9pBD8Poz7jez-mn7Ej8yn/view?usp=drive_link" target="_blank">
                 EO 25 s2020 Revised UPA, Publication Citation Incentives
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1Lc4vOdVH1nNX6Ol5nTG1znMMpgSeroxk/view?usp=drive_link" target="_blank">
                 EO 27 s2020 Revised Implementing Guidelines on International and National Paper Presentation Financial Assistance
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1BjLJKqc_exe0bq8bAPKc8ySZOghwvsVG/view?usp=drive_link" target="_blank">
                 EO 28 s2020 Implementing Guidelines on Dissertation Financial Assistance
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1Bn3-1igXC3-YZep9A6ZCW8dtd89mtIU8/view?usp=drive_link" target="_blank">
                 EO 34 s2021 Guidelines on Institute-Funded Research Project or Program
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/12WLbN2mj8p2Dgb48_apod4-ZqZULrZhh/view?usp=drive_link" target="_blank">
                 EO 37 s2021 Guidelines for the Honorarium of Journal Reviewers
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1hM3JQwgVpPu24cAflsiQrkzV5Mvf4wQi/view?usp=drive_link" target="_blank">
                 IPMO MO 1 s2023
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1aRPnVJiKNh1Zjhk0UBIX9hU-HcAIj3OY/view?usp=drive_link" target="_blank">
                 MO 6 s2019 Guidelines for Faculty Fellowship
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/14kopfOycchpBQZBrSZWmi0z60alpfKg5/view?usp=drive_link" target="_blank">
                 MO 7 s2018 University Policy Concerning Illegal Copying and Use of Unlicensed Software
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1o2U_iNzUDtjr5GgOCVBSuZ-t5DKvHSPO/view?usp=drive_link" target="_blank">
                 MO 10 s2020 Revised Implementing Guidelines for Internally-Funded Researches
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1adgU6_Fx_zI_RtI2gTwaCqT8LerAADq8/view?usp=drive_link" target="_blank">
                 MO 11 s2020 Revised Implementing Guidelines for Externally-Funded Researches
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1j6SCch1HJNsw2qN1g4Zu5HZfBK4kjTO6/view?usp=drive_link" target="_blank">
                 MO 12 s2020 Revised Implementing Guidelines for Gawad Tuklas Outstanding Researcher Award
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1HFvpiXAwwuIR4RRcQtkzMH4vjVAAMAx9/view?usp=drive_link" target="_blank">
                 MO 13 s2020 Reveised Implementing Guidelines for Thesis and Dissertation Grant
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1fsVzt8Q0ZlyvMWdKvv_lFdksq76gFjdX/view?usp=drive_link" target="_blank">
                 MO 14 s2020 Reveised Implementing Guidelines of University Research Ethics Board Structures and Functions
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1vGdPDz485Dt_zyAapPLipQe5mxgFSbTy/view?usp=drive_link" target="_blank">
                 MO 15 s2020 Reveised Implementing Guidelines on Incentives for Publication and Citation
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1l5UTUEEy_Sf3vcE8VfsPHqn0NuAYxLn4/view?usp=drive_link" target="_blank">
                 MO 16 s2020 Revised Implementing Guidelines on International and National
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1aiMBNBEgzEdwEnI7idkV3mHRCwih4fcg/view?usp=drive_link" target="_blank">
                 MO 17 s2020 Revised Implementing Guidelines on Merit Promotion on The Basis of Research Publicaiton and Citation
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1kU9kbLSzoQcrOO6rVHkjRPlpTzmCXKyK/view?usp=drive_link" target="_blank">
                 MO 18 s2020 Revised Implementing Guidelines on the Utilization of College Branch Resaerch Fund
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1wPh0H1RDrMeKOrsEm_fhF8M2P7uor3eS/view?usp=drive_link" target="_blank">
                 MO 20 s2019 Policy on Commercialization of Resaeerch and Development Output
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1YPjFDajSAIfehGQS4rzrNm4p6laxD8sA/view?usp=drive_link" target="_blank">
                 MO 21 s2019 Revised Implementing Guidelines on Invention Disclosure Incentives
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1b-BYrGVhgZRNO3DPaHATkNbRHibETaGo/view?usp=drive_link" target="_blank">
                 MO 30 s2019 Gawad Lathala International Publication Excellence Award
               </a>
             </li>
             <li class="sip">
-              <a href="https://drive.google.com/file/d/1E_XwftejCwxywH31yaPYFDXYRIFkUDD9/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1lCWfQGxSqgvUAgrlFPmkV2x5kvokjcH7/view?usp=drive_link" target="_blank">
                 MO 32 s2013 Policy on Copuright Registration of Undergraduate and Gradueate Works
               </a>
             </li>
