@@ -638,7 +638,7 @@
               </a>
             </li>
             <li class="sip">
-              <a href="" target="_blank">
+              <a href="https://docs.google.com/document/d/1aFr4TMYl8QNUwHSf1FZnWVfAgxdJ7pjO/edit?usp=drive_link&ouid=114415632659835779612&rtpof=true&sd=true" target="_blank">
                 EO 22 s2023 Appendix D
               </a>
             </li>
