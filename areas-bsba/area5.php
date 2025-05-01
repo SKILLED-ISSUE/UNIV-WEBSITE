@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>BSIT - Area 5</title>
+    <title>BSBA - Area 5</title>
     <link rel="stylesheet" href="../assets/css/main-style.css" />
     <link rel="icon" href="../assets/PUPSJ-LOGO.png" type="image/icon type" />
 </head>
@@ -63,373 +63,66 @@
         <section class="collapsible-container">
 
           <!-- PARAMETER A -->
-        <button class="collapsible">
-                <div class="title">Parameter A</div>
-                <div class="desc">Priorities and Relevance</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1wDeNju_kU5T3pxC2QRnscSr6m5HJ6bVg/view" target="_blank">
-                                S.1. The institution's research agenda is in consonance with institutional, regional and national priorities concerned such as DOST, CHED - National Higher Education Research Agenda, DepEd, NEDA, etc.</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1m7p4yMNcJCtTqhXNmo1OMN7mGFE4XbL2/view?usp=sharing" target="_blank">
-                                S.2. The institution has an approved Research Manual.</a>
-                                
-                            </li>
+          <button class="collapsible">
+  <div class="title">Parameter A</div>
+  <div class="desc">Priorities and Relevance</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>A.1.</strong> Copy of the Institutional Research Agenda</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.2.</strong> Structure of the Research and Development Unit, including the profile of the Research Head</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.3.</strong> A copy of the research program of the program under survey</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.4.</strong> Evidence of participation of different stakeholders in the formulation of the research agenda</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.5.</strong> Abstracts of researches conducted</a></li>
+  </ul>
+</div>
 
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                             <li class="sip">
-                                <a href="https://drive.google.com/file/d/1e33rCTLIPT8wR83ak9ZPvuKaoMHtMvM6/view?usp=sharing" target="_blank">
-                                I.1. The approved research agenda is implemented.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/14kTFk9cyIWnqj75wOhIZ9GQIY12SOR6w?usp=sharing" target="_blank">
-                                I.2. The following stakeholders participate in the formulation of the research agenda as bases for identifying institutional thrusts and priorities:</a>
-                                <ul>
-                                <li class="sip">
-                                <a href="https://drive.google.com/file/d/1XWO1eOwTpRPz6bmYLJTk6HBlzz-4ZwKN/view?usp=sharing" target="_blank">
-                                I.2.1. administrators;</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/14kTFk9cyIWnqj75wOhIZ9GQIY12SOR6w?usp=sharing" target="_blank">
-                                I.2.2. faculty;</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/14kTFk9cyIWnqj75wOhIZ9GQIY12SOR6w?usp=sharing" target="_blank">
-                                I.1. The approved research agenda is implemented.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/14kTFk9cyIWnqj75wOhIZ9GQIY12SOR6w?usp=sharing" target="_blank">
-                                I.2.3. students;</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/14kTFk9cyIWnqj75wOhIZ9GQIY12SOR6w?usp=sharing" target="_blank">
-                                I.2.4. government agency representatives (DOST, CHED, NEDA, etc.); and</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/14kTFk9cyIWnqj75wOhIZ9GQIY12SOR6w?usp=sharing" target="_blank">
-                                I.2.5. other stakeholders (alumni, parents, industry representatives, etc.)</a>
-                            </li> 
-                                </ul>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/14kTFk9cyIWnqj75wOhIZ9GQIY12SOR6w?usp=sharing" target="_blank">
-                                I.3. Action researches to test theory in practice are conducted by faculty and students.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/14kTFk9cyIWnqj75wOhIZ9GQIY12SOR6w?usp=sharing" target="_blank">
-                                I.4. Team/Collaborative and interdisciplinary research are encouraged.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/14kTFk9cyIWnqj75wOhIZ9GQIY12SOR6w?usp=sharing" target="_blank">
-                                I.5. Research outputs are published in refereed national and/or indexed international journals.</a>
-                            </li> 
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1HsTPArOkA2bBxwEYWbTllQrSZ22tz9Rx?usp=sharing" target="_blank">
-                                O.1. Priority researches are identified and conducted.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1HsTPArOkA2bBxwEYWbTllQrSZ22tz9Rx?usp=sharing" target="_blank">
-                                O.2. Research results are published.</a>
-                            </li> 
-                        </ul>
-                    </li>
-                </ul>
-            </div>
+<button class="collapsible">
+  <div class="title">Parameter B</div>
+  <div class="desc">Funding and Other Resources</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>B.1.</strong> Copy of the budget allocation for research</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.2.</strong> List of linkages/networking with research funding agencies</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.3.</strong> Inventory of research facilities, equipment and amenities</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.4.</strong> Profile of the research personnel/staff</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.5.</strong> List of patents, licenses, copyrights and other research outputs, including income generated from each of them, if any</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.6.</strong> Copy of the research staff development program</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.7.</strong> List of team/collaborative researches conducted</a></li>
+  </ul>
+</div>
 
-            <!-- PARAMETER B -->
+<button class="collapsible">
+  <div class="title">Parameter C</div>
+  <div class="desc">Implementation, Monitoring, Evaluation and Utilization of Research Results/Outputs</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>C.1.</strong> Copy of the Research Manual</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>C.2.</strong> Summary of faculty researches conducted</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>C.3.</strong> List of in-service training conducted to enhance faculty research capabilities of faculty</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>C.4.</strong> Report on in-house reviews conducted</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>C.5.</strong> Evidence/s that research results have been utilized</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>C.6.</strong> Policies pertaining to Intellectual Property Rights (IPR)</a></li>
+  </ul>
+</div>
 
-            <button class="collapsible">
-                <div class="title">Parameter B</div>
-                <div class="desc">Funding and other Resources</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1NdW8L3xJK0tWyUfYINH14yAcv9PkThKo/view?usp=sharing" target="_blank">
-                                S.1. The institution has an approved and adequate budget for research.</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1md9V1QHhaZ226i3c4ww3iHuFg_SpqXQT/view?usp=sharing" target="_blank">
-                                S.2. There are provisions for the following:</a>
-                                <ul>
-                                <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/17Rc00FgYkDCAVMCeVE6l8p2EGecJu7n0?usp=sharing" target="_blank">
-                                S.2.1. facilities and equipment such as internet, statistical software, and other ICT resources;</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/17Rc00FgYkDCAVMCeVE6l8p2EGecJu7n0?usp=sharing" target="_blank">
-                                S.2.2. research staff;</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/17Rc00FgYkDCAVMCeVE6l8p2EGecJu7n0?usp=sharing" target="_blank">
-                                S.2.3. supplies and materials; and</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/17Rc00FgYkDCAVMCeVE6l8p2EGecJu7n0?usp=sharing" target="_blank">
-                                S.2.4. workplace.</a>
-                            </li>
-                                </ul>
-                            </li>
+<button class="collapsible">
+  <div class="title">Parameter D</div>
+  <div class="desc">Publication and Dissemination</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>D.1.</strong> Evidence of publication and dissemination of research results</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>D.2.</strong> List of dissemination activities conducted (forum, conference, seminars, etc.)</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>D.3.</strong> Copies of published articles</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>D.4.</strong> Linkage/s established for exchange of research publications</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>D.5.</strong> Composition of a Technical Committee to edit research manuscripts and technical reports</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>D.6.</strong> List of faculty who served as paper presentors, lecturers, external evaluator, dissertation/thesis adviser, critic, etc., including relevant information</a></li>
+  </ul>
+</div>
 
-
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1VNtMBtmpUs86hpzeOSdZEVFv4f9b_Ec9?usp=sharing" target="_blank">
-                                I.1. The institution allocates adequate funds for the conduct of faculty and student research.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1VNtMBtmpUs86hpzeOSdZEVFv4f9b_Ec9?usp=sharing" target="_blank">
-                                I.2. The institution established linkages with local/national/international agencies for funding support and assistance.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1VNtMBtmpUs86hpzeOSdZEVFv4f9b_Ec9?usp=sharing" target="_blank">
-                                I.3. The institution maintains a functional and long-range program of faculty/staff development to enhance research capability and competence.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1VNtMBtmpUs86hpzeOSdZEVFv4f9b_Ec9?usp=sharing" target="_blank">
-                                I.4. The institution encourages the conduct of externally funded researches.</a>
-                            </li> 
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                           <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1iVcIpcB4Q_8kwr2M9dIpnHiyjxkCwQYc?usp=sharing" target="_blank">
-                                O.1. The research program is adequately funded.</a>
-                            </li> 
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-
-            <!-- PARAMETER C -->
-
-            <button class="collapsible">
-                <div class="title">Parameter C</div>
-                <div class="desc">Implementation, Monitoring, Evaluation and Utilization of Research results/outputs
-                </div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1AkRxdYGwXWyTX2_o1QrZtNd7oDGOB7K0/view?usp=sharing" target="_blank">
-                                S.1. There is a system of implementation, monitoring, evaluation, and utilization of research outputs.</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1P859KXLFUc1TajwxJmArVI7j9H_jQndY/view?usp=sharing" target="_blank">
-                                S.2. There is a policy of Intellectual Property Rights (IPR).</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1o3AN1vWBTsq6snHtgJh89LeNyEzJ2GIn?usp=sharing" target="_blank">
-                                I.1. The institution/College/Academic Unit has a Research Unit managed by competent staff.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1o3AN1vWBTsq6snHtgJh89LeNyEzJ2GIn?usp=sharing" target="_blank">
-                                I.2. The Research Manual provides guidelines and procedures for the administration and conduct of research.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1o3AN1vWBTsq6snHtgJh89LeNyEzJ2GIn?usp=sharing" target="_blank">
-                                I.3. The faculty conducts applied and operational researched in their fields of specialization in accordance with the thrusts and priorities of the program/institution.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1o3AN1vWBTsq6snHtgJh89LeNyEzJ2GIn?usp=sharing" target="_blank">
-                                I.4. The institution provides incentives to faculty researches such as honoraria, service credits, deloading, etc.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1o3AN1vWBTsq6snHtgJh89LeNyEzJ2GIn?usp=sharing" target="_blank">
-                                I.5. The College/Academic Unit requires its students to conduct research as a course requirement, whenever applicable.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1o3AN1vWBTsq6snHtgJh89LeNyEzJ2GIn?usp=sharing" target="_blank">
-                                I.6. The institution provides opportunities for advanced studies and/or training to enhance in local and regional in-house reviews.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1o3AN1vWBTsq6snHtgJh89LeNyEzJ2GIn?usp=sharing" target="_blank">
-                                I.7. Completed and on-going research studies are periodically monitored and evaluated in local and regional in-house reviews.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1o3AN1vWBTsq6snHtgJh89LeNyEzJ2GIn?usp=sharing" target="_blank">
-                                I.8. Research outputs are utilized as inputs in:</a>
-                                <ul>
-                                <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1o3AN1vWBTsq6snHtgJh89LeNyEzJ2GIn?usp=sharing" target="_blank">
-                                I.8.1. institutional development;</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1o3AN1vWBTsq6snHtgJh89LeNyEzJ2GIn?usp=sharing" target="_blank">
-                                I.8.2. the improvement of instructional processes;</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1o3AN1vWBTsq6snHtgJh89LeNyEzJ2GIn?usp=sharing" target="_blank">
-                                I.8.3. the transfer of generated technology/knowledge to the community.</a>
-                            </li> 
-                                </ul>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1o3AN1vWBTsq6snHtgJh89LeNyEzJ2GIn?usp=sharing" target="_blank">
-                                I.9. Packaged technologies and new information are disseminated to the target clientele through appropriate delivery systems.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1o3AN1vWBTsq6snHtgJh89LeNyEzJ2GIn?usp=sharing" target="_blank">
-                                I.10. The institution ensures that:</a>
-                                <ul>
-                                <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1o3AN1vWBTsq6snHtgJh89LeNyEzJ2GIn?usp=sharing" target="_blank">
-                                I.10.1. research outputs are protected by IPR laws; and</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1o3AN1vWBTsq6snHtgJh89LeNyEzJ2GIn?usp=sharing" target="_blank">
-                                I.10.2. faculty and students observe research ethics to avoid malpractices like plagiarism, fabrication of data, etc.</a>
-                            </li> 
-                                </ul>
-                            </li> 
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1mcBeYLJzhUV_Y77-gV0JUP3CqMS14wuK?usp=sharing" target="_blank">To
-                                O.1. Implementation, monitoring, evaluation and utilization of research outputs are effective.</a>
-                            </li> 
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-
-            <!-- PARAMETER D -->
-
-            <button class="collapsible">
-                <div class="title">Parameter D</div>
-                <div class="desc">Publication and Dissemeination</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1f_ThCU8k1xEiEZsoYyILtUmzgqj30bZL/view?usp=sharing" target="_blank">
-                                S.1. The institution has an approved and copyrighted Research Journal.</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1xB2ooG31hf4bCSn-y8gf-ewtHDTk1JGw/view?usp=sharing" target="_blank">
-                                S.2. The institution has incentives for:</a>
-                                <ul>
-                                <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1FOCrCxoV9NhWaUUuBQrDJ1NV3UNAbqPv?usp=sharing" target="_blank">
-                                S.2.1. paper presentations;</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1FOCrCxoV9NhWaUUuBQrDJ1NV3UNAbqPv?usp=sharing" target="_blank">
-                                S.2.2. journal publication;</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1FOCrCxoV9NhWaUUuBQrDJ1NV3UNAbqPv?usp=sharing" target="_blank">
-                                S.2.3. outstanding research related performance; and</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1FOCrCxoV9NhWaUUuBQrDJ1NV3UNAbqPv?usp=sharing" target="_blank">
-                                S.2.4. patented outputs.</a>
-                            </li>
-
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                             <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/18F1hZoENMsdDdW2rUDb32xPRtSbTp9Fw?usp=sharing" target="_blank">
-                                I.1. The institution provides opportunities for the dissemination of research results in forum, conferences, seminars, and other related means.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/18F1hZoENMsdDdW2rUDb32xPRtSbTp9Fw?usp=sharing" target="_blank">
-                                I.2. The institution regularly publishes a research journal.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/18F1hZoENMsdDdW2rUDb32xPRtSbTp9Fw?usp=sharing" target="_blank">
-                                I.3. Library exchange of research publications with other HEIs and agencies is maintained.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/18F1hZoENMsdDdW2rUDb32xPRtSbTp9Fw?usp=sharing" target="_blank">
-                                I.4. Research manuscripts/technical reports are well-written, and edited following the institutional format.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/18F1hZoENMsdDdW2rUDb32xPRtSbTp9Fw?usp=sharing" target="_blank">
-                                I.5. The institution supports the researches in all of the following activities:</a>
-                                <ul>
-                                <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/18F1hZoENMsdDdW2rUDb32xPRtSbTp9Fw?usp=sharing" target="_blank">
-                                I.5.1. instructional materials development;</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/18F1hZoENMsdDdW2rUDb32xPRtSbTp9Fw?usp=sharing" target="_blank">
-                                I.5.2. paper presentations, journal publications, classroom lectures, and other similar activities.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/18F1hZoENMsdDdW2rUDb32xPRtSbTp9Fw?usp=sharing" target="_blank">
-                                I.5.3. editorship/writing in academic, scientific and professional journals;</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/18F1hZoENMsdDdW2rUDb32xPRtSbTp9Fw?usp=sharing" target="_blank">
-                                I.5.4. thesis/dissertation advising; and</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/18F1hZoENMsdDdW2rUDb32xPRtSbTp9Fw?usp=sharing" target="_blank">
-                                I.5.5. patenting of research outputs.</a>
-                            </li> 
-                                </ul>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/18F1hZoENMsdDdW2rUDb32xPRtSbTp9Fw?usp=sharing" target="_blank">
-                                I.6. Research outputs are disseminated to the target clientele.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/18F1hZoENMsdDdW2rUDb32xPRtSbTp9Fw?usp=sharing" target="_blank">
-                                I.7. Research results are disseminated to target clientele.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/18F1hZoENMsdDdW2rUDb32xPRtSbTp9Fw?usp=sharing" target="_blank">
-                                I.8. The College/Academic Unit generates income from patents, licenses, copyrights, and other research outputs.</a>
-                            </li> 
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1w3AMCDLrj4m9pIIgaVdJEdAc4HJ7oi4c?usp=sharing" target="_blank">
-                                O.1. Research outputs are published in refereed or internationally indexed journals.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1w3AMCDLrj4m9pIIgaVdJEdAc4HJ7oi4c?usp=sharing" target="_blank">
-                                O.2. Research outputs are utilized by the institution, community or clients.</a>
-                            </li> 
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1w3AMCDLrj4m9pIIgaVdJEdAc4HJ7oi4c?usp=sharing" target="_blank">
-                                O.3. Patented and copyrighted research outputs are commercialized.</a>
-                            </li> 
                         </ul>
                     </li>
                 </ul>

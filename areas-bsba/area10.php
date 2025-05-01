@@ -53,474 +53,105 @@
         </div>
 
         <section class="collapsible-container">
-            <button class="collapsible">
-                <div class="title">Parameter A</div>
-                <div class="desc">Organization</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="#"><strong>S.1.</strong> The institution has an organizational structure approved by the Board of Regents/Trustees (BOR/BOT).
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>S.2.</strong> Every office/unit in the organizational structure has functions approved by the BOR/BOT.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="#">
-                                    <strong>I.1.</strong> The institution is subdivided into administrative units in accordance with the organizational structure.
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.2.</strong> The functions, duties, and responsibilities of administrative staff in each unit/office are carried out.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.3.</strong> The Board of Regents/Trustees is supportive with the growth and development of the institution.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.4.</strong> The Academic and Administrative Councils exercise their powers and perform their functions.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.5.</strong> The flow of communication among and within units/departments is observed.</a>
-                            </li>
-                            
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="#">
-                                    <strong>O.1.</strong> The institution has a well-designed and functional organizational structure.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-            <button class="collapsible">
-                <div class="title">Parameter B</div>
-                <div class="desc">Academic Administration</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="#"><strong>S.1.</strong> The Dean/Academic Unit Head possesses the required education qualification, experience and other prescribed requirements needed to administer the College/Academic Unit, as follows:
-                                </a>
-                                <ul>
-                                    <li><strong>S.1.1.</strong>  registered Professional Accountant in the Philippines with current PRC Identification Card;</li>
-                                    <li><strong>S.1.2.</strong>  teaching experience of at least five (5) years in the tertiary level, and preferably, two (2) years of administrative experience; and</li>
-                                    <li><strong>S.1.3.</strong> master's degree in business, accountancy, business education, educational management, or other related area of studies.</li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="#"><strong>S.2.</strong> The Dean/Department Chair is a full-time administrator.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="#">
-                                    <strong>I.1.</strong> The Dean is assisted by Department Chair/s or their equivalent with appropriate/relevant educational qualification and experience.
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.2.</strong> The Dean implements a supervisory program.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.3.</strong> The Dean participates in the recruitment and promotion of faculty and staff.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.4.</strong> The Dean, the faculty and the administration work together for the improvement of the College/Academic Unit particularly in:</a>
-                                <ul>
-                                    <li><strong>I.4.1.</strong> setting standards and targets;</li>
-                                    <li><strong>I.4.2.</strong> planning of programs and other related activities;</li>
-                                    <li><strong>I.4.3.</strong> implementing, monitoring and evaluation of plans, programs and other related activities;</li>
-                                    <li><strong>I.4.4.</strong> establishing linkages, partnerships and networking activities;</li>
-                                    <li><strong>I.4.5.</strong> providing opportunities for professional growth and development for the faculty and staff;</li>
-                                    <li><strong>I.4.6.</strong> preparing policies and guidelines on the internal administration and operation of the College/Academic Unit/s;</li>
-                                    <li><strong>I.4.7.</strong> preparing guidelines on the proper use and maintenance of facilities, equipment, supplies and materials, etc.</li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.4.</strong> Definite criteria and procedures in the selection and promotion of the most qualified faculty and staff are observed.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.5.</strong> The Dean, faculty, staff and students pursue collaborative activities in generating resources and income and in implementing cost-effective measures.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.6.</strong> The Dean implements policies and procedures on internal administration and operations of the College/Academic Unit.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="#">
-                                    <strong>O.1.</strong> The College/Academic Unit is efficiently and effectively managed.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-            <button class="collapsible">
-                <div class="title">Parameter C</div>
-                <div class="desc">Student Administration</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <strong>S.1.</strong> The institution has an approved and printed Student Handbook/Manual containing policies and guidelines on the following aspects of student life:
-                                <ul>
-                                <li>
-                                <a href="#"><strong>S.1.1</strong> admission and retention policies;</a>
-                                 </li>
-                                 <li>
-                                <a href="#"><strong>S.1.2</strong> registration requirements;</a>
-                                </li>
-                                <li>
-                                <a href="#"><strong>S.1.3</strong> school fees;</a>
-                                </li>
-                                <li>
-                                <a href="#"><strong>S.1.4</strong> academic load;</a>
-                                </li>
-                                <li>
-                                <a href="#"><strong>S.1.5</strong> transfers;</a>
-                                </li>
-                                <li>
-                                <a href="#"><strong>S.1.6</strong> residence, course work, scholastic and graduation requirements;</a>
-                                </li>
-                                <li>
-                                <a href="#"><strong>S.1.7</strong> examination and grading system;</a>
-                                </li>
-                                <li>
-                                <a href="#"><strong>S.1.8</strong> scholarships/grants/assistantships;</a>
-                                </li>
-                                <li>
-                                <a href="#"><strong>S.1.9</strong> shifting and adding/dropping of course/s/subject/s;</a>
-                                </li>
-                                <li>
-                                <a href="#"><strong>S.1.10</strong> code of conduct and discipline;</a>
-                                </li>
-                                <li>
-                                <a href="#"><strong>S.1.11</strong> others.</a>
-                                </li>
-                                
-                                
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="#">
-                                    <strong>I.1.</strong> The administrators/faculty attend in-service seminars and training on awareness and acceptability of the:
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.2.</strong> Concerned officials, faculty and staff act promptly on requests and problems of the students.</a>
-                             </li>
-                             <li>
-                                <a href="#"><strong>I.3.</strong> The administration, faculty, staff and students work harmoniously and maintain good relationship.</a>
-                             </li>
+        <button class="collapsible">
+  <div class="title">Parameter A</div>
+  <div class="desc">Organization</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>A.1.</strong> Organizational Chart of the Institution displayed at the Administration Office</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.2.</strong> Copy of the Board Resolution approving the organizational structure and other relevant resolutions</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.3.</strong> Functional Chart</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.4.</strong> Composition of the Administrative Council including its powers and functions</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.5.</strong> Composition of Academic Council including its powers and functions</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.6.</strong> College/University Code</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.7.</strong> System of communication flow</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.8.</strong> Administrative/Operations Manual</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.9.</strong> Qualification Standards for Administrative Personnel</a></li>
+  </ul>
+</div>
 
-                                
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="#">
-                                    <strong>O.1.</strong> The institution has an effective and functional student administration.
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>O.2.</strong> Policy implementation is efficient.</a>
-                             </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-            <button class="collapsible">
-                <div class="title">Parameter D</div>
-                <div class="desc">Financial Management</div>
-            </button>
-            <div class="content">
-            <ul>
-    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-        <ul>
-            <li class="sip">
-                <a href="#"><strong>S.1.</strong> The institution has an approved Financial Development Plan (FDP).</a>
-            </li>
-            <li class="sip">
-                <a href="#"><strong>S.2.</strong> The approved budget is in consonance with the FDP.</a>
-            </li>
-            <li class="sip">
-                <strong>S.3.</strong> The institution has specific budgetary allotment for the following:
-                <ul>
-                    <li><a href="#"><strong>S.3.1.</strong> personnel services;</a></li>
-                    <li><a href="#"><strong>S.3.2.</strong> Maintenance and Other Operating Expenses (MOOE);</a></li>
-                    <li><a href="#"><strong>S.3.3.</strong> capital outlay; and</a></li>
-                    <li><a href="#"><strong>S.3.4.</strong> special projects.</a></li>
-                </ul>
-            </li>
-        </ul>
-    </li>
-    <li class="list-header"><strong>Implementation</strong>
-        <ul>
-            <li class="imp">
-                <a href="#"><strong>I.1.</strong> The institution maintains a Financial Management Office managed by qualified and competent staff.</a>
-            </li>
-            <li class="imp">
-                <a href="#"><strong>I.2.</strong> The financial management staff are responsible for the efficient management of financial resources/funds of the institution.</a>
-            </li>
-            <li class="imp">
-                <a href="#"><strong>I.3.</strong> The administrative officials, faculty, staff and student representatives participate in the budget preparation and in the procurement program of the institution.</a>
-            </li>
-            <li class="imp">
-                <a href="#"><strong>I.4.</strong> The budget of the institution is fairly and objectively allocated.</a>
-            </li>
-            <li class="imp">
-                <a href="#"><strong>I.5.</strong> The institution allocates funds for the following services and activities:</a>
-                <ul>
-                    <li><strong>I.5.1.</strong> cultural development;</li>
-                    <li><strong>I.5.2.</strong> athletic and sports development;</li>
-                    <li><strong>I.5.3.</strong> medical and dental services;</li>
-                    <li><strong>I.5.4.</strong> library;</li>
-                    <li><strong>I.5.5.</strong> student body organization;</li>
-                    <li><strong>I.5.6.</strong> guidance and counseling;</li>
-                    <li><strong>I.5.7.</strong> improvement of laboratories/shops;</li>
-                    <li><strong>I.5.8.</strong> repair and maintenance of facilities and equipment;</li>
-                    <li><strong>I.5.9.</strong> purchase of new equipment, supplies and materials</li>
-                    <li><strong>I.5.10.</strong> replacement of old and unserviceable equipment;</li>
-                    <li><strong>I.5.11.</strong> construction of new facilities;</li>
-                    <li><strong>I.5.12.</strong> improvement/expansion of physical plant;</li>
-                    <li><strong>I.5.13.</strong> extension and community services;</li>
-                    <li><strong>I.5.14.</strong> disaster and risk reduction; and</li>
-                    <li><strong>I.5.15.</strong> auxiliary services.</></li>
-                </ul>
-            </li>
-            <li class="imp">
-                <a href="#"><strong>I.6.</strong> The budget for specific expenditures indicated in item I.5. is allotted in consonance with existing policies and guidelines.</a>
-            </li>
-        </ul>
-    </li>
-</ul>
+<button class="collapsible">
+  <div class="title">Parameter B</div>
+  <div class="desc">Academic Administration</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>B.1.1.</strong> Educational profile and functions of the Dean/Director</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.1.2.</strong> Educational profile and functions of the Department Chair or his/her equivalent</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.2.</strong> Evidence of participatory administration in the College/Institute</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.3.</strong> Dean’s Supervisory Program</a></li>
+  </ul>
+</div>
 
-            </div>
-            <button class="collapsible">
-                <div class="title">Parameter E</div>
-                <div class="desc">Supply Management</div>
-            </button>
-            <div class="content">
-            <ul>
-    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-        <ul>
-            <li class="sip">
-                <a href="#"><strong>S.1.</strong> The institution has an approved procurement management system in consonance with the Revised IRR of RA 9184 (Government Procurement Reform Act).</a>
-            </li>
-            <li class="sip">
-                <a href="#"><strong>S.2.</strong> The institution has a system of proper disposal on non-serviceable and condemned equipment, supplies and materials.</a>
-            </li>
-            <li class="sip">
-                <a href="#"><strong>S.3.</strong> The office has a storeroom for securing equipment, supplies and materials purchased.</a>
-            </li>
-        </ul>
-    </li>
-    <li class="list-header"><strong>Implementation</strong>
-        <ul>
-            <li class="imp">
-                <a href="#"><strong>I.1.</strong> The institution maintains a Supply Management Office (SMO) managed by qualified staff with specific functions and responsibilities.</a>
-            </li>
-            <li class="imp">
-                <a href="#"><strong>I.2.</strong> The Bids and Awards Committee (BAC) is responsible for the procurement and deliveries of needed equipment, supplies and materials in accordance with the approved Annual Procurement Plan (APP) and Project Procurement Management Plan (PPMP).</a>
-            </li>
-            <li class="imp">
-                <a href="#"><strong>I.3.</strong> The BAC performs its tasks and responsibilities in accordance with recent procurement policies and official issuances.</a>
-            </li>
-            <li class="imp">
-                <a href="#"><strong>I.4.</strong> The SMO prepares, evaluates and submits the annual inventory of serviceable and non-serviceable facilities and equipment.</a>
-            </li>
-            <li class="imp">
-                <a href="#"><strong>I.5.</strong> All approved requests for procurement are published in the Philippine Government Electronic Procurement System (Phil-GEPS).</a>
-            </li>
-        </ul>
-    </li>
-    <li class="list-header"><strong>Outcome/s</strong>
-        <ul>
-            <li class="out">
-                <a href="#"><strong>O.1.</strong> The institution has an efficient and effective Supply Management System.</a>
-            </li>
-            <li class="out">
-                <a href="#"><strong>O.2.</strong> All procurement transactions are transparent.</a>
-            </li>
-        </ul>
-    </li>
-</ul>
+<button class="collapsible">
+  <div class="title">Parameter C</div>
+  <div class="desc">Student Administration</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>C.1.</strong> Policies and guidelines on different aspects of student life</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>C.2.</strong> Evidence of students' participation in planning and implementation of student activities</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>C.3.</strong> Evidence of good working relationship among the administration, faculty, staff and students</a></li>
+  </ul>
+</div>
 
-            </div>
-            <button class="collapsible">
-                <div class="title">Parameter F</div>
-                <div class="desc">Records Management</div>
-            </button>
-            <div class="content">
-            <ul>
-    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-        <ul>
-            <li class="sip">
-                <a href="#"><strong>S.1.</strong> The institution has a system of records keeping.</a>
-            </li>
-            <li class="sip">
-                <a href="#"><strong>S.2.</strong> The institution has policies and procedures to ensure the security and confidentiality of records.</a>
-            </li>
-            <li class="sip">
-                <a href="#"><strong>S.3.</strong> Policies and procedures on prompt release of records are in place.</a>
-            </li>
-        </ul>
-    </li>
-    <li class="list-header"><strong>Implementation</strong>
-        <ul>
-            <li class="imp">
-                <a href="#"><strong>I.1.</strong> The institution maintains a Records Management Office (RMO) managed by a qualified Records Officer.</a>
-            </li>
-            <li class="imp">
-                <a href="#"><strong>I.2.</strong> A records system is installed in offices where it allows access to information needed by concerned parties.</a>
-            </li>
-            <li class="imp">
-                <a href="#"><strong>I.3.</strong> The Human Resource Management Office (HRMO) maintains accurate, up-to-date and systematic records of faculty and staff.</a>
-            </li>
-            <li class="imp">
-                <strong>I.4.</strong> The following updated records are made available to concerned parties:
-                <ul>
-                    <li><a href="#"><strong>I.4.1.</strong> minutes of the Board of Regents/Trustees meetings;</a></li>
-                    <li><a href="#"><strong>I.4.2.</strong> minutes of the faculty meetings, e.g. minutes of the Academic Council meetings;</a></li>
-                    <li><a href="#"><strong>I.4.3.</strong> faculty/non-teaching personnel individual files;</a></li>
-                    <li><a href="#"><strong>I.4.4.</strong> faculty/non-teaching personnel performance evaluation results;</a></li>
-                    <li><a href="#"><strong>I.4.5.</strong> other records such as:</a></li>
-                    <ul>
-                    <li><strong>I.4.5.1.</strong> student directory;</li>
-                    <li><strong>I.4.5.2.</strong> alumni directory;</li>
-                    <li><strong>I.4.5.3.</strong> permanent records of students;</li>
-                    <li><strong>I.4.5.4.</strong> reports of Director/Dean;</li>
-                    <li><strong>I.4.5.5.</strong> annual reports;</li>
-                    <li><strong>I.4.5.6.</strong> accomplishment/progress reports;</li>
-                    <li><strong>I.4.5.7.</strong> scholarship records;</li>
-                    <li><strong>I.4.5.8.</strong> statistical data;</li>
-                    <li><strong>I.4.5.9.</strong> financial records of students;</li>
-                    <li><strong>I.4.5.10.</strong> inventory of property;</li>
-                    <li><strong>I.4.5.11.</strong> proceedings of administrative investigation (if any);</li>
-                    <li><strong>I.4.5.12.</strong> others</li>
-                    </ul>
-                </ul>
-            </li>
-        </ul>
-    </li>
-    <li class="list-header"><strong>Outcome/s</strong>
-        <ul>
-            <li class="out">
-                <a href="#"><strong>O.1.</strong> The institution has a commendable Records Management System.</a>
-            </li>
-        </ul>
-    </li>
-</ul>
+<button class="collapsible">
+  <div class="title">Parameter D</div>
+  <div class="desc">Financial Management</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>D.1.</strong> Qualification of the Head of the FMO, including his/her functions</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>D.2.</strong> Guidelines in budget preparation</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>D.3.</strong> Evidence of participation of the academic unit in budget allocation</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>D.4.</strong> Statement of budget priorities</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>D.5.</strong> Plantilla of Administrative Personnel</a></li>
+  </ul>
+</div>
 
-            </div>
-            <button class="collapsible">
-                <div class="title">Parameter G</div>
-                <div class="desc">institutional Planning and Development</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="#"><strong>S.1.</strong> The VMGO is available on bulletin boards, in catalogs/manuals, and in other forms of communication media
-                                </a>
-                            </li>
-                            <li><a href="#"><strong>S.2.</strong> There is a system of monitoring the implementation of the SDP.</a></li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="#">
-                                    <strong>I.1.</strong> The institution's Planning Unit plans, monitors and evaluates planned activities/targets.
-                                </a>
-                            </li>
-                            <li><a href="#"><strong>I.2.</strong> The planning process is a cooperative and participative endeavor of the administration, the faculty, staff and the students.</a></li>
-                            <li><a href="#"><strong>I.3.</strong> The SDP is implemented, monitored, evaluated, reviewed and updated regularly.</a></li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="#">
-                                    <strong>O.1.</strong> The SDP is congruent with the VMGO as well as with the local, regional and national development goals and agenda.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-            <button class="collapsible">
-                <div class="title">Parameter H</div>
-                <div class="desc">Performance of Administrative Personnel</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="#"><strong>S.1.</strong> The institution has an approved performance evaluation system for administrative personnel which includes the following items:
-                                </a>
-                                <ul>
-                                <li><strong>S.1.1</strong> competence;</li>
-                                <li><strong>S.1.1</strong> quality of work;</li>
-                                <li><strong>S.1.1</strong> work ethic (punctuality, wise use of time, etc.);</li>
-                                <li><strong>S.1.1</strong> creative ability and innovativeness;</li>
-                                <li><strong>S.1.1</strong> ability to handle internal and external pressures;</li>
-                                <li><strong>S.1.1</strong> interpersonal relations.</li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="#">
-                                    <strong>I.1.</strong> The institution regularly monitors and evaluates the performance of the administrative personnel.
-                                </a>
-                            </li>
-                            <li><a href="#"><strong>I.2.</strong> The results of performance evaluation of the administrative personnel are utilized:</a></li>
-                            <ul>
-                            <li><strong>I.2.1</strong> to improve performance and delivery of service;</li>
-                            <li><strong>I.2.2</strong> for promotion..</li>
-                            </ul>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="#">
-                                    <strong>O.1.</strong> The administrative personnel/staff have commendable performance.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
+<button class="collapsible">
+  <div class="title">Parameter E</div>
+  <div class="desc">Supply Management</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>E.1.</strong> Composition of the Supply Management Office, including their qualifications, functions and responsibilities</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>E.2.</strong> Description of the system of supply management</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>E.3.</strong> Composition and functions of the Bids and Awards Committee</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>E.4.</strong> Evidence of compliance to RA 9184 (Procurement of equipment, supplies and materials)</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>E.5.</strong> File copies of annual inventories of serviceable and non-serviceable equipment</a></li>
+  </ul>
+</div>
+
+<button class="collapsible">
+  <div class="title">Parameter F</div>
+  <div class="desc">Records Management</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>F.1.</strong> Composition of the Records Management Office, their qualifications and functions</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>F.2.</strong> Description of the records management in the institution</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>F.3.</strong> Description of the system of maintaining the confidentiality and security of official records</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>F.4.</strong> Updated records/files identified under Administration</a></li>
+  </ul>
+</div>
+
+<button class="collapsible">
+  <div class="title">Parameter G</div>
+  <div class="desc">Institutional Planning and Development</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>G.1.</strong> Composition of the Planning Unit, including their functions</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>G.2.</strong> Copy of the Development Plan, long term and short term</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>G.3.</strong> Evidence of participatory financial management</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>G.4.</strong> Description of inter-office sharing of resources (facilities and equipment)</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>G.5.</strong> Copy of the Personnel Performance Evaluation instrument</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>G.6.</strong> Evidence on the use of the Personnel Evaluation results to improve performance and delivery of services</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>G.7.</strong> Annual Reports</a></li>
+  </ul>
+</div>
 
             
         </section>

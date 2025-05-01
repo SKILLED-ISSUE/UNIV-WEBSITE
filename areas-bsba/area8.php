@@ -61,408 +61,144 @@
             <!-- PARAMETER A -->
 
             <button class="collapsible">
-                <div class="title">Parameter A</div>
-                <div class="desc">Campus</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1k98ny4-ngavxD0e4UQhgeMi4woyRcQ6p/view?usp=drive_link"
-                                    target="_blank">To access the evidences for S.1 to S.6, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="https://drive.google.com/file/d/1MXnOg4xsClZYkh4Uwi0kF82mp5MHAQ_J/view?usp=drive_link"
-                                    target="_blank">To access the evidences for I.1 to I.6, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="https://drive.google.com/file/d/1ff8smsZtlyQjwFUd_7D8BEYBuERg7Q7b/view?usp=drive_link"
-                                    target="_blank">To access the evidences for O.1 to O.4, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
+  <div class="title">Parameter A</div>
+  <div class="desc">Site</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>A.1.</strong> Site Development Plan/Physical Plant Map displayed prominently in the campus</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.2.</strong> Evidence of land ownership</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.3.</strong> Vicinity Map</a></li>
+  </ul>
+</div>
 
-            <!-- PARAMETER B -->
+<button class="collapsible">
+  <div class="title">Parameter B</div>
+  <div class="desc">Campus</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>B.1.</strong> A copy of the Campus Development Plan</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.2.1.</strong> Mechanism for traffic safety in and out of the campus</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.2.2.</strong> Mechanism for waste management</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.2.3.</strong> Mechanism for maintenance, repair and upkeep of property</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.2.4.</strong> Mechanism for cleanliness and orderliness in the campus</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.2.5.</strong> Mechanism for security of the academic community inside the campus</a></li>
+  </ul>
+</div>
 
-            <button class="collapsible">
-                <div class="title">Parameter B</div>
-                <div class="desc">Buildings</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1WWfKKk2c0lD6feaDzam5t_9dpYJ3jbr7/view?usp=drive_link"
-                                    target="_blank">To access the evidences for S.1 to S.14, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="https://drive.google.com/file/d/14ee8iAIwWxfgd5IyAIafvwh1oBgTatrA/view?usp=drive_link"
-                                    target="_blank">To access the evidences for I.1 to I.19, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="https://drive.google.com/file/d/16KKkJJpATaG9fb6yfZS3lTO1T7E-wuh7/view?usp=drive_link"
-                                    target="_blank">To access the evidences for O.1, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
+<button class="collapsible">
+  <div class="title">Parameter C</div>
+  <div class="desc">Buildings</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>C.1.</strong> Approved building plan, showing the location of the different buildings in the campus</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>C.2.</strong> Evidence that electrical lines are safely installed and periodically checked</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>C.3.</strong> Schedule of water potability testing and pest control inspection</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>C.4.</strong> PDF of the janitorial staff, including work schedule</a></li>
+  </ul>
+</div>
 
-            <!-- PARAMETER C -->
+<button class="collapsible">
+  <div class="title">Parameter D</div>
+  <div class="desc">Classrooms (For ocular inspection)</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>D.1.</strong> Number of classrooms utilized by the program under survey</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>D.2.</strong> Sample of Photographs of material resources inside the classrooms</a></li>
+  </ul>
+</div>
 
-            <button class="collapsible">
-                <div class="title">Parameter C</div>
-                <div class="desc">Classrooms</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1e76grIpeNdAHYKfWlx6joscElmvMHHZN/view?usp=drive_link"
-                                    target="_blank">To access the evidences for S.1 to S.4, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="https://drive.google.com/file/d/1tcATkvmcdfvgwlkGgF4C3Whnr7Av_gEQ/view?usp=drive_link"
-                                    target="_blank">To access the evidences for I.1 to I.3, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="https://drive.google.com/file/d/1Dxxi8ITFrmxNcfxL8iMX5GNDGdQRTfG4/view?usp=drive_link"
-                                    target="_blank">To access the evidences for O.1, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
+<button class="collapsible">
+  <div class="title">Parameter E</div>
+  <div class="desc">Offices, Function Rooms and Staff Rooms (For ocular inspection)</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>E.1.</strong> Photographs of offices and function rooms</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>E.2.</strong> Inventory of equipment, amenities and supplies in function rooms and offices</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>E.3.</strong> Availability of toilets and storeroom, where needed</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>E.4.</strong> List and description of function rooms (administrative office, faculty room, faculty lounge, music room, conference hall, multimedia room, etc.)</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>E.5.</strong> File copies of approved requests for the use of the function rooms</a></li>
+  </ul>
+</div>
 
-            <!-- PARAMETER D -->
+<button class="collapsible">
+  <div class="title">Parameter F</div>
+  <div class="desc">Assembly and Athletic Facilities (For ocular inspection)</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>F.1.</strong> Lay-out of the Sports Center</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>F.2.</strong> Inventory of sports facilities</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>F.3.</strong> List of Assembly Halls</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>F.4.</strong> Copy of rules and regulations in the use of assembly halls and sports/athletic facilities</a></li>
+  </ul>
+</div>
 
-            <button class="collapsible">
-                <div class="title">Parameter D</div>
-                <div class="desc">Offices and Staff Rooms</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1myd1KthCFlt6WoTEzfPt4eRM2gT9EWcW/view?usp=drive_link"
-                                    target="_blank">To access the evidences for S.1 to S.8, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="https://drive.google.com/file/d/1gHSA2h4ffhqlAq2553ffZ6hhY9EqiM0E/view?usp=drive_link"
-                                    target="_blank">To access the evidences for I.1 to I.2, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="https://drive.google.com/file/d/1nTQrAULjBb7rvUygMQSKLBiSSh1HvdWD/view?usp=drive_link"
-                                    target="_blank">To access the evidences for O.1, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
+<button class="collapsible">
+  <div class="title">Parameter G</div>
+  <div class="desc">Medical and Dental Clinic</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>G.1.</strong> Floor plan of the Medical and Dental Clinic</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>G.2.</strong> Qualification of the medical and dental staff</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>G.3.</strong> Inventory of equipment, supplies and other material resources</a></li>
+  </ul>
+</div>
 
-            <!-- PARAMETER E -->
+<button class="collapsible">
+  <div class="title">Parameter H</div>
+  <div class="desc">Student Center (For ocular inspection)</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>H.1.</strong> Floor Plan of the Student Center showing the location of different offices</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>H.2.</strong> Inventory of equipment, furniture and amenities at the Student Center</a></li>
+  </ul>
+</div>
 
-            <button class="collapsible">
-                <div class="title">Parameter E</div>
-                <div class="desc">Assembly and Athletic Facilities
-                </div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1b8Rwn7ZOl7TeqDDxF9YioqYqeOYfFvjy/view?usp=drive_link"
-                                    target="_blank">To access the evidences for S.1 to S.5, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="https://drive.google.com/file/d/1DvowR5gFH2kNNttXnkdyy3MrcyfVpWpG/view?usp=drive_link"
-                                    target="_blank">To access the evidences for I.1 to I.4, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="https://drive.google.com/file/d/1SNVdaa2unspbHanNA3gCCz40xwBZpnw4/view?usp=drive_link"
-                                    target="_blank">To access the evidences for O.1, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
+<button class="collapsible">
+  <div class="title">Parameter I</div>
+  <div class="desc">Food Services/Canteen (For ocular inspection)</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>I.1.</strong> Copy of the Permit to Operate conspicuously displayed</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>I.2.</strong> Display board where food/menu for the day, including prices are posted</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>I.3.</strong> Health Certificates of Canteen Staff and food handlers</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>I.4.</strong> Inventory of equipment and furniture</a></li>
+  </ul>
+</div>
 
-            <!-- PARAMETER F -->
+<button class="collapsible">
+  <div class="title">Parameter J</div>
+  <div class="desc">Accreditation Center (For ocular inspection)</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>J.1.</strong> Inventory of equipment, furniture and amenities</a></li>
+  </ul>
+</div>
 
-            <button class="collapsible">
-                <div class="title">Parameter F</div>
-                <div class="desc">Medical and Dental Clinic</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1kvP7d5kEkbJuGlN0WE6wUIRFEsla47ER/view?usp=drive_link"
-                                    target="_blank">To access the evidences for S.1 to S.10, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="https://drive.google.com/file/d/110BUpl5xkKOa-Eq2uLxZt8M5HRKlMvL7/view?usp=drive_link"
-                                    target="_blank">To access the evidences for I.1 to I.3, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="https://drive.google.com/file/d/1nzHvrUFycyUPc3kTeIcTo1tKXtXAgbT-/view?usp=drive_link"
-                                    target="_blank">To access the evidences for O.1, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-
-
-            <!-- PARAMETER G -->
-
-            <button class="collapsible">
-                <div class="title">Parameter G</div>
-                <div class="desc">Student Center</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1M2fFesdKxCxpsfUswAEM-wp3RM2k6azd/view?usp=drive_link"
-                                    target="_blank">To access the evidences for S.1 to S.8, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="https://drive.google.com/file/d/1NbR6VI-dhqolchi7dYrk9SHGhrjo5fZO/view?usp=drive_link"
-                                    target="_blank">To access the evidences for I.1 to I.2, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="https://drive.google.com/file/d/1ftUbfJ0SyauoHKCa3p0FoW0kBnvs7NAK/view?usp=drive_link"
-                                    target="_blank">To access the evidences for O.1, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-
-            <!-- PARAMETER H -->
-
-            <button class="collapsible">
-                <div class="title">Parameter H</div>
-                <div class="desc">Food Services/Canteen/Cafeteria
-                </div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/19fNdyP2MCAsx7Sx0PXar5mhf7djWGHol/view?usp=drive_link"
-                                    target="_blank">To access the evidences for S.1 to S.3, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="https://drive.google.com/file/d/1qGhJ0utC2WREW1xwETXDfuXVgrm-KfY7/view?usp=drive_link"
-                                    target="_blank">To access the evidences for I.1 to I.5, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="https://drive.google.com/file/d/1qA5HyjBTlDG8sjEN-17t9jveg-Fy6DaV/view?usp=drive_link"
-                                    target="_blank">To access the evidences for O.1 to O.2, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-
-            <!-- PARAMETER I -->
-
-            <button class="collapsible">
-                <div class="title">Parameter I</div>
-                <div class="desc">Accreditation Center</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1xs0jZ0EYvSUoLNOROVDk33Osmupzmrgq/view?usp=drive_link"
-                                    target="_blank">To access the evidences for S.1 to S.2, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="https://drive.google.com/file/d/1FvpCrOoIvbH6KonbVvYVrTWHHo4ed5cV/view?usp=drive_link"
-                                    target="_blank">To access the evidences for I.1 to I.3, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="https://drive.google.com/file/d/1Xod8_12LHx3m6clERoeAgNmzW44xYX-2/view?usp=drive_link"
-                                    target="_blank">To access the evidences for O.1, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-
-            <!-- SUPPORTING DOCUMENTS -->
-
-            <button class="collapsible">
-                <div class="title">Others</div>
-                <div class="desc">Supporting Documents</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Supporting Documents</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1mlatV0u2U1F17QYPTOF6qeR_SYxh0ilF/view?usp=drive_link"
-                                    target="_blank">IDSA Client Survey Forms</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/10F9tjUKHESipNHf1WL4DqDZ_HPvSz840/view?usp=drive_link"
-                                    target="_blank">Electrical Inspection Certification</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1-3JrAe24EyXltCJ9akOMJbbtlH3fH_ki/view?usp=drive_link"
-                                    target="_blank">Enrollment Trend</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1ib1_etANWAv3CYGXmSqukUbTkws7MoSW/view?usp=drive_link"
-                                    target="_blank">Medical and Dental Equipment</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1-v4T9lLe2hxkyHVfSqeYi_no15O2ep5y/view?usp=drive_link"
-                                    target="_blank">Medical Profile Matrix</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1Q_2OcUv4XP8BDO0dYyhWMZmZ-iPJzzvr/view?usp=drive_link"
-                                    target="_blank">Medical Personnel</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/13CEpvpbzpz9znRp9FQvTavDrp5jihyYP/view?usp=drive_link"
-                                    target="_blank">Zoning Order</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1Wj-QVdBnq5AuvWQ8iO3VNc4iFbsTwetT/view?usp=drive_link"
-                                    target="_blank">Pest Control Request</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1r8u7aEmaObwfAGqHX3gfbi7ye4rLla_z/view?usp=drive_link"
-                                    target="_blank">Proposed Facility Guidelines</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1f2smk_EXx0Pe8XPeUEbFCdX1q0uLRFtH/view?usp=drive_link"
-                                    target="_blank">Request for Centralized Signal and Alarm</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1Fze2UKmQy2MNUYy3TV6GybJZkxQvlwJa/view?usp=drive_link"
-                                    target="_blank">Security and Services</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1uJBaU8DR0dzQfn5PR3R6D0F8pO7pFjEU/view?usp=drive_link"
-                                    target="_blank">Services for Students with Special Needs and Differently-
-                                    abled Persons</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1tJoD20NFK8yne2rtFxGygJHDzzJ4htJR/view?usp=drive_link"
-                                    target="_blank">Student Assembly Office</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1AjAShJqIulTQOhBkIPVCR7ZUfaWUKhEl/view?usp=drive_link"
-                                    target="_blank">Student Center Rules and Regulations</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1NH19RBCIfyuCVBaPXJVWDxWc9HHY18-h/view?usp=drive_link"
-                                    target="_blank">Waste Management Request</a>
-                            </li>
-                            <li class="sip">
-                                <a href="https://drive.google.com/file/d/1NH19RBCIfyuCVBaPXJVWDxWc9HHY18-h/view?usp=drive_link"
-                                    target="_blank">Waste Management Mechanisms on the Campus</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Additional Supporting Documents</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="https://drive.google.com/drive/folders/1Zi3E1DflTDS3Rh--EOACOtGiH17UQnhO?usp=sharing"
-                                    target="_blank">To access the documents, click here.</a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
+<button class="collapsible">
+  <div class="title">Parameter K</div>
+  <div class="desc">Housing (Optional)</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>K.1.</strong> Floor plan of Dormitories, showing entrance and exit points, conference hall, mess hall, Dorm Head’s office, etc.</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>K.2.</strong> Certificate of Occupancy</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>K.3.</strong> Evidence that a maintenance system exists</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>K.4.</strong> Requirements on admission of student, faculty and staff boarders</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>K.5.</strong> Copy of house rules and regulations including strategies for dissemination</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>K.6.</strong> List of dormitory staff and their PDF</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>K.7.</strong> List of occupants, including vital information about them</a></li>
+  </ul>
+</div>
 
         </section>
 

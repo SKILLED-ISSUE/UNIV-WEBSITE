@@ -66,142 +66,55 @@
         </div>
 
         <section class="collapsible-container">
-            <button class="collapsible">
-                <div class="title">Parameter A</div>
-                <div class="desc">Priorities and Relevance</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="#"><strong>S.1-S.5.</strong> Click here to access the evidences for S.1 to S.5.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="#">
-                                    <strong>I.1-I.4.</strong> Click here to access the evidences for I.1 to I.4.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="#">
-                                    <strong>O.1.</strong> Click here to access the evidences for O.1.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-            <button class="collapsible">
-                <div class="title">Parameter B</div>
-                <div class="desc">Planning, Implementation, Monitoring, and Evaluation</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="#"><strong>S.1-S.2.</strong> Click here to access the evidences for S.1 to S.2.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="#">
-                                    <strong>I.1-I.10.</strong> Click here to access the evidences for I.1 to I.10.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="#">
-                                    <strong>O.1-O.2.</strong> Click here to access the evidences for O.1 to O.2.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-            <button class="collapsible">
-                <div class="title">Parameter C</div>
-                <div class="desc">Funding and other Resources</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="#"><strong>S.1-S.2.</strong> Click here to access the evidences for S.1 to S.2.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="#">
-                                    <strong>I.1-I.3.</strong> Click here to access the evidences for I.1 to I.3.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="#">
-                                    <strong>O.1.</strong> Click here to access the evidences for O.1.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-            <button class="collapsible">
-                <div class="title">Parameter D</div>
-                <div class="desc">Community Involvement and Participation in the Institution's Activity</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="#"><strong>S.1.</strong> Click here to access the evidences for S.1.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="#">
-                                    <strong>I.1-I.2.</strong> Click here to access the evidences for I.1 to I.2.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="#">
-                                    <strong>O.1.</strong> Click here to access the evidences for O.1.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
+        <button class="collapsible">
+  <div class="title">Parameter A</div>
+  <div class="desc">Priorities and Relevance</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>A.1.</strong> Copy of the benchmark survey instrument</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.2.</strong> Evidence of complementation between the curriculum of the program under survey and its extension program</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.3.</strong> List of linkages established with extension-oriented agencies</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.4.</strong> Copies of MOA or MOU with partner or collaborating GA’s, NGO’s and institutions</a></li>
+  </ul>
+</div>
+
+<button class="collapsible">
+  <div class="title">Parameter B</div>
+  <div class="desc">Planning, Implementation, Monitoring and Evaluation</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>B.1.</strong> Evidence of extension planning sessions</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.2.</strong> Copy of the extension program, including relevant information</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.3.</strong> Organizational Structure of the Extension Unit</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.4.</strong> Profile of the Unit Head and his/her Staff</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.5.</strong> Operational Plan of the Extension Program, with focus on implementation strategies</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.6.</strong> Roster/Experts for extension projects, if necessary</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.7.</strong> Evidence of transfer of appropriate technology to the target clientele</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.8.</strong> Samples of packaged technologies/news/ information disseminated to the clientele</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.9.</strong> Copy of the Extension Manual</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.10.</strong> Copy of the monitoring and evaluation instrument/s</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.11.</strong> Sample of accomplishment and terminal reports</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.12.</strong> Copy of the budgetary allocation for the extension program</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.13.</strong> Evidences of outsourcing for fund augmentation</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.14.</strong> Evidences of outsourcing for technical assistance and service inputs from other agencies</a></li>
+  </ul>
+</div>
+
+<button class="collapsible">
+  <div class="title">Parameter C</div>
+  <div class="desc">Community Involvement and Participation in the Extension Activities</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>C.1.</strong> Evidence of community participation in the planning and implementation of extension projects/activities</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>C.2.</strong> Evidence of technology adoption, utilization and commercialization</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>C.3.</strong> Copy of a long-term sustainable extension program, e.g. community development projects, etc.</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>C.4.</strong> List of collaborating agencies, including the nature of collaboration</a></li>
+  </ul>
+</div>
+
         </section>
     </section>
     <?php include('../assets/static-html/footer.html'); ?>

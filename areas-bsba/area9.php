@@ -55,253 +55,84 @@
         </div>
 
         <section class="collapsible-container">
-            <button class="collapsible">
-                <div class="title">Parameter A</div>
-                <div class="desc">Laboratories Shop and facilities</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                        <li>
-                                <a href="#"><strong>S.1.</strong> The laboratory layout conforms with standards (RA 6541 National Building Code of the Philippines / PD 856 "Code of Sanitation of the Philippines") and to particular needs of the program.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>S.2.</strong> Rooms have lightings in accordance to the standard requirements of fluorescent bulbs relative to their size.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>S.3.</strong> The laboratories are properly lighted and well ventilated.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>S.4.</strong> Each laboratory room has at least two exit doors that open outward.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>S.5.</strong>  There is a laboratory for shop work for specific technologies.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>S.6.</strong> There is a computer laboratory with at least 15 usable computer units and a printer.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="#">
-                                    <strong>I.1.</strong> Furniture and equipment arrangement allows mobility and enables students to work comfortably without interference.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.2.</strong> Safety and precautionary measures are implemented.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.3.</strong> Usable fire extinguishers are accessible to staff and students.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.4.</strong> Laboratory Operations Manuals for the faculty and students are provided in each laboratory.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.5.</strong> Demonstrations and training on the use of fire extinguishers, first-aid kit and other emergency measures are periodically conducted.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.6.</strong> A well-equipped first-aid kit, charts for antidotes and neutralizing solutions are made available in each laboratory room.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.7.</strong> A student's access to a computer is at least 18 hours per semester for every subject.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.8.</strong> Appropriate laboratories for general education subjects are adequately equipped and well-maintained.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.9.</strong>  A well-equipped Multimedia Center is maintained.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.10.</strong>  Gas, water and electricity are utilized for class practicum activities.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.11.</strong>  A demonstration table, equipped with sink, water, electrical and gas outlets is available and utilized.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.12.</strong>  Laboratory equipment, supplies and materials are kept in separate stock rooms.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="#">
-                                    <strong>O.1.</strong> The laboratories and shops are well-equipped, functional and are conducive to learning.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-            <button class="collapsible">
-                <div class="title">Parameter B</div>
-                <div class="desc">Equipment, Supplies and Materials</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="#"><strong>S.1.</strong> The equipment, instruments and materials needed in the classroom are available.
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>S.2.</strong> Apparatuses, tools and materials conform with the standard required for the subject in accordance with the CMO of the program.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>S.3.</strong>  Varied computer software are available.</a>
-                            </li>
-                            
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="#">
-                                    <strong>I.1.</strong> Equipment are well-maintained.
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.2.</strong> Laboratory supplies and materials are wisely utilized.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.3.</strong> Licensed computer software are installed and utilized.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="#">
-                                    <strong>O.1.</strong> The laboratory equipment, supplies and materials are sufficient and wisely utilized.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-            <button class="collapsible">
-                <div class="title">Parameter C</div>
-                <div class="desc">Maintenance</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="#"><strong>S.1.</strong> A laboratory technician/assistant is available for the proper upkeep of the laboratories.
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>S.2.</strong> The institution has a Maintenance and Repair Department/Unit managed by skilled personnel who provides services on direct call.</a>
-                            <ul>
-                            <li>
-                                <a href="#"><strong>S.2.1</strong> inventory of equipment and supplies;</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>S.2.2</strong> checking on the physical conditions of equipment and supplies;</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>S.2.3</strong> maintenance of the laboratories and shops.</a>
-                            </li>
-                            </ul>
-                            </li>
-                            
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="#">
-                                    <strong>I.1.</strong> The institution keeps the laboratories neat, clean and orderly.
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.2</strong> There is regular replenishment/replacement of laboratory supplies and materials, whenever applicable.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.3</strong> The inventory of laboratory, facilities and equipment is systematically and periodically conducted.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.4</strong> The laboratory equipment and instruments are periodically calibrated.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.5</strong> All equipment are coded, listed, and inventoried.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.6</strong> Waste disposal is efficiently and effectively managed.</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>I.7</strong> The following are properly maintained by trained staff/technicians:</a>
-                                <ul>
-                                <li>I.7.1. Shops;</li>
-                                <li>I.7.2. Computer Laboratories;</li>
-                                <li>I.7.3. multi-media/educational technology center;</li>
-                                <li>I.7.4. research facility;</li>
-                                <li>I.7.5. general education laboratory;</li>
-                                <ul>
-                                <li>I.7.5.1. natural/physical sciences;</li>
-                                <li>I.7.5.2. speech laboratory;</li>
-                                <li>I.7.5.3 physical education; and;</li>
-                                </ul>
-                                <li>I.7.6. Others;</li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="#">
-                                    <strong>O.1.</strong> The laboratories and shops are functional and are properly maintained.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-            <button class="collapsible">
-                <div class="title">Parameter D</div>
-                <div class="desc">Special Provisions</div>
-            </button>
-            <div class="content">
-                <ul>
-                    <li class="list-header"><strong>Systems - Inputs and Processes</strong>
-                        <ul>
-                            <li class="sip">
-                                <a href="#"><strong>S.1.</strong> Specific program requirements (listing of materials and equipment as per CMO) are in accordance with guidelines/policies embodied in official issuances.
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>S.2</strong> There is an approved Project Procurement Management Plan (PPMP).</a>
-                            </li>
-                            <li>
-                                <a href="#"><strong>S.3</strong> There is an approved Annual Procurement Plan (APP) for laboratory equipment, supplies and materials.</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Implementation</strong>
-                        <ul>
-                            <li class="imp">
-                                <a href="#">
-                                    <strong>I.1.</strong> The institution implements the provisions as stated in the CMO.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-header"><strong>Outcome/s</strong>
-                        <ul>
-                            <li class="out">
-                                <a href="#">
-                                    <strong>O.1.</strong> The special provisions in the CMO of the program are complied with.
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
+        <button class="collapsible">
+  <div class="title">Parameter A</div>
+  <div class="desc">Laboratories/Shops/Facilities – General</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>A.1.</strong> Building plan showing the location of laboratory rooms/shops used by the program under survey</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.2.</strong> Copy of the laboratory lay-out</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.3.</strong> Inventory of available equipment, gadgets, fixtures in every laboratory</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.4.</strong> Laboratory Manuals</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.5.</strong> First-aid Kit and Antidote Charts displayed conspicuously</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.6.</strong> List of safety and precautionary measures being implemented</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.7.</strong> Evidence of training conducted on the proper use of laboratories</a></li>
+  </ul>
+</div>
+
+<button class="collapsible">
+  <div class="title">Parameter A (cont.)</div>
+  <div class="desc">Computer Laboratory, Multimedia Center</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>A.8.</strong> Inventory of usable computer units and other equipment</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.9.</strong> Guidelines in the use of computer laboratories</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.10.</strong> PDF of the designated computer technician/s</a></li>
+  </ul>
+</div>
+
+<button class="collapsible">
+  <div class="title">Parameter A (cont.)</div>
+  <div class="desc">Natural Science/Technology/PE Facilities</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>A.11.</strong> Inventory of equipment, fixtures, apparatuses, supplies and materials</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.12.</strong> Availability of a stockroom</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.13.</strong> Evidence on the availability of gas, water and electricity for practicum purposes</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>A.14.</strong> Guidelines in the use of equipment and apparatuses</a></li>
+  </ul>
+</div>
+
+<button class="collapsible">
+  <div class="title">Parameter B</div>
+  <div class="desc">Equipment and Supplies</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>B.1.</strong> Inventory of available equipment, apparatuses, supplies and materials</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.2.</strong> List of fabricated tools and apparatuses, including relevant information</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>B.3.</strong> List of fabricated equipment with patent (state patent number), if any</a></li>
+  </ul>
+</div>
+
+<button class="collapsible">
+  <div class="title">Parameter C</div>
+  <div class="desc">Maintenance</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>C.1.1.</strong> Description of maintenance of cleanliness and orderliness in the laboratories</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>C.1.2.</strong> Description of replenishment of perishable materials</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>C.1.3.</strong> Description of coding and inventory</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>C.1.4.</strong> Description of repairs and calibration</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>C.2.</strong> Composition of the Maintenance and Repair Unit</a></li>
+    <li class="sip"><a href="#" target="_blank"><strong>C.3.</strong> PDF of the maintenance personnel</a></li>
+  </ul>
+</div>
+
+<button class="collapsible">
+  <div class="title">Parameter D</div>
+  <div class="desc">Special Provisions</div>
+</button>
+<div class="content">
+  <ul>
+    <li class="sip"><a href="#" target="_blank"><strong>D.1.</strong> Evidence of compliance on the requirements and operation of laboratories, if applicable</a></li>
+  </ul>
+</div>
+
 
             
         </section>
